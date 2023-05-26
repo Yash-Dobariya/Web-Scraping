@@ -1,0 +1,1200 @@
+[
+    {
+        "company_name": "ARR MAX HOUSING CORPORATION PRIVATE LIMITED",
+        "cin_no.": "U70109CH2014PTC034903",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-01-2014",
+        "business_activity": "Real Estate",
+        "state": "Chandigarh",
+        "district": "AMRITSAR",
+        "address": "472 NEAR GURUDWARA DERA SAHIB MARKET , MANI MAJRA CHANDHIGARH Chandigarh CH IN 143001",
+        "register": "Registered on 02-01-2014",
+        "director_details": [
+            {
+                "DIN": "06496849",
+                "direct_name": "Bikramjit Singh Randhawa"
+            },
+            {
+                "DIN": "06502332",
+                "direct_name": "Harpal Singh"
+            },
+            {
+                "DIN": "06757934",
+                "direct_name": "Pankaj Aggarwal"
+            },
+            {
+                "DIN": "06499350",
+                "direct_name": "Sandeep Bansal"
+            }
+        ]
+    },
+    {
+        "company_name": "MULTI WEIGH INDIA PRIVATE LIMITED",
+        "cin_no.": "U45202CH1999PTC023194",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "836000",
+        "registration_date": "21-12-1999",
+        "business_activity": "Construction",
+        "state": "Chandigarh",
+        "district": "AMRITSAR",
+        "address": "# 290 FOCAL POINTAMRITSAR PUNJAB u t CH IN 143001",
+        "register": "Registered on 21-12-1999",
+        "director_details": []
+    },
+    {
+        "company_name": "RAWLLEY HUMANCARE PROJECTS FOR LIFE FOUNDATION",
+        "cin_no.": "U85320CH2018NPL042097",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-08-2018",
+        "business_activity": "Personal and Social Services",
+        "state": "Chandigarh",
+        "district": "AMRITSAR",
+        "address": "SHOP NO. 30, 2ND FLOOR, RAMA MARKET,NEAR GOLDEN TEMPLE,AMRITSAR, PUNJAB,Chandigarh,Chandigarh-143006",
+        "register": "Registered on 03-08-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "FIVE STAR IRRIGATION SYSTEMS PRIVATE LIMITED",
+        "cin_no.": "U01401CH2012PTC034011",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-08-2012",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "CHANDIGARH",
+        "address": "# 456 SECTOR 38-A CHANDIGARH CH IN 160036",
+        "register": "Registered on 23-08-2012",
+        "director_details": [
+            {
+                "DIN": "02360541",
+                "direct_name": "Davinder Singh"
+            },
+            {
+                "DIN": "06645571",
+                "direct_name": "Sukhmander Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "MAJESTY ESTATES LIMITED",
+        "cin_no.": "U01403CH2006PLC030608",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "23-10-2006",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "CHANDIGARH",
+        "address": "QUITE OFFICE NO.10, 2nd FLOOR SECTOR-40-B CHANDIGARH Chandigarh CH IN 160036",
+        "register": "Registered on 23-10-2006",
+        "director_details": [
+            {
+                "DIN": "02174414",
+                "direct_name": "Amrit Kaur"
+            },
+            {
+                "DIN": "00370264",
+                "direct_name": "Arvind Singla"
+            },
+            {
+                "DIN": "00370293",
+                "direct_name": "Rakesh Singla"
+            }
+        ]
+    },
+    {
+        "company_name": "VIRGIN GANGES HOTEL & DEVELOPMENT PRIVATE LIMITED",
+        "cin_no.": "U01403CH2006PTC030594",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1300000",
+        "paid_up_capital": "0",
+        "registration_date": "26-09-2006",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "CHANDIGARH",
+        "address": "SCO 142-143, SECTOR 34-A CHANDIGARH CH IN 160023",
+        "register": "Registered on 26-09-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "ENBEL COMMUNICATIONS PRIVATE LIMITED",
+        "cin_no.": "U01403CH2006PTC030610",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-10-2006",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "CHANDIGARH",
+        "address": "SCO",
+        "register": "Registered on 24-10-2006",
+        "director_details": [
+            {
+                "DIN": "01971010",
+                "direct_name": "Harvinder Singh"
+            },
+            {
+                "DIN": "01946435",
+                "direct_name": "Jaswinder Bhatia Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "SWAMI AUTO BIKES PRIVATE LIMITED",
+        "cin_no.": "U01403CH2006PTC030620",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "1610440",
+        "registration_date": "03-11-2006",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "CHANDIGARH",
+        "address": "PLOT NO. 5 INDUSTRIAL AREA, PHASE I CHANDIGARH CH IN 160002",
+        "register": "Registered on 03-11-2006",
+        "director_details": [
+            {
+                "DIN": "00921348",
+                "direct_name": "Manorma Garg"
+            },
+            {
+                "DIN": "00867167",
+                "direct_name": "Ram Kumar Garg"
+            },
+            {
+                "DIN": "02488032",
+                "direct_name": "Sanchit Garg"
+            },
+            {
+                "DIN": "01755753",
+                "direct_name": "Shubham Garg"
+            }
+        ]
+    },
+    {
+        "company_name": "ADARSH LIFESTYLE MALL PRIVATE LIMITED",
+        "cin_no.": "U01403CH2006PTC030626",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "310000",
+        "registration_date": "14-11-2006",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "CHANDIGARH",
+        "address": "Plot No",
+        "register": "Registered on 14-11-2006",
+        "director_details": [
+            {
+                "DIN": "00735503",
+                "direct_name": "Chander Dutt Verma"
+            },
+            {
+                "DIN": "00735497",
+                "direct_name": "Raj Kumar Verma"
+            }
+        ]
+    },
+    {
+        "company_name": "EVERSHINE RECREATIONS PRIVATE LIMITED",
+        "cin_no.": "U01403CH2006PTC030627",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "300000",
+        "registration_date": "15-11-2006",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "CHANDIGARH",
+        "address": "SCO 14, GROUND FLOOR SECTOR 7-C, MADHYA MARG CHANDIGARH CH IN 160019",
+        "register": "Registered on 15-11-2006",
+        "director_details": [
+            {
+                "DIN": "00115113",
+                "direct_name": "Jagdish Rai Gupta"
+            },
+            {
+                "DIN": "00115025",
+                "direct_name": "Satish Rai Gupta"
+            },
+            {
+                "DIN": "00182154",
+                "direct_name": "Tirloki Nath Singla"
+            }
+        ]
+    },
+    {
+        "company_name": "SIDDHANT MEDIA CREATIONS PRIVATE LIMITED",
+        "cin_no.": "U01403CH2006PTC030631",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "17-11-2006",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "CHANDIGARH",
+        "address": "# 5434/2 MODERN HOUSING COMPLEX MANI MAJRA CH IN 160101",
+        "register": "Registered on 17-11-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "PARSURAM GREEN FIELDS PRIVATE LIMITED",
+        "cin_no.": "U01403CH2006PTC030650",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-12-2006",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "CHANDIGARH",
+        "address": "324 SECTOR 37-A CHANDIGARH CH IN 160036",
+        "register": "Registered on 18-12-2006",
+        "director_details": [
+            {
+                "DIN": "01125813",
+                "direct_name": "Pankaj Chhabra"
+            },
+            {
+                "DIN": "00702103",
+                "direct_name": "Sanjay Chugh"
+            }
+        ]
+    },
+    {
+        "company_name": "ORBIT EXPOTRADE PRIVATE LIMITED",
+        "cin_no.": "U01403CH2007PTC030794",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-05-2007",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "CHANDIGARH",
+        "address": "SCO 101-103, IIND FLOOR SECTOR 17-D CHANDIGARH Chandigarh CH IN 160017",
+        "register": "Registered on 01-05-2007",
+        "director_details": [
+            {
+                "DIN": "00917966",
+                "direct_name": "Arun Chopra"
+            },
+            {
+                "DIN": "02617563",
+                "direct_name": "Rajesh Kumar Chopra"
+            }
+        ]
+    },
+    {
+        "company_name": "FUTURE'S AIM MARKETING PRIVATE LIMITED",
+        "cin_no.": "U52599CH2002PTC025403",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-09-2002",
+        "business_activity": "Trading",
+        "state": "Chandigarh",
+        "district": "FIROZPUR",
+        "address": "SCO 866 CHANDIGARHKALKA ROAD 2ND FLOOR NAC MANIMAJRA CHANDIGARH CH IN 152001",
+        "register": "Registered on 06-09-2002",
+        "director_details": []
+    },
+    {
+        "company_name": "EXCELFIN MICROFINANCE COUNCIL",
+        "cin_no.": "U65990CH2017NPL041396",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1900000",
+        "paid_up_capital": "500000",
+        "registration_date": "17-02-2017",
+        "business_activity": "Finance",
+        "state": "Chandigarh",
+        "district": "FIROZPUR",
+        "address": "SATNAM SINGH, 80 VIKAS VIHAR FEROZPUR CH IN 152002",
+        "register": "Registered on 17-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "RAJA HUMAN RIGHTS PROTECTION FOUNDATION",
+        "cin_no.": "U93000CH2018NPL042250",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100",
+        "paid_up_capital": "100",
+        "registration_date": "06-11-2018",
+        "business_activity": "Personal and Social Services",
+        "state": "Chandigarh",
+        "district": "JALANDHAR",
+        "address": "Company RAJA HUMAN RIGHTS PROTECTION FOUNDATION Mota Singh Nagar, 251 144001 JALANDHAR, PUNJAB-Chandigarh",
+        "register": "Registered on 06-11-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "GURU HARDEV TRADERS PRIVATE LIMITED",
+        "cin_no.": "U51909CH2000PTC022346",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "1460000",
+        "registration_date": "07-02-2000",
+        "business_activity": "Trading",
+        "state": "Chandigarh",
+        "district": "LUDHIANA",
+        "address": "H NO 457SECTOR 20 A CHANDIGARH UT CH IN 141001",
+        "register": "Registered on 07-02-2000",
+        "director_details": []
+    },
+    {
+        "company_name": "DASHMESH (TEX) PROCESSORS PVT LTD",
+        "cin_no.": "U18101CH1988PTC008534",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "1360000",
+        "registration_date": "07-07-1988",
+        "business_activity": "Textiles",
+        "state": "Chandigarh",
+        "district": "LUDHIANA",
+        "address": "VILL BATRA RAHON ROAD LUDHIANA PUNJAB CH IN 141007",
+        "register": "Registered on 07-07-1988",
+        "director_details": [
+            {
+                "DIN": "00710110",
+                "direct_name": "Mandeep Singh Suri"
+            },
+            {
+                "DIN": "00710140",
+                "direct_name": "Manjeet Singh Suri"
+            }
+        ]
+    },
+    {
+        "company_name": "KUKU AND KOYAL INTERNET PRIVATE LIMITED",
+        "cin_no.": "U74999CH2017PTC041710",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "31-08-2017",
+        "business_activity": "Business Services",
+        "state": "Chandigarh",
+        "district": "LUDHIANA",
+        "address": "H.No. 303, Link Road, Nagra Complex, Moti Bagh Colony, Village Phullanwal, Ludhiana CH IN 141013",
+        "register": "Registered on 31-08-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "QUARTERPANTS DIGIONLINE BUSINESS PRIVATE LIMITED (OPC)",
+        "cin_no.": "U64200CH2014OPC035214",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-09-2014",
+        "business_activity": "Transport and Storage",
+        "state": "Chandigarh",
+        "district": "LUDHIANA",
+        "address": "HOUSE NUMBER - 1566, PHASE-2, URBAN ESTATE, JAMALPUR, FOCAL POINT, LUDHIANA CH IN 141010",
+        "register": "Registered on 03-09-2014",
+        "director_details": [
+            {
+                "DIN": "06902530",
+                "direct_name": "Mandeep Kaur"
+            }
+        ]
+    },
+    {
+        "company_name": "ALM OVERSEAS PRIVATE LIMITED",
+        "cin_no.": "U51900CH2013PTC034754",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "62500000",
+        "paid_up_capital": "56600000",
+        "registration_date": "30-09-2013",
+        "business_activity": "Trading",
+        "state": "Chandigarh",
+        "district": "MOHALI",
+        "address": "Khasra No. 52/3/2, Moza Behda Tehsil Dera Bassi Mohali Chandigarh CH IN 140507",
+        "register": "Registered on 30-09-2013",
+        "director_details": [
+            {
+                "DIN": "00618391",
+                "direct_name": "Fazlur Rehman"
+            },
+            {
+                "DIN": "00618381",
+                "direct_name": "Jamshed Ali"
+            },
+            {
+                "DIN": "06554241",
+                "direct_name": "Saif Ali"
+            },
+            {
+                "DIN": "00748643",
+                "direct_name": "Saleem Mohd"
+            },
+            {
+                "DIN": "00618403",
+                "direct_name": "Tasleem Kamal"
+            }
+        ]
+    },
+    {
+        "company_name": "PURI AND SONS TRADERS PRIVATE LIMITED",
+        "cin_no.": "U51909CH2016PTC041212",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-09-2016",
+        "business_activity": "Trading",
+        "state": "Chandigarh",
+        "district": "MOHALI",
+        "address": "101, TOWER A, NEW GENERATION, MAPLE APPARTMENTS NEAR DHAKOLI, GHAZIPUR, ZIRAKPUR Chandigarh Chandigarh CH IN 160104",
+        "register": "Registered on 15-09-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "HEADTURNER FASHION DESIGNING PRIVATE LIMITED",
+        "cin_no.": "U74999CH2017PTC041474",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "06-04-2017",
+        "business_activity": "Business Services",
+        "state": "Chandigarh",
+        "district": "MOHALI",
+        "address": "HOUSE NO. 62-A ANAND VIHAR SAS NAGRA MOHALI BALTANA Chandigarh CH IN 140604",
+        "register": "Registered on 06-04-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "AISHANI PHARMACEUTICAL PRIVATE LIMITED",
+        "cin_no.": "U24290CH2017PTC041790",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-12-2017",
+        "business_activity": "Metals and Chemicals",
+        "state": "Chandigarh",
+        "district": "MOHALI",
+        "address": "105,2BRF, 2ND FLOOR, GULMOHAR CITY, DERABASSI, SAS NAGAR Chandigarh Chandigarh CH IN 140507",
+        "register": "Registered on 06-12-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "ELITA IT SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U72900CH2010PTC032463",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-09-2010",
+        "business_activity": "Business Services",
+        "state": "Chandigarh",
+        "district": "MOHALI",
+        "address": "H.NO-17/2 SHIVALIK ENCLAVE ,NAC MANIMAJRA CHANDIGARH CH IN 160104",
+        "register": "Registered on 15-09-2010",
+        "director_details": [
+            {
+                "DIN": "03592974",
+                "direct_name": "Deebendu Kumar Mistry"
+            },
+            {
+                "DIN": "05355517",
+                "direct_name": "Dommaraju Udayakumar"
+            },
+            {
+                "DIN": "03587577",
+                "direct_name": "Srikanth Soma"
+            },
+            {
+                "DIN": "03121614",
+                "direct_name": "Supriya Subhas Majumdar"
+            }
+        ]
+    },
+    {
+        "company_name": "STOUP POWER PRIVATE LIMITED",
+        "cin_no.": "U29309CH2018PTC041938",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-04-2018",
+        "business_activity": "Machinery and Equipments",
+        "state": "Chandigarh",
+        "district": "MOHALI",
+        "address": "HOUSE NO. 339/B, MADHO COLONY KHUDA ALI SHER CHANDIGARH Chandigarh CH IN 160103",
+        "register": "Registered on 03-04-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "NETSTERZ INFOTECH PRIVATE LIMITED",
+        "cin_no.": "U72900CH2011PTC032683",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-01-2011",
+        "business_activity": "Business Services",
+        "state": "Chandigarh",
+        "district": "MOHALI",
+        "address": "101, WWRW SOCIETY, BLOCK-C, SUKHNA ENCLAVE, KAIMBWALA ROAD, KANSAL CHANDIGARH CH IN 160103",
+        "register": "Registered on 12-01-2011",
+        "director_details": [
+            {
+                "DIN": "03380639",
+                "direct_name": "Kanika Gupta"
+            },
+            {
+                "DIN": "03380621",
+                "direct_name": "Nitin Goel"
+            }
+        ]
+    },
+    {
+        "company_name": "MIRACI TECHNOLOGY PRIVATE LIMITED",
+        "cin_no.": "U72900CH2013PTC034625",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-07-2013",
+        "business_activity": "Business Services",
+        "state": "Chandigarh",
+        "district": "MOHALI",
+        "address": "Suit No. 5 & 6, Plot No. D-185 Phase-VIII-B, Industrial Area, Ajitgarh Chandigarh Chandigarh CH IN 140110",
+        "register": "Registered on 29-07-2013",
+        "director_details": [
+            {
+                "DIN": "05271275",
+                "direct_name": "Deep Hooda Kamal"
+            },
+            {
+                "DIN": "06944907",
+                "direct_name": "Mohd Waseem"
+            }
+        ]
+    },
+    {
+        "company_name": "WEB MEDIA INFOTECH PRIVATE LIMITED",
+        "cin_no.": "U72900CH2013PTC034788",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-10-2013",
+        "business_activity": "Business Services",
+        "state": "Chandigarh",
+        "district": "MOHALI",
+        "address": "HOUSE NO - 95 KHUDA ALISHER CHANDIGARH Chandigarh CH IN 160103",
+        "register": "Registered on 22-10-2013",
+        "director_details": [
+            {
+                "DIN": "06703743",
+                "direct_name": "Arjun Sharma"
+            },
+            {
+                "DIN": "06703750",
+                "direct_name": "Jagjit Singh Chopra"
+            },
+            {
+                "DIN": "06703762",
+                "direct_name": "Ramesh Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "BRITISH INFOTECH PRIVATE LIMITED",
+        "cin_no.": "U72900CH2014PTC034970",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-02-2014",
+        "business_activity": "Business Services",
+        "state": "Chandigarh",
+        "district": "MOHALI",
+        "address": "HOUSE NO. 243 VILLAGE KAIMBALA CHANDIGARH Chandigarh CH IN 160103",
+        "register": "Registered on 19-02-2014",
+        "director_details": [
+            {
+                "DIN": "03445186",
+                "direct_name": "Arti Goyal"
+            },
+            {
+                "DIN": "06801491",
+                "direct_name": "Ram Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "DABRA COTTAN MILLS PVT LIMITED MUKTSAR",
+        "cin_no.": "U45202CH1988PTC008277",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "1600000",
+        "registration_date": "15-04-1988",
+        "business_activity": "Construction",
+        "state": "Chandigarh",
+        "district": "MUKTSAR",
+        "address": "149N G M MUKTSAR PUNJAB CH IN 152026",
+        "register": "Registered on 15-04-1988",
+        "director_details": []
+    },
+    {
+        "company_name": "BACLAI PECTIN ENTERPRISES PRIVATE LIMITED",
+        "cin_no.": "U01223CH2004PTC026665",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-01-2004",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "NA",
+        "address": "H NO 5453 GROUND FLOORMODERN HOUSING COMPLEX MANIMAJRA CHANDIGARH CH IN",
+        "register": "Registered on 05-01-2004",
+        "director_details": []
+    },
+    {
+        "company_name": "NORTHERN HIVE SPECIALITIES PRIVATE LIMITED",
+        "cin_no.": "U01223CH2004PTC027327",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-07-2004",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "NA",
+        "address": "H NO 31SECTOR 21 A CHANDIGARH U T CH IN",
+        "register": "Registered on 23-07-2004",
+        "director_details": []
+    },
+    {
+        "company_name": "BEDI FARMS PRIVATE LIMITED",
+        "cin_no.": "U01225CH1984PTC006001",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "2000",
+        "registration_date": "06-11-1984",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "NA",
+        "address": "767-Sector -8 CHANDIGARH UT CH IN",
+        "register": "Registered on 06-11-1984",
+        "director_details": []
+    },
+    {
+        "company_name": "ORBIT FORESTS LIMITED",
+        "cin_no.": "U01225CH1992PLC012720",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "700",
+        "registration_date": "11-11-1992",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "NA",
+        "address": "K NO 353 SECTOR 21 CHANDIGARH U T CH IN",
+        "register": "Registered on 11-11-1992",
+        "director_details": []
+    },
+    {
+        "company_name": "UNITED AGROTECH INDIA LIMITED",
+        "cin_no.": "U01300CH1997PLC020563",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "502000",
+        "registration_date": "07-10-1997",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "NA",
+        "address": "SCO 2411 12 SECTOR 22 C2ND FLOOR CHANDIGARH U T CH IN",
+        "register": "Registered on 07-10-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "NORTHERN AGROTECH WAREHOUSING PRIVATE LIMITED",
+        "cin_no.": "U01403CH1993PTC013369",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "22500000",
+        "paid_up_capital": "102000",
+        "registration_date": "21-05-1993",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "NA",
+        "address": "FLAT NO. 620,IAS/IPS SOCIETY SECTOR 49A CHANDIGARH CH IN 160049",
+        "register": "Registered on 21-05-1993",
+        "director_details": [
+            {
+                "DIN": "00908054",
+                "direct_name": "Lamba Sandeep"
+            },
+            {
+                "DIN": "05110955",
+                "direct_name": "Ranvir Singh Lamba"
+            }
+        ]
+    },
+    {
+        "company_name": "SAIKAPIAN AGROTECH PRIVATE LIMITED",
+        "cin_no.": "U01403CH1996PTC019144",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "20000",
+        "registration_date": "11-12-1996",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "NA",
+        "address": "SCO 2427 28 FFSECTOR 22 C CHANDIGARH U T CH IN",
+        "register": "Registered on 11-12-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "HILLCREST FRUITS AND VEGETABLES PRIVATE LIMITED",
+        "cin_no.": "U01403CH2005PTC028738",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-07-2005",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "NA",
+        "address": "754, SECTOR 8-BCHANDIGARH u t CH IN",
+        "register": "Registered on 29-07-2005",
+        "director_details": [
+            {
+                "DIN": "06620548",
+                "direct_name": "Kulbhushan"
+            },
+            {
+                "DIN": "00338939",
+                "direct_name": "Praveen Diwan"
+            }
+        ]
+    },
+    {
+        "company_name": "INDIGENE LIFESCIENCE TECHNOLOGIES PRIVATE LIMITED",
+        "cin_no.": "U01403CH2006PTC030625",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "13-11-2006",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "NA",
+        "address": "HOUSE NO",
+        "register": "Registered on 13-11-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "JANAM SATHI MATRIMONY PRIVATE LIMITED",
+        "cin_no.": "U01403CH2006PTC030633",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "21-11-2006",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "NA",
+        "address": "HOUSE NO-303 SECTOR 51-A CHANDIGARH CH IN 160051",
+        "register": "Registered on 21-11-2006",
+        "director_details": [
+            {
+                "DIN": "00638761",
+                "direct_name": "Navneet Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "EYE4FUTURE TECHNOLOGIES PRIVATE LIMITED",
+        "cin_no.": "U74999CH2017PTC041420",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-03-2017",
+        "business_activity": "Business Services",
+        "state": "Chandigarh",
+        "district": "PANCHKULA",
+        "address": "798, Ground Floor Sector-16 Panchkula Chandigarh CH IN 134108",
+        "register": "Registered on 08-03-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "SALT LABS PRIVATE LIMITED",
+        "cin_no.": "U74999CH2017PTC041639",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-07-2017",
+        "business_activity": "Business Services",
+        "state": "Chandigarh",
+        "district": "PATIALA",
+        "address": "HOUSE 1996, SAFEDA COLONY NAYA GAON, SAS NAGAR MOHALI Chandigarh CH IN 140603",
+        "register": "Registered on 11-07-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "HYDE INFRASTRUCTURE PRIVATE LIMITED",
+        "cin_no.": "U70102CH2016PTC035923",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-02-2016",
+        "business_activity": "Real Estate",
+        "state": "Chandigarh",
+        "district": "PATIALA",
+        "address": "101, BLOCK-B, VIRINDAVAN, GARDENS PEERMUCHALLA ZIRAKPUR CH IN 140603",
+        "register": "Registered on 01-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SCENARIO FUTURE CARRIER PRIVATE LIMITED",
+        "cin_no.": "U80903CH2017PTC041660",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-07-2017",
+        "business_activity": "Personal and Social Services",
+        "state": "Chandigarh",
+        "district": "PATIALA",
+        "address": "H.NO.4491 SHAM NAGAR PATIALA Chandigarh CH IN 140401",
+        "register": "Registered on 24-07-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "NORMA TELEFORCE (OPC) PRIVATE LIMITED",
+        "cin_no.": "U93000CH2018OPC041999",
+        "status": "Active",
+        "class": "Private One Person",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-05-2018",
+        "business_activity": "Personal and Social Services",
+        "state": "Chandigarh",
+        "district": "PATIALA",
+        "address": "HOUSE NO-107 TRIBUNE COLONY BALTANA ZIRAKPUR Chandigarh-140603,Chandigarh",
+        "register": "Registered on 11-05-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "APPSVIBE INFOTECH (OPC) PRIVATE LIMITED",
+        "cin_no.": "U72900CH2018OPC042251",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100",
+        "paid_up_capital": "100",
+        "registration_date": "09-11-2018",
+        "business_activity": "Business Services",
+        "state": "Chandigarh",
+        "district": "PATIALA",
+        "address": "Company APPSVIBE INFOTECH (OPC) PRIVATE LIMITED BHABAT HOUSE NO. 57A, SHIVA ENCLAVE 140603 MC ZIRAKPUR-Chandigarh",
+        "register": "Registered on 09-11-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "PIONEER AGRITECH SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U01403CH2015PTC035822",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-11-2015",
+        "business_activity": "Agriculture",
+        "state": "Chandigarh",
+        "district": "RUPNAGAR",
+        "address": "HOUSE NO. 3134 SECTOR 25-D CHANDIGARH Chandigarh CH IN 160014",
+        "register": "Registered on 10-11-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "BIOPACT HEALTHCARE PRIVATE LIMITED",
+        "cin_no.": "U24115CH2016PTC041190",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "24-08-2016",
+        "business_activity": "Metals and Chemicals",
+        "state": "Chandigarh",
+        "district": "RUPNAGAR",
+        "address": "SHOP NO 2A, PLOT NO 181 S.P. RANA COMPLEX, DADU MAJRA CHANDIGARH Chandigarh CH IN 160014",
+        "register": "Registered on 24-08-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "EMERALD LEASING FINANCE AND INVESTMENT COMPANY LIMITED",
+        "cin_no.": "L65993CH1983PLC041774",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "110000000",
+        "paid_up_capital": "30450000",
+        "registration_date": "22-11-1983",
+        "business_activity": "Finance",
+        "state": "Chandigarh",
+        "district": "RUPNAGAR",
+        "address": "SCO 7, INDL AREA PHASE II CHANDIGARH Chandigarh CH IN 160062",
+        "register": "Registered on 22-11-1983",
+        "director_details": []
+    },
+    {
+        "company_name": "CADEN PHARMA PRIVATE LIMITED",
+        "cin_no.": "U24200CH2009PTC031557",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "150000",
+        "registration_date": "26-03-2009",
+        "business_activity": "Metals and Chemicals",
+        "state": "Chandigarh",
+        "district": "RUPNAGAR",
+        "address": "127 KHUDDA JASSU CHANDIGARH CH IN 160014",
+        "register": "Registered on 26-03-2009",
+        "director_details": [
+            {
+                "DIN": "02544984",
+                "direct_name": "Onkar Mishra"
+            },
+            {
+                "DIN": "06922265",
+                "direct_name": "Vijay Lata Bahuguna"
+            },
+            {
+                "DIN": "02545006",
+                "direct_name": "Vikas Kumar Jha"
+            }
+        ]
+    },
+    {
+        "company_name": "DELTA BIOSCIENCE PRIVATE LIMITED",
+        "cin_no.": "U24200CH2011PTC033054",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-06-2011",
+        "business_activity": "Metals and Chemicals",
+        "state": "Chandigarh",
+        "district": "RUPNAGAR",
+        "address": "HOUSE NO 352 FIRST FLOOR, SECTOR 38-A CHANDIGARH CH IN 160014",
+        "register": "Registered on 22-06-2011",
+        "director_details": [
+            {
+                "DIN": "03204182",
+                "direct_name": "Avtar Singh Rai"
+            },
+            {
+                "DIN": "03411457",
+                "direct_name": "Manish Sharma"
+            },
+            {
+                "DIN": "06730535",
+                "direct_name": "Sidharth Malhotra"
+            }
+        ]
+    },
+    {
+        "company_name": "COLORTECH INKS AND COATINGS PRIVATE LIMI TED",
+        "cin_no.": "U24224CH2010PTC032506",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-10-2010",
+        "business_activity": "Metals and Chemicals",
+        "state": "Chandigarh",
+        "district": "RUPNAGAR",
+        "address": "SHOP NO 110 SECTOR 38-C CHANDIGARH Chandigarh CH IN 160014",
+        "register": "Registered on 14-10-2010",
+        "director_details": [
+            {
+                "DIN": "03248230",
+                "direct_name": "Mohit Jain"
+            },
+            {
+                "DIN": "03247854",
+                "direct_name": "Surinder Pal Singh Pasricha"
+            }
+        ]
+    },
+    {
+        "company_name": "OSRICS PHARMA CHEM PRIVATE LIMITED",
+        "cin_no.": "U24232CH2006PTC030545",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "4800000",
+        "paid_up_capital": "4800000",
+        "registration_date": "23-08-2006",
+        "business_activity": "Metals and Chemicals",
+        "state": "Chandigarh",
+        "district": "RUPNAGAR",
+        "address": "HOUSE NO",
+        "register": "Registered on 23-08-2006",
+        "director_details": [
+            {
+                "DIN": "07203991",
+                "direct_name": "Aarushi Kalra"
+            },
+            {
+                "DIN": "00590304",
+                "direct_name": "Gautam Kalra"
+            }
+        ]
+    },
+    {
+        "company_name": "J.M .HOLIDAY INN PRIVATE LIMITED",
+        "cin_no.": "U55101CH2006PTC030593",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "22-09-2006",
+        "business_activity": "Trading",
+        "state": "Chandigarh",
+        "district": "RUPNAGAR",
+        "address": "HOUSE NO. C-35 SECTOR 14 CHANDIGARH CH IN 160014",
+        "register": "Registered on 22-09-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "CHEERS NEW ERA HOSPITALITY PRIVATE LIMITED",
+        "cin_no.": "U55101CH2013PTC034661",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-08-2013",
+        "business_activity": "Trading",
+        "state": "Chandigarh",
+        "district": "RUPNAGAR",
+        "address": "#1286 SECTOR 56 CHANDIGARH Chandigarh CH IN 160055",
+        "register": "Registered on 14-08-2013",
+        "director_details": [
+            {
+                "DIN": "06631849",
+                "direct_name": "Keshar Singh Negi"
+            },
+            {
+                "DIN": "06631840",
+                "direct_name": "Kuldeep Thakur"
+            }
+        ]
+    },
+    {
+        "company_name": "Q INN HOSPITALITY PRIVATE LIMITED",
+        "cin_no.": "U55101CH2013PTC034795",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-10-2013",
+        "business_activity": "Trading",
+        "state": "Chandigarh",
+        "district": "RUPNAGAR",
+        "address": "HOUSE NO 1148, 1st Floor SECTOR 34 CHANDIGARH Chandigarh CH IN 160014",
+        "register": "Registered on 28-10-2013",
+        "director_details": [
+            {
+                "DIN": "03340279",
+                "direct_name": "Joginder Pal Sharma"
+            },
+            {
+                "DIN": "06415159",
+                "direct_name": "Kapil Gupta"
+            },
+            {
+                "DIN": "05213199",
+                "direct_name": "Shruti Singla"
+            }
+        ]
+    }
+]

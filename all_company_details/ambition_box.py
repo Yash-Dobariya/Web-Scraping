@@ -20,7 +20,7 @@ for link in links_list[1:]:
     driver.get(link)
     
     company_data = {}
-    breakpoint()
+
     founding_year = driver.find_element(
         By.XPATH, '//li[@class="aboutItem"]/p[@class="aboutItem__name"][contains(text(), "Founded in")] \
         /following-sibling::p[@class="textItem__val aboutItem__value"]').text

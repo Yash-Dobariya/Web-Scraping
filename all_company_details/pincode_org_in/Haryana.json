@@ -1,0 +1,2034 @@
+[
+    {
+        "company_name": "B. BOSS BOUNCERS (OPC) PRIVATE LIMITED",
+        "cin_no.": "U74999PB2017OPC046585",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-06-2017",
+        "business_activity": "Business Services",
+        "state": "Punjab",
+        "district": "AMBALA",
+        "address": "SCF 1, FIRST FLOOR NEAR G.S SECONDARY SCHOOL ZIRAKPUR Mohali PB IN 133005",
+        "register": "Registered on 08-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "PURAB KRISHI PRIVATE LIMITED",
+        "cin_no.": "U01300PB2009PTC032954",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-06-2009",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "AMRITSAR",
+        "address": "1775-A,GALI PIPLANWALI BOMBAY WALA KHU AMRITSAR PB IN 143001",
+        "register": "Registered on 24-06-2009",
+        "director_details": [
+            {
+                "DIN": "02869923",
+                "direct_name": "Harish Kumar"
+            },
+            {
+                "DIN": "02532921",
+                "direct_name": "Pooja Mehra"
+            },
+            {
+                "DIN": "02294002",
+                "direct_name": "Rajneesh Mehra"
+            },
+            {
+                "DIN": "06422039",
+                "direct_name": "Vicky"
+            }
+        ]
+    },
+    {
+        "company_name": "ALPINE INDIA FARMING PRIVATE LIMITED",
+        "cin_no.": "U01300PB2012PTC036862",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-11-2012",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "AMRITSAR",
+        "address": "FIRST & SECOND FLOOR, SANDHU TOWER ADDA MEERA KOT, AIRPORT ROAD AMRITSAR Amritsar PB IN 143001",
+        "register": "Registered on 26-11-2012",
+        "director_details": [
+            {
+                "DIN": "05222671",
+                "direct_name": "Inderjeet Kaur"
+            },
+            {
+                "DIN": "05222667",
+                "direct_name": "Navjeet Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "ALIVE AGROFED PRIVATE LIMITED",
+        "cin_no.": "U01400PB2009PTC032943",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-06-2009",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "AMRITSAR",
+        "address": "NEAR MATA KAULAN JI BHALAI KENDRA TARN TARAN ROAD AMRITSAR Amritsar PB IN 143001",
+        "register": "Registered on 19-06-2009",
+        "director_details": [
+            {
+                "DIN": "02669417",
+                "direct_name": "Gurmukh Singh"
+            },
+            {
+                "DIN": "02670636",
+                "direct_name": "Palwinder Singh"
+            },
+            {
+                "DIN": "02669423",
+                "direct_name": "Sarabjit Singh"
+            },
+            {
+                "DIN": "02669801",
+                "direct_name": "Sarafeen Feroze Masih"
+            }
+        ]
+    },
+    {
+        "company_name": "SPARK GREEN AGRO PRIVATE LIMITED",
+        "cin_no.": "U01400PB2010PTC033925",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-05-2010",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "AMRITSAR",
+        "address": "55-F, IInd Floor City Centre Amritsar Amritsar PB IN 143001",
+        "register": "Registered on 14-05-2010",
+        "director_details": [
+            {
+                "DIN": "03054330",
+                "direct_name": "Pawan Kumar"
+            },
+            {
+                "DIN": "05338967",
+                "direct_name": "Vikram Jeet Sheriya"
+            }
+        ]
+    },
+    {
+        "company_name": "ANGEL ORGANIC AGRICULTURE PRIVATE LIMITED",
+        "cin_no.": "U01400PB2011PTC035720",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-12-2011",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "AMRITSAR",
+        "address": "24-Krishna Gali, Nehru Colony Backside Sun Valley School, Majitha Road Amritsar PB IN 143001",
+        "register": "Registered on 07-12-2011",
+        "director_details": [
+            {
+                "DIN": "05136033",
+                "direct_name": "Kamal Sharma"
+            },
+            {
+                "DIN": "05191813",
+                "direct_name": "Vijay Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "SUKH SMRIDHI NET MART PRIVATE LIMITED",
+        "cin_no.": "U01403PB2008PTC032069",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "03-07-2008",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "AMRITSAR",
+        "address": "SCO VI, IIND FLOOR DISTT SHOPPING COMPLEX, RANJIT AVENUE , B-BLOCK AMRITSAR Amritsar PB IN 143001",
+        "register": "Registered on 03-07-2008",
+        "director_details": [
+            {
+                "DIN": "02198726",
+                "direct_name": "Harprit Singh Aurora"
+            },
+            {
+                "DIN": "02210470",
+                "direct_name": "Rajesh Bajaj"
+            },
+            {
+                "DIN": "01947692",
+                "direct_name": "Rajinder Kumar Parbhaker"
+            },
+            {
+                "DIN": "02121364",
+                "direct_name": "Sukhdev Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "VISHWAS MILK PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01403PB2008PTC032111",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "6000000",
+        "paid_up_capital": "4799000",
+        "registration_date": "11-07-2008",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "AMRITSAR",
+        "address": "C-57, GREEN AVENUE AMRITSAR PB IN 143001",
+        "register": "Registered on 11-07-2008",
+        "director_details": [
+            {
+                "DIN": "01941220",
+                "direct_name": "Sanjeev Kumar Arora"
+            },
+            {
+                "DIN": "02244037",
+                "direct_name": "Upasana Arora"
+            }
+        ]
+    },
+    {
+        "company_name": "PADAMANSH AGRO PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403PB2015PTC039926",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "26-11-2015",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "AMRITSAR",
+        "address": "BATALA RD VERKA AMRITSAR AMRITSAR Amritsar PB IN 143001",
+        "register": "Registered on 26-11-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "RMG CREATIVE MARKETING PRIVATE LIMITED",
+        "cin_no.": "U52602PB2010PTC033499",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-01-2010",
+        "business_activity": "Trading",
+        "state": "Punjab",
+        "district": "AMRITSAR",
+        "address": "SHOP NO.4B, FIRST FLOOR KAPOOR ARCADE, M.M. MALVIYA ROAD AMRITSAR Amritsar PB IN 143001",
+        "register": "Registered on 11-01-2010",
+        "director_details": [
+            {
+                "DIN": "02897652",
+                "direct_name": "Baljit Kaur"
+            },
+            {
+                "DIN": "02897647",
+                "direct_name": "Satpal Singh Sokhi"
+            }
+        ]
+    },
+    {
+        "company_name": "PRIMAVERA AGRO PRODUCE PRIVATE LIMITED",
+        "cin_no.": "U01403PB2009PTC033074",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "4700000",
+        "paid_up_capital": "4700000",
+        "registration_date": "03-08-2009",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "AMRITSAR",
+        "address": "H.NO.2, MISHRA KUTIR R.B. PARKASH CHAND ROAD, LAWRENCE ROAD AMRITSAR PB IN 143001",
+        "register": "Registered on 03-08-2009",
+        "director_details": []
+    },
+    {
+        "company_name": "SEKHA AGRICULTURAL PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403PB2013PTC038037",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "22-10-2013",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "BARNALA",
+        "address": "H. NO. 334, VILLAGE - SEKHA TEHSIL - BARNALA BARNALA PB IN 148101",
+        "register": "Registered on 22-10-2013",
+        "director_details": [
+            {
+                "DIN": "06613590",
+                "direct_name": "Baljeet Singh"
+            },
+            {
+                "DIN": "06613536",
+                "direct_name": "Hartej Singh"
+            },
+            {
+                "DIN": "06613482",
+                "direct_name": "Mandeep Singh"
+            },
+            {
+                "DIN": "06613552",
+                "direct_name": "Randhir Singh"
+            },
+            {
+                "DIN": "06613467",
+                "direct_name": "Sukhpreet Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "STUBBORN AGRO FARMS LIMITED",
+        "cin_no.": "U01409PB2012PLC036848",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "20-11-2012",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "BARNALA",
+        "address": "BX-IV-167/2, OPPOSITE GOPAL BHAWAN NEAR NEW CINEMA, DHANAULA ROAD BARNALA Sangrur PB IN 148101",
+        "register": "Registered on 20-11-2012",
+        "director_details": [
+            {
+                "DIN": "05272820",
+                "direct_name": "Mukesh Kumar"
+            },
+            {
+                "DIN": "05272827",
+                "direct_name": "Rakesh Mittal"
+            },
+            {
+                "DIN": "05272829",
+                "direct_name": "Siri Paul Mittal"
+            }
+        ]
+    },
+    {
+        "company_name": "TRIDENT NATURAL RESOURCES LIMITED",
+        "cin_no.": "U11101PB2011PLC034967",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "650000",
+        "registration_date": "21-04-2011",
+        "business_activity": "Mining and Quarrying",
+        "state": "Punjab",
+        "district": "BARNALA",
+        "address": "TRIDENT GROUP SANGHERA PB IN 148101",
+        "register": "Registered on 21-04-2011",
+        "director_details": [
+            {
+                "DIN": "03620773",
+                "direct_name": "Lalit Kaushal"
+            },
+            {
+                "DIN": "07369123",
+                "direct_name": "Raghav Garg"
+            },
+            {
+                "DIN": "02049455",
+                "direct_name": "Rajneesh Bhatia"
+            }
+        ]
+    },
+    {
+        "company_name": "TRIDENT INDUSTRIAL CHEMICALS LIMITED",
+        "cin_no.": "U24100PB2011PLC034962",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "21-04-2011",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "BARNALA",
+        "address": "TRIDENT GROUP SANGHERA PB IN 148101",
+        "register": "Registered on 21-04-2011",
+        "director_details": [
+            {
+                "DIN": "02047780",
+                "direct_name": "Abhishek Gupta"
+            },
+            {
+                "DIN": "06940051",
+                "direct_name": "Dinesh Kumar"
+            },
+            {
+                "DIN": "02252335",
+                "direct_name": "Pardeep Kumar Markanday"
+            }
+        ]
+    },
+    {
+        "company_name": "CIBA GEIGY DRUGS PRIVATE LIMITED",
+        "cin_no.": "U24110PB2008PTC032089",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-07-2008",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "BARNALA",
+        "address": "MADAN LAL GARG PRESS REPORTER, SUBHASH GALI, NEAR SHAMA PUBLIC SCHOOL, TAPA MANDI TAPA MANDI PB IN 148108",
+        "register": "Registered on 08-07-2008",
+        "director_details": [
+            {
+                "DIN": "05169477",
+                "direct_name": "Ashwani Garg"
+            },
+            {
+                "DIN": "01754301",
+                "direct_name": "Labhu Ram Garg"
+            }
+        ]
+    },
+    {
+        "company_name": "AANVI PHARMACEUTICALS PRIVATE LIMITED",
+        "cin_no.": "U24230PB2009PTC032922",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-06-2009",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "BARNALA",
+        "address": "BHARAT NAGAR, ST.NO. 06, K.C.ROAD BARNALA PB IN 148101",
+        "register": "Registered on 15-06-2009",
+        "director_details": [
+            {
+                "DIN": "02639518",
+                "direct_name": "Neel Kanth"
+            },
+            {
+                "DIN": "02639523",
+                "direct_name": "Rajni Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "CIBA DRUGS PRIVATE LIMITED",
+        "cin_no.": "U24232PB2008PTC031613",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-01-2008",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "BARNALA",
+        "address": "MADAN LAL GARG PRESS REPORTER, SUBHASH GALI, NEAR SHAMA PUBLIC SCHOOL, TAPA MANDI TAPA MANDI PB IN 148108",
+        "register": "Registered on 24-01-2008",
+        "director_details": [
+            {
+                "DIN": "05169477",
+                "direct_name": "Ashwani Garg"
+            },
+            {
+                "DIN": "01754301",
+                "direct_name": "Labhu Ram Garg"
+            }
+        ]
+    },
+    {
+        "company_name": "SIGMA LIFE SCIENCES PRIVATE LIMITED",
+        "cin_no.": "U24232PB2008PTC031689",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "20-02-2008",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "BARNALA",
+        "address": "MADAN LAL GARG PRESS REPORTER, SUBHASH GALI, NEAR SHAMA PUBLIC SCHOOL, TAPA MANDI TAPA MANDI Sangrur PB IN 148108",
+        "register": "Registered on 20-02-2008",
+        "director_details": [
+            {
+                "DIN": "01754301",
+                "direct_name": "Labhu Ram Garg"
+            },
+            {
+                "DIN": "01754310",
+                "direct_name": "Veena Rani Garg"
+            }
+        ]
+    },
+    {
+        "company_name": "TRIDENT CHEMICALS LIMITED",
+        "cin_no.": "U24232PB2011PLC035729",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "09-12-2011",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "BARNALA",
+        "address": "TRIDENT GROUP SANGHERA PB IN 148101",
+        "register": "Registered on 09-12-2011",
+        "director_details": [
+            {
+                "DIN": "00403335",
+                "direct_name": "Deepak Nanda"
+            },
+            {
+                "DIN": "06940051",
+                "direct_name": "Dinesh Kumar"
+            },
+            {
+                "DIN": "03573879",
+                "direct_name": "Pawan Babbar"
+            },
+            {
+                "DIN": "02049455",
+                "direct_name": "Rajneesh Bhatia"
+            }
+        ]
+    },
+    {
+        "company_name": "RITZ AGRO CHEMICALS PRIVATE LIMITED",
+        "cin_no.": "U24232PB2012PTC036654",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-09-2012",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "BARNALA",
+        "address": "1ST FLOOR, SHOP NO. B II/498 PHARWAHI BAZAR, BARNALA Sangrur PB IN 148105",
+        "register": "Registered on 17-09-2012",
+        "director_details": [
+            {
+                "DIN": "06364160",
+                "direct_name": "Harish Chander"
+            },
+            {
+                "DIN": "07352178",
+                "direct_name": "Navneet Sharma"
+            },
+            {
+                "DIN": "07352173",
+                "direct_name": "Sanjay Garg Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "ARCHER EDUCATION PRIVATE LIMITED",
+        "cin_no.": "U01403PB2006PTC030686",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "0",
+        "registration_date": "17-11-2006",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "BATHINDA",
+        "address": "SCF 79 MODEL TOWN PHASE 1 BATHINDA PB IN 151001",
+        "register": "Registered on 17-11-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "FANTOM AGRO PRIVATE LIMITED",
+        "cin_no.": "U01403PB2016PTC040134",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-03-2016",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "BATHINDA",
+        "address": "SCF -64, AMRIK SINGH ROAD, NEAR HOTEL AMSUN PRIDE BATHINDA PB IN 151001",
+        "register": "Registered on 02-03-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "PRIME CONSUMER GOODS PRIVATE LIMITED",
+        "cin_no.": "U52600PB2015PTC039677",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-08-2015",
+        "business_activity": "Trading",
+        "state": "Punjab",
+        "district": "BATHINDA",
+        "address": "SHOP NO",
+        "register": "Registered on 13-08-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "JAWALA AGRO PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01403PB2009PTC032931",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2100000",
+        "registration_date": "16-06-2009",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "BATHINDA",
+        "address": "WARD NO-4 NEAR DELHI HOSPITAL,CIVIL HOSPITAL ROAD MAUR MANDI PB IN 151509",
+        "register": "Registered on 16-06-2009",
+        "director_details": [
+            {
+                "DIN": "02416876",
+                "direct_name": "Ashwani Kumar"
+            },
+            {
+                "DIN": "02416955",
+                "direct_name": "Girdhari Lal"
+            },
+            {
+                "DIN": "01894307",
+                "direct_name": "Krishan Kumar"
+            },
+            {
+                "DIN": "02416885",
+                "direct_name": "Suresh Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "GAURI KISALAYA KRISHAK PRIVATE LIMITED",
+        "cin_no.": "U01403PB2011PTC034975",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "200000",
+        "registration_date": "21-04-2011",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "BATHINDA",
+        "address": "SCF-6, AHATA PRITAM SINGH RAILWAY ROAD BATHINDA Bathinda PB IN 151001",
+        "register": "Registered on 21-04-2011",
+        "director_details": [
+            {
+                "DIN": "01967686",
+                "direct_name": "Sanjay Pal"
+            },
+            {
+                "DIN": "03504053",
+                "direct_name": "Sanjeev Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "TRUTH WAY AGRO INDIA PRIVATE LIMITED",
+        "cin_no.": "U01403PB2012PTC036733",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-10-2012",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "BATHINDA",
+        "address": "BANSAL COMPLEX, GHANIA BASTI NEAR CHHABRA PALACE BATHINDA Bathinda PB IN 151001",
+        "register": "Registered on 15-10-2012",
+        "director_details": [
+            {
+                "DIN": "06781664",
+                "direct_name": "Baljeet Singh"
+            },
+            {
+                "DIN": "06393256",
+                "direct_name": "Rinku Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "GREEN INDIA VENTURES LIMITED",
+        "cin_no.": "U01403PB2013PLC038170",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-12-2013",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "BATHINDA",
+        "address": "H.NO. 97, BASTI KHATRIAN WALI, VILL. CHANGALI JADID, TEHSIL FEROZEPUR FEROZEPUR Firozpur PB IN 151001",
+        "register": "Registered on 10-12-2013",
+        "director_details": [
+            {
+                "DIN": "06743290",
+                "direct_name": "Gurdarshan Singh"
+            },
+            {
+                "DIN": "02297958",
+                "direct_name": "Mangat Ram Maini"
+            },
+            {
+                "DIN": "03151887",
+                "direct_name": "Manjit Kaur"
+            }
+        ]
+    },
+    {
+        "company_name": "SARBAT AGRO INDUSTRIES INDIA PRIVATE LIMITED",
+        "cin_no.": "U01403PB2013PTC037644",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-06-2013",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "BATHINDA",
+        "address": "H.NO-384 , VILLAGE KHIALI WALA TEH&DISTT.BATHINDA BATHINDA Bathinda PB IN 151001",
+        "register": "Registered on 24-06-2013",
+        "director_details": [
+            {
+                "DIN": "06602470",
+                "direct_name": "Gurbaz Singh"
+            },
+            {
+                "DIN": "06602478",
+                "direct_name": "Jaswinder Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "PUNJAB'S AGROTECH INDIA PRIVATE LIMITED",
+        "cin_no.": "U01403PB2013PTC037721",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "15000000",
+        "paid_up_capital": "12600000",
+        "registration_date": "11-07-2013",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "BATHINDA",
+        "address": "Near Shakti Resorts, Bathinda Barnala Road Village Lehra Dhurkoot, Rampuraphul Rampuraphul PB IN 151103",
+        "register": "Registered on 11-07-2013",
+        "director_details": [
+            {
+                "DIN": "07579633",
+                "direct_name": "Amrinder Singh"
+            },
+            {
+                "DIN": "06584453",
+                "direct_name": "Jarnail Singh"
+            },
+            {
+                "DIN": "06584457",
+                "direct_name": "Jaswant Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "SANGRIA AGRO FARMS PRIVATE LIMITED",
+        "cin_no.": "U01403PB2013PTC037971",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "900000",
+        "registration_date": "25-09-2013",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "BATHINDA",
+        "address": "3079, STREET NO. 6/1 B POWER HOUSE ROAD BATHINDA Bathinda PB IN 151005",
+        "register": "Registered on 25-09-2013",
+        "director_details": [
+            {
+                "DIN": "03465445",
+                "direct_name": "Surender Singh"
+            },
+            {
+                "DIN": "03465420",
+                "direct_name": "Tejinder Singh Sidhu"
+            }
+        ]
+    },
+    {
+        "company_name": "VIDYASON ENTERPRISES PRIVATE LIMITED",
+        "cin_no.": "U01403CH2008PTC031340",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "0",
+        "registration_date": "28-08-2008",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "CHANDIGARH",
+        "address": "HIG 23 SECTOR 48C MOHALI Rupnagar PB IN 160047",
+        "register": "Registered on 28-08-2008",
+        "director_details": [
+            {
+                "DIN": "02054204",
+                "direct_name": "Amarjit Singh Sodhi"
+            },
+            {
+                "DIN": "02054194",
+                "direct_name": "Manmeet Kaur"
+            },
+            {
+                "DIN": "02101453",
+                "direct_name": "Navneet Kaur"
+            }
+        ]
+    },
+    {
+        "company_name": "N M BUILDERS AND DEVELOPERS PRIVATE LIMITED",
+        "cin_no.": "U01403PB2008PTC032237",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "28-08-2008",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "CHANDIGARH",
+        "address": "SCO 121 Phase 11 Mohalli Rupnagar PB IN 160022",
+        "register": "Registered on 28-08-2008",
+        "director_details": [
+            {
+                "DIN": "01869668",
+                "direct_name": "Munish Behl"
+            },
+            {
+                "DIN": "01849119",
+                "direct_name": "Nadeem Mirza"
+            }
+        ]
+    },
+    {
+        "company_name": "G.P. HERBAL GREEN FARMS PRIVATE LIMITED",
+        "cin_no.": "U01403PB2011PTC035132",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-06-2011",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "CHANDIGARH",
+        "address": "PHASE I, MARKET GURUDWARA GOBINDSAR MOHALI Mohali PB IN 160001",
+        "register": "Registered on 01-06-2011",
+        "director_details": [
+            {
+                "DIN": "03536551",
+                "direct_name": "Gurprabjit Singh"
+            },
+            {
+                "DIN": "03536596",
+                "direct_name": "Navjot Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "AVS FINLEASE LTD",
+        "cin_no.": "U11834PB1991PLC011834",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "3222000",
+        "registration_date": "12-12-1991",
+        "business_activity": "Mining and Quarrying",
+        "state": "Punjab",
+        "district": "CHANDIGARH",
+        "address": "SCO 842SHIVALIK ENCLAVE MANIMAJRA CHANDIGARH UT PB IN 160101",
+        "register": "Registered on 12-12-1991",
+        "director_details": []
+    },
+    {
+        "company_name": "TIPS PHARMACEUTICALS PRIVATE LIMITED",
+        "cin_no.": "U24231PB1991PTC011009",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "44000",
+        "registration_date": "22-01-1991",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "CHANDIGARH",
+        "address": "SCO 43SECTOR 31D CHANDIGARH UT PB IN 160047",
+        "register": "Registered on 22-01-1991",
+        "director_details": []
+    },
+    {
+        "company_name": "SANTA BANTA NET LIMITED",
+        "cin_no.": "U55101PB1996PLC018418",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "26-06-1996",
+        "business_activity": "Trading",
+        "state": "Punjab",
+        "district": "CHANDIGARH",
+        "address": "HOUSE NO. 2486, PHASE-XI MOHALI PB IN 160011",
+        "register": "Registered on 26-06-1996",
+        "director_details": [
+            {
+                "DIN": "01819219",
+                "direct_name": "Jiwandeep Singh Ghai"
+            },
+            {
+                "DIN": "01819195",
+                "direct_name": "Manveen Ghai"
+            },
+            {
+                "DIN": "05349723",
+                "direct_name": "Prabhdeep Singh Ghai"
+            },
+            {
+                "DIN": "06787901",
+                "direct_name": "Rajinder Singh Taggar"
+            }
+        ]
+    },
+    {
+        "company_name": "RIYA AGRO PROCESSORS PRIVATE LIMITED",
+        "cin_no.": "U01119PB2008PTC031755",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "980000",
+        "registration_date": "10-03-2008",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "CHANDIGARH",
+        "address": "PLOT NO.407 PHASE IX INDUSTRIAL AREA MOHALI Mohali PB IN 160001",
+        "register": "Registered on 10-03-2008",
+        "director_details": [
+            {
+                "DIN": "01947424",
+                "direct_name": "Rajeev Arora"
+            },
+            {
+                "DIN": "01941220",
+                "direct_name": "Sanjeev Kumar Arora"
+            }
+        ]
+    },
+    {
+        "company_name": "GILLBEY POULTARY PRIVATE LIMITED",
+        "cin_no.": "U01222PB1998PTC021184",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-03-1998",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "CHANDIGARH",
+        "address": "VPO URDANTEHSIL RAJPURA DISTT PATIALA PUNJAB PB IN 160022",
+        "register": "Registered on 17-03-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "MADCAP CONSULTANTS PRIVATE LIMITED",
+        "cin_no.": "U74140PB2011PTC035594",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-11-2011",
+        "business_activity": "Business Services",
+        "state": "Punjab",
+        "district": "CHANDIGARH",
+        "address": "H. NO - 601, BOLLYWOOD HEIGHTS, , PETUNIA TOWER, DHAKOLI ROAD, PEERMUCHALLA ZIRAKPUR PB IN 160003",
+        "register": "Registered on 01-11-2011",
+        "director_details": [
+            {
+                "DIN": "05106353",
+                "direct_name": "Amit Baruah"
+            },
+            {
+                "DIN": "05106355",
+                "direct_name": "Saumya Baruah"
+            }
+        ]
+    },
+    {
+        "company_name": "MRIGA OVERSEAS PRIVATE LIMITED",
+        "cin_no.": "U51311PB1992PTC012519",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "05-08-1992",
+        "business_activity": "Trading",
+        "state": "Punjab",
+        "district": "CHANDIGARH",
+        "address": "S C O 71SECTOR 31 C CHANDIGARH U T PB IN 160047",
+        "register": "Registered on 05-08-1992",
+        "director_details": [
+            {
+                "DIN": "00610505",
+                "direct_name": "Bhanwar Lal Jain"
+            },
+            {
+                "DIN": "00617427",
+                "direct_name": "Surbhi Jain"
+            }
+        ]
+    },
+    {
+        "company_name": "LIFE CARE PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400PB2016PTC040046",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "01-02-2016",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FARIDKOT",
+        "address": "SHOPE NO. 09/10 DEVI WALA ROAD NEAR BUS STAND KOTKAPURA KOTKAPURA Faridkot PB IN 151204",
+        "register": "Registered on 01-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "AMYRA FOODS PRIVATE LIMITED",
+        "cin_no.": "U01403PB2016PTC040171",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "65000000",
+        "paid_up_capital": "42550000",
+        "registration_date": "14-03-2016",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FARIDKOT",
+        "address": "SAMRA INDUSTRIES, SADIQ ROAD FARIDKOT PB IN 151203",
+        "register": "Registered on 14-03-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "CROP CHEMICALS INDIA LIMITED",
+        "cin_no.": "U24219PB2003PLC026162",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "36638360",
+        "registration_date": "03-07-2003",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "FARIDKOT",
+        "address": "C-63 TO 65 FOCAL POINTKOTKAPURA DISTT.FARIDKOT PUNJAB PB IN 151204",
+        "register": "Registered on 03-07-2003",
+        "director_details": [
+            {
+                "DIN": "01647991",
+                "direct_name": "Chander Goyal"
+            },
+            {
+                "DIN": "02878613",
+                "direct_name": "Mahla Ram Goyal"
+            },
+            {
+                "DIN": "01647945",
+                "direct_name": "Rajinder Goyal"
+            },
+            {
+                "DIN": "02878619",
+                "direct_name": "Vinod Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "LAND POWER AGROTECH PRIVATE LIMITED",
+        "cin_no.": "U01403PB2009PTC032709",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "25-03-2009",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FARIDKOT",
+        "address": "#B1/604 NEAR DASHMESH PUBLIC SCHOOL PARTAP NAGAR KOTKAPURA Faridkot PB IN 151204",
+        "register": "Registered on 25-03-2009",
+        "director_details": [
+            {
+                "DIN": "02583116",
+                "direct_name": "Harpreet Kaur Muhar"
+            },
+            {
+                "DIN": "02282539",
+                "direct_name": "Kulwinder Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "INTERNATIONAL LANDSCAPE & AGRILAND DEVELOPERS PRIVATE LIMITED",
+        "cin_no.": "U01403PB2013PTC037813",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-08-2013",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FARIDKOT",
+        "address": "OPP.OLD SADAR THANA KOTKAPURA ROAD FARIDKOT Firozpur PB IN 151203",
+        "register": "Registered on 08-08-2013",
+        "director_details": [
+            {
+                "DIN": "06634134",
+                "direct_name": "Pritpal Singh Jatana"
+            },
+            {
+                "DIN": "06634173",
+                "direct_name": "Sarbpal Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "PEE ENN FARMS PRIVATE LIMITED",
+        "cin_no.": "U01409PB2007PTC031031",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-04-2007",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FARIDKOT",
+        "address": "H. NO. 629, PART 3,VILLAGE SANDHWAN FARIDKOT Faridkot PB IN 151209",
+        "register": "Registered on 03-04-2007",
+        "director_details": [
+            {
+                "DIN": "01409500",
+                "direct_name": "Kuldeep Singh"
+            },
+            {
+                "DIN": "02069781",
+                "direct_name": "Sukhwinder Kaur"
+            }
+        ]
+    },
+    {
+        "company_name": "INDIAN AGRI SCIENCE PRIVATE LIMITED",
+        "cin_no.": "U24100PB2014PTC038423",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-02-2014",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "FARIDKOT",
+        "address": "Dr KISHOR CHAND STREET , JAITU Faridkot PB IN 151202",
+        "register": "Registered on 24-02-2014",
+        "director_details": [
+            {
+                "DIN": "06813541",
+                "direct_name": "Anu Maheshwary"
+            },
+            {
+                "DIN": "06813548",
+                "direct_name": "Divender Maheshwary"
+            }
+        ]
+    },
+    {
+        "company_name": "OSWAL FERTILISERS PVT LTD",
+        "cin_no.": "U24129PB1988PTC008301",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "800000",
+        "paid_up_capital": "518000",
+        "registration_date": "22-04-1988",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "FARIDKOT",
+        "address": "GRAIN MARKETKOTAKPURA FRIDKOT PUNJAB Moga PB IN 151204",
+        "register": "Registered on 22-04-1988",
+        "director_details": [
+            {
+                "DIN": "01679034",
+                "direct_name": "Anil Kumar Jain"
+            },
+            {
+                "DIN": "01680333",
+                "direct_name": "Ashok Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "AGGARSAIN AGROPEST PRIVATE LIMITED",
+        "cin_no.": "U24211PB1999PTC022218",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "252000",
+        "registration_date": "09-02-1999",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "FARIDKOT",
+        "address": "84 NEW GRAIN MARKETKOTKAPURA DISTT FARIDKOT PUNJAB PB IN 151204",
+        "register": "Registered on 09-02-1999",
+        "director_details": [
+            {
+                "DIN": "01786295",
+                "direct_name": "Geeta Aggarwal"
+            },
+            {
+                "DIN": "01591572",
+                "direct_name": "Parmodh Kumar"
+            },
+            {
+                "DIN": "02217642",
+                "direct_name": "Renu Bala"
+            },
+            {
+                "DIN": "01591593",
+                "direct_name": "Vinod Kumar Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "CHELAWASIA AGROTECH PRIVATE LIMITED",
+        "cin_no.": "U24211PB2007PTC031460",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "08-11-2007",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "FARIDKOT",
+        "address": "SHOP NO 84 NEAR GRAIN MARKET KOTKAPURA PB IN 151204",
+        "register": "Registered on 08-11-2007",
+        "director_details": [
+            {
+                "DIN": "01786295",
+                "direct_name": "Geeta Aggarwal"
+            },
+            {
+                "DIN": "01591572",
+                "direct_name": "Parmodh Kumar"
+            },
+            {
+                "DIN": "01591593",
+                "direct_name": "Vinod Kumar Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "CHANDIGARH FARMS PVT LTD",
+        "cin_no.": "U01229PB1989PTC008988",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "1196500",
+        "registration_date": "18-01-1989",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FATEHGARH SAHIB",
+        "address": "LOHA BAZARMANDI GOBINDGARH DISTT FATEHGARH SAHIB PUNJAB PB IN 147301",
+        "register": "Registered on 18-01-1989",
+        "director_details": [
+            {
+                "DIN": "01541497",
+                "direct_name": "Gaurav Goyal"
+            },
+            {
+                "DIN": "00368616",
+                "direct_name": "Nidhi Gupta"
+            },
+            {
+                "DIN": "00093415",
+                "direct_name": "Satish Goyal"
+            }
+        ]
+    },
+    {
+        "company_name": "KHAMANO FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400PB2016PTC040208",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-03-2016",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FATEHGARH SAHIB",
+        "address": "VPO KOTLA BADLA , KHAMANO DISTRICT FATEHGARH SAHIB KHAMANO Fatehgarh Sahib PB IN 141411",
+        "register": "Registered on 23-03-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "EKJOT QUALITY AGROTECH PRIVATE LIMITED",
+        "cin_no.": "U01403PB2015PTC039942",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-12-2015",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FATEHGARH SAHIB",
+        "address": "C/O MANPREET SINGH, H. NO. 124 SECTOR 20C, MOTIA KHAN MANDI GOBINDGARH Fatehgarh Sahib PB IN 147301",
+        "register": "Registered on 08-12-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "GREEN ORBIT AGRICULTURE LIMITED",
+        "cin_no.": "U01403PB2015PLC039249",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "11-02-2015",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FATEHGARH SAHIB",
+        "address": "FIRST FLOOR, JASSAD COMPLEX NEAR JYOTI SAROOP Mohali Fatehgarh Sahib PB IN 140406",
+        "register": "Registered on 11-02-2015",
+        "director_details": [
+            {
+                "DIN": "06989810",
+                "direct_name": "Baljinder Singh"
+            },
+            {
+                "DIN": "06989806",
+                "direct_name": "Karamjit Singh"
+            },
+            {
+                "DIN": "06989808",
+                "direct_name": "Taranveer Kaur"
+            }
+        ]
+    },
+    {
+        "company_name": "DHOLEWAL GRAIN PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403PB2015PTC039453",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-05-2015",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FATEHGARH SAHIB",
+        "address": "VILLAGE DHOLEWAL TEHSIL KHAMANO Fatehgarh Sahib Fatehgarh Sahib PB IN 141411",
+        "register": "Registered on 13-05-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "GURSHAKTI COLD STORAGE PRIVATE LIMITED",
+        "cin_no.": "U01409PB2009PTC033113",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "14000000",
+        "paid_up_capital": "13989000",
+        "registration_date": "14-08-2009",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FATEHGARH SAHIB",
+        "address": "VPO GOSLAN TEHSIL SAMRALA SAMRALA Ludhiana PB IN 141411",
+        "register": "Registered on 14-08-2009",
+        "director_details": [
+            {
+                "DIN": "02733133",
+                "direct_name": "Manjit Kaur"
+            },
+            {
+                "DIN": "03201748",
+                "direct_name": "Narinder Kaur"
+            },
+            {
+                "DIN": "02733124",
+                "direct_name": "Pal Singh"
+            },
+            {
+                "DIN": "07290252",
+                "direct_name": "Ravijot Singh Gosal"
+            }
+        ]
+    },
+    {
+        "company_name": "GOBINDGARH STONE CRUSHERS PRIVATE LIMITED",
+        "cin_no.": "U14200PB2013PTC037206",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "30000000",
+        "paid_up_capital": "30000000",
+        "registration_date": "12-03-2013",
+        "business_activity": "Mining and Quarrying",
+        "state": "Punjab",
+        "district": "FATEHGARH SAHIB",
+        "address": "# 393, Sector-3 Near Main Post Office Mandi Gobindgarh Fatehgarh Sahib PB IN 147301",
+        "register": "Registered on 12-03-2013",
+        "director_details": [
+            {
+                "DIN": "06485649",
+                "direct_name": "Gurinder Singh Randhawa"
+            },
+            {
+                "DIN": "06511891",
+                "direct_name": "Harinder Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "SABBIA MINES PRIVATE LIMITED",
+        "cin_no.": "U14200PB2014PTC038339",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "31-01-2014",
+        "business_activity": "Mining and Quarrying",
+        "state": "Punjab",
+        "district": "FATEHGARH SAHIB",
+        "address": "H.NO.345, FIRST FLOOR SECTOR-22B, BANK OF INDIA ROAD MANDI GOBINDGARH Fatehgarh Sahib PB IN 147301",
+        "register": "Registered on 31-01-2014",
+        "director_details": [
+            {
+                "DIN": "03415998",
+                "direct_name": "Santosh Kumari"
+            },
+            {
+                "DIN": "03452270",
+                "direct_name": "Vinod Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "JAY GASES PRIVATE LIMITED",
+        "cin_no.": "U24111PB1971PTC003038",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "1616000",
+        "registration_date": "09-08-1971",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "FATEHGARH SAHIB",
+        "address": "G T ROADMANDI GOBINDGARH PUNJAB PB IN 147301",
+        "register": "Registered on 09-08-1971",
+        "director_details": [
+            {
+                "DIN": "01194627",
+                "direct_name": "Dhajinder Gupta"
+            },
+            {
+                "DIN": "01179040",
+                "direct_name": "Rabinder Nath"
+            }
+        ]
+    },
+    {
+        "company_name": "AJAY GASES PRIVATE LIMITED",
+        "cin_no.": "U24111PB1987PTC007495",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "4000000",
+        "paid_up_capital": "4000000",
+        "registration_date": "04-06-1987",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "FATEHGARH SAHIB",
+        "address": "G T ROAD SIRHIND SIDE MANDI GOBINDGARH MANDI GOBINDGARH PB IN 147301",
+        "register": "Registered on 04-06-1987",
+        "director_details": [
+            {
+                "DIN": "00597045",
+                "direct_name": "Ajay Kumar Chikarsal"
+            },
+            {
+                "DIN": "00593816",
+                "direct_name": "Bahadur Chand Sahi"
+            },
+            {
+                "DIN": "00593873",
+                "direct_name": "Gian Chand Sahi"
+            },
+            {
+                "DIN": "00597170",
+                "direct_name": "Naresh Chander"
+            },
+            {
+                "DIN": "00597134",
+                "direct_name": "Ramesh Chander"
+            },
+            {
+                "DIN": "00597114",
+                "direct_name": "Suresh Chander"
+            },
+            {
+                "DIN": "00593696",
+                "direct_name": "Vaneet Sahi"
+            }
+        ]
+    },
+    {
+        "company_name": "PARADISE MULTIPLEXES CUM VILLAS PRIVATE LIMITED",
+        "cin_no.": "U01403PB2008PTC031709",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "28-02-2008",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FIROZPUR",
+        "address": "GARG NIWAS B-V/1944 BASANT AVENUE COLLEGE ROAD, NEAR PETROL PUMP ABOHAR PB IN 152116",
+        "register": "Registered on 28-02-2008",
+        "director_details": [
+            {
+                "DIN": "03058226",
+                "direct_name": "Gopal Singh Kumar"
+            },
+            {
+                "DIN": "01993646",
+                "direct_name": "Mohinder Partap"
+            },
+            {
+                "DIN": "02251644",
+                "direct_name": "Parveen Kumar Kansal"
+            },
+            {
+                "DIN": "00128923",
+                "direct_name": "Sham Lal"
+            }
+        ]
+    },
+    {
+        "company_name": "ZIRA PDFA DAIRY SERVICE PRIVATE LIMITED",
+        "cin_no.": "U01229PB2012PTC036695",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-09-2012",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FIROZPUR",
+        "address": "WARD NO. 12, SHAHZADA NAGAR TEH. ZIRA FEROZEPUR PB IN 142047",
+        "register": "Registered on 28-09-2012",
+        "director_details": [
+            {
+                "DIN": "06385313",
+                "direct_name": "Parshan Singh Sidhu"
+            },
+            {
+                "DIN": "06385273",
+                "direct_name": "Resham Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "NAVAM AGROTECH PRIVATE LIMITED",
+        "cin_no.": "U01400PB2013PTC037198",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-03-2013",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FIROZPUR",
+        "address": "1 VILLAGE DHINGENWALI TEHSIL ABOHBAR ABOHAR Firozpur PB IN 152128",
+        "register": "Registered on 11-03-2013",
+        "director_details": [
+            {
+                "DIN": "06515842",
+                "direct_name": "Jai Paul Singh"
+            },
+            {
+                "DIN": "06515812",
+                "direct_name": "Jitendra Paul Singh"
+            },
+            {
+                "DIN": "06515771",
+                "direct_name": "Sunita Sihag"
+            }
+        ]
+    },
+    {
+        "company_name": "SUDHIR AGRO SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U01400PB2015PTC039814",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-10-2015",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FIROZPUR",
+        "address": "#922, COLLEGE ROAD, NEAR RAILWAY OVER BRIDGE St. NO 5, OLD SURAJ NAGARI ABOHAR Firozpur PB IN 152116",
+        "register": "Registered on 14-10-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "NARAYAN CHEMFERT PRIVATE LIMITED",
+        "cin_no.": "U24219PB1998PTC021546",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "1955000",
+        "registration_date": "01-07-1998",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "FIROZPUR",
+        "address": "MANDI NO 1ABOHAR DISTT FEROZEPUR PUNJAB PB IN 152116",
+        "register": "Registered on 01-07-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "PUPNEJA AGRI FARMS PRIVATE LIMITED",
+        "cin_no.": "U01403PB2010PTC034269",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-09-2010",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FIROZPUR",
+        "address": "SHOP NO. 67 ADDITIONAL NEW GRAIN MARKET FAZILKA PB IN 152123",
+        "register": "Registered on 15-09-2010",
+        "director_details": [
+            {
+                "DIN": "07592694",
+                "direct_name": "Bharat Pupneja"
+            },
+            {
+                "DIN": "03195745",
+                "direct_name": "Jyoti"
+            },
+            {
+                "DIN": "03196473",
+                "direct_name": "Vipan Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "RANVEER FOODS PRIVATE LIMITED",
+        "cin_no.": "U01403PB2010PTC034532",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-12-2010",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FIROZPUR",
+        "address": "F.F. ROAD JALALABAD WEST JALALABAD PB IN 152024",
+        "register": "Registered on 23-12-2010",
+        "director_details": [
+            {
+                "DIN": "06402457",
+                "direct_name": "Naresh Kumar Batra"
+            },
+            {
+                "DIN": "05286744",
+                "direct_name": "Sahil Batra"
+            },
+            {
+                "DIN": "03351451",
+                "direct_name": "Surinder Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "RELAY FARMING INDIA LIMITED",
+        "cin_no.": "U01403PB2012PLC036640",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "11-09-2012",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FIROZPUR",
+        "address": "NEAR SANJEEV CINEMA ABOHRI ROAD FAZILKA Firozpur PB IN 152123",
+        "register": "Registered on 11-09-2012",
+        "director_details": [
+            {
+                "DIN": "05353606",
+                "direct_name": "Minakshi"
+            },
+            {
+                "DIN": "06359925",
+                "direct_name": "Rajinder Kumar Sharma"
+            },
+            {
+                "DIN": "05353609",
+                "direct_name": "Subhash Choudhary"
+            }
+        ]
+    },
+    {
+        "company_name": "USHA MODI AGRI FARMS PRIVATE LIMITED",
+        "cin_no.": "U01403PB2012PTC036395",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-06-2012",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FIROZPUR",
+        "address": "HNO. XI/147, STR SARAN DASS BEHIND GOVT. PRIMARY SCHOOL NO 2 FAZILKA PB IN 152123",
+        "register": "Registered on 28-06-2012",
+        "director_details": [
+            {
+                "DIN": "05314132",
+                "direct_name": "Ashwani Kumar Modi"
+            },
+            {
+                "DIN": "02817476",
+                "direct_name": "Dinesh Kumar Modi"
+            }
+        ]
+    },
+    {
+        "company_name": "KEN AGRICULTURE DEVELOPERS INDIA LIMITED",
+        "cin_no.": "U01403PB2013PLC037676",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "01-07-2013",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "FIROZPUR",
+        "address": "CS/162-B, I/S DELHI GATE NEAR FARIDKOTIA SWEET HOUSE FEROZPUR Firozpur PB IN 152002",
+        "register": "Registered on 01-07-2013",
+        "director_details": [
+            {
+                "DIN": "06614096",
+                "direct_name": "Gursewak Singh"
+            },
+            {
+                "DIN": "06614099",
+                "direct_name": "Kuldeep Singh"
+            },
+            {
+                "DIN": "06614107",
+                "direct_name": "Navinder Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "ZADOK MULTI TRADE PRIVATE LIMITED",
+        "cin_no.": "U52601PB2018PTC047590",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-03-2018",
+        "business_activity": "Trading",
+        "state": "Punjab",
+        "district": "GURDASPUR",
+        "address": "C/O INCOMETAX OFFICE GT ROAD GURDASPUR Gurdaspur PB IN 143521",
+        "register": "Registered on 19-03-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "SAHOWALIA AGRO PRIVATE LIMITED",
+        "cin_no.": "U01403PB2013PTC038143",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "29-11-2013",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "GURDASPUR",
+        "address": "SHOP AT MANDI GURDASPUR Gurdaspur PB IN 143521",
+        "register": "Registered on 29-11-2013",
+        "director_details": [
+            {
+                "DIN": "06742554",
+                "direct_name": "Gaurav Mahajan"
+            },
+            {
+                "DIN": "02922393",
+                "direct_name": "Veena Mahajan"
+            }
+        ]
+    },
+    {
+        "company_name": "SECURE AGRICULTURE BUSINESS LIMITED",
+        "cin_no.": "U01403PB2015PLC039665",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "200000",
+        "registration_date": "11-08-2015",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "GURDASPUR",
+        "address": "PRITPAL BUILDING, 1ST FLOOR NEAR WAREHOUSE, GURDASPUR ROAD PATHANKOT Gurdaspur PB IN 145001",
+        "register": "Registered on 11-08-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "MOHAN TIMBERS PRIVATE LIMITED",
+        "cin_no.": "U02001PB1978PTC003867",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "123000",
+        "registration_date": "18-09-1978",
+        "business_activity": "Agriculture",
+        "state": "Punjab",
+        "district": "GURDASPUR",
+        "address": "MOHAN MARKETDACHOUSIE ROAD PATHANKOT DISTT GURDASPUR PUNJAB PB IN 145001",
+        "register": "Registered on 18-09-1978",
+        "director_details": [
+            {
+                "DIN": "01105207",
+                "direct_name": "Ajay Kumar Goel"
+            },
+            {
+                "DIN": "01850928",
+                "direct_name": "Pardeep Kumar Aggarwal"
+            },
+            {
+                "DIN": "01850935",
+                "direct_name": "Santosh Rani Aggarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "VAIBHAV MEDICARES PRIVATE LIMITED",
+        "cin_no.": "U24110PB2008PTC031604",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "21-01-2008",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "GURDASPUR",
+        "address": "170-Inside Pahari Gate Batala Gurdaspur PB IN 143505",
+        "register": "Registered on 21-01-2008",
+        "director_details": [
+            {
+                "DIN": "01901578",
+                "direct_name": "Anita Sharma"
+            },
+            {
+                "DIN": "01901582",
+                "direct_name": "Rajesh Prabhakar"
+            }
+        ]
+    },
+    {
+        "company_name": "CAVEAT PHARMA PRIVATE LIMITED",
+        "cin_no.": "U24119PB2007PTC031229",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-06-2007",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "GURDASPUR",
+        "address": "H.NO.690/7, BASANT AVENUE MEHAR CHAND ROAD, NEAR JANJUA HOSPITAL GURDASPUR PB IN 143521",
+        "register": "Registered on 22-06-2007",
+        "director_details": [
+            {
+                "DIN": "01334801",
+                "direct_name": "Gagan Deep"
+            },
+            {
+                "DIN": "06849734",
+                "direct_name": "Kiranjit Kaur"
+            }
+        ]
+    },
+    {
+        "company_name": "HORIZON HEALTH CARE PRIVATE LIMITED",
+        "cin_no.": "U24230PB2005PTC028430",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-05-2005",
+        "business_activity": "Metals and Chemicals",
+        "state": "Punjab",
+        "district": "GURDASPUR",
+        "address": "H.NO. 690/7, BASANT AVENUE, MEHAR CHAND ROAD, NEAR JANJUA HOSPITAL GURDASPUR Gurdaspur PB IN 143521",
+        "register": "Registered on 18-05-2005",
+        "director_details": [
+            {
+                "DIN": "01279168",
+                "direct_name": "Ashok Oberai"
+            },
+            {
+                "DIN": "00969776",
+                "direct_name": "Ram Murti Kaushal"
+            },
+            {
+                "DIN": "01279175",
+                "direct_name": "Sunil Kaushal"
+            }
+        ]
+    },
+    {
+        "company_name": "BRD STAR PRIVATE LIMITED",
+        "cin_no.": "U52603PB2016PTC045706",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-09-2016",
+        "business_activity": "Trading",
+        "state": "Punjab",
+        "district": "GURDASPUR",
+        "address": "SCF 23/24 DHARAMPURA COLONY BATALA Gurdaspur PB IN 143505",
+        "register": "Registered on 08-09-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "ETTAN TOUCH TRADERS PRIVATE LIMITED",
+        "cin_no.": "U52609PB2016PTC045217",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-04-2016",
+        "business_activity": "Trading",
+        "state": "Punjab",
+        "district": "GURDASPUR",
+        "address": "2nd Floor, A.K.Plaza jail Road Gurdaspur Gurdaspur PB IN 143521",
+        "register": "Registered on 12-04-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "LIGIUSLIFE PLAN COUNSELING PRIVATE LIMITED",
+        "cin_no.": "U52609PB2016PTC045782",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-10-2016",
+        "business_activity": "Trading",
+        "state": "Punjab",
+        "district": "GURDASPUR",
+        "address": "Mission Hospital road Dhariwal near Post Office Gurdaspur Gurdaspur PB IN 143521",
+        "register": "Registered on 13-10-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "LOOKMYTICKET TOURS AND TRAVELS PRIVATE LIMITED",
+        "cin_no.": "U74999HR2015PTC055746",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-06-2015",
+        "business_activity": "Business Services",
+        "state": "Haryana",
+        "district": "NA",
+        "address": "HOUSE NO. 725, SECTOR 12 PANCHKULA Panchkula HR IN 134115",
+        "register": "Registered on 11-06-2015",
+        "director_details": []
+    }
+]

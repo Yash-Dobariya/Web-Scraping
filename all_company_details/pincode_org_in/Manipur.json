@@ -1,0 +1,1727 @@
+[
+    {
+        "company_name": "FIDAM FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01211MN2016PTC008461",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "262500",
+        "registration_date": "03-03-2016",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "BISHNUPUR",
+        "address": "C/o Laitonjam Renu Devi Keinou (B) Thongkha, P.O Nambol Nambol Bishnupur MN IN 795134",
+        "register": "Registered on 03-03-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "HGS INFRA SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U45500MN2017PTC013614",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-12-2017",
+        "business_activity": "Construction",
+        "state": "Manipur",
+        "district": "BISHNUPUR",
+        "address": "NAMBOL AWANG LEIKAI, WARD NO-4 NAMBOL SUB DIVISION BISHNUPUR NAMBOL Bishnupur MN IN 795134",
+        "register": "Registered on 20-12-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "KANGLA ADVANCED FOOD TECHNOLOGY PRIVATE LIMITED",
+        "cin_no.": "U15100MN2017PTC013516",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "27-02-2017",
+        "business_activity": "Food Manufacturing",
+        "state": "Manipur",
+        "district": "BISHNUPUR",
+        "address": "TERA UREK, INDUSTRIAL ESTATE, BISHNUPUR Bishnupur MN IN 795133",
+        "register": "Registered on 27-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "ZNACKA FASHIONS PRIVATE LIMITED",
+        "cin_no.": "U18209MN2018PTC013625",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-01-2018",
+        "business_activity": "Textiles",
+        "state": "Manipur",
+        "district": "BISHNUPUR",
+        "address": "MOIRANG COLLEGE GATE WORD NO.9 MANIPUR Bishnupur MN IN 795133",
+        "register": "Registered on 24-01-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "MAHUM CONSULTANTS PRIVATE LIMITED",
+        "cin_no.": "U74999MN2017PTC013513",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-02-2017",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "BISHNUPUR",
+        "address": "Thangjing Road Opp. SBI Moirang Branch Moirang Bishnupur MN IN 795133",
+        "register": "Registered on 14-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "UNUNI CONSULTANCY PRIVATE LIMITED",
+        "cin_no.": "U74999MN2017PTC013573",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "31-08-2017",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "BISHNUPUR",
+        "address": "C/o Salam Mani Singh Naranseina Awang Bishnupur Bishnupur MN IN 795133",
+        "register": "Registered on 31-08-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "URJIT INFO SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U72200MN2009PTC008250",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-10-2009",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "BISHNUPUR",
+        "address": "OINAM AWANG LEIKAI, PS NAMBOL PO NAMBOL DIST BISHNUPUR BISHNUPUR Bishnupur MN IN 795134",
+        "register": "Registered on 23-10-2009",
+        "director_details": [
+            {
+                "DIN": "01745780",
+                "direct_name": "Asharani Rojitkumar Sorokhaibam"
+            },
+            {
+                "DIN": "01745767",
+                "direct_name": "Rojitkumarsingh Sorokhaibam"
+            }
+        ]
+    },
+    {
+        "company_name": "IWAARI MEDIA AND ENTERTAINMENT PRIVATE LIMITED",
+        "cin_no.": "U74999MN2018PTC013665",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-05-2018",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "BISHNUPUR",
+        "address": "House No 204, BPR-W/11, Ngaikhong Khullen Road, Bishnupur Mamang Leikai BISHNUPUR Bishnupur-795126,Manipur",
+        "register": "Registered on 09-05-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "LANGDAI TECHNOLOGIES PRIVATE LIMITED",
+        "cin_no.": "U72200MN2018PTC013671",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-05-2018",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "BISHNUPUR",
+        "address": "C/o Khomdram Shivanta Singh Nambol Bazar Bishnupur District BISHNUPUR Bishnupur-795134,Manipur",
+        "register": "Registered on 23-05-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "WAKHAL COMMUNITIES PRIVATE LIMITED",
+        "cin_no.": "U72900MN2018PTC013697",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "21-06-2018",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "BISHNUPUR",
+        "address": "C/O IBOMCHA SINGH SOROKHAIBAM, OINAM AWANG LEIKAI, WARD NO 2, PS NAMBOL PO NAMBOL Bishnupur-795134 Manipur",
+        "register": "Registered on 21-06-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "RUWMEE ORGANIC PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100MN2017PTC013597",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "200000",
+        "registration_date": "31-10-2017",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "CHANDEL",
+        "address": "KOMLATHABI VILLAGE CHANDEL Chandel MN IN 795127",
+        "register": "Registered on 31-10-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "LOULHOUMI ORGANIC PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01110MN2017PTC013555",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-08-2017",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "CHURACHANDPUR",
+        "address": "SABUAL VILLAGE TIPAIMUKH ROAD CHURACHANDPUR Churachandpur MN IN 795128",
+        "register": "Registered on 01-08-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "MANATAM TEA COMPANY PRIVATE LIMITED",
+        "cin_no.": "U15491MN2003PTC007011",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "23-01-2003",
+        "business_activity": "Food Manufacturing",
+        "state": "Manipur",
+        "district": "CHURACHANDPUR",
+        "address": "CHURACHANDRAPURSIELHAT MANIPUR SOUTH MANIPUR MN IN 795128",
+        "register": "Registered on 23-01-2003",
+        "director_details": []
+    },
+    {
+        "company_name": "THRUST TRADING AND INDUSTRY PRIVATE LIMITED",
+        "cin_no.": "U70200MN2017PTC013609",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-11-2017",
+        "business_activity": "Real Estate",
+        "state": "Manipur",
+        "district": "CHURACHANDPUR",
+        "address": "1245/B/TB, ADC ROAD,DISTRICT HEADQUARTER CHURACHANDPUR SUB-DIVISION,CHURACHANDPUR MANIPUR Churachandpur MN IN 795128",
+        "register": "Registered on 30-11-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "ZOEDGE SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U74990MN2013PTC008352",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-08-2013",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "CHURACHANDPUR",
+        "address": "Laiveng, Bungmual, Lamka Churachandpur MN IN 795128",
+        "register": "Registered on 29-08-2013",
+        "director_details": [
+            {
+                "DIN": "06606189",
+                "direct_name": "Lethil Pumkhanpau"
+            },
+            {
+                "DIN": "03565415",
+                "direct_name": "Nangmuansang Lethil"
+            },
+            {
+                "DIN": "00024213",
+                "direct_name": "Sarath Babu E Elumalai"
+            }
+        ]
+    },
+    {
+        "company_name": "CHIBAI INITIATIVE DEVELOPMENT",
+        "cin_no.": "U93000MN2013NPL008347",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "700000",
+        "registration_date": "29-07-2013",
+        "business_activity": "Personal and Social Services",
+        "state": "Manipur",
+        "district": "CHURACHANDPUR",
+        "address": "Sandy Cottage, Tona Road, Elim Veng, New Lamka Churachandpur Churachandpur MN IN 795128",
+        "register": "Registered on 29-07-2013",
+        "director_details": [
+            {
+                "DIN": "05127248",
+                "direct_name": "Jamzaliana Guite"
+            },
+            {
+                "DIN": "06593693",
+                "direct_name": "Khaikholal Guite"
+            },
+            {
+                "DIN": "06605632",
+                "direct_name": "Ricky Vanlallawm Guite"
+            },
+            {
+                "DIN": "05345559",
+                "direct_name": "Thangchinlian Guite"
+            },
+            {
+                "DIN": "06605643",
+                "direct_name": "Vungkhum Guite"
+            }
+        ]
+    },
+    {
+        "company_name": "ZOHEISA TECHNOLOGIES PRIVATE LIMITED",
+        "cin_no.": "U72900MN2016PTC013475",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-06-2016",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "CHURACHANDPUR",
+        "address": "VENGNUAM, NEW LAMKA, CHURACHANDPUR, MANIPUR MN IN 795006",
+        "register": "Registered on 15-06-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "LAMKA ONLINE (OPC) PRIVATE LIMITED",
+        "cin_no.": "U72900MN2018OPC013681",
+        "status": "Active",
+        "class": "Private One Person",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "10000",
+        "registration_date": "04-06-2018",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "CHURACHANDPUR",
+        "address": "C/o Luaichinkhup Tonsing, Chapel Lane, Hiangtam Lamka CHURACHANDPUR Churachandpur-795128 Manipur",
+        "register": "Registered on 04-06-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "KANAMJEM NETWORK (OPC) PRIVATE LIMITED",
+        "cin_no.": "U74999MN2018OPC013686",
+        "status": "Active",
+        "class": "Private One Person",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "50000",
+        "paid_up_capital": "50000",
+        "registration_date": "11-06-2018",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "CHURACHANDPUR",
+        "address": "B. Aijalon, Bijang CHURACHANDPUR Churachandpur-795128 Manipur",
+        "register": "Registered on 11-06-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "THANGVUNG PRIVILEGE SERVICES PRIVATE LIMITED",
+        "cin_no.": "U74999MN2018PTC013689",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-06-2018",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "CHURACHANDPUR",
+        "address": "HOUSE NO. 4 LEISANG CHURACHANDPUR MANIPUR CHURACHANDPUR Churachandpur-795128 Manipur",
+        "register": "Registered on 13-06-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "SOCIAL ECOLOGY PLANTING AND ANIMAL REARING DEVELOPMENT PRIVATE LIMITED",
+        "cin_no.": "U01403MN2015PTC008423",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-04-2015",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL EAST",
+        "address": "HAMLEIKHONG, B-BLOCK, UKHRUL Ukhrul MN IN 795010",
+        "register": "Registered on 16-04-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "NORTH EASTERN HIGH TECH AGRICULTURAL DEV ELOPMENT CO. LTD.",
+        "cin_no.": "U01409MN2000PLC006163",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "15-05-2000",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL EAST",
+        "address": "CHINGAMAKHA IROM LEIKAI,P.O. SINGJAMEI, DIST",
+        "register": "Registered on 15-05-2000",
+        "director_details": []
+    },
+    {
+        "company_name": "MANIPUR AGROTECH AND TRADING COMPANY LTD",
+        "cin_no.": "U01409MN2000PLC006183",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "35000",
+        "registration_date": "29-05-2000",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL EAST",
+        "address": "TARETKHULLAMLONG P S LAMLAI MANIPUR MN IN 795010",
+        "register": "Registered on 29-05-2000",
+        "director_details": []
+    },
+    {
+        "company_name": "BABINA HOSPITALITIES PRIVATE LIMITED",
+        "cin_no.": "U55101MN2012PTC008297",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "80000000",
+        "paid_up_capital": "76900000",
+        "registration_date": "06-02-2012",
+        "business_activity": "Trading",
+        "state": "Manipur",
+        "district": "IMPHAL EAST",
+        "address": "Chingmeirong ,Imphal East P.O Lamlong Imphal MN IN 795010",
+        "register": "Registered on 06-02-2012",
+        "director_details": [
+            {
+                "DIN": "01749032",
+                "direct_name": "Dhabali Singh Thangjam"
+            },
+            {
+                "DIN": "ATOPG4889Q",
+                "direct_name": "Gautam Goswami"
+            },
+            {
+                "DIN": "03595709",
+                "direct_name": "Naoba Thangjam"
+            },
+            {
+                "DIN": "01712856",
+                "direct_name": "Thangjam Momocha"
+            }
+        ]
+    },
+    {
+        "company_name": "ATHOILEN FOOD INDUSTRIES (OPC) PRIVATE LIMITED",
+        "cin_no.": "U01100MN2018OPC013659",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "12-04-2018",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL EAST",
+        "address": "C/O. THANGJAM PRIYANKA DEVI IED-IV, 61-4-NB KHURAI LAMLONG KEITHEL East Imphal MN IN 795010",
+        "register": "Registered on 12-04-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "MAPU CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U45500MN2018PTC013622",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-01-2018",
+        "business_activity": "Construction",
+        "state": "Manipur",
+        "district": "IMPHAL EAST",
+        "address": "IED-III, 13-E-37/18, Kakwa Lamdaibung Singjamei Imphal East Imphal MN IN 795008",
+        "register": "Registered on 09-01-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "LOYALAM MOTORS PRIVATE LIMITED",
+        "cin_no.": "U50100MN2015PTC008431",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "4500000",
+        "paid_up_capital": "1000000",
+        "registration_date": "01-06-2015",
+        "business_activity": "Trading",
+        "state": "Manipur",
+        "district": "IMPHAL EAST",
+        "address": "PINK TOWER, 3RD FLOOR, KHURAI SAJOR THOIDINGJAM LEIKAI, UKHRUL ROAD, NEAR PETROL PUMP EAST IMPHAL East Imphal MN IN 795010",
+        "register": "Registered on 01-06-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "CHAOBA MOTORS PRIVATE LIMITED",
+        "cin_no.": "U50402MN2014PTC008389",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2000000",
+        "registration_date": "15-10-2014",
+        "business_activity": "Trading",
+        "state": "Manipur",
+        "district": "IMPHAL EAST",
+        "address": "C/o L. Chaoba Singh Singjamei Makha, Kakwa Asem Leikai Imphal West Imphal MN IN 795008",
+        "register": "Registered on 15-10-2014",
+        "director_details": [
+            {
+                "DIN": "06985071",
+                "direct_name": "Chaoba Singh Laishram"
+            },
+            {
+                "DIN": "06969992",
+                "direct_name": "Laishram Ahenba"
+            },
+            {
+                "DIN": "06970054",
+                "direct_name": "Laishram Khagingamba"
+            },
+            {
+                "DIN": "06970044",
+                "direct_name": "Laishram Nongjahanba"
+            },
+            {
+                "DIN": "06970086",
+                "direct_name": "Sorokhaibam Tombi Devi"
+            }
+        ]
+    },
+    {
+        "company_name": "LAMJING FINANCIAL CONSULTANTS PRIVATE LIMITED",
+        "cin_no.": "U74120MN2011PTC008286",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "6000000",
+        "paid_up_capital": "900000",
+        "registration_date": "15-09-2011",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "IMPHAL EAST",
+        "address": "KONGPAL CHANAM LEIKAI P.O. - POROMPAT POROMPAT MN IN 795010",
+        "register": "Registered on 15-09-2011",
+        "director_details": [
+            {
+                "DIN": "03570699",
+                "direct_name": "Fortune Zimik"
+            },
+            {
+                "DIN": "06555533",
+                "direct_name": "Khaba Paonamcha Meitei"
+            },
+            {
+                "DIN": "03570812",
+                "direct_name": "Leitanthem Ananda Singh"
+            },
+            {
+                "DIN": "02415010",
+                "direct_name": "Machang Soibam"
+            }
+        ]
+    },
+    {
+        "company_name": "MARJING INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U15490MN2016PTC013471",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-05-2016",
+        "business_activity": "Food Manufacturing",
+        "state": "Manipur",
+        "district": "IMPHAL EAST",
+        "address": "LAIRIK YENGBAM LEIKAI PO- LAMLONG PS- HEINGANG IMPHAL EAST IMPHAL East Imphal MN IN 795010",
+        "register": "Registered on 09-05-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "GRASSROOT SYNDICATE PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400MN2014PTC008373",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-02-2014",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL WEST",
+        "address": "DIOCESAN SOCIAL SERVICE SOCIETY, 7ARCHBISHOPS HOME, MANTRIPUKHRI EAST IMPHAL East Imphal MN IN 795001",
+        "register": "Registered on 10-02-2014",
+        "director_details": [
+            {
+                "DIN": "06751854",
+                "direct_name": "Awoyo Lungleng"
+            },
+            {
+                "DIN": "06751879",
+                "direct_name": "Kanmi Dominic"
+            },
+            {
+                "DIN": "06751923",
+                "direct_name": "Khapai Shimrah Peter Kapam"
+            },
+            {
+                "DIN": "06753802",
+                "direct_name": "Sijomon Ozhalakkattu Varghese"
+            },
+            {
+                "DIN": "06752191",
+                "direct_name": "Thangsha Rocky Kansowa"
+            }
+        ]
+    },
+    {
+        "company_name": "KANGLEIPAK FARMER PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400MN2015PTC008410",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "901410",
+        "registration_date": "02-02-2015",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL WEST",
+        "address": "C/O Smt H. CHANDRAKALA KWAKEITHEL, MOIRANG PUREL LEIKAI IMPHAL WEST West Imphal MN IN 795001",
+        "register": "Registered on 02-02-2015",
+        "director_details": [
+            {
+                "DIN": "07018797",
+                "direct_name": "Akham Debanath Singh"
+            },
+            {
+                "DIN": "07018817",
+                "direct_name": "Chongtham Khogendro Singh"
+            },
+            {
+                "DIN": "07018825",
+                "direct_name": "Huidrom Nilachandra Singh"
+            },
+            {
+                "DIN": "07018833",
+                "direct_name": "Karam Somokanta Singh"
+            },
+            {
+                "DIN": "07024243",
+                "direct_name": "Keithellakpam Baleshor Singh"
+            },
+            {
+                "DIN": "07018857",
+                "direct_name": "Konjengbam Sanathoi Singh"
+            },
+            {
+                "DIN": "07018864",
+                "direct_name": "Moirangthem Shantikumar Singh"
+            },
+            {
+                "DIN": "07018811",
+                "direct_name": "Ningthoujam Lokendro Singh"
+            },
+            {
+                "DIN": "07018873",
+                "direct_name": "Seram Lekhendra Singh"
+            },
+            {
+                "DIN": "07018881",
+                "direct_name": "Thiyam Ishorachand Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "APUNBA ORGANIC PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400MN2017PTC013600",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-11-2017",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL WEST",
+        "address": "C/o. GREEN FOUNDATION KWAKEITHEL AWANG THIYAM LEIKAI IMPHAL WEST West Imphal MN IN 795001",
+        "register": "Registered on 07-11-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "KANGLEI AGRO PARK PRIVATE LIMITED",
+        "cin_no.": "U01403MN2013PTC008326",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-02-2013",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL WEST",
+        "address": "KYAMGEI MAMANG LEIKAI P.O. CANCHIPUR, P.S. IRILBUNG IMPHAL East Imphal MN IN 795003",
+        "register": "Registered on 19-02-2013",
+        "director_details": [
+            {
+                "DIN": "06496112",
+                "direct_name": "Kisharjit Singh Karam"
+            },
+            {
+                "DIN": "06496113",
+                "direct_name": "Okram Dharmandra Singh"
+            },
+            {
+                "DIN": "06496114",
+                "direct_name": "Thamarjit Karam Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "LANGEI PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403MN2013PTC008342",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "1438500",
+        "registration_date": "08-07-2013",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL WEST",
+        "address": "NAGAMAPAL LAMABAM LEIKAI P.O - LAMPHELPAT IMPHAL West Imphal MN IN 795004",
+        "register": "Registered on 08-07-2013",
+        "director_details": [
+            {
+                "DIN": "06703736",
+                "direct_name": "Aribam Meghachandra Sharma"
+            },
+            {
+                "DIN": "06580868",
+                "direct_name": "Brojendro Meisnam Luwang"
+            },
+            {
+                "DIN": "06703977",
+                "direct_name": "Jogendra Kumar"
+            },
+            {
+                "DIN": "06555533",
+                "direct_name": "Khaba Paonamcha Meitei"
+            },
+            {
+                "DIN": "06580888",
+                "direct_name": "Mongbijam Sunita Devi"
+            },
+            {
+                "DIN": "06703748",
+                "direct_name": "Naorem Imo Singh"
+            },
+            {
+                "DIN": "06580912",
+                "direct_name": "Sandham Ibomcha Singh"
+            },
+            {
+                "DIN": "06580861",
+                "direct_name": "Telem Dara Singh"
+            },
+            {
+                "DIN": "06580895",
+                "direct_name": "Yendrembam Premchandra Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "MANIPUR AGRO INDUSTRIES CORPN LTD",
+        "cin_no.": "U01409MN1981SGC001871",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "20000000",
+        "registration_date": "19-03-1981",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL WEST",
+        "address": "MANTIPUKHRI IMPHAL MN IN 795001",
+        "register": "Registered on 19-03-1981",
+        "director_details": []
+    },
+    {
+        "company_name": "IN GROW PRODUCTS PVT LTD",
+        "cin_no.": "U01409MN1994PTC004072",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000",
+        "paid_up_capital": "20",
+        "registration_date": "03-02-1994",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL WEST",
+        "address": "PAONA BAZAR IMPHAL MN IN 795001",
+        "register": "Registered on 03-02-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "BLUE BIRD AGRO FOREST PRODUCE PVT LTD",
+        "cin_no.": "U01409MN1994PTC004073",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000",
+        "paid_up_capital": "20",
+        "registration_date": "03-02-1994",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL WEST",
+        "address": "THANGMEIBAND IMPHAL MN IN 795001",
+        "register": "Registered on 03-02-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "MANIPUR MULTI FARMING AND TRADING COMPAN Y LIMITED",
+        "cin_no.": "U01409MN2001PLC006528",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "24-05-2001",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL WEST",
+        "address": "MAGAMAPAL RIMS ROADP S LAMPHEL IMPHAL WEST MN IN 795004",
+        "register": "Registered on 24-05-2001",
+        "director_details": []
+    },
+    {
+        "company_name": "IREIMA AGRO PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01409MN2015PTC008411",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "1701000",
+        "registration_date": "04-02-2015",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "IMPHAL WEST",
+        "address": "C/O JUGINDRO SARANGTHEM SINGJAMEI CHINGAMAKHA, CHANAM PUKHARI MAPAL IMPHAL WEST West Imphal MN IN 795001",
+        "register": "Registered on 04-02-2015",
+        "director_details": [
+            {
+                "DIN": "07024968",
+                "direct_name": "Haobam Mocha Singh"
+            },
+            {
+                "DIN": "07025035",
+                "direct_name": "Keithellakpam Tomba Singh"
+            },
+            {
+                "DIN": "07025001",
+                "direct_name": "Mayanglambam Sushil Meitei"
+            },
+            {
+                "DIN": "07025042",
+                "direct_name": "Okram Mohendro Singh"
+            },
+            {
+                "DIN": "07025064",
+                "direct_name": "Puyam Joy Singh"
+            },
+            {
+                "DIN": "07025046",
+                "direct_name": "Sorokhaibam Tomba Singh"
+            },
+            {
+                "DIN": "07024996",
+                "direct_name": "Toijam Nandababu Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "MING AND MING CONSTRUCTIONS PVT LTD",
+        "cin_no.": "U74210MN1998PTC005429",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "1007000",
+        "registration_date": "05-06-1998",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "JORHAT",
+        "address": "E R M BUILDING 1 ST FLOOR.SAGOLBAND SAYANG ROAD IMPHAL MANIPUR MN IN 785001",
+        "register": "Registered on 05-06-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "IMPHAL AGRO INDUSTRIAL DEVELOPMENT CO PV T LTD",
+        "cin_no.": "U01409MN1988PTC002892",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "17300",
+        "registration_date": "29-02-1988",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "NA",
+        "address": "IMPHAL MN IN",
+        "register": "Registered on 29-02-1988",
+        "director_details": []
+    },
+    {
+        "company_name": "SENAPATI AGRICULTURE PRODUCE COMPANY PVT LTD",
+        "cin_no.": "U01409MN1994PTC004071",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000",
+        "paid_up_capital": "20",
+        "registration_date": "03-02-1994",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "NA",
+        "address": "MANTRIPUKHURI Imphal MN IN",
+        "register": "Registered on 03-02-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "N.E.ZONE AGRO INDUSTRIES & FINANCE DEVEL OPMENT CENTRE PVT LTD",
+        "cin_no.": "U02001MN1989PTC003201",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "250000",
+        "registration_date": "27-02-1989",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "NA",
+        "address": "NEW LAMBULANE ROADCHANSAD AVENUE IMPHAL MANIPUR MN IN",
+        "register": "Registered on 27-02-1989",
+        "director_details": []
+    },
+    {
+        "company_name": "MANIPUR FISHERY DEVELOPMENT CORPORTION L TD",
+        "cin_no.": "U05004MN1993PLC004041",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "5000",
+        "registration_date": "13-12-1993",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "NA",
+        "address": "MANIPUR SECRETARIAT IMPHAL MN IN",
+        "register": "Registered on 13-12-1993",
+        "director_details": []
+    },
+    {
+        "company_name": "NINGTHOUKHOMBA FISHERIES COMPANY PRIVATE LIMITED",
+        "cin_no.": "U05004MN2004PTC007376",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "31-03-2004",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "NA",
+        "address": "TENTHAWANGJING THOUBAL MN IN",
+        "register": "Registered on 31-03-2004",
+        "director_details": []
+    },
+    {
+        "company_name": "SH CONSULTANT PVT LTD",
+        "cin_no.": "U24219MN1985PTC002440",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "1000",
+        "registration_date": "04-10-1985",
+        "business_activity": "Metals and Chemicals",
+        "state": "Manipur",
+        "district": "NA",
+        "address": "URPOK ROAD IMPHALDT CENTRAL MANIPUR MN IN",
+        "register": "Registered on 04-10-1985",
+        "director_details": []
+    },
+    {
+        "company_name": "MANIPUR STATE DRUGS AND PHARMACEUTICALS LIMITED",
+        "cin_no.": "U24232MN1989PLC003315",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "8500000",
+        "registration_date": "18-07-1989",
+        "business_activity": "Metals and Chemicals",
+        "state": "Manipur",
+        "district": "NA",
+        "address": "IMPHAL, DIMAPUR ROAD, NILKUNTHI, IMPHAL MN IN",
+        "register": "Registered on 18-07-1989",
+        "director_details": []
+    },
+    {
+        "company_name": "LOUSHWANG MEDITECH PRIVATE LIMITED",
+        "cin_no.": "U24232MN2015PTC008439",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-08-2015",
+        "business_activity": "Metals and Chemicals",
+        "state": "Manipur",
+        "district": "NA",
+        "address": "YAIRIPOK BAMON LEIKAI THOUBAL MN IN 795119",
+        "register": "Registered on 04-08-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "HOTEL PINTU PVT. LTD.",
+        "cin_no.": "U55101MN1989PLC003367",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "4000000",
+        "paid_up_capital": "70000",
+        "registration_date": "03-11-1989",
+        "business_activity": "Trading",
+        "state": "Manipur",
+        "district": "NA",
+        "address": "A.T.LINE(NEAR ASHA CINEMA HALLIMPHAL,MANIPUR. MN IN",
+        "register": "Registered on 03-11-1989",
+        "director_details": []
+    },
+    {
+        "company_name": "JEEVAN RESORTS PVT LTD",
+        "cin_no.": "U55101MN1998PTC005545",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "3000",
+        "registration_date": "25-09-1998",
+        "business_activity": "Trading",
+        "state": "Manipur",
+        "district": "NA",
+        "address": "URIPOK KHWAI PAONA LEIKAIIMPHAL MANIPUR MN IN",
+        "register": "Registered on 25-09-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "INTOUCH NATURALS PRIVATE LIMITED",
+        "cin_no.": "U01300MN2005PTC008007",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "45000000",
+        "paid_up_capital": "42756000",
+        "registration_date": "21-12-2005",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "SENAPATI",
+        "address": "KAYINU,DIST",
+        "register": "Registered on 21-12-2005",
+        "director_details": [
+            {
+                "DIN": "05358794",
+                "direct_name": "Lokho Puni"
+            },
+            {
+                "DIN": "02071338",
+                "direct_name": "Lorho Sibo Pfozhe"
+            },
+            {
+                "DIN": "02746503",
+                "direct_name": "Tuizar Muinao"
+            }
+        ]
+    },
+    {
+        "company_name": "BOTWAYS FARMER PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100MN2016PTC013499",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "200000",
+        "registration_date": "03-11-2016",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "SENAPATI",
+        "address": "KHABUNG KARONG PO&PS - SENAPATI SENAPATI Senapati MN IN 795007",
+        "register": "Registered on 03-11-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "MAHISHI MULTI FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01110MN2018PTC013649",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-04-2018",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "SENAPATI",
+        "address": "S/o Dilli Ram Khatiwoda Parsain SENAPATI Senapati MN IN 795122",
+        "register": "Registered on 02-04-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "KAYI ORGANIC PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01119MN1999PTC005939",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-11-1999",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "SENAPATI",
+        "address": "PUNANAMEI, MAO SENAPATI MAO MN IN 795150",
+        "register": "Registered on 12-11-1999",
+        "director_details": [
+            {
+                "DIN": "01813872",
+                "direct_name": "Losho Daikho Mao"
+            }
+        ]
+    },
+    {
+        "company_name": "HENI POULTRY AND FISHERIES PRIVATE LIMITED",
+        "cin_no.": "U01222MN1996PTC004888",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-10-1996",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "SENAPATI",
+        "address": "KALINAMAI MAO MN IN 795150",
+        "register": "Registered on 14-10-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "EXOTIC JUICES LIMITED",
+        "cin_no.": "U15137MN2004PLC007305",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "12500000",
+        "paid_up_capital": "12500000",
+        "registration_date": "20-01-2004",
+        "business_activity": "Food Manufacturing",
+        "state": "Manipur",
+        "district": "SENAPATI",
+        "address": "PUNANMEI SENAPATI MAO MN IN 795150",
+        "register": "Registered on 20-01-2004",
+        "director_details": [
+            {
+                "DIN": "02378544",
+                "direct_name": "Besii Shuli"
+            },
+            {
+                "DIN": "02379897",
+                "direct_name": "Loli Kape"
+            },
+            {
+                "DIN": "01813872",
+                "direct_name": "Losho Daikho Mao"
+            },
+            {
+                "DIN": "02378468",
+                "direct_name": "Neni Mathibo"
+            },
+            {
+                "DIN": "02463656",
+                "direct_name": "Nenuo Ashiho"
+            },
+            {
+                "DIN": "02378524",
+                "direct_name": "Nepuni Adani"
+            },
+            {
+                "DIN": "02463681",
+                "direct_name": "Nepuni Losii"
+            }
+        ]
+    },
+    {
+        "company_name": "VERDANT FOOD PROCESSING PRIVATE LIMITED",
+        "cin_no.": "U15490MN2010PTC008265",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "150000",
+        "registration_date": "09-07-2010",
+        "business_activity": "Food Manufacturing",
+        "state": "Manipur",
+        "district": "SENAPATI",
+        "address": "HENGBUNG BPO HENGBUNG, P. O - KANGPOKPI, SADAR HILLS IMPHAL Senapati MN IN 795129",
+        "register": "Registered on 09-07-2010",
+        "director_details": [
+            {
+                "DIN": "03092935",
+                "direct_name": "Haokholet Kipgen"
+            },
+            {
+                "DIN": "03088215",
+                "direct_name": "Joujam Kipgen"
+            },
+            {
+                "DIN": "03127541",
+                "direct_name": "Lamjahoi Kipgen"
+            }
+        ]
+    },
+    {
+        "company_name": "ZIMIKHOR PROJECTS PRIVATE LIMITED",
+        "cin_no.": "U26931MN2014PTC008391",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-10-2014",
+        "business_activity": "Metals and Chemicals",
+        "state": "Manipur",
+        "district": "SENAPATI",
+        "address": "HOUSE NO. 06, NGARUMPHUNG VILLAGE PO & PS- LITAN SENAPATI Senapati MN IN 795118",
+        "register": "Registered on 22-10-2014",
+        "director_details": [
+            {
+                "DIN": "07741646",
+                "direct_name": "Horchan Jajo"
+            },
+            {
+                "DIN": "06962299",
+                "direct_name": "Martin Muivah"
+            },
+            {
+                "DIN": "06962302",
+                "direct_name": "Ningreingam Thumra"
+            },
+            {
+                "DIN": "07741624",
+                "direct_name": "Sanasam Santa Singh"
+            },
+            {
+                "DIN": "06962740",
+                "direct_name": "Zimikhor Jajo"
+            }
+        ]
+    },
+    {
+        "company_name": "EXOTIC CONTRACTORS PRIVATE LIMITED",
+        "cin_no.": "U45203MN2007PTC008236",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "10000000",
+        "registration_date": "08-05-2007",
+        "business_activity": "Construction",
+        "state": "Manipur",
+        "district": "SENAPATI",
+        "address": "PUNANAMEI P.O.MAO MAO MN IN 795150",
+        "register": "Registered on 08-05-2007",
+        "director_details": [
+            {
+                "DIN": "02379897",
+                "direct_name": "Loli Kape"
+            },
+            {
+                "DIN": "02463681",
+                "direct_name": "Nepuni Losii"
+            }
+        ]
+    },
+    {
+        "company_name": "JEJO CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U45203MN2012PTC008302",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "200000",
+        "registration_date": "20-03-2012",
+        "business_activity": "Construction",
+        "state": "Manipur",
+        "district": "SENAPATI",
+        "address": "GRACE BHAVAN MOTBUNG VILLAGE Senapati MN IN 795107",
+        "register": "Registered on 20-03-2012",
+        "director_details": [
+            {
+                "DIN": "05216437",
+                "direct_name": "Jeremy Sitlhou"
+            },
+            {
+                "DIN": "05216488",
+                "direct_name": "Jonathan Henmang Sitlhou"
+            }
+        ]
+    },
+    {
+        "company_name": "REANGLUANG ORGANIC FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100MN2018PTC013618",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "10000",
+        "registration_date": "01-01-2018",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "TAMENGLONG",
+        "address": "LONGMAI (NONEY) 1 NUNGBA SUBDIVISION NUNGBA Tamenglong MN IN 795147",
+        "register": "Registered on 01-01-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "GAITHAO PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01113MN2017PTC013531",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "220000",
+        "registration_date": "16-05-2017",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "TAMENGLONG",
+        "address": "LONGMAI BAZAR PO&PS - LONGMAI LONGMAI Tamenglong MN IN 795159",
+        "register": "Registered on 16-05-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "ZIKDUI CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U74999MN2016PTC013497",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-10-2016",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "TAMENGLONG",
+        "address": "Rigunlong, Tamenglong HQs-Ward-II , Po Tamenglong Tamenglong MN IN 795141",
+        "register": "Registered on 29-10-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "IRAMDAM UNITED FOOD PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01409MN2016PTC008469",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "500000",
+        "registration_date": "23-03-2016",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "THOUBAL",
+        "address": "KAKCHING WAIRI THOUBAL DISTRICT KAKCHING Thoubal MN IN 795103",
+        "register": "Registered on 23-03-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "NAJ INDIA ENTERPRISES PVT LTD",
+        "cin_no.": "U55101MN1998PTC005503",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "1700000",
+        "registration_date": "17-08-1998",
+        "business_activity": "Trading",
+        "state": "Manipur",
+        "district": "THOUBAL",
+        "address": "HAOREIBA MAKHA LEIKAI LILONG THOUBAL IMPHAL MN IN 795138",
+        "register": "Registered on 17-08-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "ROEL HOSPITALITY AND ENTERTAINMENT PRIVATE LIMITED",
+        "cin_no.": "U55101MN2015PTC008449",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-12-2015",
+        "business_activity": "Trading",
+        "state": "Manipur",
+        "district": "THOUBAL",
+        "address": "KOMLATHABI CHANDEL MN IN 795135",
+        "register": "Registered on 15-12-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "GREATSON HOLIDAYS PRIVATE LIMITED",
+        "cin_no.": "U55204MN2016PTC013490",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-09-2016",
+        "business_activity": "Trading",
+        "state": "Manipur",
+        "district": "THOUBAL",
+        "address": "THOUBAL NINGOMBAM, MAYAI LEIRAK THOUBAL Thoubal MN IN 795138",
+        "register": "Registered on 15-09-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "LAMJINGBA MOTORS PRIVATE LIMITED",
+        "cin_no.": "U50103MN2017PTC013593",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "18-10-2017",
+        "business_activity": "Trading",
+        "state": "Manipur",
+        "district": "THOUBAL",
+        "address": "Sanasam Jacky Singh Kiyam Siphai Babu Bazar Yairipok Thoubal MN IN 795138",
+        "register": "Registered on 18-10-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "RAGHUMANI AUTOMOBILES PRIVATE LIMITED",
+        "cin_no.": "U50400MN2017PTC013617",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-12-2017",
+        "business_activity": "Trading",
+        "state": "Manipur",
+        "district": "THOUBAL",
+        "address": "S/o Khangembam Amuyaima Singh, Athokpam Mayai Leikai BPO Athokpam, Athokpam Thoubal MN IN 795138",
+        "register": "Registered on 27-12-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "KHUDOL SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U74140MN2014PTC008372",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-01-2014",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "THOUBAL",
+        "address": "C/o KHSHAOBA SINGH, NAOREMTHONG SAMHSHANG,IMPHAL-WEST, MANIPUR West Imphal MN IN 795138",
+        "register": "Registered on 29-01-2014",
+        "director_details": [
+            {
+                "DIN": "06665284",
+                "direct_name": "Khaidem Bikramjit Meitei"
+            },
+            {
+                "DIN": "06665372",
+                "direct_name": "Konthoujam Umakanta Singh"
+            },
+            {
+                "DIN": "06665337",
+                "direct_name": "Wahengbam Robin Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "MANIPUR AGRICULTURAL DEVELOPMENT COMPANY LIMITED",
+        "cin_no.": "U15133MN2000PLC006332",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "35000",
+        "registration_date": "17-10-2000",
+        "business_activity": "Food Manufacturing",
+        "state": "Manipur",
+        "district": "THOUBAL",
+        "address": "ATHOKPAM BAZARTHOUBAL MANIPUR MN IN 795138",
+        "register": "Registered on 17-10-2000",
+        "director_details": []
+    },
+    {
+        "company_name": "LOOKEAST AGROVENTURES PRIVATE LIMITED",
+        "cin_no.": "U15142MN2016PTC013506",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-12-2016",
+        "business_activity": "Food Manufacturing",
+        "state": "Manipur",
+        "district": "THOUBAL",
+        "address": "THOUBAL AWANG LEIKAI THOUBAL Thoubal MN IN 795138",
+        "register": "Registered on 19-12-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "KANHAI BUILLDING MATERIALS PVT LIMITED",
+        "cin_no.": "U51109MN1997PTC005168",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "12000",
+        "registration_date": "01-09-1997",
+        "business_activity": "Trading",
+        "state": "Manipur",
+        "district": "THOUBAL",
+        "address": "WABGAI KEIRAK LEIRAK ACHUBAB P O WABAGAI KAKCHING THOUBAL MANIPUR MN IN 795103",
+        "register": "Registered on 01-09-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "HILL WILD PRIVATE LIMITED",
+        "cin_no.": "U15100MN2017PTC013601",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "09-11-2017",
+        "business_activity": "Food Manufacturing",
+        "state": "Manipur",
+        "district": "UKHRUL",
+        "address": "House No 472, Khuilungtang UKHRUL Ukhrul MN IN 795142",
+        "register": "Registered on 09-11-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "AKHAN DAIRY (OPC) PRIVATE LIMITED",
+        "cin_no.": "U15209MN2017OPC013567",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-08-2017",
+        "business_activity": "Food Manufacturing",
+        "state": "Manipur",
+        "district": "UKHRUL",
+        "address": "C/o T YUNGREI AWUNGSHI, LANGDANG VILLAGE, UKHRUL Ukhrul MN IN 795142",
+        "register": "Registered on 28-08-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "NORTH EAST MISSION FOUNDATION",
+        "cin_no.": "U74999MN2014NPL008383",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "400000",
+        "registration_date": "05-08-2014",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "UKHRUL",
+        "address": "PHUNGREITANG EAST UKHRUL Ukhrul MN IN 795142",
+        "register": "Registered on 05-08-2014",
+        "director_details": [
+            {
+                "DIN": "06870830",
+                "direct_name": "Anderson Awunga Shimray"
+            },
+            {
+                "DIN": "06870837",
+                "direct_name": "Ramthing Kasar"
+            },
+            {
+                "DIN": "06871368",
+                "direct_name": "Shining Kasar"
+            },
+            {
+                "DIN": "06867086",
+                "direct_name": "Solomon Rimai"
+            }
+        ]
+    },
+    {
+        "company_name": "UKHRUL HILLS DEVELOPMENT FOUNDATION",
+        "cin_no.": "U74999MN2017NPL013613",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-12-2017",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "UKHRUL",
+        "address": "HUISHU VILLAGE, UKHRUL VIEWLAND JESSAMI JUNCTION UKHRUL Ukhrul MN IN 795142",
+        "register": "Registered on 20-12-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "KOROU EDUCATION FOUNDATION",
+        "cin_no.": "U74999MN2017NPL013615",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-12-2017",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "UKHRUL",
+        "address": "East Phungreitang near old district hospital ukhrul Ukhrul MN IN 795142",
+        "register": "Registered on 27-12-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "ERS IMPEX PRIVATE LIMITED",
+        "cin_no.": "U52322MN2014PTC008379",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-06-2014",
+        "business_activity": "Trading",
+        "state": "Manipur",
+        "district": "UKHRUL",
+        "address": "VIEWLAND ZONE-II, P.O-LUIKHAM BLOCK-UKHRUL UKHRUL Ukhrul MN IN 795142",
+        "register": "Registered on 23-06-2014",
+        "director_details": [
+            {
+                "DIN": "06870825",
+                "direct_name": "Ernest Brian Luikham"
+            },
+            {
+                "DIN": "06870900",
+                "direct_name": "Ronthing Shaiza"
+            },
+            {
+                "DIN": "06870991",
+                "direct_name": "Soso Shaiza"
+            }
+        ]
+    },
+    {
+        "company_name": "FOREVER FOUNDATION",
+        "cin_no.": "U93090MN2016NPL013496",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "25-10-2016",
+        "business_activity": "Personal and Social Services",
+        "state": "Manipur",
+        "district": "UKHRUL",
+        "address": "Kachai Village Ukhrul Ukhrul MN IN 795144",
+        "register": "Registered on 25-10-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "KAZOK LOOMS PRIVATE LIMITED",
+        "cin_no.": "U74999MN2018PTC013683",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-06-2018",
+        "business_activity": "Business Services",
+        "state": "Manipur",
+        "district": "UKHRUL",
+        "address": "450 Viewland Zone II UKHRUL Ukhrul-795142 Manipur",
+        "register": "Registered on 07-06-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "ANGO HILLS PRIVATE LIMITED",
+        "cin_no.": "U15300MN2018PTC013770",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100",
+        "paid_up_capital": "700",
+        "registration_date": "15-11-2018",
+        "business_activity": "Food Manufacturing",
+        "state": "Manipur",
+        "district": "UKHRUL",
+        "address": "Company ANGO HILLS PRIVATE LIMITED Ukhrul 69, Rayotang Zone-4 795142 UKHRUL-Ukhrul",
+        "register": "Registered on 15-11-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "RINRUMLAN PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01409MN2018PTC013772",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100",
+        "paid_up_capital": "1500",
+        "registration_date": "22-11-2018",
+        "business_activity": "Agriculture",
+        "state": "Manipur",
+        "district": "UKHRUL",
+        "address": "Company RINRUMLAN PRODUCER COMPANY LIMITED HAMLEIKHONG HUNDUNGPUNG C/O VASHUM TUIME LOLLY 795142 UKHRUL-Ukhrul",
+        "register": "Registered on 22-11-2018",
+        "director_details": []
+    }
+]

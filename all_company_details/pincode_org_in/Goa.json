@@ -1,0 +1,922 @@
+[
+    {
+        "company_name": "PRINCE INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U24209GA2003PTC003235",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "200000",
+        "registration_date": "21-05-2003",
+        "business_activity": "Metals and Chemicals",
+        "state": "Goa",
+        "district": "DAMAN",
+        "address": "PLOT NO 656/12 A AND BSOMNATH KACHIGAM ROAD VILLAGE DABHEL NEAR DAMAN NANI DAMAN GA IN 396210",
+        "register": "Registered on 21-05-2003",
+        "director_details": []
+    },
+    {
+        "company_name": "ENERCON WIND FARMS (NETTUR) PRIVATE LIMITED",
+        "cin_no.": "U40108GA2006PTC004406",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-02-2006",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Goa",
+        "district": "DAMAN",
+        "address": "PLOT 33 DAMAN PATALIA ROADBHIMPORE DAMAN 396 2 10 DAMAN GA IN 396210",
+        "register": "Registered on 07-02-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "MAULI INFRASTRUCTURE (INDIA) PRIVATE LIMITED",
+        "cin_no.": "U74900GA2010PTC006426",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-06-2010",
+        "business_activity": "Business Services",
+        "state": "Goa",
+        "district": "KOLHAPUR",
+        "address": "PLOT NO.37/38 KUNDAIM INDUSTRIAL ESTATE, KUNDAIM PONDA North Goa GA IN 416115",
+        "register": "Registered on 28-06-2010",
+        "director_details": [
+            {
+                "DIN": "06617803",
+                "direct_name": "Abhijit Babaso Shelake"
+            },
+            {
+                "DIN": "05233857",
+                "direct_name": "Anup Bhagwan Kale"
+            }
+        ]
+    },
+    {
+        "company_name": "SIDDHARTH RURAL FOOD DEVELOPMENT PRIVATE LIMITED",
+        "cin_no.": "U74900GA2010PTC006432",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-06-2010",
+        "business_activity": "Business Services",
+        "state": "Goa",
+        "district": "KOLHAPUR",
+        "address": "PLOT NO.37/38 KUNDAIM INDUSTRIAL ESTATE, KUNDAIM PONDA North Goa GA IN 416115",
+        "register": "Registered on 30-06-2010",
+        "director_details": [
+            {
+                "DIN": "06499257",
+                "direct_name": "Amitkumar Babaso Shelake"
+            },
+            {
+                "DIN": "06617796",
+                "direct_name": "Sagar Bhanudas Yadav"
+            }
+        ]
+    },
+    {
+        "company_name": "PARLE PLASTICS PRIVATE LIMITED",
+        "cin_no.": "U00220GA1994PTC001531",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "0",
+        "registration_date": "22-02-1994",
+        "business_activity": "Others",
+        "state": "Goa",
+        "district": "MUMBAI",
+        "address": "WESTERN EXPRESS HIGHWAYANDHERI (EAST) MUMBAI-400099 MUMBAI-400099 GA IN",
+        "register": "Registered on 22-02-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "TERNON FOODS PRIVATE LIMITED",
+        "cin_no.": "U51229GA2003PTC003282",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-08-2003",
+        "business_activity": "Trading",
+        "state": "Goa",
+        "district": "MUMBAI",
+        "address": "623/A BELLA VISTADONA PAULA PANAJI GOA GA IN 400004",
+        "register": "Registered on 28-08-2003",
+        "director_details": []
+    },
+    {
+        "company_name": "TEJ LAMINATES PRIVATE LIMITED",
+        "cin_no.": "U20211GA1988PTC000832",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "414000",
+        "registration_date": "10-06-1988",
+        "business_activity": "Wood Products",
+        "state": "Goa",
+        "district": "MUMBAI",
+        "address": "ANGOWDANEAR CINE ALANKAR THEATRE MAPUSA GOA GA IN 400003",
+        "register": "Registered on 10-06-1988",
+        "director_details": []
+    },
+    {
+        "company_name": "KRISHI SUJALAM FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01407GA2015PTC007623",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "27-03-2015",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NA",
+        "address": "H. NO,113/A, NUVEM DUGEM, NUVEM, SALCETE NUVEM South Goa GA IN 403604",
+        "register": "Registered on 27-03-2015",
+        "director_details": [
+            {
+                "DIN": "06702302",
+                "direct_name": "Amancio Alex Fernandes"
+            },
+            {
+                "DIN": "06702306",
+                "direct_name": "Dinesh Shaba Gaonkar"
+            },
+            {
+                "DIN": "06702314",
+                "direct_name": "Ganesh Gaonker"
+            },
+            {
+                "DIN": "06702304",
+                "direct_name": "Joaquim Felicio Dacosta"
+            },
+            {
+                "DIN": "06702320",
+                "direct_name": "Joaquim Vincentehonorato Vaz"
+            },
+            {
+                "DIN": "06702331",
+                "direct_name": "Kushali Gaonkar"
+            },
+            {
+                "DIN": "06702323",
+                "direct_name": "Marselina Figueiredo"
+            },
+            {
+                "DIN": "06702327",
+                "direct_name": "Prabhakar Yeshwant Gaonkar"
+            },
+            {
+                "DIN": "06702326",
+                "direct_name": "Rosario Dmelo"
+            },
+            {
+                "DIN": "06702321",
+                "direct_name": "Urmila Velip"
+            }
+        ]
+    },
+    {
+        "company_name": "IMT TECHNOLOGIES LIMITED",
+        "cin_no.": "U01409GA1996PLC002044",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "7900000",
+        "registration_date": "20-02-1996",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NA",
+        "address": "D/3/8, TUEM INDUSTRIAL ESTATETUEM, PERNEM GOA GA IN",
+        "register": "Registered on 20-02-1996",
+        "director_details": [
+            {
+                "DIN": "01037690",
+                "direct_name": "Ashok Basalingappa Jevoor"
+            },
+            {
+                "DIN": "03499860",
+                "direct_name": "Nandini Maribasappa Ghante"
+            },
+            {
+                "DIN": "02507140",
+                "direct_name": "Ujwala Shrikant Ranade"
+            },
+            {
+                "DIN": "01062204",
+                "direct_name": "Vasanti Shrikant Purohit"
+            }
+        ]
+    },
+    {
+        "company_name": "GOA FOOD AND PHARMA PRIVATE LIMITED",
+        "cin_no.": "U01575GA1994PTC001575",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "8000000",
+        "paid_up_capital": "4770000",
+        "registration_date": "20-04-1994",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NA",
+        "address": "PANCHARAT BLOCK D1ST FLOO 4A NO 10 MARGAO GA IN",
+        "register": "Registered on 20-04-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "BRAUN AND DESMOND MARKETING PRIVATE LIMITED",
+        "cin_no.": "U01755GA1995PTC001755",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "2000",
+        "registration_date": "19-01-1995",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NA",
+        "address": "ODD CORNERCANDOLIM BARDEZ GOA GA IN",
+        "register": "Registered on 19-01-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "KARD RESORTS PRIVATE LIMITED",
+        "cin_no.": "U01949GA1995PTC001949",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "200",
+        "registration_date": "17-10-1995",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NA",
+        "address": "F3 ASHIRWAD APARTMENTSALTO BETIM BARDEZ GOA 403 521 GA IN",
+        "register": "Registered on 17-10-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "AQUAGEM EXPORTS PRIVATE LIMITED",
+        "cin_no.": "U02027GA1996PTC002027",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "07-02-1996",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NA",
+        "address": "BHASHAYAMCHAMBERS CARANZALEM GOA GA IN",
+        "register": "Registered on 07-02-1996",
+        "director_details": [
+            {
+                "DIN": "01244830",
+                "direct_name": "Lathika Bhashyam"
+            },
+            {
+                "DIN": "01244877",
+                "direct_name": "Nonavinkere Mannar Bhashyam"
+            }
+        ]
+    },
+    {
+        "company_name": "RUMEET BUILD TECH PRIVATE LIMITED",
+        "cin_no.": "U02093GA1996PTC002093",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "2000",
+        "registration_date": "14-05-1996",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NA",
+        "address": "MATRUCHAYACACORA CURCHOREM GOA GA IN",
+        "register": "Registered on 14-05-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "GOA MINERAL WATER AND GRANITES PRIVATE LIMITED",
+        "cin_no.": "U02099GA1996PTC002099",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "4800000",
+        "registration_date": "20-05-1996",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NA",
+        "address": "ABOVE MALVIYAS HOUSEKHADPABANDH FARMAGUDI PONDA GOA GA IN",
+        "register": "Registered on 20-05-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "BALAJI MEDICARE PRIVATE LIMITED",
+        "cin_no.": "U02158GA1996PTC002158",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "313800",
+        "registration_date": "16-08-1996",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NA",
+        "address": "GROUND FLOORNAVELKAR FLATS MANGOR HILL VASCO DA GAMA GOA GA IN",
+        "register": "Registered on 16-08-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "VAS STEEL ENGINEERING IMPEX PRIVATE LIMITED",
+        "cin_no.": "U02244GA1996PTC002244",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "2000",
+        "registration_date": "31-12-1996",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NA",
+        "address": "11 GUIA BUILDINGF LGOMES ROAD VASCO DA GAMA GOA GA IN",
+        "register": "Registered on 31-12-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "SHANTI HONEY HARVEST PRIVATE LIMITED",
+        "cin_no.": "U01223GA2005PTC004243",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-11-2005",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NORTH GOA",
+        "address": "H NO 1692/1GUMAL VADDO ANJUNA BARDEZ GOA GA IN 403507",
+        "register": "Registered on 30-11-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "GOA KRISHI SANGATHANA PRIVATE LIMITED",
+        "cin_no.": "U01300GA1995PTC001848",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-05-1995",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NORTH GOA",
+        "address": "HOUSE NO 49FARIAS HOUSE MOROD MAPUSA GOA North Goa GA IN 403507",
+        "register": "Registered on 10-05-1995",
+        "director_details": [
+            {
+                "DIN": "00040432",
+                "direct_name": "Betina Maria Dias E Faria"
+            },
+            {
+                "DIN": "00040238",
+                "direct_name": "Lucindo Domingos Antonio De Faria"
+            }
+        ]
+    },
+    {
+        "company_name": "DUKLE CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U01381GA1993PTC001381",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "300",
+        "registration_date": "29-06-1993",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NORTH GOA",
+        "address": "OM CHAMBERS IIND FLOORNEAR LAXMI NARAYAN TEMPLE MAPUSA GA IN 403507",
+        "register": "Registered on 29-06-1993",
+        "director_details": []
+    },
+    {
+        "company_name": "MR FARMER (INDIA) PRIVATE LIMITED",
+        "cin_no.": "U01400GA2010PTC006465",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "2861900",
+        "registration_date": "12-08-2010",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NORTH GOA",
+        "address": "H. NO. 694, ST ANTHONYS WARD, GUIRIM BARDEZ GA IN 403507",
+        "register": "Registered on 12-08-2010",
+        "director_details": [
+            {
+                "DIN": "03057528",
+                "direct_name": "Noeline Maria Angelina Mendonca"
+            },
+            {
+                "DIN": "03057504",
+                "direct_name": "Rozendo Avelino Mendonca"
+            },
+            {
+                "DIN": "03065849",
+                "direct_name": "Sachin Anthony Mendonsa"
+            }
+        ]
+    },
+    {
+        "company_name": "MATNE AGRO PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01400GA2011PTC006650",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-04-2011",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NORTH GOA",
+        "address": "H. No.1453, Vasant Nagar Sanquelim Goa Sanquelim South Goa GA IN 403505",
+        "register": "Registered on 11-04-2011",
+        "director_details": [
+            {
+                "DIN": "02901758",
+                "direct_name": "Uday Ramkrishna Lawande"
+            },
+            {
+                "DIN": "03319920",
+                "direct_name": "Vithal Manohar Kanekar"
+            }
+        ]
+    },
+    {
+        "company_name": "FIT AGRO INDIA PRIVATE LIMITED",
+        "cin_no.": "U01400GA2012PTC006980",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "25-06-2012",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NORTH GOA",
+        "address": "PLOT NO. 135/1A KULAN SANQUELIM North Goa GA IN 403505",
+        "register": "Registered on 25-06-2012",
+        "director_details": [
+            {
+                "DIN": "00116608",
+                "direct_name": "Deviya Vishwajit Rane"
+            },
+            {
+                "DIN": "01908482",
+                "direct_name": "Hemant Sharma"
+            },
+            {
+                "DIN": "00957972",
+                "direct_name": "Satyendra Vithaldas Nagwekar"
+            }
+        ]
+    },
+    {
+        "company_name": "GRAPE BIO-TECH INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U01400GA2013PTC007163",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-02-2013",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NORTH GOA",
+        "address": "216/B RAJ VADDO MAPUSA North Goa GA IN 403507",
+        "register": "Registered on 15-02-2013",
+        "director_details": [
+            {
+                "DIN": "03388906",
+                "direct_name": "Anant Kalu Pawar"
+            },
+            {
+                "DIN": "06430779",
+                "direct_name": "Ganesh Shankar Rao"
+            },
+            {
+                "DIN": "06430785",
+                "direct_name": "Preetham Rao Ganesh"
+            },
+            {
+                "DIN": "03569370",
+                "direct_name": "Ravindra Ramchandra Dawane"
+            }
+        ]
+    },
+    {
+        "company_name": "KRISHI SAMRUDHI FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400GA2015PTC007698",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-08-2015",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NORTH GOA",
+        "address": "H. No. 32, Naik Wada, Torxem PERNEM North Goa GA IN 403512",
+        "register": "Registered on 16-08-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "BRAT AGRO PRIVATE LIMITED",
+        "cin_no.": "U01400GA2016PTC007827",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-02-2016",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NORTH GOA",
+        "address": "HOUSE-NO 1/F-1 MODELS MYSTIQUE, CARANZALEM North Goa GA IN 403002",
+        "register": "Registered on 19-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "DESAI AGRO PROCESSORS PRIVATE LIMITED",
+        "cin_no.": "U01403GA1995PTC001811",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "422000",
+        "registration_date": "27-03-1995",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "NORTH GOA",
+        "address": "HOUSE NO 424NEAR VILLAGE PANCHAYAT OFFICE SACORDA GOA GA IN 403406",
+        "register": "Registered on 27-03-1995",
+        "director_details": [
+            {
+                "DIN": "01417305",
+                "direct_name": "Ganpat Hari Desai"
+            },
+            {
+                "DIN": "01417343",
+                "direct_name": "Prakash Hari Dessai"
+            },
+            {
+                "DIN": "01360567",
+                "direct_name": "Sandeep Ganpat Desai"
+            },
+            {
+                "DIN": "01360635",
+                "direct_name": "Shirish Ganpat Dessai"
+            },
+            {
+                "DIN": "01417323",
+                "direct_name": "Uday Hari Dessai"
+            }
+        ]
+    },
+    {
+        "company_name": "NASAN MEDICAL SYSTEMS LIMITED",
+        "cin_no.": "U00304GA2000PLC002829",
+        "status": "Under Process of Striking off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "0",
+        "registration_date": "08-03-2000",
+        "business_activity": "Others",
+        "state": "Goa",
+        "district": "PUNE",
+        "address": "shed no-C2 PLOT NO 107/PART PARANGUT, TAL-MUNSHI PUNE GA IN 411038",
+        "register": "Registered on 08-03-2000",
+        "director_details": []
+    },
+    {
+        "company_name": "FIORA SERVICES LIMITED",
+        "cin_no.": "U00305GA1989PLC001009",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "0",
+        "registration_date": "05-12-1989",
+        "business_activity": "Others",
+        "state": "Goa",
+        "district": "PUNE",
+        "address": "GAT NO 810/811 AT VILLAGEWAGHTOLI TALUKA HAWELI PUNE GA IN 412207",
+        "register": "Registered on 05-12-1989",
+        "director_details": []
+    },
+    {
+        "company_name": "JANATA FINANCE COMPANY PRIVATE LIMITED",
+        "cin_no.": "U65923GA1993PTC001425",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "02-09-1993",
+        "business_activity": "Finance",
+        "state": "Goa",
+        "district": "RATNAGIRI",
+        "address": "F 1 TRILOK DARSHANBEHIND REIS MAGOS HOTEL BETIM GOA GA IN 415719",
+        "register": "Registered on 02-09-1993",
+        "director_details": []
+    },
+    {
+        "company_name": "ACORN FARM HOUSE PRIVATE LIMITED",
+        "cin_no.": "U01300GA2007PTC005204",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "02-04-2007",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "SOUTH GOA",
+        "address": "CLASSIC MARBLE AND GRANITE, PLOT NO. 41 SANCOALE INDUSTRIAL ESTATE ZUARINAGAR South Goa GA IN 403726",
+        "register": "Registered on 02-04-2007",
+        "director_details": [
+            {
+                "DIN": "01298685",
+                "direct_name": "Yashwant Krishnia Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "AMBAR FARMS PRIVATE LIMITED",
+        "cin_no.": "U01400GA2007PTC005196",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "28-03-2007",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "SOUTH GOA",
+        "address": "50, SREYASH, NEAR CHICALIM TEL. EXCHANGE, CHICALIM South Goa GA IN 403711",
+        "register": "Registered on 28-03-2007",
+        "director_details": []
+    },
+    {
+        "company_name": "KOSHER AGRO FARMS & LOGISTICS PRIVATE LIMITED",
+        "cin_no.": "U01400GA2009PTC006095",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2500000",
+        "registration_date": "21-05-2009",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "SOUTH GOA",
+        "address": "OFFICE NO 15, CARVALHO APARTMENT NEAR COMBA RAILWAY GATE, COMBA MARGAO South Goa GA IN 403601",
+        "register": "Registered on 21-05-2009",
+        "director_details": [
+            {
+                "DIN": "02588426",
+                "direct_name": "Bosco S Dcosta"
+            },
+            {
+                "DIN": "02628579",
+                "direct_name": "Michael Beny Da Costa"
+            }
+        ]
+    },
+    {
+        "company_name": "FOMENTO AGRO DEVELOPMENT PRIVATE LIMITED",
+        "cin_no.": "U01400GA2012PTC007055",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "25000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "25-09-2012",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "SOUTH GOA",
+        "address": "VILA FLORES DA SILVA, ERASMO CARVALHO STREET MARGAO South Goa GA IN 403601",
+        "register": "Registered on 25-09-2012",
+        "director_details": [
+            {
+                "DIN": "00630628",
+                "direct_name": "Mohit Anil Manjrekar"
+            },
+            {
+                "DIN": "00739726",
+                "direct_name": "Voicunta Srinivas Poi Raikar"
+            },
+            {
+                "DIN": "05330490",
+                "direct_name": "Vyankatesh Vishnu Nayak Gaunekar"
+            }
+        ]
+    },
+    {
+        "company_name": "SAN RHEA AGRO INDIA PRIVATE LIMITED",
+        "cin_no.": "U01400GA2013PTC007265",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-07-2013",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "SOUTH GOA",
+        "address": "H.NO.63 BEHIND MUNICIPALITY COUNCIL KEPEM South Goa GA IN 403705",
+        "register": "Registered on 09-07-2013",
+        "director_details": [
+            {
+                "DIN": "06544008",
+                "direct_name": "Robert Milagres Rosario"
+            },
+            {
+                "DIN": "06546537",
+                "direct_name": "Suzan Rosy Dorosario"
+            }
+        ]
+    },
+    {
+        "company_name": "RAVIVILAS PLANTATIONS PRIVATE LIMITED",
+        "cin_no.": "U01403GA2008PTC005574",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-02-2008",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "SOUTH GOA",
+        "address": "SALGAOCAR HOUSE OFF DR FRANCISCO LUIS GOMES ROAD VASCODAGAMA South Goa GA IN 403802",
+        "register": "Registered on 07-02-2008",
+        "director_details": [
+            {
+                "DIN": "00875061",
+                "direct_name": "Ganesh Sarvotham Shenoy"
+            },
+            {
+                "DIN": "00120120",
+                "direct_name": "Ranjana Shivanand Salgaocar"
+            },
+            {
+                "DIN": "00001402",
+                "direct_name": "Shivanand Vassudev Salgaocar"
+            },
+            {
+                "DIN": "00107368",
+                "direct_name": "Shyamsunder Bhiku Naik"
+            }
+        ]
+    },
+    {
+        "company_name": "NANDINI PLANTATIONS PRIVATE LIMITED",
+        "cin_no.": "U01403GA2008PTC005654",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-03-2008",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "SOUTH GOA",
+        "address": "SALGAOCAR HOUSE OFF DR FRANCISCO LUIS GOMES ROAD VASCODAGAMA GA IN 403802",
+        "register": "Registered on 08-03-2008",
+        "director_details": [
+            {
+                "DIN": "00875061",
+                "direct_name": "Ganesh Sarvotham Shenoy"
+            },
+            {
+                "DIN": "00120120",
+                "direct_name": "Ranjana Shivanand Salgaocar"
+            },
+            {
+                "DIN": "00001402",
+                "direct_name": "Shivanand Vassudev Salgaocar"
+            },
+            {
+                "DIN": "00107368",
+                "direct_name": "Shyamsunder Bhiku Naik"
+            }
+        ]
+    },
+    {
+        "company_name": "SUMEDHA PLANTATIONS PRIVATE LIMITED",
+        "cin_no.": "U01403GA2008PTC005655",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-03-2008",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "SOUTH GOA",
+        "address": "SALGAOCAR HOUSE OFF DR FRANCISCO LUIS GOMES ROAD VASCODAGAMA GA IN 403802",
+        "register": "Registered on 08-03-2008",
+        "director_details": [
+            {
+                "DIN": "00875061",
+                "direct_name": "Ganesh Sarvotham Shenoy"
+            },
+            {
+                "DIN": "00120120",
+                "direct_name": "Ranjana Shivanand Salgaocar"
+            },
+            {
+                "DIN": "00107368",
+                "direct_name": "Shyamsunder Bhiku Naik"
+            },
+            {
+                "DIN": "03500612",
+                "direct_name": "Swati Shivanand Salgaocar"
+            }
+        ]
+    },
+    {
+        "company_name": "ATUL PLANTATIONS PRIVATE LIMITED",
+        "cin_no.": "U01403GA2008PTC005661",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-03-2008",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "SOUTH GOA",
+        "address": "SALGAOCAR HOUSE OFF DR FRANCISCO LUIS GOMES ROAD VASCODAGAMA GA IN 403802",
+        "register": "Registered on 17-03-2008",
+        "director_details": [
+            {
+                "DIN": "00875061",
+                "direct_name": "Ganesh Sarvotham Shenoy"
+            },
+            {
+                "DIN": "00120120",
+                "direct_name": "Ranjana Shivanand Salgaocar"
+            },
+            {
+                "DIN": "00001402",
+                "direct_name": "Shivanand Vassudev Salgaocar"
+            },
+            {
+                "DIN": "00107368",
+                "direct_name": "Shyamsunder Bhiku Naik"
+            }
+        ]
+    },
+    {
+        "company_name": "ADIKARA FARMS AND ESTATES PRIVATE LIMITE D",
+        "cin_no.": "U01403GA2008PTC005900",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-09-2008",
+        "business_activity": "Agriculture",
+        "state": "Goa",
+        "district": "SOUTH GOA",
+        "address": "801, ANAND SQUARE BLOCK 'B' NEAR SANJEEVANI HOSPITAL, BAINA VASCO DA GAMA South Goa GA IN 403802",
+        "register": "Registered on 20-09-2008",
+        "director_details": [
+            {
+                "DIN": "00004102",
+                "direct_name": "Anand Chandra Bose"
+            },
+            {
+                "DIN": "02042563",
+                "direct_name": "Sneha Anand Bose"
+            }
+        ]
+    }
+]

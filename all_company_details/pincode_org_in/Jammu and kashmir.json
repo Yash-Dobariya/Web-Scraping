@@ -1,0 +1,3688 @@
+[
+    {
+        "company_name": "SFZ AGRO FARMS PRIVATE LIMITED",
+        "cin_no.": "U01224JK2015PTC004470",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-08-2015",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "ANANTHNAG",
+        "address": "2ND FLOOR, LOLU COMPLEX NEAR GENERAL BUS STAND ANANTNAG JK IN 192101",
+        "register": "Registered on 12-08-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "GRUESS AGRISERVE PRIVATE LIMITED",
+        "cin_no.": "U01403JK2014PTC004120",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "5100000",
+        "registration_date": "04-02-2014",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "ANANTHNAG",
+        "address": "HARDPORA ACHABAL ANANTNAG SRINAGAR Anantnag JK IN 192101",
+        "register": "Registered on 04-02-2014",
+        "director_details": [
+            {
+                "DIN": "06805453",
+                "direct_name": "Abid Hussain Butt"
+            },
+            {
+                "DIN": "00167299",
+                "direct_name": "Aman Kohli"
+            },
+            {
+                "DIN": "02790456",
+                "direct_name": "Khuram Shafi Mir"
+            },
+            {
+                "DIN": "07272347",
+                "direct_name": "Mohmad Sadiq Kenue"
+            },
+            {
+                "DIN": "07272368",
+                "direct_name": "Mushtaq Ahmed Kennu"
+            }
+        ]
+    },
+    {
+        "company_name": "MOTION BIOSCIENCES PRIVATE LIMITED",
+        "cin_no.": "U24100JK2012PTC003452",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-01-2012",
+        "business_activity": "Metals and Chemicals",
+        "state": "Jammu and kashmir",
+        "district": "ANANTHNAG",
+        "address": "SCO 14 NUSRAT BUILDING MEHNDI KADAL ANANTNAG Anantnag JK IN 192101",
+        "register": "Registered on 19-01-2012",
+        "director_details": [
+            {
+                "DIN": "05160569",
+                "direct_name": "Asif Iqbal Bhat"
+            },
+            {
+                "DIN": "05161256",
+                "direct_name": "Syed Nisar Ahamd"
+            }
+        ]
+    },
+    {
+        "company_name": "MUSARO INFRASTRUCTURE PRIVATE LIMITED",
+        "cin_no.": "U45400JK2013PTC004064",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-12-2013",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "ANANTHNAG",
+        "address": "Chaimullah, Auqaf Market Road Qazigund Anantnag Anantnag JK IN 192221",
+        "register": "Registered on 05-12-2013",
+        "director_details": [
+            {
+                "DIN": "06706508",
+                "direct_name": "Mudasir Rashid Mir"
+            },
+            {
+                "DIN": "06706515",
+                "direct_name": "Rouf Hussain Mir"
+            },
+            {
+                "DIN": "06706518",
+                "direct_name": "Sabeel Magray Ahmad"
+            }
+        ]
+    },
+    {
+        "company_name": "ELITE FOREST HILL RESORT PRIVATE LIMITED",
+        "cin_no.": "U55101JK2012PTC003491",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-03-2012",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "ANANTHNAG",
+        "address": "LARKIPORA, ANANTNAG PAHALGAM Anantnag JK IN 192126",
+        "register": "Registered on 07-03-2012",
+        "director_details": [
+            {
+                "DIN": "05216814",
+                "direct_name": "Ali Jehangir"
+            },
+            {
+                "DIN": "05216709",
+                "direct_name": "Ali Mohammad Bhat"
+            },
+            {
+                "DIN": "05216713",
+                "direct_name": "Saleema Bano"
+            }
+        ]
+    },
+    {
+        "company_name": "HUNGRILLS FOOD AND BEVERAGES PRIVATE LIMITED",
+        "cin_no.": "U55209JK2017PTC010194",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-11-2017",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "ANANTHNAG",
+        "address": "SHAKEEL AHMAD SHERGOJRI AWANTIPORA PULWAMA Pulwama JK IN 192122",
+        "register": "Registered on 21-11-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "CASHMIR PURE & SURE FOODS & FARMS PRIVATE LIMITED",
+        "cin_no.": "U01100JK2017PTC010183",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-11-2017",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "ANANTHNAG",
+        "address": "310, Human Welfare Society Lone Building ,KP Road, Anantnag Anantnag Anantnag JK IN 192101",
+        "register": "Registered on 09-11-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "KASHMIRI ZAFFRON GROWERS. COMPANY PRIVATE LIMITED.",
+        "cin_no.": "U01110JK2007PTC002840",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "150000",
+        "registration_date": "13-11-2007",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "ANANTHNAG",
+        "address": "KANWAL HOUSE, INDUSTRIAL ESTATE ANANTNAG Anantnag JK IN 192101",
+        "register": "Registered on 13-11-2007",
+        "director_details": [
+            {
+                "DIN": "00122343",
+                "direct_name": "Abdul Chadinoo"
+            },
+            {
+                "DIN": "00675942",
+                "direct_name": "Fayaz Ahmad Chadinoo"
+            },
+            {
+                "DIN": "00679922",
+                "direct_name": "Nisar Husain"
+            }
+        ]
+    },
+    {
+        "company_name": "KANWAL AGRO FARMS PRIVATE LIMITED.",
+        "cin_no.": "U01135JK2007PTC002839",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-11-2007",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "ANANTHNAG",
+        "address": "KANWAL HOUSE, INDUSTRIAL ESTATE ANANTNAG Anantnag JK IN 192101",
+        "register": "Registered on 12-11-2007",
+        "director_details": [
+            {
+                "DIN": "00122343",
+                "direct_name": "Abdul Chadinoo"
+            },
+            {
+                "DIN": "02059891",
+                "direct_name": "Javeed Ahmed Siddiqi"
+            },
+            {
+                "DIN": "00679378",
+                "direct_name": "Mohammed Amin Chadnoo"
+            },
+            {
+                "DIN": "00679922",
+                "direct_name": "Nisar Husain"
+            }
+        ]
+    },
+    {
+        "company_name": "SHAHABAD INFRASTRUCTURE PRIVATE LIMITED",
+        "cin_no.": "U45400JK2016PTC004630",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "1000000",
+        "registration_date": "14-03-2016",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "ANANTHNAG",
+        "address": "MANDIPORA, DORU ANANTNAG Anantnag JK IN 192211",
+        "register": "Registered on 14-03-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "KVB AGRO FARMS PRIVATE LIMITED",
+        "cin_no.": "U01403JK2011PTC003349",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "11000000",
+        "paid_up_capital": "11000000",
+        "registration_date": "01-08-2011",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BARAMULLA",
+        "address": "UTIKOO MAGAM MAIN ROAD GULMARG BARAMULLA Baramula JK IN 193401",
+        "register": "Registered on 01-08-2011",
+        "director_details": [
+            {
+                "DIN": "03576963",
+                "direct_name": "Irfan Ahmad Wani"
+            },
+            {
+                "DIN": "03581397",
+                "direct_name": "Syed Masarat Bashir"
+            },
+            {
+                "DIN": "02313258",
+                "direct_name": "Vimal Joti Kaul"
+            }
+        ]
+    },
+    {
+        "company_name": "NEWLY BIRTH FARM COMPANY PRIVATE LIMITED",
+        "cin_no.": "U01403JK2011PTC003375",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-09-2011",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BARAMULLA",
+        "address": "KRISHAMA TEHSIL PATTAN PATTAN Baramula JK IN 193121",
+        "register": "Registered on 20-09-2011",
+        "director_details": [
+            {
+                "DIN": "03605064",
+                "direct_name": "Kim Seungbae"
+            },
+            {
+                "DIN": "06403197",
+                "direct_name": "Showkat Ahmad Malik"
+            }
+        ]
+    },
+    {
+        "company_name": "KASHMIR KISAAN PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403JK2014PTC004204",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-07-2014",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BARAMULLA",
+        "address": "139-KATH PORA BALA PALHALAN P.O.PATTAN- P.S.-PATTANBARAMULLA SRINAGAR Jammu JK IN 193121",
+        "register": "Registered on 07-07-2014",
+        "director_details": [
+            {
+                "DIN": "06663231",
+                "direct_name": "Ajaz Ahmad Lone"
+            },
+            {
+                "DIN": "06663276",
+                "direct_name": "Arshad Ahmed Sheikh"
+            },
+            {
+                "DIN": "06893603",
+                "direct_name": "Ghulam Mohi Uddin Bhat"
+            },
+            {
+                "DIN": "06663298",
+                "direct_name": "Mushtaq Ahmed Dar"
+            },
+            {
+                "DIN": "06663333",
+                "direct_name": "Nazir Ahmad Wani"
+            }
+        ]
+    },
+    {
+        "company_name": "JAMMU & KASHMIR ARTISAN PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403JK2015PTC004427",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-06-2015",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BARAMULLA",
+        "address": "MOHALLA QAZI HAMAM, BARAMULLA BARAMULLA Baramula JK IN 193201",
+        "register": "Registered on 10-06-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "J&K GRAMEEN HORTICULTURE PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403JK2015PTC004428",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "11-06-2015",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BARAMULLA",
+        "address": "SULTANPORA KANDI-P.O-BARAMULLA -P.S-CHANDOOSA BARAMULLA Baramula JK IN 193201",
+        "register": "Registered on 11-06-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "JAMMU & KASHMIR FLORICULTURE PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01407JK2015PTC004423",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "05-06-2015",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BARAMULLA",
+        "address": "SHAH MOHALLA JANBAZPORA BARAMULLA Baramula JK IN 193201",
+        "register": "Registered on 05-06-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "SOFTFINN SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U55101JK2006PTC002687",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-08-2006",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "BARAMULLA",
+        "address": "Village Chak Ferozpora PO Tangmarg Distt Baramulla JK IN 193401",
+        "register": "Registered on 14-08-2006",
+        "director_details": [
+            {
+                "DIN": "00137657",
+                "direct_name": "Mohd Imran Khan"
+            },
+            {
+                "DIN": "00140695",
+                "direct_name": "Mohd Shahid Khan"
+            }
+        ]
+    },
+    {
+        "company_name": "ARTY POULTRY FARMS PRIVATE LIMITED",
+        "cin_no.": "U01222JK2010PTC003151",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "200000",
+        "registration_date": "27-04-2010",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BARAMULLA",
+        "address": "Kanlibagh Near Mini Secretriat Baramulla Baramula JK IN 193101",
+        "register": "Registered on 27-04-2010",
+        "director_details": [
+            {
+                "DIN": "02679016",
+                "direct_name": "Ahmed Saeed Khan"
+            },
+            {
+                "DIN": "02666997",
+                "direct_name": "Rukhsar Ahmed"
+            },
+            {
+                "DIN": "02670934",
+                "direct_name": "Tariq Ahmad Lone"
+            },
+            {
+                "DIN": "02671028",
+                "direct_name": "Yaseer Wajahet"
+            }
+        ]
+    },
+    {
+        "company_name": "GRG INFRACON PRIVATE LIMITED",
+        "cin_no.": "U45400JK2010PTC003158",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-05-2010",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "BARAMULLA",
+        "address": "DRURU SHRAI KUNZER TANGMARG JK IN 193402",
+        "register": "Registered on 05-05-2010",
+        "director_details": [
+            {
+                "DIN": "03032454",
+                "direct_name": "Mehraj Ud Din Gilkar"
+            },
+            {
+                "DIN": "07556010",
+                "direct_name": "Mohamad Lateef Gilkar"
+            },
+            {
+                "DIN": "07555955",
+                "direct_name": "Mohamad Yousuf Gilkar"
+            },
+            {
+                "DIN": "07555984",
+                "direct_name": "Mohd Haneef Gilkar"
+            },
+            {
+                "DIN": "03032461",
+                "direct_name": "Tarooq Ahmad Gilkar"
+            }
+        ]
+    },
+    {
+        "company_name": "ADNAN INFRASTRUCTURE PRIVATE LIMITED",
+        "cin_no.": "U45400JK2010PTC003204",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "15000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "27-08-2010",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "BARAMULLA",
+        "address": "NESABAL SONAWARI BARAMULLA Srinagar JK IN 193201",
+        "register": "Registered on 27-08-2010",
+        "director_details": [
+            {
+                "DIN": "03116951",
+                "direct_name": "Mohd Yousf Reshi"
+            },
+            {
+                "DIN": "03143523",
+                "direct_name": "Yasir Rishe"
+            }
+        ]
+    },
+    {
+        "company_name": "PAMBASAR AGRO PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01403JK2008PTC002924",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-06-2008",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BUDGAM",
+        "address": "BEDAR HOUSE, PARRAY PORA BAGHAT, BARZULLA, BUDGAM, SRINAGAR Srinagar JK IN 191111",
+        "register": "Registered on 17-06-2008",
+        "director_details": [
+            {
+                "DIN": "03609407",
+                "direct_name": "Javaid Riyaz"
+            },
+            {
+                "DIN": "02148402",
+                "direct_name": "Mohammad Numan"
+            },
+            {
+                "DIN": "02089895",
+                "direct_name": "Saddam Riyaz"
+            }
+        ]
+    },
+    {
+        "company_name": "KASHMIR FRESH PRIVATE LIMITED",
+        "cin_no.": "U01403JK2011PTC003376",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "200000",
+        "registration_date": "20-09-2011",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BUDGAM",
+        "address": "46 INDUSTRAIL ESTATE SANAT NAGAR SRINAGAR Srinagar JK IN 190005",
+        "register": "Registered on 20-09-2011",
+        "director_details": [
+            {
+                "DIN": "02125553",
+                "direct_name": "Lakshaman Khaire"
+            },
+            {
+                "DIN": "03620465",
+                "direct_name": "Mohammad Ahanger Altaf"
+            },
+            {
+                "DIN": "05166122",
+                "direct_name": "Yasmeen Elyas Kraipak"
+            }
+        ]
+    },
+    {
+        "company_name": "AL RAWDAH AGRO ENERGY PRIVATE LIMITED",
+        "cin_no.": "U01403JK2012PTC003618",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-07-2012",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BUDGAM",
+        "address": "HOUSE . NO-114 BUDSHAH COLONY LANE 3 SANAT NAGAR Srinagar JK IN 190005",
+        "register": "Registered on 19-07-2012",
+        "director_details": [
+            {
+                "DIN": "05327670",
+                "direct_name": "Ghulam Nabi Shah"
+            },
+            {
+                "DIN": "02209224",
+                "direct_name": "Najam U Saqib Shah"
+            }
+        ]
+    },
+    {
+        "company_name": "SHAHEEN AGRO FRESH PRIVATE LIMITED",
+        "cin_no.": "U01403JK2013PTC003772",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "60000000",
+        "paid_up_capital": "38361000",
+        "registration_date": "08-01-2013",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BUDGAM",
+        "address": "MOMIN ABAD, HYDERPORA, SRINAGAR Srinagar JK IN 190014",
+        "register": "Registered on 08-01-2013",
+        "director_details": [
+            {
+                "DIN": "03136790",
+                "direct_name": "Asif Jehangir Reshi"
+            },
+            {
+                "DIN": "06457929",
+                "direct_name": "Majid Aslam Wafai"
+            }
+        ]
+    },
+    {
+        "company_name": "MEVA AGRO PRODUCTS (OPC) PRIVATE LIMITED",
+        "cin_no.": "U01403JK2014OPC004254",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-10-2014",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BUDGAM",
+        "address": "BYE PASS (WEST) HYDERPORA SRINAGAR JK IN 190014",
+        "register": "Registered on 27-10-2014",
+        "director_details": [
+            {
+                "DIN": "03021699",
+                "direct_name": "Ghulam Hassan Rather"
+            }
+        ]
+    },
+    {
+        "company_name": "NUNDRESH POTATO SEED PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403JK2015PTC004548",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-12-2015",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BUDGAM",
+        "address": "FRESDUB Chari sharief SRINAGAR Srinagar JK IN 191112",
+        "register": "Registered on 03-12-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "VALLEY AGRO FRESH PRIVATE LIMITED",
+        "cin_no.": "U01407JK2012PTC003499",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-03-2012",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BUDGAM",
+        "address": "2nd FLOOR, 7-SQUARE MALL, HYDEPORE CHOWK, BYPASS, SRINAGAR Srinagar JK IN 190014",
+        "register": "Registered on 20-03-2012",
+        "director_details": [
+            {
+                "DIN": "03136790",
+                "direct_name": "Asif Jehangir Reshi"
+            },
+            {
+                "DIN": "02187627",
+                "direct_name": "Ghulam Nabi Var"
+            },
+            {
+                "DIN": "05196134",
+                "direct_name": "Hari Prasad Bagra"
+            },
+            {
+                "DIN": "03114902",
+                "direct_name": "Mahendra Kumar Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "ITFAQ INTEGRATED COLD STORAGE PRIVATE LIMITED",
+        "cin_no.": "U01407JK2013PTC003816",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "5000000",
+        "registration_date": "25-03-2013",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "BUDGAM",
+        "address": "KHASRA NO 2140 RAWALPORA HOUSING COLONY SRINAGAR Srinagar JK IN 190005",
+        "register": "Registered on 25-03-2013",
+        "director_details": [
+            {
+                "DIN": "02244909",
+                "direct_name": "Mohd Asif"
+            },
+            {
+                "DIN": "06570065",
+                "direct_name": "Raja Ajazali Khan"
+            },
+            {
+                "DIN": "02545732",
+                "direct_name": "Tanweer Ahmad Khan"
+            },
+            {
+                "DIN": "02256200",
+                "direct_name": "Viquar Asif"
+            },
+            {
+                "DIN": "02256875",
+                "direct_name": "Zubair Tanveer Khan"
+            }
+        ]
+    },
+    {
+        "company_name": "ALPINE MINERALS & CHEMICALS PRIVATE LIMITED",
+        "cin_no.": "U24100JK2011PTC003354",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "08-08-2011",
+        "business_activity": "Metals and Chemicals",
+        "state": "Jammu and kashmir",
+        "district": "BUDGAM",
+        "address": "ALPINE MINERALS & CHEMICALS PRIVATE LIMITED 16-MADINA BAGH, CHANAPORA, Srinagar JK IN 190015",
+        "register": "Registered on 08-08-2011",
+        "director_details": [
+            {
+                "DIN": "03440345",
+                "direct_name": "Abdul Rashid Banday"
+            },
+            {
+                "DIN": "03439786",
+                "direct_name": "Nazrul Islam"
+            }
+        ]
+    },
+    {
+        "company_name": "AL FALAH LIFE SCIENCES PRIVATE LIMITED",
+        "cin_no.": "U24230JK2012PTC003737",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "03-12-2012",
+        "business_activity": "Metals and Chemicals",
+        "state": "Jammu and kashmir",
+        "district": "BUDGAM",
+        "address": "HOUSE NO. 27, BANAT LANE, ALAMDAR COLONY, GOPAL PORA, WATHORA, CHADOORA JK IN 191113",
+        "register": "Registered on 03-12-2012",
+        "director_details": [
+            {
+                "DIN": "03548837",
+                "direct_name": "Aamer Roshanali Khatri"
+            },
+            {
+                "DIN": "06363016",
+                "direct_name": "Areeg Anwer Ali Shamshier"
+            },
+            {
+                "DIN": "05318681",
+                "direct_name": "Naseem Ahmad Charoo"
+            }
+        ]
+    },
+    {
+        "company_name": "ELECANUS AGROTECH (OPC) PRIVATE LIMITED",
+        "cin_no.": "U01400JK2015OPC004315",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-02-2015",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "DODA",
+        "address": "VILLAGE SHANGROO TEHSIL DODA JK IN 182201",
+        "register": "Registered on 02-02-2015",
+        "director_details": [
+            {
+                "DIN": "07020818",
+                "direct_name": "Asha Devi"
+            }
+        ]
+    },
+    {
+        "company_name": "HAJI AND BUTT DAIRY PRIVATE LIMITED",
+        "cin_no.": "U01403JK2014PTC004208",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-07-2014",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "DODA",
+        "address": "TAK MOHALLA DODA Doda JK IN 182202",
+        "register": "Registered on 18-07-2014",
+        "director_details": [
+            {
+                "DIN": "06554825",
+                "direct_name": "Mohammad Saleem"
+            },
+            {
+                "DIN": "06870329",
+                "direct_name": "Mohd Ashraf"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMALAYAN MUSK INFRASTRUCTURE PRIVATE LIMITED",
+        "cin_no.": "U45400JK2013PTC003975",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "15000000",
+        "paid_up_capital": "12715860",
+        "registration_date": "29-08-2013",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "DODA",
+        "address": "Ward No. 7, House No- 98 Near Animal Husbandry Shaheedi Mohallah Kishtwar Doda JK IN 182204",
+        "register": "Registered on 29-08-2013",
+        "director_details": [
+            {
+                "DIN": "06577171",
+                "direct_name": "Mansoor Ali Shoket"
+            },
+            {
+                "DIN": "00172370",
+                "direct_name": "Mohd Iqbal Butt"
+            }
+        ]
+    },
+    {
+        "company_name": "KARGIL ROAD TRANSPORT PRIVATE LIMITED",
+        "cin_no.": "U60230JK2014PTC004169",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-05-2014",
+        "business_activity": "Transport and Storage",
+        "state": "Jammu and kashmir",
+        "district": "DODA",
+        "address": "WARD NO. 5 BATOTE BATOTE Doda JK IN 182143",
+        "register": "Registered on 15-05-2014",
+        "director_details": [
+            {
+                "DIN": "06846056",
+                "direct_name": "Abdul Hafiz"
+            },
+            {
+                "DIN": "06846054",
+                "direct_name": "Mohd Irshad Wani"
+            }
+        ]
+    },
+    {
+        "company_name": "CHENAB VEGETABLE PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100JK2017PTC010069",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-08-2017",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "DODA",
+        "address": "PARYOTE DODA Doda JK IN 182201",
+        "register": "Registered on 08-08-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "AL FALLAH FARMER PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100JK2018PTC010273",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-02-2018",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "DODA",
+        "address": "C/O FAYAZ AHMED TANTARY S/O GH RASOOL KHARKOOT BANIHAL Doda JK IN 182146",
+        "register": "Registered on 08-02-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "BHASIN BUILDTECH PRIVATE LIMITED",
+        "cin_no.": "U45400JK2008PTC002944",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "20-10-2008",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "DODA",
+        "address": "BHASIN HOUSE, COURT ROAD, RAMBAN DISTT DODA RAMBAN Jammu JK IN 182144",
+        "register": "Registered on 20-10-2008",
+        "director_details": [
+            {
+                "DIN": "02333768",
+                "direct_name": "Joginder Pal Bhasin"
+            },
+            {
+                "DIN": "02229375",
+                "direct_name": "Neeru Bhasin"
+            }
+        ]
+    },
+    {
+        "company_name": "KARANDEV CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U45500JK2016PTC009729",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-08-2016",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "DODA",
+        "address": "Ward No. 2, Sunari Mohalla Bowli Bazar Ramban Doda JK IN 182144",
+        "register": "Registered on 04-08-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SAAZ HOSPITALITY PRIVATE LIMITED",
+        "cin_no.": "U74900JK2015PTC004477",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-08-2015",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "DODA",
+        "address": "HOUSE NO.12, WARD NO. 7, DIST. KISTWAR KISHTWAR Doda JK IN 182204",
+        "register": "Registered on 21-08-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "HIMALAYAN MUSK POWER PRIVATE LIMITED",
+        "cin_no.": "U74900JK2016PTC004598",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-02-2016",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "DODA",
+        "address": "WARD NO.7, HOUSE NO.98, NEAR ANIMAL HUSBANDRY SHAHEEDI MOHALLAH KISHTWAR JK IN 182204",
+        "register": "Registered on 09-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "RAIN AGRO PRIVATE LIMITED",
+        "cin_no.": "U01403JK2007PTC002761",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-03-2007",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "JAMMU",
+        "address": "PURAN KA KOTHA, GHO MANASA, JAMMU Jammu JK IN 180002",
+        "register": "Registered on 26-03-2007",
+        "director_details": [
+            {
+                "DIN": "02418079",
+                "direct_name": "Ravinder Singh Jamwal"
+            },
+            {
+                "DIN": "03447723",
+                "direct_name": "Zorabar Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "ADNAN AGRO PRIVATE LIMITED",
+        "cin_no.": "U01403JK2007PTC002764",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-04-2007",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "JAMMU",
+        "address": "61- VIDHATA NAGAR, NARWAL BATHINDI ROAD, JAMMU Jammu JK IN 180011",
+        "register": "Registered on 04-04-2007",
+        "director_details": [
+            {
+                "DIN": "01358368",
+                "direct_name": "Manzoor Hussain"
+            },
+            {
+                "DIN": "01691812",
+                "direct_name": "Shakeela Begum"
+            }
+        ]
+    },
+    {
+        "company_name": "SHOWER AGRO PRIVATE LIMITED",
+        "cin_no.": "U01403JK2007PTC002771",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "25-04-2007",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "JAMMU",
+        "address": "CHAK AGRA, R. S. PURA, JAMMU JAMMU Jammu JK IN 181123",
+        "register": "Registered on 25-04-2007",
+        "director_details": [
+            {
+                "DIN": "01358368",
+                "direct_name": "Manzoor Hussain"
+            },
+            {
+                "DIN": "01691812",
+                "direct_name": "Shakeela Begum"
+            }
+        ]
+    },
+    {
+        "company_name": "SUDARSHAN CONSOLIDATED LIMITED.",
+        "cin_no.": "U01403JK2008PLC002937",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "46200000",
+        "registration_date": "16-09-2008",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "JAMMU",
+        "address": "INDUSTRIAL GROWTH CENTRE PHASE-I, SAMBA JAMMU Jammu JK IN 184121",
+        "register": "Registered on 16-09-2008",
+        "director_details": [
+            {
+                "DIN": "02738079",
+                "direct_name": "Binod Kumar"
+            },
+            {
+                "DIN": "05313820",
+                "direct_name": "Krishna Shekhar Singh"
+            },
+            {
+                "DIN": "07673408",
+                "direct_name": "Parmukh"
+            },
+            {
+                "DIN": "03450893",
+                "direct_name": "Rajan Khosla"
+            },
+            {
+                "DIN": "06660013",
+                "direct_name": "Rajesh Kumar"
+            },
+            {
+                "DIN": "00891841",
+                "direct_name": "Syed Masood Zaheer Naqvi"
+            }
+        ]
+    },
+    {
+        "company_name": "ISHWAR RICE AND GENERAL MILLS PRIVATE LIMITED",
+        "cin_no.": "U01403JK2009PTC003044",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2300000",
+        "paid_up_capital": "2300000",
+        "registration_date": "23-07-2009",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "JAMMU",
+        "address": "VILLAGE KOTHI POST OFFICE KHOUR TEHSIL R S PURA JAMMU Jammu JK IN 181121",
+        "register": "Registered on 23-07-2009",
+        "director_details": [
+            {
+                "DIN": "06573756",
+                "direct_name": "Amit Chib"
+            },
+            {
+                "DIN": "06573764",
+                "direct_name": "Attam Singh"
+            },
+            {
+                "DIN": "02663979",
+                "direct_name": "Narinder Pal Singh"
+            },
+            {
+                "DIN": "07096926",
+                "direct_name": "Rakesh Sharma"
+            },
+            {
+                "DIN": "01399059",
+                "direct_name": "Sanjeev Malhotra"
+            },
+            {
+                "DIN": "02631239",
+                "direct_name": "Surinder Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "VEERPAL AGROTECH PRIVATE LIMITED",
+        "cin_no.": "U01403JK2014PTC004129",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-02-2014",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "JAMMU",
+        "address": "LANE NO 1, H NO 1 SURYA VIHAR BOHRI (PATTA) JAMMU Jammu JK IN 180002",
+        "register": "Registered on 18-02-2014",
+        "director_details": [
+            {
+                "DIN": "06792393",
+                "direct_name": "Harmikpal Singh"
+            },
+            {
+                "DIN": "06792453",
+                "direct_name": "Jasvinder Pal Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "SUBHAM GREENERY INDIA LIMITED",
+        "cin_no.": "U01407JK2012PLC003588",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "14-06-2012",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "JAMMU",
+        "address": "NEAR GOAL MARKET GANDHI NAGAR GANDHI NAGAR Jammu JK IN 180004",
+        "register": "Registered on 14-06-2012",
+        "director_details": [
+            {
+                "DIN": "03159195",
+                "direct_name": "Arup Bhattacharyya"
+            },
+            {
+                "DIN": "03516316",
+                "direct_name": "Partha Chakraborty"
+            },
+            {
+                "DIN": "03508659",
+                "direct_name": "Sankar Prosad Ojha"
+            },
+            {
+                "DIN": "03626487",
+                "direct_name": "Somenath Gangully"
+            }
+        ]
+    },
+    {
+        "company_name": "DURGA AGRO PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01409JK1997PTC001782",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "400000",
+        "registration_date": "22-12-1997",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "JAMMU",
+        "address": "Kanak Mandi, Jammu JAMMU AND KASHMIR JK IN 180001",
+        "register": "Registered on 22-12-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "KRISHNA AGROS PRIVATE LIMITED",
+        "cin_no.": "U02001JK1986PTC000906",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "200",
+        "registration_date": "22-10-1986",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "JAMMU",
+        "address": "Kartholi Morh, G.T. Road, Bari Brahamana, Jammu JAMMU JK IN 181133",
+        "register": "Registered on 22-10-1986",
+        "director_details": []
+    },
+    {
+        "company_name": "TREEGUN AGRO INDIA LIMITED.",
+        "cin_no.": "U02001JK1997PLC001760",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "14000",
+        "registration_date": "09-10-1997",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "JAMMU",
+        "address": "188EXHIBITION GROUND JAMMUJAMMU JAMMU AND KASHMIR JK IN 180001",
+        "register": "Registered on 09-10-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "TIGER HILL GRANITE KARGIL COMPANY PRIVATE LIMITED",
+        "cin_no.": "U14105JK2012PTC003461",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-01-2012",
+        "business_activity": "Mining and Quarrying",
+        "state": "Jammu and kashmir",
+        "district": "KARGIL",
+        "address": "HAIDERY COMPLEX BAROO, OPPOSITE JAMMU AND KASHMIR BANK BAROO KARGIL Kargil JK IN 194105",
+        "register": "Registered on 23-01-2012",
+        "director_details": [
+            {
+                "DIN": "03625270",
+                "direct_name": "Hakima Banoo"
+            },
+            {
+                "DIN": "03602655",
+                "direct_name": "Shabir Hussain"
+            }
+        ]
+    },
+    {
+        "company_name": "LADAKH CONSTRUCTION COMPANY PRIVATE LIMITED",
+        "cin_no.": "U45400JK2008PTC002912",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "12-05-2008",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KARGIL",
+        "address": "HAJI JAFFER COMPLEX NEAR BEAMATHANG PLAY GROUND KARGIL Kargil JK IN 194103",
+        "register": "Registered on 12-05-2008",
+        "director_details": [
+            {
+                "DIN": "02170142",
+                "direct_name": "Fida Hussain"
+            },
+            {
+                "DIN": "02094876",
+                "direct_name": "Mohammad Jaffar"
+            },
+            {
+                "DIN": "02094918",
+                "direct_name": "Mohammad Salman"
+            }
+        ]
+    },
+    {
+        "company_name": "NUN KUN TRADERS AND CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U45400JK2011PTC003417",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-12-2011",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KARGIL",
+        "address": "KACHO COMPLEX 2ND FLOOR, NEAR JAMIYA MASJID, MAIN MARKET KARGIL Kargil JK IN 194103",
+        "register": "Registered on 09-12-2011",
+        "director_details": [
+            {
+                "DIN": "05139530",
+                "direct_name": "Niyaz Hussain Brokpa"
+            },
+            {
+                "DIN": "05138630",
+                "direct_name": "Tahir Hussain"
+            }
+        ]
+    },
+    {
+        "company_name": "GICL PROJECTS PRIVATE LIMITED",
+        "cin_no.": "U45400JK2012PTC003463",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "25-01-2012",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KARGIL",
+        "address": "Main Market Kargil Ladakh Kargil JK IN 194103",
+        "register": "Registered on 25-01-2012",
+        "director_details": [
+            {
+                "DIN": "05177339",
+                "direct_name": "Mehraj Din Nagvi"
+            },
+            {
+                "DIN": "02908022",
+                "direct_name": "Wajid Yasin"
+            }
+        ]
+    },
+    {
+        "company_name": "MOHDRAZA CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U45400JK2014PTC004199",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-06-2014",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KARGIL",
+        "address": "NEAR J A M E SCHOOL CHANCHICK KARGIL Kargil JK IN 194301",
+        "register": "Registered on 30-06-2014",
+        "director_details": [
+            {
+                "DIN": "06884698",
+                "direct_name": "Haji Mohd Raza"
+            },
+            {
+                "DIN": "06905454",
+                "direct_name": "Mohmmad"
+            }
+        ]
+    },
+    {
+        "company_name": "HAIDARY CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U45400JK2014PTC004200",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-06-2014",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KARGIL",
+        "address": "BAROO COLONEY BAROO KARGIL Kargil JK IN 194301",
+        "register": "Registered on 30-06-2014",
+        "director_details": [
+            {
+                "DIN": "06884625",
+                "direct_name": "Mohammad Hassan Haidary"
+            },
+            {
+                "DIN": "07368300",
+                "direct_name": "Zakir Hussain Haidary"
+            }
+        ]
+    },
+    {
+        "company_name": "MOHDALI CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U45400JK2014PTC004218",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-08-2014",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KARGIL",
+        "address": "CHUTUMAIL DOKS YOURBALTAK KARGIL KARGIL Kargil JK IN 194103",
+        "register": "Registered on 06-08-2014",
+        "director_details": [
+            {
+                "DIN": "06927476",
+                "direct_name": "Manzoor Hussain"
+            },
+            {
+                "DIN": "06927473",
+                "direct_name": "Mohd Ali"
+            },
+            {
+                "DIN": "06927481",
+                "direct_name": "Nazir Ahmed"
+            }
+        ]
+    },
+    {
+        "company_name": "NUN KUN STC ENGINEERING OPC PRIVATE LIMITED",
+        "cin_no.": "U45400JK2015OPC004512",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-10-2015",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KARGIL",
+        "address": "Minjee Proper Thang Kargil JK IN 194105",
+        "register": "Registered on 05-10-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "LADAKHI FOODS PRIVATE LIMITED",
+        "cin_no.": "U15400JK2018PTC010285",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "50000",
+        "registration_date": "15-02-2018",
+        "business_activity": "Food Manufacturing",
+        "state": "Jammu and kashmir",
+        "district": "KARGIL",
+        "address": "WAKHA WADOO SHARGOL, DISTRICT-KARGIL, LADAKH KARGIL Kargil JK IN 194109",
+        "register": "Registered on 15-02-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "KARGIL ESTATE PRIVATE LIMITED",
+        "cin_no.": "U74999JK2017PTC010217",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "400000",
+        "registration_date": "12-12-2017",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "KARGIL",
+        "address": "RUNGKAR HOUSE NEAR ANIMAL HUSBANDARY OFFICE KARGIL KARGIL Kargil JK IN 194103",
+        "register": "Registered on 12-12-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "VAISHNODEVI PIGMENTS PRIVATE LIMITED",
+        "cin_no.": "U01403JK2009PTC002963",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-01-2009",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "KATHUA",
+        "address": "NEAR RAILWAY CROSSING KHASRA NO",
+        "register": "Registered on 06-01-2009",
+        "director_details": [
+            {
+                "DIN": "00888547",
+                "direct_name": "Balbir Singh"
+            },
+            {
+                "DIN": "00293312",
+                "direct_name": "Ramesh Kumar Agarwal"
+            },
+            {
+                "DIN": "01509357",
+                "direct_name": "Sanjay Kumar Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "ELIZA SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U02005JK2015PTC004518",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-10-2015",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "KATHUA",
+        "address": "G. T. ROAD, DAYALA CHACK KATHUA Kathua JK IN 184144",
+        "register": "Registered on 13-10-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "VAISHNODEVI METALS & FABRICATORS PRIVATE LIMITED",
+        "cin_no.": "U13200JK2009PTC002966",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-01-2009",
+        "business_activity": "Mining and Quarrying",
+        "state": "Jammu and kashmir",
+        "district": "KATHUA",
+        "address": "NEAR RAILWAY CROSSING KHASRA NO",
+        "register": "Registered on 06-01-2009",
+        "director_details": [
+            {
+                "DIN": "00888547",
+                "direct_name": "Balbir Singh"
+            },
+            {
+                "DIN": "02095794",
+                "direct_name": "Rajendra Prasad Agarwal"
+            },
+            {
+                "DIN": "00293312",
+                "direct_name": "Ramesh Kumar Agarwal"
+            },
+            {
+                "DIN": "01509357",
+                "direct_name": "Sanjay Kumar Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "RED JAM AGRO INDIA PRIVATE LIMITED",
+        "cin_no.": "U24100JK2013PTC003886",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-05-2013",
+        "business_activity": "Metals and Chemicals",
+        "state": "Jammu and kashmir",
+        "district": "KATHUA",
+        "address": "WARD NO. 14, OPPOSITE SHASTRI NAGAR, NEAR DUBB SWEETS SHOP, KATHUA Kathua JK IN 184101",
+        "register": "Registered on 27-05-2013",
+        "director_details": [
+            {
+                "DIN": "06709766",
+                "direct_name": "Himat Singh Sasan"
+            },
+            {
+                "DIN": "06586792",
+                "direct_name": "Sanjiv Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "TRIKUTA MOTELS PRIVATE LIMITED",
+        "cin_no.": "U55101JK2007PTC002834",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "600000",
+        "registration_date": "25-10-2007",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "KATHUA",
+        "address": "HOTEL STAR PALACE NATIONAL HIGHWAY OPPOSITE CHENAB TEXTILE MILLS KATHUA (J&K) KATHUA JK IN 184101",
+        "register": "Registered on 25-10-2007",
+        "director_details": [
+            {
+                "DIN": "01747123",
+                "direct_name": "Anil Kohli"
+            },
+            {
+                "DIN": "01753136",
+                "direct_name": "Ashwani Kumar Khajuria"
+            },
+            {
+                "DIN": "03056235",
+                "direct_name": "Neeraj Sharma"
+            },
+            {
+                "DIN": "01965652",
+                "direct_name": "Romesh Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "DPS TRANSPORT SERVICES PRIVATE LIMITED",
+        "cin_no.": "U60200JK2012PTC003507",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-03-2012",
+        "business_activity": "Transport and Storage",
+        "state": "Jammu and kashmir",
+        "district": "KATHUA",
+        "address": "SHAKTI MODERN SCHOOL LANE, WARD NO. 14, NAG NAGAR, KATHUA Kathua JK IN 184101",
+        "register": "Registered on 26-03-2012",
+        "director_details": [
+            {
+                "DIN": "05228396",
+                "direct_name": "Anita Sharma"
+            },
+            {
+                "DIN": "07232805",
+                "direct_name": "Dharam Pal"
+            },
+            {
+                "DIN": "05228403",
+                "direct_name": "Sunita Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "ERA INFOTECH PRIVATE LIMITED",
+        "cin_no.": "U45400JK2015PTC004347",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-03-2015",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KATHUA",
+        "address": "WARD NO.4 KATHUA Kathua JK IN 184101",
+        "register": "Registered on 17-03-2015",
+        "director_details": [
+            {
+                "DIN": "07108618",
+                "direct_name": "Bharat Bhushan"
+            },
+            {
+                "DIN": "07108621",
+                "direct_name": "Kusum"
+            },
+            {
+                "DIN": "07137355",
+                "direct_name": "Sukh Ram Salaria"
+            }
+        ]
+    },
+    {
+        "company_name": "ARYAN INFRASTRUCTURE & CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U45400JK2015PTC004495",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "600000",
+        "registration_date": "10-09-2015",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KATHUA",
+        "address": "45 TARRA, BANI NEARBY BABASURGAL KATHUA Kathua JK IN 184101",
+        "register": "Registered on 10-09-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "CHENAB MACHINERY & ENGINEERING PRIVATE LIMITED",
+        "cin_no.": "U45500JK2014PTC004101",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000000",
+        "paid_up_capital": "89615000",
+        "registration_date": "17-01-2014",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KATHUA",
+        "address": "IIDC GOVINDSAR INDUSTRIAL AREA, HATLI MORE, KATHUA Kathua JK IN 184152",
+        "register": "Registered on 17-01-2014",
+        "director_details": [
+            {
+                "DIN": "00176988",
+                "direct_name": "Manju Devi"
+            },
+            {
+                "DIN": "06883392",
+                "direct_name": "Vijay Aggarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "SUS AGRO FOODS INDIA PRIVATE LIMITED",
+        "cin_no.": "U15203JK2012PTC003746",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "40000000",
+        "paid_up_capital": "28361000",
+        "registration_date": "07-12-2012",
+        "business_activity": "Food Manufacturing",
+        "state": "Jammu and kashmir",
+        "district": "KATHUA",
+        "address": "191-A SICOP INDUSTRIAL COMPLEX KATHUA Kathua JK IN 184101",
+        "register": "Registered on 07-12-2012",
+        "director_details": [
+            {
+                "DIN": "01905390",
+                "direct_name": "Harbhajan Singh Dureja"
+            },
+            {
+                "DIN": "03176993",
+                "direct_name": "Rajinder Kumar"
+            },
+            {
+                "DIN": "01941220",
+                "direct_name": "Sanjeev Kumar Arora"
+            },
+            {
+                "DIN": "02244037",
+                "direct_name": "Upasana Arora"
+            }
+        ]
+    },
+    {
+        "company_name": "NORTH END BUILDERS PRIVATE LIMITED",
+        "cin_no.": "U45400JK2011PTC003308",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-05-2011",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KUPWARA",
+        "address": "MIR LASJAN HOUSE, LASJAN NOWGAM Srinagar JK IN 193302",
+        "register": "Registered on 18-05-2011",
+        "director_details": [
+            {
+                "DIN": "05236848",
+                "direct_name": "Nazir Ahmed"
+            },
+            {
+                "DIN": "01909437",
+                "direct_name": "Zahoor Ahmed"
+            }
+        ]
+    },
+    {
+        "company_name": "AFTAB ENGINEERS INFRATECH PRIVATE LIMITED",
+        "cin_no.": "U45400JK2016PTC004628",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "200000",
+        "registration_date": "11-03-2016",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KUPWARA",
+        "address": "KHAN MOHALLA LONA HARI SUNDERPORA MEELYAL KUPWARA JK IN 193224",
+        "register": "Registered on 11-03-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "LOLAB VALLEY CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U45400JK2018PTC010332",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "19-03-2018",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KUPWARA",
+        "address": "C/O GH HASAN BHAT BHAT MOHALLA, TIKKERPORA, KALAROOS KUPWARA Kupwara JK IN 193222",
+        "register": "Registered on 19-03-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "OAKMAN CONSULTANCY SERVICES PRIVATE LIMITED",
+        "cin_no.": "U74900JK2015PTC004379",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-04-2015",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "KUPWARA",
+        "address": "NO. 164 THAYAN, KALAROOS KUPWARA SRINAGAR Srinagar JK IN 193222",
+        "register": "Registered on 30-04-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "MUTHAIRA TECH PRIVATE LIMITED",
+        "cin_no.": "U74999JK2017PTC010131",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "22-09-2017",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "KUPWARA",
+        "address": "GROUND FLOOR MAIDANI CHUGAL HANDWARA Kupwara JK IN 193221",
+        "register": "Registered on 22-09-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "ENOBAL INTERNET PRIVATE LIMITED",
+        "cin_no.": "U74999JK2018PTC010237",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-01-2018",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "KUPWARA",
+        "address": "COURT ROAD HANDWARA OPP. TEHSIL KUPWARA Kupwara JK IN 193221",
+        "register": "Registered on 01-01-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "KASHMIR MARBLE INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U26993JK1986PTC000873",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "390000",
+        "registration_date": "16-05-1986",
+        "business_activity": "Metals and Chemicals",
+        "state": "Jammu and kashmir",
+        "district": "KUPWARA",
+        "address": "Gousia Filling Station Near Govt Degree College Handwara Kupwara JK IN 193222",
+        "register": "Registered on 16-05-1986",
+        "director_details": [
+            {
+                "DIN": "05127066",
+                "direct_name": "Abdul Majid Lone"
+            },
+            {
+                "DIN": "05126959",
+                "direct_name": "Feroze Ahmad Lone"
+            }
+        ]
+    },
+    {
+        "company_name": "SECLINE INFOTECH PRIVATE LIMITED",
+        "cin_no.": "U72900JK2018PTC010266",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "350000",
+        "registration_date": "06-02-2018",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "KUPWARA",
+        "address": "BRANWARI KUPWARA Kupwara JK IN 193222",
+        "register": "Registered on 06-02-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "J K ROAD CONSTRUCTION COMPANY PRIVATE LIMITED",
+        "cin_no.": "U45203JK2012PTC003594",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-06-2012",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KUPWARA",
+        "address": "ANWARABAD SULKOOTE KUPWARA Kupwara JK IN 193222",
+        "register": "Registered on 20-06-2012",
+        "director_details": [
+            {
+                "DIN": "05284373",
+                "direct_name": "Altaf Ali Khan"
+            },
+            {
+                "DIN": "05283902",
+                "direct_name": "Jehangeer Khan Ahmad"
+            },
+            {
+                "DIN": "05284326",
+                "direct_name": "Mohammad Naziem Khan"
+            }
+        ]
+    },
+    {
+        "company_name": "ASHIQ HUSSAIN COSTRUCTION COMPANY PRIVATE LIMITED",
+        "cin_no.": "U45203JK2012PTC003697",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-10-2012",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "KUPWARA",
+        "address": "VILLAGAM HANDWARA NEAR J & K BANK KUPWARA Anantnag JK IN 193224",
+        "register": "Registered on 05-10-2012",
+        "director_details": [
+            {
+                "DIN": "06384667",
+                "direct_name": "Ashiq Hussain Sheikh"
+            },
+            {
+                "DIN": "06384671",
+                "direct_name": "Sara Begum"
+            },
+            {
+                "DIN": "06384676",
+                "direct_name": "Shafath Hussain"
+            }
+        ]
+    },
+    {
+        "company_name": "COLD ARID AGRI-TECH PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01403JK2013PTC004061",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-12-2013",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "LEH",
+        "address": "34 , Chowpa Ranbirpur Thikshey Leh Leh JK IN 194101",
+        "register": "Registered on 04-12-2013",
+        "director_details": [
+            {
+                "DIN": "06717902",
+                "direct_name": "Girish Jageshwar Korekar"
+            },
+            {
+                "DIN": "06717861",
+                "direct_name": "Guru Charan"
+            }
+        ]
+    },
+    {
+        "company_name": "SABOO RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55101JK2008PTC002959",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "15500000",
+        "paid_up_capital": "11600000",
+        "registration_date": "23-12-2008",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "LEH",
+        "address": "ZOPTA SABOO LEH JK IN 194101",
+        "register": "Registered on 23-12-2008",
+        "director_details": [
+            {
+                "DIN": "01017391",
+                "direct_name": "Balendu Singh"
+            },
+            {
+                "DIN": "02394532",
+                "direct_name": "Eli Hud George"
+            },
+            {
+                "DIN": "02313769",
+                "direct_name": "Peter Yourgail George"
+            }
+        ]
+    },
+    {
+        "company_name": "ZEN ROYAL RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55101JK2012PTC003571",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "1000000",
+        "registration_date": "29-05-2012",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "LEH",
+        "address": "SHEYNAM LEH LADAKH LEH JK IN 194101",
+        "register": "Registered on 29-05-2012",
+        "director_details": [
+            {
+                "DIN": "05285269",
+                "direct_name": "Padma Wangail"
+            },
+            {
+                "DIN": "05285131",
+                "direct_name": "Phunchok Stobdan"
+            }
+        ]
+    },
+    {
+        "company_name": "LADAKH MOTOR GARAGE PRIVATE LIMITED",
+        "cin_no.": "U50404JK2013PTC003784",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "31-01-2013",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "LEH",
+        "address": "98-SANKAR POST OFFICE LEH LEH Leh JK IN 194101",
+        "register": "Registered on 31-01-2013",
+        "director_details": [
+            {
+                "DIN": "06479126",
+                "direct_name": "Abdul Majid"
+            },
+            {
+                "DIN": "06479145",
+                "direct_name": "Abdul Matin"
+            }
+        ]
+    },
+    {
+        "company_name": "CHANGTHANG PASHMINA PRIVATE LIMITED",
+        "cin_no.": "U17120JK2013PTC003788",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-02-2013",
+        "business_activity": "Textiles",
+        "state": "Jammu and kashmir",
+        "district": "LEH",
+        "address": "NARO GUEST HOUSE UPPER KARZOO CHANSPA LEH LEH Leh JK IN 194101",
+        "register": "Registered on 18-02-2013",
+        "director_details": [
+            {
+                "DIN": "06484338",
+                "direct_name": "Sonam Stobgyal"
+            },
+            {
+                "DIN": "06487390",
+                "direct_name": "Thupten Wangchuk"
+            }
+        ]
+    },
+    {
+        "company_name": "SHESHYON INNOVATIONS PRIVATE LIMITED",
+        "cin_no.": "U74999JK2017PTC009832",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-01-2017",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "LEH",
+        "address": "Housing Colony Opp LAHDC Secreteriat Leh Leh JK IN 194101",
+        "register": "Registered on 11-01-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "LADAKH ECO-TECH PRIVATE LIMITED",
+        "cin_no.": "U40102JK2009PTC003068",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-10-2009",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Jammu and kashmir",
+        "district": "LEH",
+        "address": "NEAR LUNDUP ELECTRONICS OPPOSIT LADAKH PUBLIC SCHOOL, G. H. ROAD SKARA, LEH LADAKH LEH Leh JK IN 194101",
+        "register": "Registered on 16-10-2009",
+        "director_details": [
+            {
+                "DIN": "02787438",
+                "direct_name": "Dorjey Angchuk"
+            },
+            {
+                "DIN": "02787424",
+                "direct_name": "Lundup Thinles"
+            },
+            {
+                "DIN": "02782515",
+                "direct_name": "Nawang Namgial"
+            }
+        ]
+    },
+    {
+        "company_name": "DEEKE ASSOCIATES AND BUILDCON PRIVATE LIMITED",
+        "cin_no.": "U45201JK2006GOI002667",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-06-2006",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "LEH",
+        "address": "Main Market Leh Ladakh JK IN 194101",
+        "register": "Registered on 23-06-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "DEEKINS TRAVEL SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U63030JK2018PTC010310",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "09-03-2018",
+        "business_activity": "Transport and Storage",
+        "state": "Jammu and kashmir",
+        "district": "LEH",
+        "address": "1st Floor Rupchan Complex Opp Chokhang Vihara-Main Market LEH Leh JK IN 194101",
+        "register": "Registered on 09-03-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "HIMALAYAN INSTITUTE OF ALTERNATIVES LADAKH",
+        "cin_no.": "U80902JK2017NPL009999",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-06-2017",
+        "business_activity": "Personal and Social Services",
+        "state": "Jammu and kashmir",
+        "district": "LEH",
+        "address": "Housing Colony, Near Police Colony, Leh Leh Leh JK IN 194101",
+        "register": "Registered on 06-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "H.N AGRICHAIN PRIVATE LIMITED",
+        "cin_no.": "U01403JK2013PTC004060",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "60000000",
+        "paid_up_capital": "40344710",
+        "registration_date": "04-12-2013",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "NA",
+        "address": "I.G.C LASSIPORA PULWAMA SRINAGAR Pulwama JK IN 192103",
+        "register": "Registered on 04-12-2013",
+        "director_details": [
+            {
+                "DIN": "02790456",
+                "direct_name": "Khuram Shafi Mir"
+            },
+            {
+                "DIN": "00295714",
+                "direct_name": "Rakesh Kohli"
+            }
+        ]
+    },
+    {
+        "company_name": "KASHTKAR AGRO PRIVATE LIMITED",
+        "cin_no.": "U01403JK2014PTC004121",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-02-2014",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "NA",
+        "address": "HAIGAM SOPORE BARAMULLAH SRINAGAR Baramula JK IN 193410",
+        "register": "Registered on 04-02-2014",
+        "director_details": [
+            {
+                "DIN": "06804503",
+                "direct_name": "Javid Ahmad Dar"
+            },
+            {
+                "DIN": "06804493",
+                "direct_name": "Mohammad Ayub War"
+            },
+            {
+                "DIN": "00295714",
+                "direct_name": "Rakesh Kohli"
+            }
+        ]
+    },
+    {
+        "company_name": "PROVIDENCE FARMS PRIVATE LIMITED",
+        "cin_no.": "U01407JK2010PTC003110",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "300000",
+        "registration_date": "27-01-2010",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "NA",
+        "address": "Industrial Area Khunmoh Phase 1 Srinagar Srinagar JK IN 191104",
+        "register": "Registered on 27-01-2010",
+        "director_details": [
+            {
+                "DIN": "07246377",
+                "direct_name": "Bashir Ahmad Dar"
+            },
+            {
+                "DIN": "07058209",
+                "direct_name": "Nisar Hussain Dar"
+            },
+            {
+                "DIN": "07058216",
+                "direct_name": "Sakeena Nisar"
+            },
+            {
+                "DIN": "07222741",
+                "direct_name": "Vilayat Hussain Rather"
+            }
+        ]
+    },
+    {
+        "company_name": "WARDHA AGRO INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U01409JK1983PTC000629",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000",
+        "paid_up_capital": "20",
+        "registration_date": "28-09-1983",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "NA",
+        "address": "Mirza Baug, Suderbal, Nagin, Srinagar Srinagar JK IN",
+        "register": "Registered on 28-09-1983",
+        "director_details": []
+    },
+    {
+        "company_name": "AGRO PRODUCTS J&K PRIVATE LIMITED",
+        "cin_no.": "U01409JK1993PTC001358",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "10000",
+        "registration_date": "11-06-1993",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "NA",
+        "address": "271-TALAB TILLO, JAMMU TAWIJ&K JAMMU AND KASHMIR JK IN",
+        "register": "Registered on 11-06-1993",
+        "director_details": []
+    },
+    {
+        "company_name": "LAL CHAND ROSHAN LAL AGRO MILLS PRIVATE LIMITED",
+        "cin_no.": "U01409JK1996PTC001511",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "23-02-1996",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "NA",
+        "address": "5-B,EXTENSION,GANDHI NAGAR,JAMMU. JAMMU AND KASHMIR JK IN",
+        "register": "Registered on 23-02-1996",
+        "director_details": [
+            {
+                "DIN": "00823872",
+                "direct_name": "Ravnish Gulati"
+            },
+            {
+                "DIN": "00811161",
+                "direct_name": "Sandeep Gulati"
+            },
+            {
+                "DIN": "00824137",
+                "direct_name": "Wazir Chand Gulati"
+            }
+        ]
+    },
+    {
+        "company_name": "AGRO TECH AROMATICS PRIVATE LIMITED",
+        "cin_no.": "U01409JK1996PTC001514",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-03-1996",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "NA",
+        "address": "31/7 TRIKUTA NAGAR JAMMU JAMMU AND KASHMIR JK IN",
+        "register": "Registered on 01-03-1996",
+        "director_details": [
+            {
+                "DIN": "00631388",
+                "direct_name": "Anand Singh Rattandeep"
+            },
+            {
+                "DIN": "00897796",
+                "direct_name": "Anil Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "MALHOTRA AGRO FOODS PRIVATE LIMITED",
+        "cin_no.": "U01409JK1996PTC001548",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "12000",
+        "registration_date": "13-06-1996",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "NA",
+        "address": "NEAR GURUDWARAREHARI,JAMMU J&K JAMMU AND KASHMIR JK IN",
+        "register": "Registered on 13-06-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "ARJUN AGRO SERVICES LIMITED.",
+        "cin_no.": "U01409JK1997PLC001658",
+        "status": "Under Process of Striking off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "65000",
+        "registration_date": "22-04-1997",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "NA",
+        "address": "46, AB, Gandhi Nagar, Jammu JAMMU JK IN",
+        "register": "Registered on 22-04-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "J AND K SUNSHINE AGRO FORESTS LIMITED.",
+        "cin_no.": "U01409JK1997PLC001661",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "75300",
+        "registration_date": "24-04-1997",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "NA",
+        "address": "MAIN CHOWK,BUDGAM,KASHMIR,(JAMMU & KASHMIR.) JAMMU AND KASHMIR JK IN",
+        "register": "Registered on 24-04-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "MAT NETWORK MARKETING PRIVATE LIMITED",
+        "cin_no.": "U52609JK2016PTC009680",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-05-2016",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "POONCH",
+        "address": "NEAR GRAMEEN BANK DIIT BUILTDING TEH MANDI DISTRICT POONCH Poonch JK IN 185101",
+        "register": "Registered on 30-05-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "TANDON BUILDING MATERIALS PRIVATE LIMITED",
+        "cin_no.": "U45500JK2017PTC009841",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-02-2017",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "POONCH",
+        "address": "Fort Backside Poonch Poonch JK IN 185101",
+        "register": "Registered on 01-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "L H TELECOMMUNICATIONS INDIA PRIVATE LIMITED",
+        "cin_no.": "U74900JK2009PTC003032",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "800000",
+        "registration_date": "22-06-2009",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "POONCH",
+        "address": "84-PHAGLA SURANKOTE POONCH JAMMU Poonch JK IN 185121",
+        "register": "Registered on 22-06-2009",
+        "director_details": [
+            {
+                "DIN": "02560856",
+                "direct_name": "Fatma Bibi"
+            },
+            {
+                "DIN": "02560834",
+                "direct_name": "Lal Hussain"
+            }
+        ]
+    },
+    {
+        "company_name": "RAY NETWORKS PRIVATE LIMITED",
+        "cin_no.": "U74900JK2009PTC003076",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-11-2009",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "POONCH",
+        "address": "SR 061 1ST FLOOR, DRABA, TEH. SURANKOTE, SURANKOTE Poonch JK IN 185121",
+        "register": "Registered on 11-11-2009",
+        "director_details": [
+            {
+                "DIN": "02814430",
+                "direct_name": "Malik Yassar Ud Din"
+            },
+            {
+                "DIN": "02814408",
+                "direct_name": "Rameez Khan"
+            }
+        ]
+    },
+    {
+        "company_name": "AL BILAL SECURITY MANAGEMENT SERVICES PRIVATE LIMITED",
+        "cin_no.": "U74999JK2017PTC009837",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-01-2017",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "POONCH",
+        "address": "H. NO - 277/17 NEAR RK HOTEL POONCH Poonch JK IN 185101",
+        "register": "Registered on 23-01-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "MOBASH TECH PRIVATE LIMITED",
+        "cin_no.": "U74999JK2017PTC010066",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-08-2017",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "POONCH",
+        "address": "MOHALLA ALLA PEER HOUSE NO. 138 BLOCK HAVELI DESTRICT POONCH POONCH Poonch JK IN 185101",
+        "register": "Registered on 04-08-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "INNERLOOP TECHNOLOGIES PRIVATE LIMITED",
+        "cin_no.": "U74999JK2017PTC010138",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-09-2017",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "POONCH",
+        "address": "H. NO. 203, W NO.17, MOH. JERNAILI Poonch JK IN 185101",
+        "register": "Registered on 26-09-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "BARWAL CONSTRUCTION OPC PRIVATE LIMITED",
+        "cin_no.": "U45207JK2015OPC004402",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-05-2015",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "POONCH",
+        "address": "BARWAL CONSTRUCTION SHANKER NAGAR SG BASTI (BSK), POONCH Poonch JK IN 185101",
+        "register": "Registered on 19-05-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "PEER PANJAL FOUNDATION",
+        "cin_no.": "U85300JK2017NPL010034",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Guarantee",
+        "authorize_capital": "0",
+        "paid_up_capital": "0",
+        "registration_date": "03-07-2017",
+        "business_activity": "Personal and Social Services",
+        "state": "Jammu and kashmir",
+        "district": "POONCH",
+        "address": "LASSANA SURANKOTE POONCH Poonch JK IN 185121",
+        "register": "Registered on 03-07-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "TFQ PRODUCTIONS (OPC) PRIVATE LIMITED",
+        "cin_no.": "U93000JK2018OPC010685",
+        "status": "Active",
+        "class": "Private One Person",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100",
+        "paid_up_capital": "100",
+        "registration_date": "31-10-2018",
+        "business_activity": "Personal and Social Services",
+        "state": "Jammu and kashmir",
+        "district": "POONCH",
+        "address": "Company TFQ PRODUCTIONS (OPC) PRIVATE LIMITED POST OFFICE CHANDAK TEHSIL KHASRA NO 354 VILLAGE DINGLA 185101 HAVELI DISTRICT POONCH-Poonch",
+        "register": "Registered on 31-10-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "FANTAILS AGROTECH LIMITED",
+        "cin_no.": "U01400JK2012PLC003613",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "16-07-2012",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "PULWAMA",
+        "address": "VILL-SHOPIAN, P.O-SHOPIAN SHOPIAN Pulwama JK IN 192303",
+        "register": "Registered on 16-07-2012",
+        "director_details": [
+            {
+                "DIN": "05314328",
+                "direct_name": "Hossain Ali"
+            },
+            {
+                "DIN": "05314332",
+                "direct_name": "Lal Mohammad Shekh"
+            },
+            {
+                "DIN": "05314326",
+                "direct_name": "Mohammad Akhtar Hossain"
+            }
+        ]
+    },
+    {
+        "company_name": "AL NOOR AGRI FRESH PRIVATE LIMITED",
+        "cin_no.": "U01400JK2012PTC003603",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "49900000",
+        "registration_date": "03-07-2012",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "PULWAMA",
+        "address": "INDUSTRIAL GROWTH CENTRE LASSIPORA PULWAMA Pulwama JK IN 192301",
+        "register": "Registered on 03-07-2012",
+        "director_details": [
+            {
+                "DIN": "06989380",
+                "direct_name": "Bashir Ahmed Naik"
+            },
+            {
+                "DIN": "06989451",
+                "direct_name": "Jagdish Kumar Chhabra"
+            },
+            {
+                "DIN": "07019636",
+                "direct_name": "Javid Ahmad Wani"
+            },
+            {
+                "DIN": "01167824",
+                "direct_name": "Krishan Chhabra"
+            },
+            {
+                "DIN": "06989457",
+                "direct_name": "Pawan Kumar Chhabra"
+            }
+        ]
+    },
+    {
+        "company_name": "H. N. AGRI SERVE PRIVATE LIMITED",
+        "cin_no.": "U01403JK2011PTC003254",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "60000000",
+        "paid_up_capital": "60000000",
+        "registration_date": "10-01-2011",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "PULWAMA",
+        "address": "VILLAGE LASSIPORA PULWAMA JK IN 192303",
+        "register": "Registered on 10-01-2011",
+        "director_details": [
+            {
+                "DIN": "00167299",
+                "direct_name": "Aman Kohli"
+            },
+            {
+                "DIN": "02790456",
+                "direct_name": "Khuram Shafi Mir"
+            },
+            {
+                "DIN": "00295734",
+                "direct_name": "Naresh Kohli"
+            },
+            {
+                "DIN": "00295714",
+                "direct_name": "Rakesh Kohli"
+            }
+        ]
+    },
+    {
+        "company_name": "KASHMIR DEVELOPERS AGRO & HORTICULTURE PRIVATE LIMITED",
+        "cin_no.": "U01403JK2016PTC004601",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-02-2016",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "PULWAMA",
+        "address": "FIRST FLOOR, OPPOSITE MIR GAS AGENCY HOSPITAL ROAD SHOPIAN Pulwama JK IN 192303",
+        "register": "Registered on 16-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "KASHMIR FORESTS LIMITED",
+        "cin_no.": "U02001JK1994PLC001407",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "3858000",
+        "registration_date": "22-11-1994",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "PULWAMA",
+        "address": "HOTEL KELAROSE, DALGATE, SRINAGAR JAMMU AND KASHMIR JK IN 192301",
+        "register": "Registered on 22-11-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "BARDANA SUPER HI-TECH AGRO TONIC PRIVATE LIMITED",
+        "cin_no.": "U52609JK2017PTC010027",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "200000",
+        "registration_date": "22-06-2017",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "PULWAMA",
+        "address": "MAIN MARKET NEAR WANI MASJID PULWAMA SRINAGAR Pulwama JK IN 192301",
+        "register": "Registered on 22-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "AZAD HOTELS PRIVATE LIMITED",
+        "cin_no.": "U55101JK2012PTC003500",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-03-2012",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "PULWAMA",
+        "address": "INDUSTRIAL GROWTH COMPLEX LASSIPORA Pulwama JK IN 192301",
+        "register": "Registered on 20-03-2012",
+        "director_details": [
+            {
+                "DIN": "06590225",
+                "direct_name": "Asif Iqbal Azad"
+            },
+            {
+                "DIN": "05202952",
+                "direct_name": "Usman Altaf"
+            }
+        ]
+    },
+    {
+        "company_name": "AABSHAAR POTATO SEED PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01111JK2015PTC004547",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-12-2015",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "PULWAMA",
+        "address": "221, KAREWA ZAWORA CHANCHIMARG SHOPIAN SRINAGAR Pulwama JK IN 192303",
+        "register": "Registered on 03-12-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "FUSION INFRATECH SERVICES PRIVATE LIMITED",
+        "cin_no.": "U45400JK2011PTC003374",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-09-2011",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "PULWAMA",
+        "address": "590 FATEH PORA DORU ANANTNAG Anantnag JK IN 192301",
+        "register": "Registered on 19-09-2011",
+        "director_details": [
+            {
+                "DIN": "03589584",
+                "direct_name": "Fayaz Ahmad Paray"
+            },
+            {
+                "DIN": "03589579",
+                "direct_name": "Ghulam Nabi Malik"
+            },
+            {
+                "DIN": "03589594",
+                "direct_name": "Mohsin Nabi Malik"
+            },
+            {
+                "DIN": "03589590",
+                "direct_name": "Raashid Aslam Moghal"
+            }
+        ]
+    },
+    {
+        "company_name": "ANANYA RURAL DEVELOPMENT LIMITED",
+        "cin_no.": "U45400JK2012PLC003622",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "23-07-2012",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "PULWAMA",
+        "address": "VILL-SHOPIAN, P.O-SHOPIAN SHOPIAN Pulwama JK IN 192303",
+        "register": "Registered on 23-07-2012",
+        "director_details": [
+            {
+                "DIN": "05157726",
+                "direct_name": "Panchu Gopal Rajmallya"
+            },
+            {
+                "DIN": "05318001",
+                "direct_name": "Rajib Bandyopadhyay"
+            },
+            {
+                "DIN": "05318007",
+                "direct_name": "Sujoy Kumar Modak"
+            }
+        ]
+    },
+    {
+        "company_name": "DRF INFRA BUILDERS PRIVATE LIMITED",
+        "cin_no.": "U45400JK2014PTC004094",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-01-2014",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "RAJAURI",
+        "address": "opposite bowli chowk BGS UNIVERSITY ROAD RAJOURI Rajauri JK IN 185131",
+        "register": "Registered on 10-01-2014",
+        "director_details": [
+            {
+                "DIN": "06775381",
+                "direct_name": "Hamida Begum"
+            },
+            {
+                "DIN": "02773072",
+                "direct_name": "Mujeeb Ur Rehman Dar"
+            }
+        ]
+    },
+    {
+        "company_name": "RAJOURI CONSTRUCTION COMPANY PRIVATE LIMITED",
+        "cin_no.": "U45400JK2008PTC002902",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "02-05-2008",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "RAJAURI",
+        "address": "W. NO.-1, RAJOURI RAJOURI Rajauri JK IN 185131",
+        "register": "Registered on 02-05-2008",
+        "director_details": [
+            {
+                "DIN": "01972647",
+                "direct_name": "Manzoor Khan"
+            },
+            {
+                "DIN": "02002603",
+                "direct_name": "Mohd Sharief Khan"
+            }
+        ]
+    },
+    {
+        "company_name": "FAZAL REHMAN DAR CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U45400JK2009PTC003079",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-11-2009",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "RAJAURI",
+        "address": "WARD NO. 2 MAL MANDI RAJOURI Rajauri JK IN 185131",
+        "register": "Registered on 13-11-2009",
+        "director_details": [
+            {
+                "DIN": "02813598",
+                "direct_name": "Fazal Rehman Dar"
+            },
+            {
+                "DIN": "02773072",
+                "direct_name": "Mujeeb Ur Rehman Dar"
+            }
+        ]
+    },
+    {
+        "company_name": "SHADARA SHARIEF CONSTRUCTION COMPANY PRIVATE LIMITED",
+        "cin_no.": "U45400JK2010PTC003126",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-03-2010",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "RAJAURI",
+        "address": "KHAN MARKET, NEAR POLICE LINE, WARD NO",
+        "register": "Registered on 04-03-2010",
+        "director_details": [
+            {
+                "DIN": "01972647",
+                "direct_name": "Manzoor Khan"
+            },
+            {
+                "DIN": "02947023",
+                "direct_name": "Mohd Saleem Khan"
+            },
+            {
+                "DIN": "02947032",
+                "direct_name": "Shakeel Ahmad Mir"
+            }
+        ]
+    },
+    {
+        "company_name": "NAWAZ E-LEARNING INTERNATIONAL PRIVATE LIMITED",
+        "cin_no.": "U80900JK2018PTC010399",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-04-2018",
+        "business_activity": "Personal and Social Services",
+        "state": "Jammu and kashmir",
+        "district": "RAJAURI",
+        "address": "NEAR TOURIST RECEPTION CENTRE DHANIDHAR RAJOURI Rajauri JK IN 185132",
+        "register": "Registered on 12-04-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "THREE BROTHERS RAJOURI VALLEY MULTI CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U45309JK2018PTC010433",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "300000",
+        "registration_date": "02-05-2018",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "RAJAURI",
+        "address": "Koth Dhara Teh & Distt Rajouri RAJOURI Rajauri-185132,Jammu & Kashmir",
+        "register": "Registered on 02-05-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "TANTRAY ONLINE SERVICES PRIVATE LIMITED",
+        "cin_no.": "U74999JK2018PTC010476",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-06-2018",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "RAJAURI",
+        "address": "H.NO 97, VILLAGE SANKARI P/O TARALA GUGRAN RAJOURI Rajauri-185131 Jammu & Kashmir",
+        "register": "Registered on 04-06-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "SHSM INFRABUILD PRIVATE LIMITED",
+        "cin_no.": "U45202JK2018PTC010621",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-09-2018",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "RAJAURI",
+        "address": "C/O MOHD YOUNIS, HOUSE NO. 27, NAGROTA, NEAR ZIYARAT SHARIEF RAJOURI 185132",
+        "register": "Registered on 20-09-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "ROYAL INVESTO AND INFRASTRUCTURE (OPC) PRIVATE LIMITED",
+        "cin_no.": "U45400JK2015OPC004564",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "18-12-2015",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "REASI",
+        "address": "trintha Reasi JK IN 182311",
+        "register": "Registered on 18-12-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "NENTOIR TECHNOLOGIES PRIVATE LIMITED",
+        "cin_no.": "U74999JK2017PTC009870",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-02-2017",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "REASI",
+        "address": "CABIN - D SECOND FLOOR ACADEMIC BLOCK SHRI MATA VAISHNO DEVI UNIVERSITY KATRA Jammu JK IN 182320",
+        "register": "Registered on 27-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "HASTRIX AUTOMATION PRIVATE LIMITED",
+        "cin_no.": "U74999JK2017PTC009872",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-02-2017",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "REASI",
+        "address": "CABIN- C ACADEMIC BLOCK SECOND FLOOR SHRI MATA VAISHNO DEVI UNIVERSITY KATRA Jammu JK IN 182320",
+        "register": "Registered on 28-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "REPORT CARD PLUS EDU VENTURES PRIVATE LIMITED",
+        "cin_no.": "U74999JK2017PTC009873",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-02-2017",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "REASI",
+        "address": "CABIN- E SECOND FLOOR ACADEMIC BLOCK SHRI MATA VAISHNO DEVI UNIVERSITY KATRA Jammu JK IN 182320",
+        "register": "Registered on 28-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "SARVAN HEAVY ELECTRICAL SERVICES OPC PRIVATE LIMITED",
+        "cin_no.": "U74999JK2014OPC004246",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-10-2014",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "REASI",
+        "address": "SHOP NO. 1 GRANMORE REASI JK IN 182311",
+        "register": "Registered on 10-10-2014",
+        "director_details": [
+            {
+                "DIN": "06969400",
+                "direct_name": "Ashok Kumar Uttam"
+            }
+        ]
+    },
+    {
+        "company_name": "CLEUB AUTOMATION PRIVATE LIMITED",
+        "cin_no.": "U74999JK2017PTC009879",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-03-2017",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "REASI",
+        "address": "CABIN - B ACADEMIC BLOCK SECOND FLOOR SHRI MATA VAISHNO DEVI UNIVERSITY KATRA Jammu JK IN 182320",
+        "register": "Registered on 03-03-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "KUNJA TECHNO PRIVATE LIMITED",
+        "cin_no.": "U74999JK2017PTC009990",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-06-2017",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "REASI",
+        "address": "CABIN- I SECOND FLOOR ACADEMIC BLOCK SHRI MATA VAISHNO DEVI UNIVERSITY KATRA Jammu JK IN 182320",
+        "register": "Registered on 01-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "VIBMIKS SERVICES PRIVATE LIMITED",
+        "cin_no.": "U74999JK2017PTC009992",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-06-2017",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "REASI",
+        "address": "CABIN- J SECOND FLOOR ACADEMIC BLOCK SHRI MATA VAISHNO DEVI UNIVERSITY KATRA Jammu JK IN 182320",
+        "register": "Registered on 02-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "FLYDEX AUTOMOBILES PRIVATE LIMITED",
+        "cin_no.": "U74999JK2017PTC010010",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-06-2017",
+        "business_activity": "Business Services",
+        "state": "Jammu and kashmir",
+        "district": "REASI",
+        "address": "CABIN-K SECOND FLOOR ACADEMIC BLOCK SHRI MATA VAISHNO DEVI UNIVERSITY KATRA Jammu JK IN 182320",
+        "register": "Registered on 13-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "BAROTRA CONSTRUCTION (OPC) PRIVATE LIMITED",
+        "cin_no.": "U45201JK2017OPC009853",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-02-2017",
+        "business_activity": "Construction",
+        "state": "Jammu and kashmir",
+        "district": "REASI",
+        "address": "37 Gran Bitotarian Goswan, Reasi Reasi Jammu JK IN 182311",
+        "register": "Registered on 14-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "HALEEB DAIRIES PRIVATE LIMITED",
+        "cin_no.": "U01400JK2009PTC003018",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-05-2009",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "SRINAGAR",
+        "address": "THIRD FLOOR, MIR N CO SHOPPING COMPLEX NEAR TATA INDICOM OFFICE, KARAN NAGAR SRINAGAR Srinagar JK IN 190010",
+        "register": "Registered on 20-05-2009",
+        "director_details": [
+            {
+                "DIN": "02563830",
+                "direct_name": "Sahibzada Bashir Ahmad"
+            },
+            {
+                "DIN": "02563786",
+                "direct_name": "Sahibzada Faisal Bashir"
+            }
+        ]
+    },
+    {
+        "company_name": "KASHMIR SILK FARMER PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400JK2015PTC004395",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "14-05-2015",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "SRINAGAR",
+        "address": "IQBAL COMPLEX, OPPOSITE IQBAL PARK, SRINAGAR SRINAGAR Srinagar JK IN 190001",
+        "register": "Registered on 14-05-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "KASHMIR GEO TECHNOLOGY PRIVATE LIMITED",
+        "cin_no.": "U01402JK2008PTC002909",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-05-2008",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "SRINAGAR",
+        "address": "MAIN MARKET KANGAN GANDERBAL SRINAGAR Srinagar JK IN 191202",
+        "register": "Registered on 08-05-2008",
+        "director_details": [
+            {
+                "DIN": "02082039",
+                "direct_name": "Farooq Ahmad Hafiz"
+            },
+            {
+                "DIN": "02082053",
+                "direct_name": "Tariq Ahmad Hafiz"
+            }
+        ]
+    },
+    {
+        "company_name": "SAPPHIRE CORPORATION PRIVATE LIMITED",
+        "cin_no.": "U01403JK2007PTC002811",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "500000",
+        "registration_date": "24-08-2007",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "SRINAGAR",
+        "address": "KANI MAZAR, JAMALATA, NAWAKADAK, SRINAGAR Jammu JK IN 190002",
+        "register": "Registered on 24-08-2007",
+        "director_details": [
+            {
+                "DIN": "01127072",
+                "direct_name": "Ghulam Hassan Mir"
+            },
+            {
+                "DIN": "01126582",
+                "direct_name": "Ishfaq Mir"
+            }
+        ]
+    },
+    {
+        "company_name": "PEAKS AGRO WAREHOUSING PRIVATE LIMITED",
+        "cin_no.": "U01403JK2009PTC003082",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-11-2009",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "SRINAGAR",
+        "address": "NH1-Lasjan Bypass Near Hotel Silver Star Srinagar JK IN 191101",
+        "register": "Registered on 19-11-2009",
+        "director_details": [
+            {
+                "DIN": "01792172",
+                "direct_name": "Baldave Singh Raina"
+            },
+            {
+                "DIN": "01842932",
+                "direct_name": "Gernail Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "PRIDE AGRI PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01403JK2009PTC003091",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "21-12-2009",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "SRINAGAR",
+        "address": "H.No.1, Nishat Enclave Ishber Nishat Srinagar Srinagar JK IN 191121",
+        "register": "Registered on 21-12-2009",
+        "director_details": [
+            {
+                "DIN": "02782948",
+                "direct_name": "Syed Musadiq Shah"
+            },
+            {
+                "DIN": "02787949",
+                "direct_name": "Zara Shah"
+            }
+        ]
+    },
+    {
+        "company_name": "SINGUR AGROTECH INDIA LIMITED",
+        "cin_no.": "U01403JK2012PLC003619",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "20-07-2012",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "SRINAGAR",
+        "address": "Madina Shopping Mall KAKSARAI Karan Nagar Srinagar JK IN 190010",
+        "register": "Registered on 20-07-2012",
+        "director_details": [
+            {
+                "DIN": "03279024",
+                "direct_name": "Ananta Das"
+            },
+            {
+                "DIN": "03278891",
+                "direct_name": "Manjushri Mandal"
+            },
+            {
+                "DIN": "03278864",
+                "direct_name": "Probir Kumar Mondal"
+            }
+        ]
+    },
+    {
+        "company_name": "A M POULTRIES PRIVATE LIMITED",
+        "cin_no.": "U01403JK2012PTC003720",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-11-2012",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "SRINAGAR",
+        "address": "96 BALHAMA PARTLY SRINAGAR Srinagar JK IN 191101",
+        "register": "Registered on 01-11-2012",
+        "director_details": [
+            {
+                "DIN": "06409907",
+                "direct_name": "Aijaz Mir Hussain"
+            },
+            {
+                "DIN": "06409903",
+                "direct_name": "Mohammad Mir Ibrahim"
+            }
+        ]
+    },
+    {
+        "company_name": "AWWAL AGRO FARMS PRIVATE LIMITED",
+        "cin_no.": "U01403JK2013PTC004070",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-12-2013",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "SRINAGAR",
+        "address": "1ST FLOOR, 285 JAWAHAR NAGAR NEAR DAV SCHOOL SRINAGAR Srinagar JK IN 190008",
+        "register": "Registered on 11-12-2013",
+        "director_details": [
+            {
+                "DIN": "06741536",
+                "direct_name": "Majid Ahmad Bala"
+            },
+            {
+                "DIN": "06741543",
+                "direct_name": "Syed Owais Qadri"
+            },
+            {
+                "DIN": "06757584",
+                "direct_name": "Taufeeq Ahmad Baba"
+            },
+            {
+                "DIN": "06741554",
+                "direct_name": "Waqar Younus Malik"
+            }
+        ]
+    },
+    {
+        "company_name": "BYUL AGRISERVE PRIVATE LIMITED",
+        "cin_no.": "U01403JK2014PTC004119",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-02-2014",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "SRINAGAR",
+        "address": "2ND FLOOR POLO PALAZA POLO VIEW SRINAGAR Srinagar JK IN 190001",
+        "register": "Registered on 04-02-2014",
+        "director_details": [
+            {
+                "DIN": "02790456",
+                "direct_name": "Khuram Shafi Mir"
+            },
+            {
+                "DIN": "02790472",
+                "direct_name": "Mohasin Fayaz Bhat"
+            },
+            {
+                "DIN": "02670854",
+                "direct_name": "Muddasir Nazir Mir"
+            },
+            {
+                "DIN": "00900897",
+                "direct_name": "Nazir Ahmad Mir"
+            }
+        ]
+    },
+    {
+        "company_name": "SUDHMAHADEV VEGETABLE PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403JK2015PTC004381",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-04-2015",
+        "business_activity": "Agriculture",
+        "state": "Jammu and kashmir",
+        "district": "UDHAMPUR",
+        "address": "PO-SUDHMAHADEV,TALUKA-CHENANI DISTRICT-UDHAMPUR UDHAMPUR Udhampur JK IN 182141",
+        "register": "Registered on 30-04-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "TRIDEV HOTELS PRIVATE LIMITED.",
+        "cin_no.": "U55100JK1989PTC001164",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "740000",
+        "registration_date": "28-11-1989",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "UDHAMPUR",
+        "address": "VASHNO DEVI KATRAKATRA JAMMU AND KASHMIR JAMMU AND KASHMIR JK IN 182301",
+        "register": "Registered on 28-11-1989",
+        "director_details": [
+            {
+                "DIN": "03489565",
+                "direct_name": "Kavita Gupta"
+            },
+            {
+                "DIN": "02161043",
+                "direct_name": "Madhu Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "KATRA MATA VAISHNODEVI HOTELS & RESTAURANTS PRIVATE LIMITED.",
+        "cin_no.": "U55100JK1992PTC001333",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "4762000",
+        "registration_date": "11-12-1992",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "UDHAMPUR",
+        "address": "KATRA, DISTT. UDHAMPUR. KATRA JAMMU AND KASHMIR JK IN 182301",
+        "register": "Registered on 11-12-1992",
+        "director_details": [
+            {
+                "DIN": "00897677",
+                "direct_name": "Krishan Lal Thakur"
+            },
+            {
+                "DIN": "00897364",
+                "direct_name": "Pushpa Devi"
+            },
+            {
+                "DIN": "02710698",
+                "direct_name": "Raj Singh"
+            },
+            {
+                "DIN": "00897344",
+                "direct_name": "Rakesh Wazir"
+            }
+        ]
+    },
+    {
+        "company_name": "SHRIPATI HOTELS PRIVATE LIMITED",
+        "cin_no.": "U55100JK1993PTC001351",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3500000",
+        "paid_up_capital": "3499500",
+        "registration_date": "07-06-1993",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "UDHAMPUR",
+        "address": "KATRA ROAD KATRAKATRA JAMMU AND KASHMIR JAMMU AND KASHMIR JK IN 182301",
+        "register": "Registered on 07-06-1993",
+        "director_details": [
+            {
+                "DIN": "00631394",
+                "direct_name": "Anand Singh Hardeep"
+            },
+            {
+                "DIN": "00631388",
+                "direct_name": "Anand Singh Rattandeep"
+            },
+            {
+                "DIN": "00439081",
+                "direct_name": "Girdhari Lal Sharma"
+            },
+            {
+                "DIN": "00439070",
+                "direct_name": "Manju Sharma"
+            },
+            {
+                "DIN": "00448692",
+                "direct_name": "Rahul Dev Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "HOTEL SUBHASH PALACE PRIVATE LIMITED",
+        "cin_no.": "U55100JK1997PTC001622",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "6000000",
+        "paid_up_capital": "4933000",
+        "registration_date": "04-03-1997",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "UDHAMPUR",
+        "address": "STREET NO-1,MAIN BAZAR ,KATRA (JAMMU & KASHMIR) JAMMU AND KASHMIR JK IN 182301",
+        "register": "Registered on 04-03-1997",
+        "director_details": [
+            {
+                "DIN": "05243130",
+                "direct_name": "Arpana Khajuria"
+            },
+            {
+                "DIN": "05243137",
+                "direct_name": "Gaurav Khajuria"
+            },
+            {
+                "DIN": "02062320",
+                "direct_name": "Jugal Kishore"
+            },
+            {
+                "DIN": "02062330",
+                "direct_name": "Surinder Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "ROOMSINC HOSPITALITY PRIVATE LIMITED",
+        "cin_no.": "U55100JK2016PTC009695",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-06-2016",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "UDHAMPUR",
+        "address": "MAYUR HOTEL, KATRA KATRA Jammu JK IN 182301",
+        "register": "Registered on 16-06-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "B V P K HOTELS PRIVATE LIMITED",
+        "cin_no.": "U55101JK2001PTC002164",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2400000",
+        "paid_up_capital": "1803500",
+        "registration_date": "26-06-2001",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "UDHAMPUR",
+        "address": "Bhawani'z Paradise Hotel, Jammu Road, Katra, Katra JK IN 182301",
+        "register": "Registered on 26-06-2001",
+        "director_details": [
+            {
+                "DIN": "01209225",
+                "direct_name": "Bhushan Lal Gupta"
+            },
+            {
+                "DIN": "01209249",
+                "direct_name": "Kildeep Raj Gupta"
+            },
+            {
+                "DIN": "01209265",
+                "direct_name": "Pardeep Gupta"
+            },
+            {
+                "DIN": "01209274",
+                "direct_name": "Vijay Kumar Gupta"
+            },
+            {
+                "DIN": "01209206",
+                "direct_name": "Vikas Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "KATRA VALLEY A.R.HOTELS PRIVATE LIMITED",
+        "cin_no.": "U55101JK2004PTC002438",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "1500000",
+        "registration_date": "13-07-2004",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "UDHAMPUR",
+        "address": "TEA GARDENTEH REASI DIST UDAMPUR JAMMU AND KASHMIR JK IN 182301",
+        "register": "Registered on 13-07-2004",
+        "director_details": [
+            {
+                "DIN": "02013574",
+                "direct_name": "Ajay Kotwal"
+            },
+            {
+                "DIN": "02369504",
+                "direct_name": "Rashmi Kotwal"
+            }
+        ]
+    },
+    {
+        "company_name": "ANURAG HOTELS PRIVATE LIMITED",
+        "cin_no.": "U55101JK2010PTC003109",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "5000000",
+        "registration_date": "20-01-2010",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "UDHAMPUR",
+        "address": "Anurag hotel private limited Ponabar Mandir, Main Bazar Katra JK IN 182301",
+        "register": "Registered on 20-01-2010",
+        "director_details": [
+            {
+                "DIN": "02770876",
+                "direct_name": "Anil Kumar"
+            },
+            {
+                "DIN": "02840538",
+                "direct_name": "Arun Kumar"
+            },
+            {
+                "DIN": "02768871",
+                "direct_name": "Ashwani Kumar"
+            },
+            {
+                "DIN": "02768851",
+                "direct_name": "Pritam Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "SINGH HOSPITALITY & RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55101JK2010PTC003191",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "44121000",
+        "registration_date": "28-06-2010",
+        "business_activity": "Trading",
+        "state": "Jammu and kashmir",
+        "district": "UDHAMPUR",
+        "address": "WARD NO. 11 NATIONAL HIGHWAY NO-1, MH MORH UDHAMPUR JK IN 182101",
+        "register": "Registered on 28-06-2010",
+        "director_details": [
+            {
+                "DIN": "02911829",
+                "direct_name": "Daljeet Singh"
+            },
+            {
+                "DIN": "02902966",
+                "direct_name": "Sarbjit Singh"
+            }
+        ]
+    }
+]

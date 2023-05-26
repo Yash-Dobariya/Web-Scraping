@@ -1,0 +1,4065 @@
+[
+    {
+        "company_name": "KRITI SCANNING CENTRE PRIVATE LIMITED",
+        "cin_no.": "U24236UR1994PTC016792",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "7600000",
+        "registration_date": "10-08-1994",
+        "business_activity": "Metals and Chemicals",
+        "state": "Uttarakhand",
+        "district": "ALLAHABAD",
+        "address": "55 BLOWTHER ROAD ALLAHABAD UTTAR PRADESH UR IN 211002",
+        "register": "Registered on 10-08-1994",
+        "director_details": [
+            {
+                "DIN": "05131514",
+                "direct_name": "Kushagra Agrawal"
+            },
+            {
+                "DIN": "05131506",
+                "direct_name": "Sunita Agrawal"
+            },
+            {
+                "DIN": "00155851",
+                "direct_name": "Vinay Krishna Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMALAYAN SANJEEVANI PRIVATE LIMITED",
+        "cin_no.": "U01400UR2012PTC000110",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-02-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "ALMORA",
+        "address": "VILL-PATALGAON, P.O.-BHAGOTI DISTT-ALMORA ALMORA Almora UR IN 263656",
+        "register": "Registered on 02-02-2012",
+        "director_details": [
+            {
+                "DIN": "05172428",
+                "direct_name": "Ashish Shukla"
+            },
+            {
+                "DIN": "05172463",
+                "direct_name": "Girish Chandra Bawari"
+            }
+        ]
+    },
+    {
+        "company_name": "SAMVARDHINI SUSTAINABLE ORGANICS FOUNDATION",
+        "cin_no.": "U01400UR2014NPL001236",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Guarantee",
+        "authorize_capital": "0",
+        "paid_up_capital": "0",
+        "registration_date": "02-09-2014",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "ALMORA",
+        "address": "OM BHAWAN, VILLAGE-GHAGLODI, POST DWARAHAT, TEHSIL DWARAHAT GHAGLODI Almora UR IN 263653",
+        "register": "Registered on 02-09-2014",
+        "director_details": [
+            {
+                "DIN": "06845618",
+                "direct_name": "Brigita Lajkovic"
+            },
+            {
+                "DIN": "06845626",
+                "direct_name": "Chandan Maddanna"
+            },
+            {
+                "DIN": "06846248",
+                "direct_name": "Vasantha Krishnaier"
+            }
+        ]
+    },
+    {
+        "company_name": "SUJATA HERBAL PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01403UR2012PTC000494",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-12-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "ALMORA",
+        "address": "VILL. DEGHAT, POLICE STATION DEGHAT, TEHSIL BHIKYASEIN DEGHAT Almora UR IN 263659",
+        "register": "Registered on 06-12-2012",
+        "director_details": [
+            {
+                "DIN": "06435660",
+                "direct_name": "Ashok Kumar Agarwal"
+            },
+            {
+                "DIN": "06435678",
+                "direct_name": "Rama Nand Agrwal"
+            },
+            {
+                "DIN": "06435690",
+                "direct_name": "Sushila Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMALAYAN ORCHIDS PRIVATE LIMITED",
+        "cin_no.": "U55100UR2016PTC007198",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-07-2016",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "ALMORA",
+        "address": "68 RANIDHARA ROAD WEST POKHARKHALI, ALMORA Almora UR IN 263601",
+        "register": "Registered on 20-07-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SARVASHANKER HOSPITALITY PRIVATE LIMITED",
+        "cin_no.": "U55100UR2017PTC008075",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "300000",
+        "registration_date": "01-09-2017",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "ALMORA",
+        "address": "VILL- CHILLIYANAULA CHILLIYANAULA, RANIKHET ALMORA Almora UR IN 263645",
+        "register": "Registered on 01-09-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "TATVA RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55101UR2006PTC032328",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "9500000",
+        "registration_date": "07-11-2006",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "ALMORA",
+        "address": "VILLAGE- KALTANI POST OFFICE -JALNA ALMORA UR IN 263601",
+        "register": "Registered on 07-11-2006",
+        "director_details": [
+            {
+                "DIN": "00754596",
+                "direct_name": "Bindita Gaurav Manek"
+            },
+            {
+                "DIN": "01627092",
+                "direct_name": "Haresh Arvindbhai Thakkar"
+            },
+            {
+                "DIN": "01588426",
+                "direct_name": "Hasmita Haresh Thakkar"
+            },
+            {
+                "DIN": "00754549",
+                "direct_name": "Monica Haresh Thakkar"
+            },
+            {
+                "DIN": "01606859",
+                "direct_name": "Rajendra Singh Prem Singh Bisht"
+            }
+        ]
+    },
+    {
+        "company_name": "BRAHMA RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55101UR2007PTC032489",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "140000000",
+        "paid_up_capital": "137900000",
+        "registration_date": "08-10-2007",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "ALMORA",
+        "address": "SNOW VIEW ESTATE, PAPER- SELLY BINSAR ROAD ALMORA Almora UR IN 263621",
+        "register": "Registered on 08-10-2007",
+        "director_details": [
+            {
+                "DIN": "00720037",
+                "direct_name": "Chandra Pal Singh Shishodia"
+            },
+            {
+                "DIN": "00924253",
+                "direct_name": "Lata Lalit Joshi"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMALAYAN HEIGHTS ECO ORGANIC RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55101UR2009PTC032791",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-03-2009",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "ALMORA",
+        "address": "TEWARI KHAN, KASAR DEVI, ALMORA Almora UR IN 263601",
+        "register": "Registered on 03-03-2009",
+        "director_details": [
+            {
+                "DIN": "02539960",
+                "direct_name": "Bhoopesh Joshi"
+            },
+            {
+                "DIN": "02540012",
+                "direct_name": "Krishna Kumari Joshi"
+            },
+            {
+                "DIN": "02539996",
+                "direct_name": "Swathi Joshi"
+            }
+        ]
+    },
+    {
+        "company_name": "RAGA RETREATS PRIVATE LIMITED",
+        "cin_no.": "U55101UR2009PTC033017",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-12-2009",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "ALMORA",
+        "address": "VILL. DIGOTI (COLONY) P.O. MAJKHALI, TEHSIL - RANIKHET RANIKHET UR IN 263645",
+        "register": "Registered on 11-12-2009",
+        "director_details": [
+            {
+                "DIN": "02804709",
+                "direct_name": "Debjani Gupta"
+            },
+            {
+                "DIN": "02795026",
+                "direct_name": "Sharmistha Mukherjee"
+            }
+        ]
+    },
+    {
+        "company_name": "N K RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55101UR2010PTC033163",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2500000",
+        "registration_date": "14-05-2010",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "ALMORA",
+        "address": "KHASRA NO 214 GRAM SYALDE WEST ALMORA UR IN 263661",
+        "register": "Registered on 14-05-2010",
+        "director_details": [
+            {
+                "DIN": "01623792",
+                "direct_name": "Komal Gupta"
+            },
+            {
+                "DIN": "00529267",
+                "direct_name": "Prem Kumar Gupta"
+            },
+            {
+                "DIN": "01629259",
+                "direct_name": "Uday Jain"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMALAYEE CAMELLIA PRIVATE LIMITED",
+        "cin_no.": "U15491UR2015PTC001661",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "14-08-2015",
+        "business_activity": "Food Manufacturing",
+        "state": "Uttarakhand",
+        "district": "BAGESHWAR",
+        "address": "Siyali Estate, P.O- Dangoli Near Baijnath Bageshwar Bageshwar UR IN 263640",
+        "register": "Registered on 14-08-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "SATSANG YOGA AND MEDITATION CONSULTANCY PRIVATE LIMITED",
+        "cin_no.": "U74899UR1994PTC033481",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "7590400",
+        "registration_date": "10-05-1994",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "BAGESHWAR",
+        "address": "C/O R.P. THAKAR HOUSE NO.15, TYUNERA BAGESHWAR UR IN 263642",
+        "register": "Registered on 10-05-1994",
+        "director_details": [
+            {
+                "DIN": "00243463",
+                "direct_name": "Anil Thakran"
+            },
+            {
+                "DIN": "00223377",
+                "direct_name": "Navin Chandra Jani"
+            },
+            {
+                "DIN": "00243537",
+                "direct_name": "Raj Kumar Sharma"
+            },
+            {
+                "DIN": "00235660",
+                "direct_name": "Rashmin Pranlal Thaker"
+            },
+            {
+                "DIN": "06894290",
+                "direct_name": "Shellka Dhandhania"
+            },
+            {
+                "DIN": "00245448",
+                "direct_name": "Sushil Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "YAMUNA SURAKSHA NIDHI LIMITED",
+        "cin_no.": "U65999UR2017PLC008211",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "20-10-2017",
+        "business_activity": "Finance",
+        "state": "Uttarakhand",
+        "district": "BAGESHWAR",
+        "address": "Vill- Chami, P.O-Korali Bageshwar Bageshwar UR IN 263642",
+        "register": "Registered on 20-10-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "MY NEST RETREAT PRIVATE LIMITED",
+        "cin_no.": "U45309UR2016PTC007240",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-08-2016",
+        "business_activity": "Construction",
+        "state": "Uttarakhand",
+        "district": "BAGESHWAR",
+        "address": "KAUSANI ESTATE KAUSANI Bageshwar UR IN 263630",
+        "register": "Registered on 09-08-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "DH.DAFFODILS EDUCATIONAL INSTITUTE PRIVATE LIMITED",
+        "cin_no.": "U80900UR2012PTC000524",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-12-2012",
+        "business_activity": "Personal and Social Services",
+        "state": "Uttarakhand",
+        "district": "BAGESHWAR",
+        "address": "H.NO.- 201G KATHAYATAVADAA, TALLA KATUR BAGESHWAR Bageshwar UR IN 263642",
+        "register": "Registered on 26-12-2012",
+        "director_details": [
+            {
+                "DIN": "06401634",
+                "direct_name": "Durga Harariya"
+            },
+            {
+                "DIN": "06401630",
+                "direct_name": "Himanshu Harariya"
+            }
+        ]
+    },
+    {
+        "company_name": "DIYA HEALTH SERVICES PRIVATE LIMITED",
+        "cin_no.": "U85100UR2012PTC000323",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-07-2012",
+        "business_activity": "Personal and Social Services",
+        "state": "Uttarakhand",
+        "district": "BAGESHWAR",
+        "address": "VILLAGE+POST- BOURY BHAGESHWAR Bageshwar UR IN 263628",
+        "register": "Registered on 11-07-2012",
+        "director_details": [
+            {
+                "DIN": "05287019",
+                "direct_name": "Ganesh Prasad"
+            },
+            {
+                "DIN": "05287028",
+                "direct_name": "Sapan Kumar Sana"
+            }
+        ]
+    },
+    {
+        "company_name": "STHIRA INFOLINKS PRIVATE LIMITED",
+        "cin_no.": "U72900UR2014PTC001353",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-12-2014",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "BAGESHWAR",
+        "address": "LIG-39, A V COLONY HALDWANI Nainital UR IN 263631",
+        "register": "Registered on 30-12-2014",
+        "director_details": [
+            {
+                "DIN": "06974974",
+                "direct_name": "Manish Kumar"
+            },
+            {
+                "DIN": "06974978",
+                "direct_name": "Sundar Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "SUNAINA SERVICES PRIVATE LIMITED",
+        "cin_no.": "U74999UR2016PTC001885",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-01-2016",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "BAGESHWAR",
+        "address": "NEAR GGIC BAGESHWAR, KANDA ROAD BHAGIRATHI BANKHOLA, DUG BAZAR BAGESHWAR Bageshwar UR IN 263642",
+        "register": "Registered on 21-01-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "QUATERVOIS MARKETING (OPC) PRIVATE LIMITED",
+        "cin_no.": "U74999UR2017OPC008231",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-11-2017",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "BAGESHWAR",
+        "address": "Vill-Tilsari, Po-Tilsari, Tehsil-Garur, Bageshwar Bageshwar UR IN 263641",
+        "register": "Registered on 03-11-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "ROVETERIO ONLINE SERVICES PRIVATE LIMITED",
+        "cin_no.": "U72900UR2018PTC009065",
+        "status": "Not available for efiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-09-2018",
+        "business_activity": "Computer",
+        "state": "Uttarakhand",
+        "district": "BAGESHWAR",
+        "address": "C/O Bimala Devi / Daya Kishan, No.74 Vill-Daya Kishan Darshani, Garur BAGESHWAR P O 263641",
+        "register": "Registered on 24-09-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "AROHUL FOODS PRIVATE LIMITED",
+        "cin_no.": "U15314UR2004PTC028277",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "40000000",
+        "paid_up_capital": "39487500",
+        "registration_date": "06-02-2004",
+        "business_activity": "Food Manufacturing",
+        "state": "Uttarakhand",
+        "district": "BAHRAICH",
+        "address": "CHHAWANI BAZAR BAHRAICH UR IN 271801",
+        "register": "Registered on 06-02-2004",
+        "director_details": [
+            {
+                "DIN": "00981049",
+                "direct_name": "Atul Agarwal"
+            },
+            {
+                "DIN": "00981068",
+                "direct_name": "Purushottam Das Agrawal"
+            },
+            {
+                "DIN": "07670113",
+                "direct_name": "Rohan Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "GANGA SONS ASSOCIATES PRIVATE LIMITED",
+        "cin_no.": "U24219UR1993PTC015745",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "480000",
+        "registration_date": "21-09-1993",
+        "business_activity": "Metals and Chemicals",
+        "state": "Uttarakhand",
+        "district": "BAREILLY",
+        "address": "C-1RAJENDRA NAGAR BAREILLY UTTAR PRADESH Bareilly UR IN 243122",
+        "register": "Registered on 21-09-1993",
+        "director_details": []
+    },
+    {
+        "company_name": "BALAJI INSTALMENTS SUPPLY LIMITED",
+        "cin_no.": "U70101UR1996PLC020642",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "30000000",
+        "paid_up_capital": "27225000",
+        "registration_date": "06-09-1996",
+        "business_activity": "Real Estate",
+        "state": "Uttarakhand",
+        "district": "BAREILLY",
+        "address": "280 GOYAL COMPLEX, BANS MANDI, BAREILLY UR IN 243005",
+        "register": "Registered on 06-09-1996",
+        "director_details": [
+            {
+                "DIN": "00819825",
+                "direct_name": "Alka Agarwal"
+            },
+            {
+                "DIN": "03589459",
+                "direct_name": "Dilip Kumar Agarwal"
+            },
+            {
+                "DIN": "00832074",
+                "direct_name": "Sanjay Kumar Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "TAGRA ENTERPRISES PRIVATE LIMITED",
+        "cin_no.": "U27106UR1992PTC014081",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "2000000",
+        "registration_date": "20-02-1992",
+        "business_activity": "Metals and Chemicals",
+        "state": "Uttarakhand",
+        "district": "BIJNOR",
+        "address": "CHOWKBAZAR NAJIBABAD UTTAR PRADESH UR IN 246763",
+        "register": "Registered on 20-02-1992",
+        "director_details": [
+            {
+                "DIN": "00512978",
+                "direct_name": "Neeru Tagra"
+            },
+            {
+                "DIN": "00509301",
+                "direct_name": "Sarita Narang"
+            }
+        ]
+    },
+    {
+        "company_name": "CHAMOLI HYDRO POWER PRIVATE LIMITED",
+        "cin_no.": "U11101UR1991PTC033714",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000000",
+        "paid_up_capital": "82500000",
+        "registration_date": "12-11-1991",
+        "business_activity": "Mining and Quarrying",
+        "state": "Uttarakhand",
+        "district": "CHAMOLI",
+        "address": "ICHOLI (Village), DEBAL (Block & Post) THARALI (Tehasil) THARALI UR IN 246427",
+        "register": "Registered on 12-11-1991",
+        "director_details": [
+            {
+                "DIN": "01686189",
+                "direct_name": "Aditya Kumar Jhunjhunwala"
+            },
+            {
+                "DIN": "02379738",
+                "direct_name": "Keerthi Sree Govindareddy Gari"
+            },
+            {
+                "DIN": "00552122",
+                "direct_name": "Onteddu Meena"
+            },
+            {
+                "DIN": "00552074",
+                "direct_name": "Sada Siva Reddy Bommareddy"
+            },
+            {
+                "DIN": "01653182",
+                "direct_name": "Vikramreddy Govindareddygari"
+            }
+        ]
+    },
+    {
+        "company_name": "GHANSHYAM SMIRITI PAHARI FOOD PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01111UR2014PTC001037",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-02-2014",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "CHAMOLI",
+        "address": "RAKESH GAIROLA VILLAGE SAGAR ,POST OFFICE GOPESHWAR CHAMOLI Chamoli UR IN 246401",
+        "register": "Registered on 18-02-2014",
+        "director_details": [
+            {
+                "DIN": "06768975",
+                "direct_name": "Rakesh Gairola"
+            },
+            {
+                "DIN": "06563135",
+                "direct_name": "Samya Gairola"
+            },
+            {
+                "DIN": "06769506",
+                "direct_name": "Satyam Gairola"
+            },
+            {
+                "DIN": "06769430",
+                "direct_name": "Shashi Bhushan Joshi"
+            }
+        ]
+    },
+    {
+        "company_name": "RAWAT AGRO NOVELTY PRIVATE LIMITED",
+        "cin_no.": "U01114UR2018PTC008401",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-01-2018",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "CHAMOLI",
+        "address": "C/o Madhav Singh Rawat, Village Bamyala Post Office Tangsa Bamyala Chamoli UR IN 246401",
+        "register": "Registered on 12-01-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "MAA SINGWALI HERBAL PRIVATE LIMITED",
+        "cin_no.": "U01117UR2013PTC000795",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "200000",
+        "registration_date": "19-07-2013",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "CHAMOLI",
+        "address": "10 SILANGI LANGASU LANGASU KARNPRAYAG Chamoli UR IN 246446",
+        "register": "Registered on 19-07-2013",
+        "director_details": [
+            {
+                "DIN": "06594060",
+                "direct_name": "Sanjay Singh Kandwal"
+            },
+            {
+                "DIN": "06594061",
+                "direct_name": "Vinod Singh Rawat"
+            }
+        ]
+    },
+    {
+        "company_name": "GAIROLA DEVELOPERS PRIVATE LIMITED",
+        "cin_no.": "U45400UR2015PTC001693",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-09-2015",
+        "business_activity": "Construction",
+        "state": "Uttarakhand",
+        "district": "CHAMOLI",
+        "address": "VIVEKANAND COLONY TALLA NEGWAD GOPESHWAR CHAMOLI CHAMOLI UR IN 246481",
+        "register": "Registered on 07-09-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "UTTRANCHAL HEALTH CARE PRIVATE LIMITED",
+        "cin_no.": "U51909UR2011PTC033655",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-09-2011",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "CHAMOLI",
+        "address": "C/O SANDEEP SINGH KANDARI NEAR TEHSIL, J. K. LODGE, POKHRI CHAMOLI Chamoli UR IN 246446",
+        "register": "Registered on 07-09-2011",
+        "director_details": [
+            {
+                "DIN": "03615199",
+                "direct_name": "Deepak Singh"
+            },
+            {
+                "DIN": "03611255",
+                "direct_name": "Yogendra Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "CHAMOLI KAILGANGA HYDRO POWER PRIVATE LIMITED",
+        "cin_no.": "U31104UR2007PTC032388",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "3105000",
+        "registration_date": "05-04-2007",
+        "business_activity": "Machinery and Equipments",
+        "state": "Uttarakhand",
+        "district": "CHAMOLI",
+        "address": "H.NO. 12, ICHCHOLI VILLAGE, DEBAL BLOCK, THARALI TAHASIL, THARALI TAHASIL UR IN 246427",
+        "register": "Registered on 05-04-2007",
+        "director_details": [
+            {
+                "DIN": "01932786",
+                "direct_name": "Ramanarayana Reddy Govindareddy Gari"
+            },
+            {
+                "DIN": "01653182",
+                "direct_name": "Vikramreddy Govindareddygari"
+            }
+        ]
+    },
+    {
+        "company_name": "JAKHESHWAR TRADING PRIVATE LIMITED",
+        "cin_no.": "U52100UR2011PTC033644",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-09-2011",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "CHAMOLI",
+        "address": "C/O JAKHESHWAR SHIKSHAN SANSTHAN NEAR PETROL PUMP, GOPESHWAR CHAMOLI UR IN 246401",
+        "register": "Registered on 01-09-2011",
+        "director_details": [
+            {
+                "DIN": "03601343",
+                "direct_name": "Chandra Mohan Kandari"
+            },
+            {
+                "DIN": "03598636",
+                "direct_name": "Nandan Singh Bisht"
+            },
+            {
+                "DIN": "03598639",
+                "direct_name": "Vikram Singh Bartwal"
+            }
+        ]
+    },
+    {
+        "company_name": "SUPER HYDRO ELECTRIC PRIVATE LIMITED",
+        "cin_no.": "U40101UR1994PTC000760",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "900000000",
+        "paid_up_capital": "739183510",
+        "registration_date": "05-09-1994",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Uttarakhand",
+        "district": "CHAMOLI",
+        "address": "C/O SHRI GANGA PALACE, VILLAGE - GOVINDGHAT, POST OFFICE - PANDUKESHWAR (VIA JOSHIMATH), DISTRICT CHAMOLI Chamoli UR IN 246443",
+        "register": "Registered on 05-09-1994",
+        "director_details": [
+            {
+                "DIN": "00123870",
+                "direct_name": "Anand Sammidi Reddy"
+            },
+            {
+                "DIN": "07157171",
+                "direct_name": "Anji Reddy Oruganti"
+            },
+            {
+                "DIN": "00249486",
+                "direct_name": "Mohan Reddy Mandadi"
+            },
+            {
+                "DIN": "00552074",
+                "direct_name": "Sada Siva Reddy Bommareddy"
+            },
+            {
+                "DIN": "00123878",
+                "direct_name": "Sammidi Aruna"
+            },
+            {
+                "DIN": "00123889",
+                "direct_name": "Sreekanth Reddy Sammidi"
+            },
+            {
+                "DIN": "ABPPD7487C",
+                "direct_name": "Veeraiah Choudary Dodda"
+            }
+        ]
+    },
+    {
+        "company_name": "MAA NANDA RAJ RAJESHWARI HYDRO PROJECTS PRIVATE LIMITED.",
+        "cin_no.": "U40102UR2008PTC032598",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "07-04-2008",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Uttarakhand",
+        "district": "CHAMOLI",
+        "address": "173, GWALDAM STET CHAMOLI CHAMOLI Chamoli UR IN 246441",
+        "register": "Registered on 07-04-2008",
+        "director_details": [
+            {
+                "DIN": "01882666",
+                "direct_name": "Dhanaji Machhindra Dabade"
+            },
+            {
+                "DIN": "01882995",
+                "direct_name": "Prakash Chandra Gururani"
+            }
+        ]
+    },
+    {
+        "company_name": "RATAN HERBAL (INDIA) PRIVATE LIMITED",
+        "cin_no.": "U24233UR2008PTC032565",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "970000",
+        "registration_date": "07-02-2008",
+        "business_activity": "Metals and Chemicals",
+        "state": "Uttarakhand",
+        "district": "CHAMPAWAT",
+        "address": "G B PANT MARG TANAKPUR UR IN 262309",
+        "register": "Registered on 07-02-2008",
+        "director_details": [
+            {
+                "DIN": "01637538",
+                "direct_name": "Usha Devi"
+            },
+            {
+                "DIN": "01521169",
+                "direct_name": "Vinay Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "PURNAGIRI CONSTRUCTION COMPANY PRIVATE LIMITED",
+        "cin_no.": "U45400UR2009PTC032863",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2400000",
+        "paid_up_capital": "700000",
+        "registration_date": "17-06-2009",
+        "business_activity": "Construction",
+        "state": "Uttarakhand",
+        "district": "CHAMPAWAT",
+        "address": "CEMENT ROAD TANAKPUR UR IN 262309",
+        "register": "Registered on 17-06-2009",
+        "director_details": [
+            {
+                "DIN": "02543713",
+                "direct_name": "Narendra Krishna Sharda"
+            },
+            {
+                "DIN": "02435595",
+                "direct_name": "Surendra Krishan Sharda"
+            },
+            {
+                "DIN": "02435549",
+                "direct_name": "Vinod Sharda"
+            }
+        ]
+    },
+    {
+        "company_name": "STARKING MANAGEMENT AND JOB TRAINING SER VICES PRIVATE LIMITED",
+        "cin_no.": "U74120UR2009PTC033000",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-11-2009",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "CHAMPAWAT",
+        "address": "VILLAGE TAYARKURA, P.O. CHAMPAWAT DISTT. CHAMPAWAT, UTTARANCHAL CHAMPAWAT Champawat UR IN 262523",
+        "register": "Registered on 20-11-2009",
+        "director_details": [
+            {
+                "DIN": "02806997",
+                "direct_name": "Deepak Chandra"
+            },
+            {
+                "DIN": "02803024",
+                "direct_name": "Kamalesh Tiwari"
+            }
+        ]
+    },
+    {
+        "company_name": "S.R. ROLLER FLOUR MILLS PRIVATE LIMITED",
+        "cin_no.": "U15122UR2007PTC032414",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "29-05-2007",
+        "business_activity": "Food Manufacturing",
+        "state": "Uttarakhand",
+        "district": "CHAMPAWAT",
+        "address": "MAJHOLA, TEHESIL KHATIMA KHATIMA UR IN 262310",
+        "register": "Registered on 29-05-2007",
+        "director_details": [
+            {
+                "DIN": "01866626",
+                "direct_name": "Puneet Garg"
+            },
+            {
+                "DIN": "02972282",
+                "direct_name": "Radha Garg"
+            },
+            {
+                "DIN": "01290591",
+                "direct_name": "Shyam Sunder Garg"
+            }
+        ]
+    },
+    {
+        "company_name": "PAATNI PLASTICS PRIVATE LIMITED",
+        "cin_no.": "U25203UR2011PTC033530",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "6000000",
+        "paid_up_capital": "5790000",
+        "registration_date": "02-06-2011",
+        "business_activity": "Metals and Chemicals",
+        "state": "Uttarakhand",
+        "district": "CHAMPAWAT",
+        "address": "CANAL ROAD P. O. CHANDANI BANBASA UR IN 262310",
+        "register": "Registered on 02-06-2011",
+        "director_details": [
+            {
+                "DIN": "03533205",
+                "direct_name": "Amit Patani"
+            },
+            {
+                "DIN": "03535176",
+                "direct_name": "Bahadur Singh Patni"
+            }
+        ]
+    },
+    {
+        "company_name": "POISED TECHNOLOGIES PRIVATE LIMITED",
+        "cin_no.": "U72300UR2009PTC033029",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-12-2009",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "CHAMPAWAT",
+        "address": "H. No. 51, C/o Comnet Solutions, GIC Road, Near I. T. I. Champawat Champawat UR IN 262523",
+        "register": "Registered on 18-12-2009",
+        "director_details": [
+            {
+                "DIN": "02830813",
+                "direct_name": "Dimple Kaushik"
+            },
+            {
+                "DIN": "02830753",
+                "direct_name": "Dinesh Sharma"
+            },
+            {
+                "DIN": "02852629",
+                "direct_name": "Mahesh Chandra Baij"
+            }
+        ]
+    },
+    {
+        "company_name": "VYANDHURA ENGINEERING WORKS PRIVATE LIMITED",
+        "cin_no.": "U45309UR2017PTC008011",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-08-2017",
+        "business_activity": "Construction",
+        "state": "Uttarakhand",
+        "district": "CHAMPAWAT",
+        "address": "V-FAGPOOR CHANDANI, BANBASA, TEH PURNAGIRI, TANAKPUR CHAMPAWAT Champawat UR IN 262310",
+        "register": "Registered on 08-08-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "ABBOT MOUNT MEDITATION CENTRE PRIVATE LIMITED",
+        "cin_no.": "U74900UR2008PTC032609",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-04-2008",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "CHAMPAWAT",
+        "address": "ABBOT MOUNT COLONY ESTATE ABBOT MOUNT, DISTT. CHAMPAWAT ABBOT MOUNT UR IN 262525",
+        "register": "Registered on 29-04-2008",
+        "director_details": [
+            {
+                "DIN": "00115464",
+                "direct_name": "Naresh Kumar Soni"
+            },
+            {
+                "DIN": "00115422",
+                "direct_name": "Sanjay Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "THINDKUMAR HOSPITALS PRIVATE LIMITED",
+        "cin_no.": "U85100UR2016PTC007410",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-11-2016",
+        "business_activity": "Personal and Social Services",
+        "state": "Uttarakhand",
+        "district": "CHAMPAWAT",
+        "address": "Village Bhajanpur Banbasa IN, Purnagiri, Tanakpur US Nagar Udham Singh Nagar UR IN 262310",
+        "register": "Registered on 22-11-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "REAL SHINE MUTUAL BENEFIT NIDHI INDIA LIMITED",
+        "cin_no.": "U65900UR2016PLC007178",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "04-07-2016",
+        "business_activity": "Finance",
+        "state": "Uttarakhand",
+        "district": "CHAMPAWAT",
+        "address": "TAXI STAND ROAD TANAKPUR Champawat UR IN 262309",
+        "register": "Registered on 04-07-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "KRISHNA AGROTRADE (INDIA) LIMITED",
+        "cin_no.": "U01400UR2011PLC033459",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "25-03-2011",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "DEHRADUN",
+        "address": "Parmar Services c/o Satendra Pal Singh 63, Kanwali Road, Chabil Bagh Dehradun UR IN 248001",
+        "register": "Registered on 25-03-2011",
+        "director_details": [
+            {
+                "DIN": "03429048",
+                "direct_name": "Anuj Kumar"
+            },
+            {
+                "DIN": "03429009",
+                "direct_name": "Manoj Kumar"
+            },
+            {
+                "DIN": "03403586",
+                "direct_name": "Satendra Pal Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "VK FLORA AND ANIMAL RESOURCES MANAGEMENT PRIVATE LIMITED",
+        "cin_no.": "U01400UR2011PTC033455",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "300000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-03-2011",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "DEHRADUN",
+        "address": "HNO 16 R K PURAM LOWER ADHOIWALA PO RAIPUR DEHRADUN Dehradun UR IN 248001",
+        "register": "Registered on 23-03-2011",
+        "director_details": [
+            {
+                "DIN": "03292102",
+                "direct_name": "Kunal Virmani"
+            },
+            {
+                "DIN": "03292092",
+                "direct_name": "Puneet Khanna"
+            }
+        ]
+    },
+    {
+        "company_name": "INDUS VALLEY FORESTRY AGRO AND LOGGING LIMITED",
+        "cin_no.": "U01400UR2012PLC000392",
+        "status": "Under Process of Striking off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "04-09-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "DEHRADUN",
+        "address": "SHANTI KUNJ NATHANPUR DEHRADUN Dehradun UR IN 248001",
+        "register": "Registered on 04-09-2012",
+        "director_details": [
+            {
+                "DIN": "06770413",
+                "direct_name": "Ajay Kumar Sharma"
+            },
+            {
+                "DIN": "06770424",
+                "direct_name": "Amit Kumar Yadav"
+            },
+            {
+                "DIN": "05332749",
+                "direct_name": "Chiranji Lal"
+            },
+            {
+                "DIN": "05332741",
+                "direct_name": "Insaf Usmani"
+            },
+            {
+                "DIN": "06770589",
+                "direct_name": "Mohd Shahnawaz"
+            },
+            {
+                "DIN": "06770391",
+                "direct_name": "Naushad Ahamed"
+            },
+            {
+                "DIN": "05332724",
+                "direct_name": "Nawab Ahmad"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMALAYAN ECO VITAL INDIA PRIVATE LIMITED",
+        "cin_no.": "U01400UR2012PTC000143",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "490000",
+        "registration_date": "27-02-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "DEHRADUN",
+        "address": "58 BALBIR ROAD DEHRADUN UR IN 248001",
+        "register": "Registered on 27-02-2012",
+        "director_details": [
+            {
+                "DIN": "02750440",
+                "direct_name": "Sri Prakash"
+            },
+            {
+                "DIN": "00787907",
+                "direct_name": "Tarun Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "ENVIRONS INDIA PRIVATE LIMITED",
+        "cin_no.": "U01400UR2012PTC000184",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-03-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "DEHRADUN",
+        "address": "202, PHASE 1, VASANT VIHAR DEHRADUN UR IN 248001",
+        "register": "Registered on 16-03-2012",
+        "director_details": [
+            {
+                "DIN": "05211079",
+                "direct_name": "Dipti Garg"
+            },
+            {
+                "DIN": "05211082",
+                "direct_name": "Sonal Garg"
+            },
+            {
+                "DIN": "07537123",
+                "direct_name": "Vijaya Garg"
+            }
+        ]
+    },
+    {
+        "company_name": "TAKNOR JHALA FRUITS COLLECTION AND PROCESSING PRIVATE LIMITED",
+        "cin_no.": "U01400UR2012PTC000277",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "2356000",
+        "registration_date": "31-05-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "DEHRADUN",
+        "address": "7, VINOD MARKET DEHRADUN ROAD RISHIKESH UR IN 249201",
+        "register": "Registered on 31-05-2012",
+        "director_details": [
+            {
+                "DIN": "05276066",
+                "direct_name": "Jaypal Singh"
+            },
+            {
+                "DIN": "02149179",
+                "direct_name": "Laxmi Prakash Semwal"
+            },
+            {
+                "DIN": "07252224",
+                "direct_name": "Sonal"
+            }
+        ]
+    },
+    {
+        "company_name": "HARSIL GANGOTRI FRUITS PROCESSING AND MARKETING PRIVATE LIMITED",
+        "cin_no.": "U01400UR2012PTC000278",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "2356000",
+        "registration_date": "31-05-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "DEHRADUN",
+        "address": "3, VINOD KARKET DEHRADUN ROAD RISHIKESH UR IN 249201",
+        "register": "Registered on 31-05-2012",
+        "director_details": [
+            {
+                "DIN": "02149179",
+                "direct_name": "Laxmi Prakash Semwal"
+            },
+            {
+                "DIN": "07252224",
+                "direct_name": "Sonal"
+            },
+            {
+                "DIN": "05276101",
+                "direct_name": "Umesh Pal Panwar"
+            }
+        ]
+    },
+    {
+        "company_name": "UNI.N.SONS TRADEX PRIVATE LIMITED",
+        "cin_no.": "U01400UR2012PTC000352",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "31-07-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "DEHRADUN",
+        "address": "236, NEHRUGRAM ROAD RING ROAD, NATHANPUR DEHRADUN UR IN 248001",
+        "register": "Registered on 31-07-2012",
+        "director_details": [
+            {
+                "DIN": "00689697",
+                "direct_name": "Kuber Uniyal"
+            },
+            {
+                "DIN": "05328771",
+                "direct_name": "Virendra Mohan Uniyal"
+            }
+        ]
+    },
+    {
+        "company_name": "HIM AND KAYS AGRO PRIVATE LIMITED",
+        "cin_no.": "U01400UR2012PTC000397",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1200000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-09-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "DEHRADUN",
+        "address": "HIM AND KAYS HOUSE, 301, PHASE II VASANT VIHAR, DEHRADUN DHERADUN UR IN 248006",
+        "register": "Registered on 10-09-2012",
+        "director_details": [
+            {
+                "DIN": "06909758",
+                "direct_name": "Devendra Mahar Singh"
+            },
+            {
+                "DIN": "02321415",
+                "direct_name": "Himanshu Singh Panwar"
+            },
+            {
+                "DIN": "05279053",
+                "direct_name": "Kanika Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "PADMESHWAR AGRO FOOD INDUSTRY PRIVATE LIMITED",
+        "cin_no.": "U01400UR2012PTC000447",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "600000",
+        "registration_date": "30-10-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "DEHRADUN",
+        "address": "OPPOSITE UTTARAKHAND GRAMIN BANK RENUKA VIHAR, KEDARPUR, MOTHROWALA ROAD DEHRADUN Dehradun UR IN 248001",
+        "register": "Registered on 30-10-2012",
+        "director_details": [
+            {
+                "DIN": "06385353",
+                "direct_name": "Padma Devi"
+            },
+            {
+                "DIN": "02629267",
+                "direct_name": "Raj Samuel"
+            }
+        ]
+    },
+    {
+        "company_name": "FUTURE SECURITIES LIMITED.(DEEMED PUBLIC)",
+        "cin_no.": "U67120UR1995PLC017838",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "3002000",
+        "registration_date": "05-04-1995",
+        "business_activity": "Finance",
+        "state": "Uttarakhand",
+        "district": "GHAZIABAD",
+        "address": "SHOP NO. AG- 1 C-58/15A, SECTOR 62 NOIDA UR IN 201301",
+        "register": "Registered on 05-04-1995",
+        "director_details": [
+            {
+                "DIN": "00174810",
+                "direct_name": "Akhileshwar Prasad Sinha"
+            },
+            {
+                "DIN": "00647959",
+                "direct_name": "Kuldip Sharma"
+            },
+            {
+                "DIN": "00620564",
+                "direct_name": "Sanjay Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "SUNRISE AASHIYANA PRIVATE LIMITED",
+        "cin_no.": "U45200UR2006PTC032292",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "1953600",
+        "registration_date": "22-08-2006",
+        "business_activity": "Construction",
+        "state": "Uttarakhand",
+        "district": "GHAZIABAD",
+        "address": "202 IInd FLOOR, RELIANCE PLAZA-1 OPP. EXPRESS APPARTMENTS, SECTOR-4, VAISHALI GHAZIABAD UR IN 201010",
+        "register": "Registered on 22-08-2006",
+        "director_details": [
+            {
+                "DIN": "00383481",
+                "direct_name": "Aruna Garg"
+            },
+            {
+                "DIN": "00383430",
+                "direct_name": "Ram Kumar Garg"
+            }
+        ]
+    },
+    {
+        "company_name": "N.R.R. CONSTRUCTIONS COMPANY PVT LTD.",
+        "cin_no.": "U45203UR1994PTC017178",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "30000",
+        "registration_date": "17-11-1994",
+        "business_activity": "Construction",
+        "state": "Uttarakhand",
+        "district": "GHAZIABAD",
+        "address": "212/2 Rajpuir Road Dehradun NOIDA dehradun Dehradun UR IN 201301",
+        "register": "Registered on 17-11-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "DECENTBUG INFOTECH PRIVATE LIMITED",
+        "cin_no.": "U93000UR2014PTC001358",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "31-12-2014",
+        "business_activity": "Personal and Social Services",
+        "state": "Uttarakhand",
+        "district": "GHAZIABAD",
+        "address": "GARIGHAT VIKASNAGAR KOTDWARA KOTDWARA Pauri Garhwal UR IN 201301",
+        "register": "Registered on 31-12-2014",
+        "director_details": [
+            {
+                "DIN": "07008146",
+                "direct_name": "Prashant Dhyani"
+            },
+            {
+                "DIN": "07008143",
+                "direct_name": "Shaiwal Rawat"
+            },
+            {
+                "DIN": "07057213",
+                "direct_name": "Sumit Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "EXCESS GRAINS PRIVATE LIMITED",
+        "cin_no.": "U01400UP2012PTC093780",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "4400000",
+        "paid_up_capital": "4375000",
+        "registration_date": "08-05-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttar pradesh",
+        "district": "MORADABAD",
+        "address": "226, Sagar Saray, Near Vikas Manjil Ke Pass Moradabad Moradabad UP IN 244001",
+        "register": "Registered on 08-05-2012",
+        "director_details": []
+    },
+    {
+        "company_name": "ALVIN GREEN AGROTECH PRIVATE LIMITED",
+        "cin_no.": "U01400UR2015PTC001546",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-06-2015",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "HARIDWAR",
+        "address": "Near water park Roshanabad Haridwar Haridwar UR IN 249402",
+        "register": "Registered on 09-06-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "UTKARSH AGRO FOODS PRIVATE LIMITED",
+        "cin_no.": "U01403UR2011PTC033575",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "800000",
+        "paid_up_capital": "800000",
+        "registration_date": "06-07-2011",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "HARIDWAR",
+        "address": "GRAM MUSHTAFA PADARTHA P.O. DHANPURA, LAKSAR ROAD, DISTRICT- HARIDWAR HARIDWAR UR IN 249404",
+        "register": "Registered on 06-07-2011",
+        "director_details": [
+            {
+                "DIN": "03467219",
+                "direct_name": "Meenu Chandra"
+            },
+            {
+                "DIN": "03473604",
+                "direct_name": "Nishant Ranjan"
+            },
+            {
+                "DIN": "03467269",
+                "direct_name": "Swami Sharad Puri"
+            },
+            {
+                "DIN": "03468388",
+                "direct_name": "Yogesh Radheshyam"
+            }
+        ]
+    },
+    {
+        "company_name": "VIZUDDHA ORGANIC FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01409UR2015PTC001703",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "825000",
+        "registration_date": "18-09-2015",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "HARIDWAR",
+        "address": "H.NO.-43, VILLAGE SULTANPUR SABATWALI PO",
+        "register": "Registered on 18-09-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "GAU KRISHI PRIVATE LIMITED",
+        "cin_no.": "U01409UR2015PTC001713",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "10000000",
+        "registration_date": "22-09-2015",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "HARIDWAR",
+        "address": "PATANJALI FOOD & HERBAL PARK VILLAGE-PADARTHA, LAKSAR ROAD HARIDWAR Haridwar UR IN 249404",
+        "register": "Registered on 22-09-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "JADIBUTI KRISHI PRIVATE LIMITED",
+        "cin_no.": "U01409UR2015PTC001714",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "15000000",
+        "paid_up_capital": "11500000",
+        "registration_date": "22-09-2015",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "HARIDWAR",
+        "address": "PATANJALI FOOD & HERBAL PARK VILLAGE-PADARTHA, LAKSAR ROAD HARIDWAR Haridwar UR IN 249404",
+        "register": "Registered on 22-09-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "HERBO GAU PRIVATE LIMITED",
+        "cin_no.": "U01409UR2015PTC001715",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "48000000",
+        "registration_date": "22-09-2015",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "HARIDWAR",
+        "address": "PATANJALI FOOD & HERBAL PARK VILLAGE-PADARTHA, LAKSAR ROAD HARIDWAR Haridwar UR IN 249404",
+        "register": "Registered on 22-09-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "YUGANUKUL KRISHI PRIVATE LIMITED",
+        "cin_no.": "U01409UR2015PTC001721",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "25000000",
+        "paid_up_capital": "22500000",
+        "registration_date": "24-09-2015",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "HARIDWAR",
+        "address": "PATANJALI FOOD & HERBAL PARK VILLAGE-PADARTHA, LAKSAR ROAD HARIDWAR Haridwar UR IN 249404",
+        "register": "Registered on 24-09-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "HANUMANT MINING PRIVATE LIMITED",
+        "cin_no.": "U10300UR2013PTC000825",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-08-2013",
+        "business_activity": "Mining and Quarrying",
+        "state": "Uttarakhand",
+        "district": "HARIDWAR",
+        "address": "SHOP NO.1, SHIVLOK COLONY NEAR BHAGAT SINGH CHOWK HARIDWAR Haridwar UR IN 249407",
+        "register": "Registered on 01-08-2013",
+        "director_details": [
+            {
+                "DIN": "06645420",
+                "direct_name": "Pratik Chauhan"
+            },
+            {
+                "DIN": "06645412",
+                "direct_name": "Rakesh Kumar Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "SHIVALIK AIR PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U11101UR2003PTC027235",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "1500000",
+        "registration_date": "10-02-2003",
+        "business_activity": "Mining and Quarrying",
+        "state": "Uttarakhand",
+        "district": "HARIDWAR",
+        "address": "E-96 INDUSTRIAL AREA BAHADRABAD HARDWAR UR IN 249402",
+        "register": "Registered on 10-02-2003",
+        "director_details": [
+            {
+                "DIN": "00618351",
+                "direct_name": "Pradeep Kumar Goel"
+            },
+            {
+                "DIN": "00774860",
+                "direct_name": "Ravindra Arora"
+            }
+        ]
+    },
+    {
+        "company_name": "PROGRESSIVE DISTRIBUTORS PRIVATE LIMITED",
+        "cin_no.": "U05001UR1995PTC018507",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "12500000",
+        "paid_up_capital": "11130020",
+        "registration_date": "04-08-1995",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "KANPUR NAGAR",
+        "address": "G-49 63/2CITY CENTRE KANPUR UTTAR PRADESH UR IN 208001",
+        "register": "Registered on 04-08-1995",
+        "director_details": [
+            {
+                "DIN": "00413537",
+                "direct_name": "Bhavna Khemka"
+            },
+            {
+                "DIN": "03576267",
+                "direct_name": "Pulkit Khemka"
+            },
+            {
+                "DIN": "00413223",
+                "direct_name": "Sanjay Kumar Khemka"
+            }
+        ]
+    },
+    {
+        "company_name": "HEMANT FERTILIZERS PRIVATE LIMITED",
+        "cin_no.": "U24123UR1995PTC018763",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "2500000",
+        "registration_date": "19-09-1995",
+        "business_activity": "Metals and Chemicals",
+        "state": "Uttarakhand",
+        "district": "KANPUR NAGAR",
+        "address": "319/299-A,LUCKNOW ROADJAJMAU KANPUR UTTAR PRADESH UR IN 208001",
+        "register": "Registered on 19-09-1995",
+        "director_details": [
+            {
+                "DIN": "03298000",
+                "direct_name": "Hemant Kushwaha"
+            },
+            {
+                "DIN": "01073832",
+                "direct_name": "Rameshwar Kushwaha"
+            },
+            {
+                "DIN": "02157510",
+                "direct_name": "Surendra Kushwaha"
+            },
+            {
+                "DIN": "02155505",
+                "direct_name": "Vimla Devi Kushwaha"
+            }
+        ]
+    },
+    {
+        "company_name": "AMSTEAD COGENERATION PRIVATE LIMITED",
+        "cin_no.": "U65992UR1994PTC016390",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "127000",
+        "registration_date": "29-04-1994",
+        "business_activity": "Finance",
+        "state": "Uttarakhand",
+        "district": "KANPUR NAGAR",
+        "address": "A/30-14 AZIZ MANZILAM JAIPURIA ROAD KANPUR UTTAR PRADESH UR IN 208004",
+        "register": "Registered on 29-04-1994",
+        "director_details": [
+            {
+                "DIN": "00516832",
+                "direct_name": "Masoom Ali Khan"
+            },
+            {
+                "DIN": "00516884",
+                "direct_name": "Ramesh Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "OBSEQUIUM RESORTS AND ADVENTURES PRIVATE LIMITED",
+        "cin_no.": "U74999UR2018PTC008762",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-05-2018",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "KANPUR NAGAR",
+        "address": "664, Race Course Valley DEHRADUN Dehradun-208001,Uttarakhand",
+        "register": "Registered on 23-05-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "LAHN PHARMA PRIVATE LIMITED",
+        "cin_no.": "U74999UR2016PTC007143",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "200000",
+        "registration_date": "16-06-2016",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "KHERI",
+        "address": "GAYATRI VIHAR COLONY SAKANIA ROAD, GADARPUR UDHAM SINGH NAGAR Udham Singh Nagar UR IN 262804",
+        "register": "Registered on 16-06-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "PERFECT PORTFOLIO AND FINANCE PRIVATE LIMITED",
+        "cin_no.": "U67190UR1995PTC018379",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "1495000",
+        "registration_date": "10-07-1995",
+        "business_activity": "Finance",
+        "state": "Uttarakhand",
+        "district": "MATHURA",
+        "address": "369/2 KRISHNA NAGAR GOVERDHAN ROAD MATHURA Mathura UR IN 281004",
+        "register": "Registered on 10-07-1995",
+        "director_details": [
+            {
+                "DIN": "02628107",
+                "direct_name": "Amardeep Singh Sabharwal"
+            },
+            {
+                "DIN": "02869079",
+                "direct_name": "Virender Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "SGM EDUCATIONAL SERVICES PRIVATE LIMITED",
+        "cin_no.": "U55101UR1994PTC016850",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-08-1994",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "MEERUT",
+        "address": "73-ADBOUNDRY ROAD MEERUT UTTAR PRADESH UR IN 250001",
+        "register": "Registered on 30-08-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "DHANVANTRI LABORATORIES LIMITED",
+        "cin_no.": "U85110UR1992PLC014516",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "4000000",
+        "paid_up_capital": "3892500",
+        "registration_date": "01-07-1992",
+        "business_activity": "Personal and Social Services",
+        "state": "Uttarakhand",
+        "district": "MEERUT",
+        "address": "STREET NO 5 PANCHSHEELCOLONY GARH ROAD MEERUT UTTAR PRADESH UR IN 250002",
+        "register": "Registered on 01-07-1992",
+        "director_details": [
+            {
+                "DIN": "01167954",
+                "direct_name": "Dharam Pal Khanna"
+            },
+            {
+                "DIN": "05123686",
+                "direct_name": "Karan Malhotra"
+            },
+            {
+                "DIN": "07131650",
+                "direct_name": "Rekha Khanna"
+            },
+            {
+                "DIN": "07131366",
+                "direct_name": "Sanchi Khanna"
+            },
+            {
+                "DIN": "02504830",
+                "direct_name": "Vinay Khanna"
+            }
+        ]
+    },
+    {
+        "company_name": "CHARU STEELS LIMITED",
+        "cin_no.": "U27101UR1985PLC007538",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "47869500",
+        "registration_date": "22-11-1985",
+        "business_activity": "Metals and Chemicals",
+        "state": "Uttarakhand",
+        "district": "MIRZAPUR",
+        "address": "B-17 TO B-22INDUSTRIAL AREA BALBHADRAPUR KOTDWARA UTTRAKHAND UR IN 231301",
+        "register": "Registered on 22-11-1985",
+        "director_details": [
+            {
+                "DIN": "00134902",
+                "direct_name": "Dinesh Kumar"
+            },
+            {
+                "DIN": "00134975",
+                "direct_name": "Nishant Kumar Agarwal"
+            },
+            {
+                "DIN": "05291210",
+                "direct_name": "Sahil Singhal"
+            }
+        ]
+    },
+    {
+        "company_name": "PAL INFRA HEIGHTS PRIVATE LIMITED",
+        "cin_no.": "U70102DL1997PTC089788",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "861000",
+        "registration_date": "22-09-1997",
+        "business_activity": "Real Estate",
+        "state": "Delhi",
+        "district": "SOUTH WEST DELHI",
+        "address": "FLAT NO. 401, GOKUL SADAN, GALI NO. 8 MAHAVIR ENCLAVE, NEW DELHI-45 NEW DELHI DL IN 110045",
+        "register": "Registered on 22-09-1997",
+        "director_details": [
+            {
+                "DIN": "01162737",
+                "direct_name": "Gopal Singh Pal"
+            },
+            {
+                "DIN": "02200885",
+                "direct_name": "Neha Pal"
+            }
+        ]
+    },
+    {
+        "company_name": "ARJEES AGRO-FEEDSPRIVATE LIMITED",
+        "cin_no.": "U01222UR1987PTC008486",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "9000",
+        "registration_date": "08-01-1987",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NA",
+        "address": "RED BURN OAKS ALNDOUN CANTTMUSSOORIE DEHRADUN UTTRANCHAL Dehradun UR IN",
+        "register": "Registered on 08-01-1987",
+        "director_details": []
+    },
+    {
+        "company_name": "UTTRANCHAL PIGGERY LIMITED",
+        "cin_no.": "U01229UR1997PLC022742",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "0",
+        "registration_date": "21-10-1997",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NA",
+        "address": "BAREILLY ROADINFRONT OF I T I GUNJAJAL HALDWANI NAINITAL UTTAR PRADESH Nainital UR IN",
+        "register": "Registered on 21-10-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "EVEREST GREEN FORESTS LIMITED",
+        "cin_no.": "U01300UR1994PLC016281",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "300000",
+        "paid_up_capital": "900",
+        "registration_date": "31-03-1994",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NA",
+        "address": "RUDRAPURNAINITAL. NAINITAL. UTTRANCHAL Nainital UR IN",
+        "register": "Registered on 31-03-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "HIMSIKHAR AGRO AND CATTLEFARMS (INDIA) L IMITED",
+        "cin_no.": "U01300UR1997PLC022944",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "80000",
+        "registration_date": "09-12-1997",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NA",
+        "address": "ADARSH GRAM,,RISHIKESHDEHRADUN DEHRADUN Dehradun UR IN",
+        "register": "Registered on 09-12-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "DOON INSTRUMENTS PROCESSORS PRIVATE LIMI TED",
+        "cin_no.": "U01401UR1987PTC008752",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "20-05-1987",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NA",
+        "address": "110TAGORE VILLA DEHRADUN UTTRANCHAL Dehradun UR IN",
+        "register": "Registered on 20-05-1987",
+        "director_details": []
+    },
+    {
+        "company_name": "TARA DEEP CHEMICALS PRIVATE LIMITED",
+        "cin_no.": "U01401UR1988PTC009962",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "800000",
+        "paid_up_capital": "0",
+        "registration_date": "25-08-1988",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NA",
+        "address": "13, MALLUPURAMUZAFFAR NAGAR MUZAFFAR NAGAR UTTAR PRADESH Nainital UR IN",
+        "register": "Registered on 25-08-1988",
+        "director_details": []
+    },
+    {
+        "company_name": "SARVODYA FOREST(INDIA) LIMITED",
+        "cin_no.": "U01403UR1992PLC014972",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "80",
+        "registration_date": "28-12-1992",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NA",
+        "address": "34 G, VIJAY COLONYDEHRADUN DEHRADUN UTTAR PRADESH Dehradun UR IN",
+        "register": "Registered on 28-12-1992",
+        "director_details": []
+    },
+    {
+        "company_name": "KANCHANJANGA GREEN FORESTS LIMITED",
+        "cin_no.": "U01403UR1994PLC016296",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "19000",
+        "registration_date": "05-04-1994",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NA",
+        "address": "A-457,AVAS VIKAS,RUDRA PUR, NAINITAL UTTRANCHAL Nainital UR IN",
+        "register": "Registered on 05-04-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "SYURI NOGOAN FRUITS COLLECTION PRIVATE LIMITED",
+        "cin_no.": "U01403UR2010PTC033073",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "2435800",
+        "registration_date": "18-02-2010",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NA",
+        "address": "1 VINOD MARKET DEHRADUN ROAD RISHIKESH UR IN 249920",
+        "register": "Registered on 18-02-2010",
+        "director_details": [
+            {
+                "DIN": "02149179",
+                "direct_name": "Laxmi Prakash Semwal"
+            },
+            {
+                "DIN": "02294290",
+                "direct_name": "Mahaveer Singh"
+            },
+            {
+                "DIN": "07252224",
+                "direct_name": "Sonal"
+            }
+        ]
+    },
+    {
+        "company_name": "VENTURE AGRO MARKETING PRIVATE LIMITED",
+        "cin_no.": "U01403UR2011PTC033625",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-08-2011",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NA",
+        "address": "C/o Bahadur Singh Bist, Near LIC Building KATHGODAM Nainital UR IN 262126",
+        "register": "Registered on 16-08-2011",
+        "director_details": [
+            {
+                "DIN": "03578542",
+                "direct_name": "Jitendra Verma"
+            },
+            {
+                "DIN": "05320425",
+                "direct_name": "Priyanka Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "CHIME AGRO FARMING PRIVATE LIMITED",
+        "cin_no.": "U01229HR2011PTC043351",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "4825000",
+        "paid_up_capital": "4825000",
+        "registration_date": "06-07-2011",
+        "business_activity": "Agriculture",
+        "state": "Haryana",
+        "district": "SONIPAT",
+        "address": "C/o Rajesh Midha, House No. 1449 Sector-15, Sonepat Sonepat HR IN 131001",
+        "register": "Registered on 06-07-2011",
+        "director_details": []
+    },
+    {
+        "company_name": "LOAM PLANT FARMING PRIVATE LIMITED",
+        "cin_no.": "U01300HR2011PTC043385",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "6000000",
+        "paid_up_capital": "6000000",
+        "registration_date": "08-07-2011",
+        "business_activity": "Agriculture",
+        "state": "Haryana",
+        "district": "SONIPAT",
+        "address": "House No. 96 Sector-14, Sonepat Sonepat HR IN 131001",
+        "register": "Registered on 08-07-2011",
+        "director_details": []
+    },
+    {
+        "company_name": "GAJANAN AGRITECH PRIVATE LIMITED",
+        "cin_no.": "U01400UR2007PTC032402",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-04-2007",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NAINITAL",
+        "address": "Ground Floor, Shantikunj, Gali No. 2, Lakhanpur, Tehsil Ramnagar Ramnagar UR IN 244715",
+        "register": "Registered on 27-04-2007",
+        "director_details": [
+            {
+                "DIN": "01383576",
+                "direct_name": "Santosh Kumar"
+            },
+            {
+                "DIN": "01381389",
+                "direct_name": "Subhash Chandra Tripathi"
+            },
+            {
+                "DIN": "00015640",
+                "direct_name": "Viveck Goenka"
+            }
+        ]
+    },
+    {
+        "company_name": "CROWN CULTIVATION PRIVATE LIMITED",
+        "cin_no.": "U01400RJ2011PTC035810",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "7600000",
+        "paid_up_capital": "7595000",
+        "registration_date": "11-07-2011",
+        "business_activity": "Agriculture",
+        "state": "Rajasthan",
+        "district": "JAIPUR",
+        "address": "Lalit Sadan, F-8/140, Chitrakut Yojana Behind SBBJ Ajmer Road Jaipur RJ IN 302021",
+        "register": "Registered on 11-07-2011",
+        "director_details": []
+    },
+    {
+        "company_name": "PROWINTERCROP GRAINS AND FARMS PRIVATE LIMITED",
+        "cin_no.": "U01400UR2011PTC008056",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5800000",
+        "paid_up_capital": "5762250",
+        "registration_date": "06-01-2011",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NAINITAL",
+        "address": "2-450/1, Tulsi Nagar, Polysheet Haldwani, Nainital, Nainital Nainital UR IN 263126",
+        "register": "Registered on 06-01-2011",
+        "director_details": []
+    },
+    {
+        "company_name": "VIVACIOUS CROP CULTIVATION PRIVATE LIMITED",
+        "cin_no.": "U01400HR2011PTC041865",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2200000",
+        "paid_up_capital": "2200000",
+        "registration_date": "08-01-2011",
+        "business_activity": "Agriculture",
+        "state": "Haryana",
+        "district": "SONIPAT",
+        "address": "KOTHI NUMBER-106 SECTOR-14 SONEPAT HR IN 131001",
+        "register": "Registered on 08-01-2011",
+        "director_details": [
+            {
+                "DIN": "03007578",
+                "direct_name": "Neeraj Gupta"
+            },
+            {
+                "DIN": "01151674",
+                "direct_name": "Ram Kumar Bhatia"
+            }
+        ]
+    },
+    {
+        "company_name": "MAHATEJAS AGRIBIZZ PRIVATE LIMITED",
+        "cin_no.": "U01400UR2011PTC008275",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3400000",
+        "paid_up_capital": "3400000",
+        "registration_date": "07-01-2011",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NAINITAL",
+        "address": "2-450/1, Tulsi Nagar, Polysheet Haldwani, Nainital Nainital Nainital UR IN 263126",
+        "register": "Registered on 07-01-2011",
+        "director_details": []
+    },
+    {
+        "company_name": "AMRYLIS FARMWORKS PRIVATE LIMITED",
+        "cin_no.": "U01400UR2011PTC033475",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-04-2011",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NAINITAL",
+        "address": "Village & Post Reechi Tehsil Betalghat UR IN 263135",
+        "register": "Registered on 13-04-2011",
+        "director_details": [
+            {
+                "DIN": "02376955",
+                "direct_name": "Aditya Singhal"
+            },
+            {
+                "DIN": "00709084",
+                "direct_name": "Arvind Kumar Singhal"
+            },
+            {
+                "DIN": "00704085",
+                "direct_name": "Shalini Singhal"
+            }
+        ]
+    },
+    {
+        "company_name": "BIOHIM HERBAL RESEARCH PRIVATE LIMITED",
+        "cin_no.": "U01401UR2014PTC001120",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "31-03-2014",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "NAINITAL",
+        "address": "VILL BAJERI PATTI DHANYAKOT KHATA NO 55 KHATE NO 3709, 3011A DHANYAKOT Nainital UR IN 263001",
+        "register": "Registered on 31-03-2014",
+        "director_details": [
+            {
+                "DIN": "06785509",
+                "direct_name": "Dinesh Kumar Srivastava"
+            },
+            {
+                "DIN": "06807363",
+                "direct_name": "Usha Rani Verma"
+            },
+            {
+                "DIN": "06807368",
+                "direct_name": "Vikrant Verma"
+            },
+            {
+                "DIN": "05275645",
+                "direct_name": "Vishal Verma"
+            }
+        ]
+    },
+    {
+        "company_name": "ROSEMARY FARMING PRIVATE LIMITED",
+        "cin_no.": "U01403RJ2009PTC029522",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2300000",
+        "paid_up_capital": "2300000",
+        "registration_date": "05-08-2009",
+        "business_activity": "Agriculture",
+        "state": "Rajasthan",
+        "district": "JAIPUR",
+        "address": "C-10, Hanuman Nagar Khatipura Jaipur RJ IN 302006",
+        "register": "Registered on 05-08-2009",
+        "director_details": [
+            {
+                "DIN": "03007578",
+                "direct_name": "Neeraj Gupta"
+            },
+            {
+                "DIN": "00359283",
+                "direct_name": "Rajesh Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "SHREE SIDHBALI BIOTECH PRIVATE LIMITED",
+        "cin_no.": "U15139UR2006PTC032310",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "576000",
+        "registration_date": "20-09-2006",
+        "business_activity": "Food Manufacturing",
+        "state": "Uttarakhand",
+        "district": "PAURI GARHWAL",
+        "address": "599, BADRINATH MARG, 599, BADRINATH MARG, KOTDWARA UR IN 246149",
+        "register": "Registered on 20-09-2006",
+        "director_details": [
+            {
+                "DIN": "00932952",
+                "direct_name": "Anil Kumar Badola"
+            },
+            {
+                "DIN": "00932927",
+                "direct_name": "Ashutosh Agarwal"
+            },
+            {
+                "DIN": "00967900",
+                "direct_name": "Kamal Gupta"
+            },
+            {
+                "DIN": "00921692",
+                "direct_name": "Ruchira Maheshwari"
+            },
+            {
+                "DIN": "06638063",
+                "direct_name": "Vedant Daga"
+            }
+        ]
+    },
+    {
+        "company_name": "REAL VIEW HOTELS PRIVATE LIMITED",
+        "cin_no.": "U55101UR2011PTC033491",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-04-2011",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "PAURI GARHWAL",
+        "address": "village- jogi billangi patty sila lansdowne Pauri Garhwal UR IN 246155",
+        "register": "Registered on 28-04-2011",
+        "director_details": [
+            {
+                "DIN": "03466658",
+                "direct_name": "Amit Kumar"
+            },
+            {
+                "DIN": "05221442",
+                "direct_name": "Deen Dayal"
+            }
+        ]
+    },
+    {
+        "company_name": "BLOOMING RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55101UR2012PTC000085",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-01-2012",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "PAURI GARHWAL",
+        "address": "VILLAGE - ANJUNI, JOTPUR, TALLA BADLAPUR TEHSIL - LANSDOWNE PAURI GARHWAL UR IN 246155",
+        "register": "Registered on 19-01-2012",
+        "director_details": [
+            {
+                "DIN": "03607050",
+                "direct_name": "Nirmal Khanna"
+            },
+            {
+                "DIN": "03611010",
+                "direct_name": "Rakesh Khantwal"
+            },
+            {
+                "DIN": "00728269",
+                "direct_name": "Saryu Prasad Yadav"
+            },
+            {
+                "DIN": "01954066",
+                "direct_name": "Surya Bhan Yadav"
+            }
+        ]
+    },
+    {
+        "company_name": "HOTEL KRISHAN KANHIAYA PRIVATE LIMITED",
+        "cin_no.": "U55204UR2011PTC033482",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-04-2011",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "PAURI GARHWAL",
+        "address": "VILLAGE-GAWANA, POST POKHRI, VIA-KHIRSU, TEHSIL SRI NAGAR PAURI GARHAWAL UR IN 246147",
+        "register": "Registered on 20-04-2011",
+        "director_details": [
+            {
+                "DIN": "00289884",
+                "direct_name": "Anil Kumar Garg"
+            },
+            {
+                "DIN": "03495167",
+                "direct_name": "Pawan Kumar Kapurwan"
+            },
+            {
+                "DIN": "00289924",
+                "direct_name": "Sandeep Garg"
+            }
+        ]
+    },
+    {
+        "company_name": "OJAS HOLIDAYS PRIVATE LIMITED",
+        "cin_no.": "U55209UR2016PTC007230",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "60000",
+        "registration_date": "03-08-2016",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "PAURI GARHWAL",
+        "address": "PO- GAINDKHAL BLOCK YAMKESHWAR YAMKESHWAR Pauri Garhwal Pithoragarh UR IN 246121",
+        "register": "Registered on 03-08-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "AITA HOTELS AND RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55209UR2017PTC007525",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-01-2017",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "PAURI GARHWAL",
+        "address": "VILLAGE-AITA, P.O DUGADDA, PAURI GARHWAL, PAURI GARHWAL Pauri Garhwal UR IN 246149",
+        "register": "Registered on 17-01-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "NAYAAR VALLEY HOSPITALITY PRIVATE LIMITED",
+        "cin_no.": "U55209UR2017PTC008029",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-08-2017",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "PAURI GARHWAL",
+        "address": "H.NO-16, VILL.-CHAMOLI SAIN, PO- BANGHAT, DIST- PAURI GARHWAL PAURI GAGHWAL Pauri Garhwal UR IN 246172",
+        "register": "Registered on 16-08-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "CHAREKHA INDIA (OPC) PRIVATE LIMITED",
+        "cin_no.": "U01100UR2016OPC007476",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-12-2016",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "PAURI GARHWAL",
+        "address": "VILLAGE HALDUAKHATA, KALALGHATI KOTDWARA, PAURI GARHWAL Pauri Garhwal UR IN 246149",
+        "register": "Registered on 26-12-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "ASWAL FARMS PRIVATE LIMITED",
+        "cin_no.": "U01100UR2018PTC008470",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-02-2018",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "PAURI GARHWAL",
+        "address": "25-POWER HOUSE MALL ROAD PAURI Pauri Garhwal UR IN 246001",
+        "register": "Registered on 19-02-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "KUKRETI STEEL LIMITED",
+        "cin_no.": "U01113UR1996PLC020574",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "10350000",
+        "registration_date": "27-08-1996",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "PAURI GARHWAL",
+        "address": "F 23-27 UPSIDCINDUSTRIAL AREA JASODHARPUR KOTDWAR PAURI GARWAL UTTARANCHAL UR IN 246149",
+        "register": "Registered on 27-08-1996",
+        "director_details": [
+            {
+                "DIN": "02437647",
+                "direct_name": "Bharti Devi"
+            },
+            {
+                "DIN": "05113706",
+                "direct_name": "Dinesh Mohan Kukreti"
+            },
+            {
+                "DIN": "01859542",
+                "direct_name": "Prashant Kukreti"
+            },
+            {
+                "DIN": "02416906",
+                "direct_name": "Rakesh Mohan Kukreti"
+            },
+            {
+                "DIN": "00356217",
+                "direct_name": "Subhash Mohan Kukreti"
+            },
+            {
+                "DIN": "00356059",
+                "direct_name": "Suresh Chand Bansal"
+            }
+        ]
+    },
+    {
+        "company_name": "VIDHYA GURU CHARITABLE INSTITUTE",
+        "cin_no.": "U80902UR2012NPL000195",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-03-2012",
+        "business_activity": "Personal and Social Services",
+        "state": "Uttarakhand",
+        "district": "PILIBHIT",
+        "address": "VILLAGE & POST MAJHOLA KHATIMA UR IN 262302",
+        "register": "Registered on 21-03-2012",
+        "director_details": [
+            {
+                "DIN": "07117431",
+                "direct_name": "Amar Chand"
+            },
+            {
+                "DIN": "07446812",
+                "direct_name": "Diwakar Chand"
+            },
+            {
+                "DIN": "06998165",
+                "direct_name": "Girish Chandra Pandey"
+            }
+        ]
+    },
+    {
+        "company_name": "SEEMANCHAL PRIVATE LIMITED",
+        "cin_no.": "U55101UR1964PTC003011",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "115000",
+        "registration_date": "23-07-1964",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "PITHORAGARH",
+        "address": "CINEMA LINEPITHORA GARH UTTRANCHAL UTTRANCHAL Pithoragarh UR IN 262501",
+        "register": "Registered on 23-07-1964",
+        "director_details": []
+    },
+    {
+        "company_name": "DEV RISHI ENTERPRISES PRIVATE LIMITED",
+        "cin_no.": "U55101UR2003PTC027883",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "12-09-2003",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "PITHORAGARH",
+        "address": "MALDAR BHAWANPURANI BAZAR PITHORAGARH UTTAR PRADESH UR IN 262501",
+        "register": "Registered on 12-09-2003",
+        "director_details": [
+            {
+                "DIN": "01056836",
+                "direct_name": "Devraj Singh Bisht"
+            },
+            {
+                "DIN": "01056936",
+                "direct_name": "Mitra Singh Bisht"
+            },
+            {
+                "DIN": "01056901",
+                "direct_name": "Risheendra Singh Bisht"
+            }
+        ]
+    },
+    {
+        "company_name": "NAYASA HOTELS & RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55209UR2017PTC007966",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "2000000",
+        "registration_date": "19-07-2017",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "PITHORAGARH",
+        "address": "C/O GIRISH CHANDRA PUNERA, TAKAN, PITHORAGARH Pithoragarh UR IN 262501",
+        "register": "Registered on 19-07-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "AKSA INFRATECH PRIVATE LIMITED",
+        "cin_no.": "U45400UR2009PTC032759",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "0",
+        "registration_date": "13-01-2009",
+        "business_activity": "Construction",
+        "state": "Uttarakhand",
+        "district": "PITHORAGARH",
+        "address": "HOUSE NO. 179, BHATKOTE ROAD, NEAR MALLIKARJUN HOSPITAL PITHORAGARH Pithoragarh UR IN 262501",
+        "register": "Registered on 13-01-2009",
+        "director_details": [
+            {
+                "DIN": "01986453",
+                "direct_name": "Akhlaq Hussain"
+            },
+            {
+                "DIN": "02294894",
+                "direct_name": "Seema Hussain"
+            }
+        ]
+    },
+    {
+        "company_name": "JAIKALI INFRATECH PRIVATE LIMITED",
+        "cin_no.": "U45400UR2010PTC033330",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-11-2010",
+        "business_activity": "Construction",
+        "state": "Uttarakhand",
+        "district": "PITHORAGARH",
+        "address": "1008, Mr. Hoshiyar Singh Bungla Tehsil Road, Gangoli Hat Pithoragarh UR IN 262522",
+        "register": "Registered on 19-11-2010",
+        "director_details": [
+            {
+                "DIN": "03257879",
+                "direct_name": "Hoshiyar Singh Bungla"
+            },
+            {
+                "DIN": "03257843",
+                "direct_name": "Jeevan Singh Bungla"
+            },
+            {
+                "DIN": "03257862",
+                "direct_name": "Puran Singh Rawal"
+            }
+        ]
+    },
+    {
+        "company_name": "AADHAR MULTIPLE PITHORAGARH CENTRE NIDHI LIMITED",
+        "cin_no.": "U65999UR2017PLC008179",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "04-10-2017",
+        "business_activity": "Finance",
+        "state": "Uttarakhand",
+        "district": "PITHORAGARH",
+        "address": "Bhoki Chand Dharchula Road Pithoragarh Pithoragarh UR IN 262545",
+        "register": "Registered on 04-10-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "UTTRAKHAND INTERNET SERVICES PRIVATE LIMITED",
+        "cin_no.": "U72300UR2015PTC001654",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-08-2015",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "PITHORAGARH",
+        "address": "H.NO.195, C/O MADAN MOHAN JOSHI S/O BALADUTT JOSHI SATGURU NIWAS, NEAR P.O.DEGREE COLLEGE, G.I.C.ROAD PITHORAGARH Udham Singh Nagar UR IN 262501",
+        "register": "Registered on 11-08-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "PUNERA FURNISHERS PRIVATE LIMITED",
+        "cin_no.": "U36999UR2017PTC007910",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "21-06-2017",
+        "business_activity": "Others",
+        "state": "Uttarakhand",
+        "district": "PITHORAGARH",
+        "address": "VIMALA PUNERA KAMAL KU NEAR, TILDHUKARI CHANT ROAD, JAKHANI PITHORAGARH Pithoragarh UR IN 262501",
+        "register": "Registered on 21-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "SAUN ENGINEERING & CONSTRUCTION COMAPNY PRIVATE LIMITED",
+        "cin_no.": "U40102UR2007PTC032421",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "6544300",
+        "registration_date": "01-06-2007",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Uttarakhand",
+        "district": "PITHORAGARH",
+        "address": "POLICE LINE ROAD, KUMOUR PITHORAGARH UR IN 262501",
+        "register": "Registered on 01-06-2007",
+        "director_details": [
+            {
+                "DIN": "02542307",
+                "direct_name": "Bimla Saun"
+            },
+            {
+                "DIN": "07728131",
+                "direct_name": "Digvijay Saun"
+            },
+            {
+                "DIN": "01807433",
+                "direct_name": "Govind Singh Saun"
+            }
+        ]
+    },
+    {
+        "company_name": "AVANI BIO ENERGY PRIVATE LIMITED",
+        "cin_no.": "U40300UR2011PTC033505",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "140220",
+        "registration_date": "11-05-2011",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Uttarakhand",
+        "district": "PITHORAGARH",
+        "address": "TRIPURADEVI-1 VIS BERINAG BERINAG UR IN 262531",
+        "register": "Registered on 11-05-2011",
+        "director_details": [
+            {
+                "DIN": "00251086",
+                "direct_name": "Abhay Garg"
+            },
+            {
+                "DIN": "06666485",
+                "direct_name": "Karan Rai Singh"
+            },
+            {
+                "DIN": "03498311",
+                "direct_name": "Rajnish Kumar Jain"
+            },
+            {
+                "DIN": "03498297",
+                "direct_name": "Rashmi Bharti"
+            }
+        ]
+    },
+    {
+        "company_name": "MOUNTAIN LIVELIHOOD PRIVATE LIMITED",
+        "cin_no.": "U01110UR2016PTC007364",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-10-2016",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "RUDRAPRAYAG",
+        "address": "KAIL KHAND, RUDRAPRAYAG RUDRAPRAYAG Rudra Prayag UR IN 246475",
+        "register": "Registered on 21-10-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "VISHAL SEEMA TRANSMIT AND BUILDTECH PRIVATE LIMITED",
+        "cin_no.": "U45400UR2007PTC032515",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "21-11-2007",
+        "business_activity": "Construction",
+        "state": "Uttarakhand",
+        "district": "RUDRAPRAYAG",
+        "address": "NAUTIYAL BHAWAN VILLAGE & POST CHANDRAPURI RUDRA PRAYAG Rudra Prayag UR IN 246425",
+        "register": "Registered on 21-11-2007",
+        "director_details": [
+            {
+                "DIN": "01785660",
+                "direct_name": "Ajay Bist"
+            },
+            {
+                "DIN": "01744505",
+                "direct_name": "Vishal Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "L & T UTTARANCHAL HYDROPOWER LIMITED",
+        "cin_no.": "U31401UR2006PLC032329",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2147483647",
+        "paid_up_capital": "2147483647",
+        "registration_date": "13-11-2006",
+        "business_activity": "Machinery and Equipments",
+        "state": "Uttarakhand",
+        "district": "RUDRAPRAYAG",
+        "address": "VILLAGE BEDUBAGAR P.O AUGUSTMUNI RUDRAPRAYAG Rudra Prayag UR IN 246421",
+        "register": "Registered on 13-11-2006",
+        "director_details": [
+            {
+                "DIN": "05180802",
+                "direct_name": "Ajit Kumar Samal"
+            },
+            {
+                "DIN": "00910864",
+                "direct_name": "Ashwani Ganga Kumar"
+            },
+            {
+                "DIN": "AMPPK7079L",
+                "direct_name": "Bhavesh Rasiklal Kadakia"
+            },
+            {
+                "DIN": "07142344",
+                "direct_name": "Deepa Veer Ganjoo"
+            },
+            {
+                "DIN": "AIHPS1086R",
+                "direct_name": "Gyanendra Pratap Singh"
+            },
+            {
+                "DIN": "02914307",
+                "direct_name": "Pramod Sushila Kapoor"
+            },
+            {
+                "DIN": "ACEPC4689D",
+                "direct_name": "Pranab Chakraborti"
+            },
+            {
+                "DIN": "07139037",
+                "direct_name": "Seshadri Subrahmanyan"
+            },
+            {
+                "DIN": "ANEPB6297R",
+                "direct_name": "Shalaka Prashant Koparkar"
+            }
+        ]
+    },
+    {
+        "company_name": "HARIYALI CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U70109UR2017PTC008343",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-12-2017",
+        "business_activity": "Real Estate",
+        "state": "Uttarakhand",
+        "district": "RUDRAPRAYAG",
+        "address": "Mawana Gholtir Rudraprayag Rudra Prayag UR IN 246171",
+        "register": "Registered on 22-12-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "MACBYTE SYSTEMS PRIVATE LIMITED",
+        "cin_no.": "U74990UR2016PTC007005",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-04-2016",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "RUDRAPRAYAG",
+        "address": "VILLAGE KHARIYAL PO MAYALI RUDRAPRAYAG Rudra Prayag UR IN 246475",
+        "register": "Registered on 21-04-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "AADHYASHREE WELFARE FOUNDATION",
+        "cin_no.": "U80211UR2017NPL007527",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-01-2017",
+        "business_activity": "Personal and Social Services",
+        "state": "Uttarakhand",
+        "district": "RUDRAPRAYAG",
+        "address": "Village - Naugaon (Bolani) Post Office - Khankara Rudra Prayag Rudra Prayag UR IN 246171",
+        "register": "Registered on 18-01-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "ROYAL TECH INNOVATIONS PRIVATE LIMITED",
+        "cin_no.": "U72900UR2011PTC000026",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-12-2011",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "RUDRAPRAYAG",
+        "address": "102, SYUNPURI RUDRAPRAYAG UR IN 246442",
+        "register": "Registered on 02-12-2011",
+        "director_details": [
+            {
+                "DIN": "05112939",
+                "direct_name": "Akhilesh"
+            },
+            {
+                "DIN": "06829823",
+                "direct_name": "Harinder Singh Negi"
+            }
+        ]
+    },
+    {
+        "company_name": "PANDAVAAS CREATIONS PRIVATE LIMITED",
+        "cin_no.": "U74999UR2015PTC001542",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-06-2015",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "RUDRAPRAYAG",
+        "address": "HOUSE NO. 33 UPAR BAZAR KA UPRI HISSA RUDRAPRAYAG Rudra Prayag UR IN 246171",
+        "register": "Registered on 08-06-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "UNNATI RENOVABLE URJA PRIVATE LIMITED",
+        "cin_no.": "U74999UR2016PTC007113",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-06-2016",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "RUDRAPRAYAG",
+        "address": "H. No. 16, Village Dangi P.O-Pandrola, Rudraprayag Rudra Prayag UR IN 246475",
+        "register": "Registered on 03-06-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "ALTITUDE RETREATS HOSPITALITY SERVICES PRIVATE LIMITED",
+        "cin_no.": "U74999UR2016PTC007289",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "3534000",
+        "registration_date": "01-09-2016",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "RUDRAPRAYAG",
+        "address": "ROOM NO. 110 DEVARIYA TOURIST LODGE, SARI VILLAGE PO VIA OKHIMATH RUDRAPRAYAG Rudra Prayag UR IN 246469",
+        "register": "Registered on 01-09-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "KK PVC INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U26956UR2013PTC000531",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-01-2013",
+        "business_activity": "Metals and Chemicals",
+        "state": "Uttarakhand",
+        "district": "SAHARANPUR",
+        "address": "VILLAGE DADUPUR GOVINDPUR HARIDWAR Haridwar UR IN 247662",
+        "register": "Registered on 02-01-2013",
+        "director_details": [
+            {
+                "DIN": "06461268",
+                "direct_name": "Imran"
+            },
+            {
+                "DIN": "06461285",
+                "direct_name": "Mohd Kaleem"
+            },
+            {
+                "DIN": "06461292",
+                "direct_name": "Phajil"
+            }
+        ]
+    },
+    {
+        "company_name": "JIVAMRIT ORGANIC FARMER PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01111UR2017PTC007702",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3100000",
+        "paid_up_capital": "1800000",
+        "registration_date": "31-03-2017",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "SAHARANPUR",
+        "address": "VILLAGE-SHERPUR KHELMOW,PARGANA-MANGLAUR, TEHSIL-ROORKEE ROORKEE Haridwar UR IN 247665",
+        "register": "Registered on 31-03-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "VSP CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U45400UR2011PTC033657",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "900000",
+        "registration_date": "10-09-2011",
+        "business_activity": "Construction",
+        "state": "Uttarakhand",
+        "district": "SAHARANPUR",
+        "address": "P.O. JHABRERA TEHSIL ROORKEE HARIDWAR Haridwar UR IN 247665",
+        "register": "Registered on 10-09-2011",
+        "director_details": [
+            {
+                "DIN": "03585124",
+                "direct_name": "Sharmila Chandely"
+            },
+            {
+                "DIN": "03585336",
+                "direct_name": "Somkar Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "M.K. DREAMZ NETWORK MARKETING PRIVATE LIMITED",
+        "cin_no.": "U74120UR2011PTC033499",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-05-2011",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "SAHARANPUR",
+        "address": "62 SHERPUR KHELMAU MANGLAUR HARIDWAR Haridwar UR IN 247665",
+        "register": "Registered on 09-05-2011",
+        "director_details": [
+            {
+                "DIN": "03509049",
+                "direct_name": "Anuj Kumar"
+            },
+            {
+                "DIN": "03509056",
+                "direct_name": "Munesh Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "OM SATYA YOG FOODS (INDIA) PRIVATE LIMITED",
+        "cin_no.": "U15122UR2009PTC032898",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "13-08-2009",
+        "business_activity": "Food Manufacturing",
+        "state": "Uttarakhand",
+        "district": "SAHARANPUR",
+        "address": "VILLAGE JHABRERA POST JHABRERA ROORKEE Haridwar UR IN 247665",
+        "register": "Registered on 13-08-2009",
+        "director_details": [
+            {
+                "DIN": "02707311",
+                "direct_name": "Hemant Kumar Arora"
+            },
+            {
+                "DIN": "02707628",
+                "direct_name": "Hitesh Kumar Sharma"
+            },
+            {
+                "DIN": "02716992",
+                "direct_name": "Sandeep Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "OMGAJANAN CHEMICALS AND FERTILIZERS PRIVATE LIMITED",
+        "cin_no.": "U24304UR2016PTC007215",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-07-2016",
+        "business_activity": "Metals and Chemicals",
+        "state": "Uttarakhand",
+        "district": "SAHARANPUR",
+        "address": "VILLAGE SUSADI KALAN MANGLOUR SHERPUR KHELMAU ROORKEE Haridwar UR IN 247665",
+        "register": "Registered on 28-07-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "PLUNINOS'S E.TECHNOLOGICS PRIVATE LIMITED",
+        "cin_no.": "U72200UR2006PTC031255",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-01-2006",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "SAHARANPUR",
+        "address": "16 TAGORE VILLACHAKARATA ROAD DEHRADUN UTTARANCHAL Dehradun UR IN 247001",
+        "register": "Registered on 23-01-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "SHIRDI COLONISERS PRIVATE LIMITED",
+        "cin_no.": "U70101UR2006PTC032315",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "7500000",
+        "paid_up_capital": "5510000",
+        "registration_date": "06-10-2006",
+        "business_activity": "Real Estate",
+        "state": "Uttarakhand",
+        "district": "SAHARANPUR",
+        "address": "MATIA MAHAL,NEAR ARYA KANYA INTER COLLEGE KHALAPAR SAHARANPUR UR IN 247001",
+        "register": "Registered on 06-10-2006",
+        "director_details": [
+            {
+                "DIN": "00841063",
+                "direct_name": "Navneet Goyal"
+            },
+            {
+                "DIN": "00840701",
+                "direct_name": "Puneet Goyal"
+            },
+            {
+                "DIN": "01692110",
+                "direct_name": "Tarun Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "MERA GOLDMONEY MARKETING PRIVATE LIMITED",
+        "cin_no.": "U52300UR2012PTC000284",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-06-2012",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "SAHARANPUR",
+        "address": "C/O RAJEEV KUMAR VILLAGE & POST JHABRERA JHABRERA Haridwar UR IN 247665",
+        "register": "Registered on 12-06-2012",
+        "director_details": [
+            {
+                "DIN": "05282006",
+                "direct_name": "Anshul Tyagi"
+            },
+            {
+                "DIN": "05282999",
+                "direct_name": "Mohd Iftkhar"
+            }
+        ]
+    },
+    {
+        "company_name": "EKADANTA ENGINEERS PRIVATE LIMITED",
+        "cin_no.": "U74900UR2009PTC032812",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "31-03-2009",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "SAHARANPUR",
+        "address": "142, GOVIND NAGAR, RAILWAY ROAD, PURWAWALI ROORKEE Haridwar UR IN 247665",
+        "register": "Registered on 31-03-2009",
+        "director_details": [
+            {
+                "DIN": "02568555",
+                "direct_name": "Naresh Kumar"
+            },
+            {
+                "DIN": "07474479",
+                "direct_name": "Rajeev Sarna"
+            },
+            {
+                "DIN": "02568539",
+                "direct_name": "Sanjay Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "SHREEDHAR INFOSYS LIMITED",
+        "cin_no.": "U72200UR2000PLC025134",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "1103000",
+        "registration_date": "14-02-2000",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "SANT RAVIDAS NAGAR",
+        "address": "KATHAUTA GOPIGANJBHADOHI BHADOHI UTTAR PRADESH UR IN 221303",
+        "register": "Registered on 14-02-2000",
+        "director_details": [
+            {
+                "DIN": "00159395",
+                "direct_name": "Anoop Kumar Misra"
+            },
+            {
+                "DIN": "00135527",
+                "direct_name": "Shashi Prabha Misra"
+            },
+            {
+                "DIN": "00135266",
+                "direct_name": "Sudha Misra"
+            }
+        ]
+    },
+    {
+        "company_name": "SEWA SAMBHAV KISAN PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403UR2015PTC001820",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-12-2015",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "TEHRI GARHWAL",
+        "address": "VILLAGE & PO MANJGAON PATTI SAKLANA, BLOCK- JAUNPUR TEHRI GARHWAL Tehri Garhwal UR IN 249145",
+        "register": "Registered on 14-12-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "SEWA SAKSHAM FARMER PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403UR2016PTC001988",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-03-2016",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "TEHRI GARHWAL",
+        "address": "BANDWAL GAON, THAULDAR TEHRI GARHWAL Tehri Garhwal UR IN 249131",
+        "register": "Registered on 22-03-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "A.M.V. PHARMACY (INDIA) PRIVATE LIMITED",
+        "cin_no.": "U24233UR2006PTC031504",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "8200000",
+        "paid_up_capital": "8096860",
+        "registration_date": "13-03-2006",
+        "business_activity": "Metals and Chemicals",
+        "state": "Uttarakhand",
+        "district": "TEHRI GARHWAL",
+        "address": "NEELKANTH COTTAGE NO. C-30, GANGA VATIKA-2, MUNI-KI-RETI NARENDER NAGAR UR IN 249192",
+        "register": "Registered on 13-03-2006",
+        "director_details": [
+            {
+                "DIN": "02536796",
+                "direct_name": "Andrey Vorobyev"
+            },
+            {
+                "DIN": "07509331",
+                "direct_name": "Chandan Parmar"
+            },
+            {
+                "DIN": "02789426",
+                "direct_name": "Devendra Kumar Sharma"
+            },
+            {
+                "DIN": "07290778",
+                "direct_name": "Swami Madhvanand"
+            },
+            {
+                "DIN": "00704788",
+                "direct_name": "Zoran Mitrovic"
+            }
+        ]
+    },
+    {
+        "company_name": "SURPRISE HOTELS PRIVATE LIMITED",
+        "cin_no.": "U55101UR1984PTC006674",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "10000",
+        "registration_date": "13-08-1984",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "TEHRI GARHWAL",
+        "address": "BEVPURAHARDWAR HARDWAR UTTRANCHAL Haridwar UR IN 249001",
+        "register": "Registered on 13-08-1984",
+        "director_details": []
+    },
+    {
+        "company_name": "MAHANANDA SPA AND RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55101UR2009PTC032889",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "155000000",
+        "paid_up_capital": "131560000",
+        "registration_date": "22-07-2009",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "TEHRI GARHWAL",
+        "address": "GANGA BEACH RESORTS TAPOVAN TEHRI GARHWAL TEHRI GARHWAL UR IN 249192",
+        "register": "Registered on 22-07-2009",
+        "director_details": [
+            {
+                "DIN": "00704226",
+                "direct_name": "Prem Kumar Arora"
+            },
+            {
+                "DIN": "00283481",
+                "direct_name": "Rajeev Juneja"
+            },
+            {
+                "DIN": "00283399",
+                "direct_name": "Ramesh Chand Juneja"
+            }
+        ]
+    },
+    {
+        "company_name": "BHAVYEH HOTELS & RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55101UR2009PTC032890",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-07-2009",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "TEHRI GARHWAL",
+        "address": "GANGA BEACH RESORT TAPOVAN TEHRI GARHWAL TEHRI GARHWAL UR IN 249192",
+        "register": "Registered on 22-07-2009",
+        "director_details": [
+            {
+                "DIN": "02683028",
+                "direct_name": "Ahilya Sharma"
+            },
+            {
+                "DIN": "02691257",
+                "direct_name": "Maha Nand Sharma"
+            },
+            {
+                "DIN": "01361082",
+                "direct_name": "Puneet Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "JUNGLE MOTELS PRIVATE LIMITED",
+        "cin_no.": "U55101UR2010PTC033209",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "473280",
+        "registration_date": "23-06-2010",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "TEHRI GARHWAL",
+        "address": "DANIEL HARRIS AKLER ANAND PRAKASH YOGA ASHRAM, TAPOVAN TEHRI UR IN 249192",
+        "register": "Registered on 23-06-2010",
+        "director_details": [
+            {
+                "DIN": "03023783",
+                "direct_name": "Daniel Harris Akler"
+            },
+            {
+                "DIN": "05141712",
+                "direct_name": "Manoj Panwar"
+            }
+        ]
+    },
+    {
+        "company_name": "KAMAKSHA MOTELS PRIVATE LIMITED",
+        "cin_no.": "U55101UR2010PTC033288",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-09-2010",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "TEHRI GARHWAL",
+        "address": "MR. SANJEEV GUPTA, C/O ASIAN GEMS & CRAFTS, NEAR SHIVANAND NAGAR,P.O. RAM JHULA, TEHRI GARHWAL RAM JHULA UR IN 249192",
+        "register": "Registered on 15-09-2010",
+        "director_details": [
+            {
+                "DIN": "06787516",
+                "direct_name": "Munindra Kumar Panda"
+            },
+            {
+                "DIN": "06787521",
+                "direct_name": "Sushil Tyagi"
+            }
+        ]
+    },
+    {
+        "company_name": "RISHABHARYA RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55204UR2009PTC032855",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-06-2009",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "TEHRI GARHWAL",
+        "address": "RISHABH \"THE GRAND CASTLE RESORTS TAPOVAN, LUXMAN JHULLA, TEHRI GARHWAL Tehri Garhwal UR IN 249192",
+        "register": "Registered on 03-06-2009",
+        "director_details": [
+            {
+                "DIN": "02598181",
+                "direct_name": "Madan Lal Arya"
+            },
+            {
+                "DIN": "02598178",
+                "direct_name": "Meena Arya"
+            }
+        ]
+    },
+    {
+        "company_name": "RMBS RESORT PRIVATE LIMITED",
+        "cin_no.": "U55209UR2018PTC008467",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-02-2018",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "TEHRI GARHWAL",
+        "address": "Haveli, Saklana, Their Garhwal, Uttara Thatyur, Dhanaulti MUSSOORIE Tehri Garhwal UR IN 249180",
+        "register": "Registered on 19-02-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "LSC GLOBAL GYMKHANA RESORTS PRIVATE LIMITED",
+        "cin_no.": "U01400UR2009PTC000783",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "600000",
+        "registration_date": "24-08-2009",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "UDHAM SINGH NAGAR",
+        "address": "KUMAR OXYGEN COMPOUND RAMPUR ROAD RUDRAPUR Udham Singh Nagar UR IN 263153",
+        "register": "Registered on 24-08-2009",
+        "director_details": [
+            {
+                "DIN": "01319670",
+                "direct_name": "Abhishek Agarwal"
+            },
+            {
+                "DIN": "00657081",
+                "direct_name": "Rukman Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "SARTHAK HURBELS PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01400UR2009PTC000857",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "4400000",
+        "registration_date": "25-08-2009",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "UDHAM SINGH NAGAR",
+        "address": "KUMAR OXYGEN COMPOUND RAMPUR ROAD RUDRAPUR UR IN 263153",
+        "register": "Registered on 25-08-2009",
+        "director_details": [
+            {
+                "DIN": "00657081",
+                "direct_name": "Rukman Agarwal"
+            },
+            {
+                "DIN": "00657185",
+                "direct_name": "Saurabh Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "YUG VARSH AGROTECH LIMITED",
+        "cin_no.": "U01400UR2011PLC000005",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5500000",
+        "paid_up_capital": "4560570",
+        "registration_date": "21-11-2011",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "UDHAM SINGH NAGAR",
+        "address": "Village Mudiya Kalan, Chuna Bhatthi, Near Crossing Bazpur Udham Singh Nagar UR IN 262401",
+        "register": "Registered on 21-11-2011",
+        "director_details": [
+            {
+                "DIN": "05113884",
+                "direct_name": "Arvind Kumar"
+            },
+            {
+                "DIN": "05253434",
+                "direct_name": "Harish Kumar Verma"
+            },
+            {
+                "DIN": "05113894",
+                "direct_name": "Surya Prakash Verma"
+            },
+            {
+                "DIN": "06387966",
+                "direct_name": "Vishnu Hari Verma"
+            }
+        ]
+    },
+    {
+        "company_name": "IDEAL FARMING COMPANY PRIVATE LIMITED",
+        "cin_no.": "U01400UR2011PTC033425",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-03-2011",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "UDHAM SINGH NAGAR",
+        "address": "A-13, RING ROAD AVAS VIKAS RUDRAPUR Udham Singh Nagar UR IN 263153",
+        "register": "Registered on 01-03-2011",
+        "director_details": [
+            {
+                "DIN": "03412986",
+                "direct_name": "Ashok Kumar"
+            },
+            {
+                "DIN": "03420835",
+                "direct_name": "Jitendra Goverdhan"
+            },
+            {
+                "DIN": "03412626",
+                "direct_name": "Rajni Srivastava"
+            }
+        ]
+    },
+    {
+        "company_name": "ANCHOR AGRITECH LIMITED",
+        "cin_no.": "U01400UR2012PLC000413",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "24-09-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "UDHAM SINGH NAGAR",
+        "address": "WARD NO. 5, BEHIND SHIV MANDIR, HOUSE NO. 370 1ST FLOOR PURANA KHERA, P.O. RUDRAPUR RUDRAPUR Udham Singh Nagar UR IN 263153",
+        "register": "Registered on 24-09-2012",
+        "director_details": [
+            {
+                "DIN": "06380142",
+                "direct_name": "Asheesh Singh Kumar"
+            },
+            {
+                "DIN": "06380141",
+                "direct_name": "Chandrashekhar Singh"
+            },
+            {
+                "DIN": "06380143",
+                "direct_name": "Shailesh Singh Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "AGRILIV INDIA PRIVATE LIMITED",
+        "cin_no.": "U01400UR2012PTC000364",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-08-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "UDHAM SINGH NAGAR",
+        "address": "AGRILIV INDIA PRIVATE LIMITED NEAR PETROL PUMP, NAINITAL HIGHWAY,NAGLA PANTNAGAR Udham Singh Nagar UR IN 263145",
+        "register": "Registered on 13-08-2012",
+        "director_details": [
+            {
+                "DIN": "05299250",
+                "direct_name": "Banwari Lal Sharma"
+            },
+            {
+                "DIN": "05299269",
+                "direct_name": "Prem Singh"
+            },
+            {
+                "DIN": "06559469",
+                "direct_name": "Sunanda Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "GREENUNIVERSE AGRO AND INFRATECH PRIVATE LIMITED",
+        "cin_no.": "U01400UR2012PTC000368",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-08-2012",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "UDHAM SINGH NAGAR",
+        "address": "160, SANJAY NAGAR BAZPUR BAZPUR Udham Singh Nagar UR IN 262401",
+        "register": "Registered on 14-08-2012",
+        "director_details": [
+            {
+                "DIN": "05343878",
+                "direct_name": "Chanchal Kumar"
+            },
+            {
+                "DIN": "05343859",
+                "direct_name": "Richa"
+            }
+        ]
+    },
+    {
+        "company_name": "JANVIKAS AGROTECH LIMITED",
+        "cin_no.": "U01400UR2015PLC001514",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "13-05-2015",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "UDHAM SINGH NAGAR",
+        "address": "OFFICE NO. 401 PSA PLAZA NAINITAL ROAD RUDRAPUR Udham Singh Nagar UR IN 263153",
+        "register": "Registered on 13-05-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "AFFORESTT ECO SERVICES PRIVATE LIMITED",
+        "cin_no.": "U01400UR2015PTC001413",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-02-2015",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "UDHAM SINGH NAGAR",
+        "address": "6/3 SUBHASH NAGAR AVAS VIKAS PO PS KASHIPUR Udham Singh Nagar UR IN 244713",
+        "register": "Registered on 18-02-2015",
+        "director_details": [
+            {
+                "DIN": "06997435",
+                "direct_name": "Navendu Sharma"
+            },
+            {
+                "DIN": "03575738",
+                "direct_name": "Shubhendu Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "GORD JEE FOODS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400UR2015PTC001557",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-06-2015",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "UDHAM SINGH NAGAR",
+        "address": "125 A VILLAGE KACHNAL GAJI, KUMAU KALANI ANIK, KASHIPUR Udham Singh Nagar UR IN 244713",
+        "register": "Registered on 15-06-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "UPLATAKNOR AGRO PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403UR2016PTC001871",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "12-01-2016",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "UTTARKASHI",
+        "address": "C/O C.S. RAMOLA, RAMOLA BHAWAN NEAR GAS GODOWN, GYANSHOOO UTTARKASHI Uttarkashi UR IN 249193",
+        "register": "Registered on 12-01-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SUBHAM FERTILIZERS & CHEMICAL PRIVATE LIMITED",
+        "cin_no.": "U24100UR2016PTC007209",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-07-2016",
+        "business_activity": "Metals and Chemicals",
+        "state": "Uttarakhand",
+        "district": "UTTARKASHI",
+        "address": "CHINYALI SAUD TEH-DUNDA UTTARKASHI Uttarkashi UR IN 249196",
+        "register": "Registered on 27-07-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "DEVBHOOMI HOSPITALITY PRIVATE LIMITED",
+        "cin_no.": "U55204UR2011PTC033672",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-09-2011",
+        "business_activity": "Trading",
+        "state": "Uttarakhand",
+        "district": "UTTARKASHI",
+        "address": "VILLAGE & P.O-DEVEL PATTI-KHATAL YAMNOTRRI UR IN 249171",
+        "register": "Registered on 26-09-2011",
+        "director_details": [
+            {
+                "DIN": "03619182",
+                "direct_name": "Dinesh Kumar Jananand Dobhal"
+            },
+            {
+                "DIN": "03619188",
+                "direct_name": "Maya Shripat Negi"
+            }
+        ]
+    },
+    {
+        "company_name": "SUBLIME CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U45400UR2010PTC033114",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "150000",
+        "registration_date": "01-04-2010",
+        "business_activity": "Construction",
+        "state": "Uttarakhand",
+        "district": "UTTARKASHI",
+        "address": "VILLAGE- ALETH, POST- MANPUR,(BHATWARI), UTTARKASHI UR IN 249193",
+        "register": "Registered on 01-04-2010",
+        "director_details": [
+            {
+                "DIN": "02970553",
+                "direct_name": "Arjun Singh Panwar"
+            },
+            {
+                "DIN": "02970542",
+                "direct_name": "Mahaveer Singh Rawat"
+            },
+            {
+                "DIN": "06756238",
+                "direct_name": "Vikas Singh Kalura"
+            }
+        ]
+    },
+    {
+        "company_name": "ASHRITHA REALTORS PRIVATE LIMITED",
+        "cin_no.": "U45400UR2013PTC000823",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "31-07-2013",
+        "business_activity": "Construction",
+        "state": "Uttarakhand",
+        "district": "UTTARKASHI",
+        "address": "H.NO.42, VILLAGE PUJELI KUMOLA KARONA, PUROLA UTTARKASHI Uttarkashi UR IN 249185",
+        "register": "Registered on 31-07-2013",
+        "director_details": [
+            {
+                "DIN": "06625544",
+                "direct_name": "Indramani"
+            },
+            {
+                "DIN": "06625551",
+                "direct_name": "Priyanka Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "ASRDEEP ORGANICS PRIVATE LIMITED",
+        "cin_no.": "U74120UR2015PTC001805",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-12-2015",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "UTTARKASHI",
+        "address": "Tiloth Marg, Barahat, Uttarkashi Uttarkashi UR IN 249193",
+        "register": "Registered on 01-12-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "SARAMINT BEVERAGES PRIVATE LIMITED",
+        "cin_no.": "U15500UR2013PTC000819",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-07-2013",
+        "business_activity": "Food Manufacturing",
+        "state": "Uttarakhand",
+        "district": "UTTARKASHI",
+        "address": "245, 245(1) NEHRU NAGAR ROORKEE Haridwar UR IN 249196",
+        "register": "Registered on 26-07-2013",
+        "director_details": [
+            {
+                "DIN": "06618225",
+                "direct_name": "Mohd Rehan"
+            },
+            {
+                "DIN": "06638270",
+                "direct_name": "Sayara Bano"
+            }
+        ]
+    },
+    {
+        "company_name": "DEVRANA GHATI AGRO PRODUCERS COMPANY PRIVATE LIMITED",
+        "cin_no.": "U17200UR2007PTC032485",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-10-2007",
+        "business_activity": "Textiles",
+        "state": "Uttarakhand",
+        "district": "UTTARKASHI",
+        "address": "VILLAGE DHARI KALOGI UTTARKASHI Uttarkashi UR IN 249171",
+        "register": "Registered on 03-10-2007",
+        "director_details": [
+            {
+                "DIN": "01743013",
+                "direct_name": "Fulak Singh"
+            },
+            {
+                "DIN": "01806966",
+                "direct_name": "Jananand Tota Ram"
+            },
+            {
+                "DIN": "01760585",
+                "direct_name": "Jayender Singh"
+            },
+            {
+                "DIN": "01743012",
+                "direct_name": "Kedar Singh"
+            },
+            {
+                "DIN": "01743014",
+                "direct_name": "Suresha Nand"
+            }
+        ]
+    },
+    {
+        "company_name": "SARIKA COMPUTERS PRIVATE LIMITED",
+        "cin_no.": "U72300UR2011PTC033410",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-02-2011",
+        "business_activity": "Business Services",
+        "state": "Uttarakhand",
+        "district": "UTTARKASHI",
+        "address": "JOSHIVARA UTTARKASHI UTTARKASHI Uttarkashi UR IN 249193",
+        "register": "Registered on 12-02-2011",
+        "director_details": [
+            {
+                "DIN": "03328998",
+                "direct_name": "Manisha Bisht"
+            },
+            {
+                "DIN": "03160055",
+                "direct_name": "Vinod Lal"
+            }
+        ]
+    },
+    {
+        "company_name": "RAWAIN TOURISM (OPC) PRIVATE LIMITED",
+        "cin_no.": "U63090UR2017OPC008124",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-09-2017",
+        "business_activity": "Transport and Storage",
+        "state": "Uttarakhand",
+        "district": "UTTARKASHI",
+        "address": "W No - 1, Naya Bazar Barkot, Uttarkashi Uttarkashi UR IN 249141",
+        "register": "Registered on 15-09-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "SAHU PUMPS PRIVATE LIMITED",
+        "cin_no.": "U05001UR1995PTC019059",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "4000",
+        "registration_date": "23-11-1995",
+        "business_activity": "Agriculture",
+        "state": "Uttarakhand",
+        "district": "VARANASI",
+        "address": "C7/157 A SENPURACHETGANJ VARANASI UTTAR PRADESH Varanasi UR IN 221001",
+        "register": "Registered on 23-11-1995",
+        "director_details": []
+    }
+]

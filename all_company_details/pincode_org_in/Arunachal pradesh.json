@@ -1,0 +1,2436 @@
+[
+    {
+        "company_name": "NAMCHIK COAL PRIVATE LIMITED",
+        "cin_no.": "U10102AR2007PTC008246",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "900000",
+        "paid_up_capital": "250000",
+        "registration_date": "03-08-2007",
+        "business_activity": "Mining and Quarrying",
+        "state": "Arunachal pradesh",
+        "district": "CHANGLANG",
+        "address": "NAMCHIC P.O KHARSANG MIAO Changlang AR IN 792122",
+        "register": "Registered on 03-08-2007",
+        "director_details": [
+            {
+                "DIN": "00548325",
+                "direct_name": "Bijoy Das"
+            },
+            {
+                "DIN": "00553906",
+                "direct_name": "Uttam Debnath"
+            }
+        ]
+    },
+    {
+        "company_name": "NAMCHIK MINERALS PRIVATE LIMITED",
+        "cin_no.": "U14107AR1999PTC005827",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "509000",
+        "registration_date": "22-07-1999",
+        "business_activity": "Mining and Quarrying",
+        "state": "Arunachal pradesh",
+        "district": "CHANGLANG",
+        "address": "P.O. KHARSANG DIST -CHANGLANG CHANGLANG AR IN 792122",
+        "register": "Registered on 22-07-1999",
+        "director_details": [
+            {
+                "DIN": "00587235",
+                "direct_name": "Sanjay Agarwal"
+            },
+            {
+                "DIN": "00538325",
+                "direct_name": "Suresh Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "CHANGLANG MINERALS & COKE PRIVATE LIMITED",
+        "cin_no.": "U14200AR2011PTC008348",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "200000",
+        "registration_date": "22-12-2011",
+        "business_activity": "Mining and Quarrying",
+        "state": "Arunachal pradesh",
+        "district": "CHANGLANG",
+        "address": "C/o Tosam Iongri, Vill - New Khamdhu Jairampur Jairampur Changlang AR IN 792121",
+        "register": "Registered on 22-12-2011",
+        "director_details": [
+            {
+                "DIN": "05199546",
+                "direct_name": "Naresh Kumar Mittal"
+            },
+            {
+                "DIN": "02007015",
+                "direct_name": "Pawan Kumar Mittal"
+            },
+            {
+                "DIN": "05199538",
+                "direct_name": "Rajesh Kumar Mittal"
+            }
+        ]
+    },
+    {
+        "company_name": "BORDHUMSA TEA COMPANY PVT LTD",
+        "cin_no.": "U01132AR1989PTC003373",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "975000",
+        "registration_date": "30-11-1989",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "CHANGLANG",
+        "address": "VILL GOJUPOST BORDHU MSA CHANGLANG ARUNGLANG ARUNACHAL PRADESH AR IN 792056",
+        "register": "Registered on 30-11-1989",
+        "director_details": [
+            {
+                "DIN": "00497806",
+                "direct_name": "Deendayal Daga"
+            },
+            {
+                "DIN": "01412917",
+                "direct_name": "Rajiv Daga"
+            }
+        ]
+    },
+    {
+        "company_name": "KONICA TEA CO PVT LTD",
+        "cin_no.": "U01132AR1995PTC004565",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "683000",
+        "registration_date": "05-09-1995",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "CHANGLANG",
+        "address": "P.O. BORDUMSA BORDUMSA AR IN 792120",
+        "register": "Registered on 05-09-1995",
+        "director_details": [
+            {
+                "DIN": "00707308",
+                "direct_name": "Rohtas Sharma"
+            },
+            {
+                "DIN": "02526783",
+                "direct_name": "Sindu Nong Singpho"
+            }
+        ]
+    },
+    {
+        "company_name": "NAMCHIC TEA ESTATE PRIVATE LIMITED",
+        "cin_no.": "U01132AR1999PTC005942",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2453800",
+        "registration_date": "12-11-1999",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "CHANGLANG",
+        "address": "NAMCHIC, P.O. KHARSANG, MIAO KHARSANG AR IN 792122",
+        "register": "Registered on 12-11-1999",
+        "director_details": [
+            {
+                "DIN": "03317512",
+                "direct_name": "Ajit Kumar Hazarika"
+            },
+            {
+                "DIN": "01131230",
+                "direct_name": "Limtan Jugli"
+            },
+            {
+                "DIN": "07505669",
+                "direct_name": "Mansi Bhajanka"
+            },
+            {
+                "DIN": "03515002",
+                "direct_name": "Nancy Bhajanka"
+            },
+            {
+                "DIN": "00591512",
+                "direct_name": "Prem Kumar Bhajanka"
+            }
+        ]
+    },
+    {
+        "company_name": "KHERAM PANI TEA COMPANY PRIVATE LIMITED",
+        "cin_no.": "U01132AR1999PTC005988",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "620200",
+        "registration_date": "23-12-1999",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "CHANGLANG",
+        "address": "KHERAM PANI GAON, BORDUMSA DIST CHANGLANG ARUNACHAL PRADESH AR IN 792056",
+        "register": "Registered on 23-12-1999",
+        "director_details": [
+            {
+                "DIN": "00665291",
+                "direct_name": "Bhanu Sharma"
+            },
+            {
+                "DIN": "06818154",
+                "direct_name": "Vijay Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "RANGFRAH CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U01132AR2000PTC006313",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "325000",
+        "registration_date": "22-09-2000",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "CHANGLANG",
+        "address": "M C ROAD, THIRD MILE CHANGLANG AR IN 792120",
+        "register": "Registered on 22-09-2000",
+        "director_details": [
+            {
+                "DIN": "00512039",
+                "direct_name": "Gaurav Garg"
+            },
+            {
+                "DIN": "00512059",
+                "direct_name": "Harkesh Kumar Garg"
+            },
+            {
+                "DIN": "01639308",
+                "direct_name": "Rengcha Taiju"
+            }
+        ]
+    },
+    {
+        "company_name": "STILLWELL FOOD PROCESSORS PRIVATE LIMITED",
+        "cin_no.": "U15490AR2010PTC008307",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "250000",
+        "registration_date": "11-06-2010",
+        "business_activity": "Food Manufacturing",
+        "state": "Arunachal pradesh",
+        "district": "CHANGLANG",
+        "address": "E-40, EDUCATION COLONY P.O. JAIRAMPUR CHANGLANG Changlang AR IN 792123",
+        "register": "Registered on 11-06-2010",
+        "director_details": [
+            {
+                "DIN": "02920445",
+                "direct_name": "Arup Kumar Choudhury"
+            },
+            {
+                "DIN": "01071279",
+                "direct_name": "Hemanta Kumar Bora"
+            },
+            {
+                "DIN": "02920467",
+                "direct_name": "Komoli Mosang"
+            },
+            {
+                "DIN": "01070531",
+                "direct_name": "Nayan Jyoti Medhi"
+            },
+            {
+                "DIN": "01930350",
+                "direct_name": "Sanjib Sarma"
+            }
+        ]
+    },
+    {
+        "company_name": "RANKAH TEA COMPANY PRIVATE LIMITED",
+        "cin_no.": "U15492AR2011PTC008346",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "21-12-2011",
+        "business_activity": "Food Manufacturing",
+        "state": "Arunachal pradesh",
+        "district": "CHANGLANG",
+        "address": "NONGTHAM VILLAGE P.O. KHARSANG CHANGLANG Changlang AR IN 792122",
+        "register": "Registered on 21-12-2011",
+        "director_details": [
+            {
+                "DIN": "05133541",
+                "direct_name": "Khumral Lungphi"
+            },
+            {
+                "DIN": "05133553",
+                "direct_name": "Khumsa Lungphi"
+            }
+        ]
+    },
+    {
+        "company_name": "SEIJOSA AGRO-TECH PRIVATE LIMITED",
+        "cin_no.": "U01403AR2009PTC008287",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "80000000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-12-2009",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "EAST KAMENG",
+        "address": "HOUSE NO.-30(1), GOLOSO, PO-SEIJOSA EAST KAMENG EAST KAMENG East Kameng AR IN 790102",
+        "register": "Registered on 23-12-2009",
+        "director_details": [
+            {
+                "DIN": "02723515",
+                "direct_name": "Bima Dolo"
+            },
+            {
+                "DIN": "02427402",
+                "direct_name": "Maya Dolo"
+            }
+        ]
+    },
+    {
+        "company_name": "DADA BUSINESS VENTURES PRIVATE LIMITED",
+        "cin_no.": "U01119AR2013PTC008386",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-04-2013",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "EAST KAMENG",
+        "address": "E-699, Transport Colony & ALC Line Seppa East Kameng AR IN 790102",
+        "register": "Registered on 26-04-2013",
+        "director_details": [
+            {
+                "DIN": "03177891",
+                "direct_name": "Aya Natung"
+            },
+            {
+                "DIN": "02715736",
+                "direct_name": "Demo Dada"
+            }
+        ]
+    },
+    {
+        "company_name": "ARUNACHAL HYDRO POWER LIMITED",
+        "cin_no.": "U40101AR2013PLC008384",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1650000000",
+        "paid_up_capital": "1643000000",
+        "registration_date": "09-04-2013",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Arunachal pradesh",
+        "district": "EAST KAMENG",
+        "address": "MODEL VILLAGE, NEAR PACHA RIVER SEPPA, EAST KAMENG SEPPA East Kameng AR IN 790102",
+        "register": "Registered on 09-04-2013",
+        "director_details": [
+            {
+                "DIN": "00066928",
+                "direct_name": "Abhijit Banerjee"
+            },
+            {
+                "DIN": "00165567",
+                "direct_name": "Amar Singh"
+            },
+            {
+                "DIN": "AHIPG0303P",
+                "direct_name": "Ashish Ajit Golechha"
+            },
+            {
+                "DIN": "06790262",
+                "direct_name": "Kulldip Mohan Daryani"
+            },
+            {
+                "DIN": "07779721",
+                "direct_name": "Nishikant Upadhyay"
+            },
+            {
+                "DIN": "00199454",
+                "direct_name": "Pankaja Kumari Singh"
+            },
+            {
+                "DIN": "00429773",
+                "direct_name": "Rajendra Kumar Bawalia"
+            },
+            {
+                "DIN": "01538117",
+                "direct_name": "Sanjay Kumar Gupta"
+            },
+            {
+                "DIN": "01055370",
+                "direct_name": "Satyendra Pal Singh"
+            },
+            {
+                "DIN": "03084360",
+                "direct_name": "Sheena G Pillai"
+            },
+            {
+                "DIN": "07473298",
+                "direct_name": "Subhash Ramu Mahajan"
+            },
+            {
+                "DIN": "07440416",
+                "direct_name": "Vikram Vivek Salvekar"
+            },
+            {
+                "DIN": "01856419",
+                "direct_name": "Vinay Kumar Shraff"
+            },
+            {
+                "DIN": "07003655",
+                "direct_name": "Virender Singh"
+            },
+            {
+                "DIN": "BINPS1435H",
+                "direct_name": "Yatin Yogesh Sangani"
+            }
+        ]
+    },
+    {
+        "company_name": "KAMENG ORGANIC FARMERS' PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01110AR2018PTC013529",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "17000",
+        "registration_date": "01-08-2018",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "EAST KAMENG",
+        "address": "C/O TAKUM NABUM, DIKALMUKH,,SEIJOSA,EAST KAMENG,East Kameng,Arunachal Pradesh-790103",
+        "register": "Registered on 01-08-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "KOZE ZANGO CO PVT LTD",
+        "cin_no.": "U01409AR1996PTC004803",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "04-07-1996",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "EAST SIANG",
+        "address": "Koze Zanggo Complex, Pane Korong Opposite Hotel Aane, P.O. & P.S-Pasighat Pasighat East Siang AR IN 791102",
+        "register": "Registered on 04-07-1996",
+        "director_details": [
+            {
+                "DIN": "03135820",
+                "direct_name": "Aan Tangu"
+            },
+            {
+                "DIN": "00055895",
+                "direct_name": "Anupam Tangu"
+            },
+            {
+                "DIN": "00106452",
+                "direct_name": "Aroti Tangu"
+            },
+            {
+                "DIN": "03160200",
+                "direct_name": "Tobom Tangu"
+            }
+        ]
+    },
+    {
+        "company_name": "DONYI SANGO FARMERS' PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100AR2018PTC013513",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "17000",
+        "registration_date": "15-03-2018",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "EAST SIANG",
+        "address": "C/O. YAYOP JAMOH Pasighat Market, PO/PS Pasighat District EAST SIANG East Siang AR IN 791104",
+        "register": "Registered on 15-03-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "TINGKHATRA PLANTATION PRIVATE LIMITED",
+        "cin_no.": "U01132AR1998PTC005619",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "306700",
+        "registration_date": "11-12-1998",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "EAST SIANG",
+        "address": "P.O. KANUBARI DIST-TIRAP KANUBARI AR IN 791102",
+        "register": "Registered on 11-12-1998",
+        "director_details": [
+            {
+                "DIN": "00922934",
+                "direct_name": "Newlai Tingkhatra"
+            },
+            {
+                "DIN": "03006503",
+                "direct_name": "Rohlem Tingkhatra"
+            }
+        ]
+    },
+    {
+        "company_name": "PURBANCHAL SUPPLIERS AND CONTRACTORS (IN DIA) PRIVATE LIMITED",
+        "cin_no.": "U51503AR2008PTC008262",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "16-05-2008",
+        "business_activity": "Trading",
+        "state": "Arunachal pradesh",
+        "district": "EAST SIANG",
+        "address": "NARI ADI TAKO P.O",
+        "register": "Registered on 16-05-2008",
+        "director_details": [
+            {
+                "DIN": "01997109",
+                "direct_name": "Bajrang Sharma"
+            },
+            {
+                "DIN": "01979609",
+                "direct_name": "Surendra Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "PARSURAM SAW MILLS PVT LTD",
+        "cin_no.": "U20101AR1988PTC002841",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "04-01-1988",
+        "business_activity": "Wood Products",
+        "state": "Arunachal pradesh",
+        "district": "EAST SIANG",
+        "address": "MEDO DIST-LOHIT AR IN 791104",
+        "register": "Registered on 04-01-1988",
+        "director_details": [
+            {
+                "DIN": "00566355",
+                "direct_name": "Ashis Chowdhury"
+            },
+            {
+                "DIN": "00566312",
+                "direct_name": "Pramod Haritwal"
+            }
+        ]
+    },
+    {
+        "company_name": "ADI PAPER AND PULP TRADING PRIVATE LIMITED",
+        "cin_no.": "U21098AR2011PTC008343",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-10-2011",
+        "business_activity": "Paper and Printing",
+        "state": "Arunachal pradesh",
+        "district": "EAST SIANG",
+        "address": "PAMONG HOUSE,BANSKATA,LOWER PANNE AREA, P.O.PASIGHAT EAST SIANG AR IN 791102",
+        "register": "Registered on 12-10-2011",
+        "director_details": [
+            {
+                "DIN": "03635791",
+                "direct_name": "Gegong Apang"
+            },
+            {
+                "DIN": "01719282",
+                "direct_name": "Shailendra Kumar Agnihotri"
+            },
+            {
+                "DIN": "03635489",
+                "direct_name": "Shamim Ahmad"
+            }
+        ]
+    },
+    {
+        "company_name": "VEDIC FERRO ALLOYS PRIVATE LIMITED",
+        "cin_no.": "U27106AR2009PTC008281",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-08-2009",
+        "business_activity": "Metals and Chemicals",
+        "state": "Arunachal pradesh",
+        "district": "EAST SIANG",
+        "address": "MRS. YASAR DARANG, C/O SHRI BASU PRASAD BARUAH, GREEN VALLEY, P.O. PASIGHAT PASIGHAT East Siang AR IN 791102",
+        "register": "Registered on 06-08-2009",
+        "director_details": [
+            {
+                "DIN": "00576242",
+                "direct_name": "Om Prakash Maniyar"
+            },
+            {
+                "DIN": "02207442",
+                "direct_name": "Subhash Maniyar"
+            }
+        ]
+    },
+    {
+        "company_name": "PASIGHAT SMART CITY DEVELOPMENT CORPORATION LIMITED",
+        "cin_no.": "U70109AR2017SGC013505",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-12-2017",
+        "business_activity": "Real Estate",
+        "state": "Arunachal pradesh",
+        "district": "EAST SIANG",
+        "address": "Pasighat Municipal Council office - South Wing 2-Mile, Gumin Nagar, Pasighat East Siang AR IN 791102",
+        "register": "Registered on 22-12-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "LEGONG INFRA PRIVATE LIMITED",
+        "cin_no.": "U45201AR2006PTC008242",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-12-2006",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "EAST SIANG",
+        "address": "RUKSIN MARKET OPPOSITE SBI RUKSIN BRANCH PASIGHAT East Siang AR IN 791102",
+        "register": "Registered on 26-12-2006",
+        "director_details": [
+            {
+                "DIN": "02723084",
+                "direct_name": "Kaling Saroh"
+            },
+            {
+                "DIN": "03023173",
+                "direct_name": "Yamum Jamoh"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMARUN PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U72100AR2006PTC008091",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "23-03-2006",
+        "business_activity": "Business Services",
+        "state": "Arunachal pradesh",
+        "district": "EAST SIANG",
+        "address": "MIRKU VILLAGE, PASSIGHAT ARUNACHAL PRADESH AR IN 791102",
+        "register": "Registered on 23-03-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "ATU-APA DEVELOPERS PRIVATE LIMITED",
+        "cin_no.": "U45202AR2011PTC008330",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "300000",
+        "registration_date": "26-04-2011",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "KURUNG KUMEY",
+        "address": "HASHI COMPLEX , NR. GOVT. SECONDARY SCHOOL KOLORIANG TOWN , DIST. - KURUNG KUMEY KOLORIANG Kurung Kumey AR IN 791118",
+        "register": "Registered on 26-04-2011",
+        "director_details": [
+            {
+                "DIN": "03507651",
+                "direct_name": "Sangha Dochuk"
+            },
+            {
+                "DIN": "03507658",
+                "direct_name": "Sangha Tagik"
+            }
+        ]
+    },
+    {
+        "company_name": "SIANG HEALTHCARE AND HOSPITALITY PRIVATE LIMITED",
+        "cin_no.": "U85110AR2010PTC008293",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-03-2010",
+        "business_activity": "Personal and Social Services",
+        "state": "Arunachal pradesh",
+        "district": "KURUNG KUMEY",
+        "address": "GANDHI MARKET, C-SECTOR, ITANAGAR Papum Pare AR IN 791118",
+        "register": "Registered on 03-03-2010",
+        "director_details": [
+            {
+                "DIN": "02757485",
+                "direct_name": "Kenny Ete"
+            },
+            {
+                "DIN": "00608784",
+                "direct_name": "Kenrin Ete"
+            }
+        ]
+    },
+    {
+        "company_name": "SAWALET TRADECON PRIVATE LIMITED",
+        "cin_no.": "U01403AR2012PTC008349",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-01-2012",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "LOHIT",
+        "address": "C/o Mrs. Mumteng Namchoom Vill. & P.O. Namsai Namsai Lohit AR IN 792103",
+        "register": "Registered on 16-01-2012",
+        "director_details": [
+            {
+                "DIN": "05138833",
+                "direct_name": "Kemmang Namchoom Chow"
+            },
+            {
+                "DIN": "05138868",
+                "direct_name": "Mumteng Namchoom"
+            },
+            {
+                "DIN": "05149752",
+                "direct_name": "Praggya Namchoom Chow"
+            }
+        ]
+    },
+    {
+        "company_name": "M.P. TRADECON PRIVATE LIMITED",
+        "cin_no.": "U01403AR2013PTC008385",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-04-2013",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "LOHIT",
+        "address": "H/O MUHILUM PUL TAMLANAGAR, P.O. TEZU TEZU Lohit AR IN 792001",
+        "register": "Registered on 18-04-2013",
+        "director_details": [
+            {
+                "DIN": "06549538",
+                "direct_name": "Muhilum Pul"
+            },
+            {
+                "DIN": "06549539",
+                "direct_name": "Redi Awailang Pul"
+            }
+        ]
+    },
+    {
+        "company_name": "TOWSIK TRADECON PRIVATE LIMITED",
+        "cin_no.": "U01409AR2010PTC008306",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-06-2010",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "LOHIT",
+        "address": "HAYULIANG, PO-HAYULIANG ANJAW AR IN 792102",
+        "register": "Registered on 11-06-2010",
+        "director_details": [
+            {
+                "DIN": "03056522",
+                "direct_name": "Heyomai Towsik"
+            },
+            {
+                "DIN": "03056510",
+                "direct_name": "Kayowlum Towsik"
+            }
+        ]
+    },
+    {
+        "company_name": "MACHHELEY TRADECON PRIVATE LIMITED",
+        "cin_no.": "U01409AR2013PTC008400",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-12-2013",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "LOHIT",
+        "address": "E-137, Village Lathao P.O. Namsai Lohit Lohit AR IN 792103",
+        "register": "Registered on 05-12-2013",
+        "director_details": [
+            {
+                "DIN": "06723335",
+                "direct_name": "Kapesa Namchoom"
+            },
+            {
+                "DIN": "06723341",
+                "direct_name": "Moklan Namchoom"
+            }
+        ]
+    },
+    {
+        "company_name": "PARSURAM CHEMICALS PRIVATE LIMITED",
+        "cin_no.": "U24239AR2005PTC007974",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-11-2005",
+        "business_activity": "Metals and Chemicals",
+        "state": "Arunachal pradesh",
+        "district": "LOHIT",
+        "address": "P O & P S TEZULOHIT ARUNACHAL PRADESH AR IN 792001",
+        "register": "Registered on 24-11-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "KONSENG AGRICULTURE ORGANIC PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01110AR2017PTC013499",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-10-2017",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "LOHIT",
+        "address": "PO INNAO, PS- DIYUN, DIST- CHANGLANG CHANGLANG Changlang AR IN 792103",
+        "register": "Registered on 13-10-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "NAMSAI ORGANIC SPICES AND AGRICULTURAL PRODUCTS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01110AR2018PTC013517",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "110000",
+        "registration_date": "17-04-2018",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "LOHIT",
+        "address": "VILL- JAIPUR DIST- NAMSAI NAMSAI Lohit AR IN 792103",
+        "register": "Registered on 17-04-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "NORTH EAST HORTIVISION PRIVATE LIMITED",
+        "cin_no.": "U01122AR2012PTC008357",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-03-2012",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "LOHIT",
+        "address": "Village Alubari PO Chowkham, Lohit AR IN 792102",
+        "register": "Registered on 20-03-2012",
+        "director_details": [
+            {
+                "DIN": "03407746",
+                "direct_name": "Bal Krishna Chaturvedi"
+            },
+            {
+                "DIN": "03303726",
+                "direct_name": "Jagdish Kumar Mulchandani"
+            }
+        ]
+    },
+    {
+        "company_name": "CHOHGKHAM TEA ESTATE PRIVATE LIMITED",
+        "cin_no.": "U01132AR2000PTC006284",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "230200",
+        "registration_date": "27-08-2000",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "LOHIT",
+        "address": "GUNA NAGARTAFRAGAM SAW MILL CHOWKHAM LOHIT ARUNACHAL PRADESH AR IN 792105",
+        "register": "Registered on 27-08-2000",
+        "director_details": [
+            {
+                "DIN": "01850015",
+                "direct_name": "Chow Keli Mongkhom"
+            },
+            {
+                "DIN": "00679988",
+                "direct_name": "Nimish Patwari"
+            },
+            {
+                "DIN": "01736871",
+                "direct_name": "Onkarmal Joshi"
+            }
+        ]
+    },
+    {
+        "company_name": "SATI TEA COMPANY PRIVATE LIMITED",
+        "cin_no.": "U01132AR2000PTC006319",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "10000000",
+        "registration_date": "27-09-2000",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "LOHIT",
+        "address": "NAMSAILOHIT ARUNACHA PRADESH AR IN 792103",
+        "register": "Registered on 27-09-2000",
+        "director_details": [
+            {
+                "DIN": "03536328",
+                "direct_name": "Aditya Mein"
+            },
+            {
+                "DIN": "00586549",
+                "direct_name": "Sati Mein"
+            }
+        ]
+    },
+    {
+        "company_name": "LOWER DIBANG VALLEY ORGANIC GINGER PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01114AR2017PTC013497",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-09-2017",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "LOWER DIBANG VALLEY",
+        "address": "Kehra-H Aati P/o Roing Lower Dibang Vallely Lower Dibang Valley AR IN 792110",
+        "register": "Registered on 26-09-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "MEDO TEA COMPANY PVT LTD",
+        "cin_no.": "U01132AR1987PTC002732",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "750000",
+        "paid_up_capital": "510000",
+        "registration_date": "05-07-1987",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "LOWER DIBANG VALLEY",
+        "address": "P.O. ROING, DIBANG VALLEY AR IN 792110",
+        "register": "Registered on 05-07-1987",
+        "director_details": [
+            {
+                "DIN": "00512763",
+                "direct_name": "Jai Prakash Choukhany"
+            },
+            {
+                "DIN": "00512710",
+                "direct_name": "Narendra Tibrewal"
+            },
+            {
+                "DIN": "00534120",
+                "direct_name": "Sumit Kumar Agarwalla"
+            }
+        ]
+    },
+    {
+        "company_name": "IDULI TEA COMPANY PVT LTD",
+        "cin_no.": "U15491AR1993PTC003877",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "23-03-1993",
+        "business_activity": "Food Manufacturing",
+        "state": "Arunachal pradesh",
+        "district": "LOWER DIBANG VALLEY",
+        "address": "VILL IDULIROING ARUNACHA PRADESH AR IN 792110",
+        "register": "Registered on 23-03-1993",
+        "director_details": [
+            {
+                "DIN": "01061337",
+                "direct_name": "Dature Miuli"
+            },
+            {
+                "DIN": "00968878",
+                "direct_name": "Sipa Miuli"
+            }
+        ]
+    },
+    {
+        "company_name": "DIBANG AGROFARMS PVT LTD",
+        "cin_no.": "U70101AR1988PTC003138",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "2599200",
+        "registration_date": "07-12-1988",
+        "business_activity": "Real Estate",
+        "state": "Arunachal pradesh",
+        "district": "LOWER DIBANG VALLEY",
+        "address": "P.O. ROING DIBANG VALLEY AR IN 792110",
+        "register": "Registered on 07-12-1988",
+        "director_details": [
+            {
+                "DIN": "00512763",
+                "direct_name": "Jai Prakash Choukhany"
+            },
+            {
+                "DIN": "00534120",
+                "direct_name": "Sumit Kumar Agarwalla"
+            },
+            {
+                "DIN": "00864073",
+                "direct_name": "Uma Tibrewal"
+            }
+        ]
+    },
+    {
+        "company_name": "LINGI TRADING & CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U45201AR2013PTC008394",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-07-2013",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "LOWER DIBANG VALLEY",
+        "address": "H/O MRS. KAMALA LINGI, E - 102 MAYU - 1, P.O. - ROING ROING Lower Dibang Valley AR IN 792110",
+        "register": "Registered on 12-07-2013",
+        "director_details": [
+            {
+                "DIN": "06621552",
+                "direct_name": "Ajidu Lingi"
+            },
+            {
+                "DIN": "06621553",
+                "direct_name": "Ango Lingi"
+            },
+            {
+                "DIN": "06629300",
+                "direct_name": "Kamala Linggi"
+            },
+            {
+                "DIN": "06621554",
+                "direct_name": "Thongo Lingi"
+            }
+        ]
+    },
+    {
+        "company_name": "ZEXANG TRADING PRIVATE LIMITED",
+        "cin_no.": "U74999AR2017PTC013439",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000",
+        "paid_up_capital": "10000",
+        "registration_date": "27-01-2017",
+        "business_activity": "Business Services",
+        "state": "Arunachal pradesh",
+        "district": "LOWER DIBANG VALLEY",
+        "address": "E-46, Cheta 2, Near Namghar, Roing Lower Dibang Valley AR IN 792110",
+        "register": "Registered on 27-01-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "HENKAKO TECHNOLOGIES PRIVATE LIMITED",
+        "cin_no.": "U52609AR2016PTC013436",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-09-2016",
+        "business_activity": "Trading",
+        "state": "Arunachal pradesh",
+        "district": "LOWER SUBANSIRI",
+        "address": "OLD ZIRO, NEAR SBI, OPPOSITE ALG OLD ZIRO ZIRO Lower Subansiri AR IN 791120",
+        "register": "Registered on 15-09-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "DREAM VALLEY RESORTS PVT LIMITED",
+        "cin_no.": "U55101AR1997PTC005163",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "3000",
+        "registration_date": "28-08-1997",
+        "business_activity": "Trading",
+        "state": "Arunachal pradesh",
+        "district": "LOWER SUBANSIRI",
+        "address": "P O & P O L ZIRODIST LOWER SUBANSIRI ARUNACGAL PRADESH Lower Subansiri AR IN 791120",
+        "register": "Registered on 28-08-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "SUBANSIRI ORGANIC KIWICARDAMOM FARMERS' PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01220AR2018PTC013511",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "17000",
+        "registration_date": "24-02-2018",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "LOWER SUBANSIRI",
+        "address": "C/o. Mrs. Taba Yakir, Yazali Market Area Lower Subansiri Lower Subansiri AR IN 791119",
+        "register": "Registered on 24-02-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "MOTHER LUMBER INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U51431AR2013PTC008393",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-06-2013",
+        "business_activity": "Trading",
+        "state": "Arunachal pradesh",
+        "district": "LOWER SUBANSIRI",
+        "address": "KOLAPTUKER, SDO PO- PATHALIPAM KOLAPTUKER Lower Subansiri AR IN 791120",
+        "register": "Registered on 12-06-2013",
+        "director_details": [
+            {
+                "DIN": "02898466",
+                "direct_name": "Marina Nido"
+            },
+            {
+                "DIN": "00175278",
+                "direct_name": "Ramjibhai Karamshibhai Patel"
+            }
+        ]
+    },
+    {
+        "company_name": "JAGSONS MARKETING PRIVATE LIMITED",
+        "cin_no.": "U51909AR2010PTC008292",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-02-2010",
+        "business_activity": "Trading",
+        "state": "Arunachal pradesh",
+        "district": "LOWER SUBANSIRI",
+        "address": "C/O BOGOM TANYA DISTRICT SUPPLY OFFICE, POST OFFICE - ZIRO ZIRO Lower Subansiri AR IN 791120",
+        "register": "Registered on 17-02-2010",
+        "director_details": [
+            {
+                "DIN": "02857800",
+                "direct_name": "Bogom Tato"
+            },
+            {
+                "DIN": "02858785",
+                "direct_name": "Jyotsna Nath"
+            }
+        ]
+    },
+    {
+        "company_name": "GODAK ENGINEERING & CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U45202AR2010PTC008314",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "200000",
+        "registration_date": "07-09-2010",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "LOWER SUBANSIRI",
+        "address": "E-5(1) Town/Vill RADUM Post Office Lower Subansiri AR IN 791120",
+        "register": "Registered on 07-09-2010",
+        "director_details": [
+            {
+                "DIN": "02954853",
+                "direct_name": "Lebe Godak"
+            },
+            {
+                "DIN": "02954819",
+                "direct_name": "Nehru Godak"
+            }
+        ]
+    },
+    {
+        "company_name": "MEHPING CONSTRUCTION COMPANY PRIVATE LIM ITED",
+        "cin_no.": "U45203AR2006PTC008233",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "27-10-2006",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "LOWER SUBANSIRI",
+        "address": "VILLAGE TAJANG P.O ZIRO ZIRO AR IN 791120",
+        "register": "Registered on 27-10-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "LEMELEN CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U45209AR2001PTC006475",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1200000",
+        "paid_up_capital": "200000",
+        "registration_date": "30-03-2001",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "LOWER SUBANSIRI",
+        "address": "VILLAGE RERU, ZERO LOWER SUBANSIRI AR IN 791120",
+        "register": "Registered on 30-03-2001",
+        "director_details": [
+            {
+                "DIN": "01937193",
+                "direct_name": "Padi Gambo"
+            },
+            {
+                "DIN": "01937191",
+                "direct_name": "Padi Tath"
+            }
+        ]
+    },
+    {
+        "company_name": "NANA KOO AGRO PVT LTD",
+        "cin_no.": "U74210AR1998PTC005427",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "5160000",
+        "registration_date": "05-06-1998",
+        "business_activity": "Business Services",
+        "state": "Arunachal pradesh",
+        "district": "LOWER SUBANSIRI",
+        "address": "TALLE VALLEY ROAD HAPLI ZERO LOWER SUBANSIRI AR IN 791120",
+        "register": "Registered on 05-06-1998",
+        "director_details": [
+            {
+                "DIN": "03178112",
+                "direct_name": "Tilling Dolley"
+            },
+            {
+                "DIN": "03345006",
+                "direct_name": "Tilling Muniya"
+            }
+        ]
+    },
+    {
+        "company_name": "KUMKI AGRO PRIVATE LIMITED",
+        "cin_no.": "U01300AR2001PTC006500",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-04-2001",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "NA",
+        "address": "P O INNAODIST CHANGLANG P S DIYUN ARUNACHAL PRADESH Changlang AR IN",
+        "register": "Registered on 26-04-2001",
+        "director_details": []
+    },
+    {
+        "company_name": "P. APUM ENTERPRISES PRIVATE LIMITED",
+        "cin_no.": "U01403AR2009PTC008286",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-12-2009",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "NA",
+        "address": "ROING P.O. ROING ROING AR IN 790110",
+        "register": "Registered on 17-12-2009",
+        "director_details": [
+            {
+                "DIN": "06728585",
+                "direct_name": "Poknom Tayeng"
+            },
+            {
+                "DIN": "02788090",
+                "direct_name": "Puinnyo Apum"
+            }
+        ]
+    },
+    {
+        "company_name": "KESRI AGROTECH PRIVATE LIMITED",
+        "cin_no.": "U01403AR2010PTC008322",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-12-2010",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "NA",
+        "address": "C/O TAJOM, BEHIND LALBAHADUR SHASTRI SCHOOL PASIGHAT BAZAR, BALAJI MANDIR PASIGHAT East Siang AR IN 792002",
+        "register": "Registered on 28-12-2010",
+        "director_details": [
+            {
+                "DIN": "03259134",
+                "direct_name": "Rashmi Bagri"
+            },
+            {
+                "DIN": "03259158",
+                "direct_name": "Subrata Sen"
+            },
+            {
+                "DIN": "03301407",
+                "direct_name": "Tajom Tasung"
+            },
+            {
+                "DIN": "AEFPB4306M",
+                "direct_name": "Vikash Bagri"
+            }
+        ]
+    },
+    {
+        "company_name": "SHENZONG AGRO INDUSTRIES PVT LTD",
+        "cin_no.": "U01409AR1995PTC004433",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "50000",
+        "registration_date": "28-04-1995",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "NA",
+        "address": "SHERGAON WEST KAMENGDIST KAMENG ARUNACHAL PRADESH West Kameng AR IN",
+        "register": "Registered on 28-04-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "ARUNACHAL SELF EMPLOYED ENGINEERS AND CO NSULTANTS PVT LTD",
+        "cin_no.": "U01409AR1998PTC005513",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "4000",
+        "registration_date": "31-08-1998",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "NA",
+        "address": "ABOTANI COLONY.ROOM NO 4E SECTOR ITANAGAR DIST PAPUMPARE ARUNACHAL PRADESH AR IN",
+        "register": "Registered on 31-08-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "FEKIK AGRO PRIVATE LIMITED",
+        "cin_no.": "U01409AR1998PTC005620",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "300000",
+        "paid_up_capital": "0",
+        "registration_date": "11-12-1998",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "NA",
+        "address": "TELI COTTAGE,NEAR AP PSC OFFICE OPP. MLA HOSTEL, DIST.PAPUMPARE ITANAGAR, AR IN",
+        "register": "Registered on 11-12-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "HIGHLAND EAST AGROCON PRIVATE LIMITED",
+        "cin_no.": "U02001AR2014PTC008405",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-01-2014",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "NA",
+        "address": "C/O WANGKAP LOWANG, VILL",
+        "register": "Registered on 22-01-2014",
+        "director_details": [
+            {
+                "DIN": "06752867",
+                "direct_name": "Samman Lowang"
+            },
+            {
+                "DIN": "06752877",
+                "direct_name": "Wangpang Lowang"
+            }
+        ]
+    },
+    {
+        "company_name": "DONYI POLO INDUSTRIES PVT LTD",
+        "cin_no.": "U10102AR1994PTC004330",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "2000",
+        "registration_date": "29-12-1994",
+        "business_activity": "Mining and Quarrying",
+        "state": "Arunachal pradesh",
+        "district": "NA",
+        "address": "ABO TANI HOUSEGANGA MARKET ITANAGTAR DIST PAPUMPARE ARUNACHAL PRADESH Lower Subansiri AR IN",
+        "register": "Registered on 29-12-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "NAMCHIK MINING AND ENGINEERING COMPANY L IMITED",
+        "cin_no.": "U10102AR1999PLC005728",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "55000",
+        "registration_date": "12-04-1999",
+        "business_activity": "Mining and Quarrying",
+        "state": "Arunachal pradesh",
+        "district": "NA",
+        "address": "ARUNACHAL PRADESH Changlang AR IN",
+        "register": "Registered on 12-04-1999",
+        "director_details": []
+    },
+    {
+        "company_name": "LOHIT CHEMICALS PVT LTD",
+        "cin_no.": "U24115AR1984PTC002225",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2400000",
+        "paid_up_capital": "500000",
+        "registration_date": "12-09-1984",
+        "business_activity": "Metals and Chemicals",
+        "state": "Arunachal pradesh",
+        "district": "NA",
+        "address": "New Bazar Road, P.O. Tezu, Lohit Dibang Valley AR IN",
+        "register": "Registered on 12-09-1984",
+        "director_details": []
+    },
+    {
+        "company_name": "EVERSHINE TEA COMPANY PRIVATE LIMITED",
+        "cin_no.": "U01132AR1999PTC005748",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "480200",
+        "registration_date": "03-05-1999",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "NAGAON",
+        "address": "P O MIAODIST CHANGLANG ARUNACHAL PRADESH AR IN 782122",
+        "register": "Registered on 03-05-1999",
+        "director_details": [
+            {
+                "DIN": "01270413",
+                "direct_name": "Kanta Devi Agarwal"
+            },
+            {
+                "DIN": "01270407",
+                "direct_name": "Manoj Kumar Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "ANNEY DONYI ENTERPRISE PRIVATE LIMITED",
+        "cin_no.": "U01400AR2009PTC008284",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-11-2009",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "PAPUM PARE",
+        "address": "NITI VIHAR, P.O./P.S. ITANAGAR DIST. PAPUMPARE ARUNACHAL PRADESH Papum Pare AR IN 791111",
+        "register": "Registered on 10-11-2009",
+        "director_details": [
+            {
+                "DIN": "02723515",
+                "direct_name": "Bima Dolo"
+            },
+            {
+                "DIN": "02427402",
+                "direct_name": "Maya Dolo"
+            }
+        ]
+    },
+    {
+        "company_name": "AJIT TRADECON PRIVATE LIMITED",
+        "cin_no.": "U01400AR2010PTC008291",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-01-2010",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "PAPUM PARE",
+        "address": "MEDO, P.O. CHONGKHAM CIRCLE - WAKRO CHONGKHAM AR IN 792104",
+        "register": "Registered on 29-01-2010",
+        "director_details": [
+            {
+                "DIN": "02911670",
+                "direct_name": "Solingso Tayang"
+            },
+            {
+                "DIN": "02901627",
+                "direct_name": "Tiloliang Tayang"
+            }
+        ]
+    },
+    {
+        "company_name": "RANGMANG AGRO FOOD PRIVATE LIMITED",
+        "cin_no.": "U01400AR2012PTC008361",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-04-2012",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "PAPUM PARE",
+        "address": "E-175,WAKRO TOWN CHOWKHAM,LOHIT CHOWKHAM Lohit AR IN 792104",
+        "register": "Registered on 02-04-2012",
+        "director_details": [
+            {
+                "DIN": "05234590",
+                "direct_name": "Bena Rangmang"
+            },
+            {
+                "DIN": "03018635",
+                "direct_name": "Patam Rangmang"
+            }
+        ]
+    },
+    {
+        "company_name": "NAMLOJS AGROVET PRIVATE LIMITED",
+        "cin_no.": "U01403AR2013PTC008391",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-05-2013",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "PAPUM PARE",
+        "address": "NES/YUMA-29/NRJ TOKO OBI, RCC C SECTOR NAHARLAGUN Papum Pare AR IN 791110",
+        "register": "Registered on 29-05-2013",
+        "director_details": [
+            {
+                "DIN": "06378133",
+                "direct_name": "Toko Obi"
+            },
+            {
+                "DIN": "06593522",
+                "direct_name": "Toko Oni"
+            }
+        ]
+    },
+    {
+        "company_name": "NIRJULI AGRITECH PRIVATE LIMITED",
+        "cin_no.": "U01403AR2015PTC008427",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-12-2015",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "PAPUM PARE",
+        "address": "House No.53 Dikrong Colony Nirjuli AR IN 791109",
+        "register": "Registered on 02-12-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "SAAYA ORGANIC PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01403AR2016PTC008428",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-01-2016",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "PAPUM PARE",
+        "address": "WARD NO-29, IMC HOUSE NO-68 P-SECTOR, NIRJULI PAPUMPARE AR IN 791109",
+        "register": "Registered on 12-01-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "AGRO INDIA PRIVATE LIMITED",
+        "cin_no.": "U01407AR2013PTC008381",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2000000",
+        "registration_date": "20-03-2013",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "PAPUM PARE",
+        "address": "LEGI COMPLEX A-SECTOR NAHARLAGUN Papum Pare AR IN 791110",
+        "register": "Registered on 20-03-2013",
+        "director_details": [
+            {
+                "DIN": "01220042",
+                "direct_name": "Joshna Sharma"
+            },
+            {
+                "DIN": "02745926",
+                "direct_name": "Karan Sharma"
+            },
+            {
+                "DIN": "00702544",
+                "direct_name": "Niraj Sharma"
+            },
+            {
+                "DIN": "00399843",
+                "direct_name": "Sameer Mehta"
+            }
+        ]
+    },
+    {
+        "company_name": "MARTUM AND MARKONI AGRO PRIVATE LIMITED",
+        "cin_no.": "U01407AR2014PTC008407",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-02-2014",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "PAPUM PARE",
+        "address": "Zoo Road Tinali, Rcc, Dist -Papum Pare, Itanagar Papum Pare AR IN 791111",
+        "register": "Registered on 10-02-2014",
+        "director_details": [
+            {
+                "DIN": "06780761",
+                "direct_name": "Marpi Ete"
+            },
+            {
+                "DIN": "05152317",
+                "direct_name": "Tomar Basar"
+            }
+        ]
+    },
+    {
+        "company_name": "JULLY MERCHCANDISERS PRIVATE LIMITED",
+        "cin_no.": "U01409AR2001PTC006567",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "200000",
+        "registration_date": "03-07-2001",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "PAPUM PARE",
+        "address": "G SECTORPAPUMPARE ARUNACHAL PRADESH ITANAGAR AR IN 791111",
+        "register": "Registered on 03-07-2001",
+        "director_details": []
+    },
+    {
+        "company_name": "HILL TRIBES MUSHROOM AND POULTRY PRIVATE LIMITED",
+        "cin_no.": "U01409AR2005PTC007802",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "300000",
+        "registration_date": "30-06-2005",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "PAPUM PARE",
+        "address": "NITI VIHARITANAGAR ARUNACHAL PRADESH. AR IN 791111",
+        "register": "Registered on 30-06-2005",
+        "director_details": [
+            {
+                "DIN": "01634908",
+                "direct_name": "Tage Yassung"
+            }
+        ]
+    },
+    {
+        "company_name": "GADI AGRO FORESTRY & MINING COMPANY PRIV ATE LIMITED",
+        "cin_no.": "U02001AR2007PTC008243",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-01-2007",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "PEREN",
+        "address": "POLO COLONY, NAHARLAGUN DIST PAPUM PARE NAHARLAGUN Papum Pare AR IN 797110",
+        "register": "Registered on 02-01-2007",
+        "director_details": [
+            {
+                "DIN": "03157118",
+                "direct_name": "Bai Gadi"
+            },
+            {
+                "DIN": "03157002",
+                "direct_name": "Illi Gadi"
+            }
+        ]
+    },
+    {
+        "company_name": "ISUM MOTORS PRIVATE LIMITED",
+        "cin_no.": "U50101AR2004PTC007347",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "19200000",
+        "registration_date": "01-03-2004",
+        "business_activity": "Trading",
+        "state": "Arunachal pradesh",
+        "district": "SONITPUR",
+        "address": "NIKAMUL SATRATEZPUR ASSAM AR IN 784154",
+        "register": "Registered on 01-03-2004",
+        "director_details": [
+            {
+                "DIN": "05141702",
+                "direct_name": "Mamang Borang"
+            },
+            {
+                "DIN": "02157602",
+                "direct_name": "Ralom Borang"
+            }
+        ]
+    },
+    {
+        "company_name": "RIGSEL HOTELS & RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55100AR2011PTC008324",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "120000",
+        "registration_date": "03-02-2011",
+        "business_activity": "Trading",
+        "state": "Arunachal pradesh",
+        "district": "TAWANG",
+        "address": "PO- LEMBERDUNG, GYANGKHAR, TAWANG Tawang AR IN 790104",
+        "register": "Registered on 03-02-2011",
+        "director_details": [
+            {
+                "DIN": "02279769",
+                "direct_name": "Pema Khandu"
+            },
+            {
+                "DIN": "02574039",
+                "direct_name": "Tashi Khandu"
+            },
+            {
+                "DIN": "02565554",
+                "direct_name": "Tsering Tashi"
+            }
+        ]
+    },
+    {
+        "company_name": "SELATAWANG HOTEL PRIVATE LIMITED",
+        "cin_no.": "U55101AR2009PTC008274",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-04-2009",
+        "business_activity": "Trading",
+        "state": "Arunachal pradesh",
+        "district": "TAWANG",
+        "address": "LEMBERDUNG TAWANG Tawang AR IN 790104",
+        "register": "Registered on 28-04-2009",
+        "director_details": [
+            {
+                "DIN": "02279769",
+                "direct_name": "Pema Khandu"
+            },
+            {
+                "DIN": "00706165",
+                "direct_name": "Ratan Kumar Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "RIGSEL INFRASTRUCTURE PRIVATE LIMITED",
+        "cin_no.": "U70101AR2011PTC008325",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "120000",
+        "registration_date": "03-02-2011",
+        "business_activity": "Real Estate",
+        "state": "Arunachal pradesh",
+        "district": "TAWANG",
+        "address": "PO- LEMBERDUNG, GYANGKHAR, TAWANG Tawang AR IN 790104",
+        "register": "Registered on 03-02-2011",
+        "director_details": [
+            {
+                "DIN": "02279769",
+                "direct_name": "Pema Khandu"
+            },
+            {
+                "DIN": "02574039",
+                "direct_name": "Tashi Khandu"
+            },
+            {
+                "DIN": "02565554",
+                "direct_name": "Tsering Tashi"
+            }
+        ]
+    },
+    {
+        "company_name": "KHARM SUNG GAME CONTRACTORS PRIVATE LIMITED",
+        "cin_no.": "U45201AR2012PTC008378",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "200000",
+        "registration_date": "14-12-2012",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "TAWANG",
+        "address": "PAIGANG VILL - LHOU, P.S. JANG TAWANG Tawang AR IN 790104",
+        "register": "Registered on 14-12-2012",
+        "director_details": [
+            {
+                "DIN": "06446315",
+                "direct_name": "Lobsang"
+            },
+            {
+                "DIN": "06446318",
+                "direct_name": "Yeshi Tsering"
+            }
+        ]
+    },
+    {
+        "company_name": "CHABEY-YINKAP FOUNDATION",
+        "cin_no.": "U74999AR2017NPL013504",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-12-2017",
+        "business_activity": "Business Services",
+        "state": "Arunachal pradesh",
+        "district": "TIRAP",
+        "address": "C/O YUTAN SUNYA D/o SHRI YINKAP SUYANG LAPNAN VILLAGE, KHONSA TIRAP TIRAP Tirap AR IN 792130",
+        "register": "Registered on 12-12-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "SUYANG TOURISM PRIVATE LIMITED",
+        "cin_no.": "U63030AR2018PTC013510",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-02-2018",
+        "business_activity": "Transport and Storage",
+        "state": "Arunachal pradesh",
+        "district": "TIRAP",
+        "address": "HOUSE NO. E-7, Lapnan Village PO/PS-Khonsa TIRAP Tirap AR IN 792130",
+        "register": "Registered on 12-02-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "NORTH-EASTERN OVERSEAS PRIVATE LIMITED",
+        "cin_no.": "U51909AR2011PTC008345",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "14-11-2011",
+        "business_activity": "Trading",
+        "state": "Arunachal pradesh",
+        "district": "UPPER SIANG",
+        "address": "E-22(D), TOWN VILLAGE-FOREST COLONY PO-YINGKIONG, UPPER SIANG AR IN 791002",
+        "register": "Registered on 14-11-2011",
+        "director_details": [
+            {
+                "DIN": "03617354",
+                "direct_name": "Roberto Miyu"
+            },
+            {
+                "DIN": "03628505",
+                "direct_name": "Yoyong Mize"
+            }
+        ]
+    },
+    {
+        "company_name": "FUTURE BUILT TRADING PRIVATE LIMITED",
+        "cin_no.": "U51909AR2012PTC008363",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-04-2012",
+        "business_activity": "Trading",
+        "state": "Arunachal pradesh",
+        "district": "UPPER SIANG",
+        "address": "E-4, VILLAGE - HALENG, POST OFFICE - YINGKIONG, UPPER SIANG DISTRICT, HALENG Upper Siang AR IN 791002",
+        "register": "Registered on 20-04-2012",
+        "director_details": [
+            {
+                "DIN": "05226967",
+                "direct_name": "Asin Libang"
+            },
+            {
+                "DIN": "05226976",
+                "direct_name": "Minli Loyi"
+            }
+        ]
+    },
+    {
+        "company_name": "ZEERU BANDU CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U45203AR2013PTC008395",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-08-2013",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "UPPER SIANG",
+        "address": "C/o Auro Welfare Society, Yingkiong Upper Siang AR IN 791002",
+        "register": "Registered on 01-08-2013",
+        "director_details": [
+            {
+                "DIN": "06612709",
+                "direct_name": "Akoying Tekseng"
+            },
+            {
+                "DIN": "06612718",
+                "direct_name": "Yahung Tekseng"
+            }
+        ]
+    },
+    {
+        "company_name": "NALO COMMERCIAL INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U14107AR2011PTC008340",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "200000",
+        "registration_date": "10-08-2011",
+        "business_activity": "Mining and Quarrying",
+        "state": "Arunachal pradesh",
+        "district": "UPPER SUBANSIRI",
+        "address": "C/O SUSHIL NALO, TG COLONY DAPORIJO UPPER SUBANSIRI AR IN 791122",
+        "register": "Registered on 10-08-2011",
+        "director_details": [
+            {
+                "DIN": "03580764",
+                "direct_name": "Biswajit Chanda"
+            },
+            {
+                "DIN": "03580760",
+                "direct_name": "Pabitra Roy"
+            }
+        ]
+    },
+    {
+        "company_name": "ARUNACHAL COMMERCIAL INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U14200AR2011PTC008337",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "200000",
+        "registration_date": "04-08-2011",
+        "business_activity": "Mining and Quarrying",
+        "state": "Arunachal pradesh",
+        "district": "UPPER SUBANSIRI",
+        "address": "TARAJULI VILLAGE BANDERDEWA AR IN 791122",
+        "register": "Registered on 04-08-2011",
+        "director_details": [
+            {
+                "DIN": "03580764",
+                "direct_name": "Biswajit Chanda"
+            },
+            {
+                "DIN": "03580760",
+                "direct_name": "Pabitra Roy"
+            }
+        ]
+    },
+    {
+        "company_name": "KKKK TEA COMPANY PRIVATE LIMITED",
+        "cin_no.": "U01132AR2006PTC008239",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "0",
+        "registration_date": "13-12-2006",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "UPPER SUBANSIRI",
+        "address": "AYA MARDE DUMPARIJU Upper Subansiri AR IN 791122",
+        "register": "Registered on 13-12-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "DEBING CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U45203AR2006PTC008218",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "10000",
+        "registration_date": "25-07-2006",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "UPPER SUBANSIRI",
+        "address": "DELI D1 COLONY DIST UPPER SUBANSIRI SUBANSIRI AR IN 791122",
+        "register": "Registered on 25-07-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "TJY CONSTRUCTION (OPC) PRIVATE LIMITED",
+        "cin_no.": "U45309AR2016OPC013433",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-06-2016",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "UPPER SUBANSIRI",
+        "address": "M/S D.D (STEEL FABRICATION), GANDHI MARKET DAPORIJO Upper Subansiri AR IN 791122",
+        "register": "Registered on 30-06-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "TAZEE ENGINEERS PRIVATE LIMITED",
+        "cin_no.": "U74999AR2017PTC013489",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-07-2017",
+        "business_activity": "Business Services",
+        "state": "Arunachal pradesh",
+        "district": "UPPER SUBANSIRI",
+        "address": "MARO MARO Upper Subansiri AR IN 791122",
+        "register": "Registered on 20-07-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "RIJO FARMERS' PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01113AR2018PTC013528",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "17000",
+        "registration_date": "01-08-2018",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "UPPER SUBANSIRI",
+        "address": "C/o Sri Soda Game, LR-50/93,Village- Tamaripa,UPPER SUBANSIRI,Upper Subansiri,Arunachal Pradesh-791122",
+        "register": "Registered on 01-08-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "PUGE ENGINEERING PRIVATE LIMITED",
+        "cin_no.": "U45309AR2018PTC013535",
+        "status": "Not available for efiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-09-2018",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "UPPER SUBANSIRI",
+        "address": "House No- E1,Near Donyi Polo Namlo Lida, P.O /P.S Dumporijo,Upper Subansiri, DIST - DAPORIJO 791122",
+        "register": "Registered on 28-09-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "NAFRA CHEMICALS PVT LTD",
+        "cin_no.": "U24115AR1990PTC003437",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "966500",
+        "registration_date": "02-05-1990",
+        "business_activity": "Metals and Chemicals",
+        "state": "Arunachal pradesh",
+        "district": "WEST KAMENG",
+        "address": "INDUSTRIAL ESTATE, TIPPI VIA-BHALUKPONG,DIST-WEST KAMENG TIPPI AR IN 790114",
+        "register": "Registered on 02-05-1990",
+        "director_details": [
+            {
+                "DIN": "01612774",
+                "direct_name": "Japu Deru"
+            },
+            {
+                "DIN": "00675197",
+                "direct_name": "Kusang Deru"
+            },
+            {
+                "DIN": "00675177",
+                "direct_name": "Norbu Tenzing Deru"
+            }
+        ]
+    },
+    {
+        "company_name": "ARUNACHAL HERBAL COMPANY PRIVATE LIMITED",
+        "cin_no.": "U01117AR2001PTC006666",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "120000",
+        "registration_date": "05-11-2001",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "WEST KAMENG",
+        "address": "INDUSTRIAL EASTATETIPPI ARUNACHAL PRADESH WEST KAMENG West Kameng AR IN 790114",
+        "register": "Registered on 05-11-2001",
+        "director_details": []
+    },
+    {
+        "company_name": "MTM WINES AND BOTTLERS PRIVATE LIMITED",
+        "cin_no.": "U15511AR2000PTC006378",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "4886100",
+        "registration_date": "20-12-2000",
+        "business_activity": "Food Manufacturing",
+        "state": "Arunachal pradesh",
+        "district": "WEST KAMENG",
+        "address": "TIPI INDUSTRIAL ESTATE, BHALUKPONG BHALUKPONG West Kameng AR IN 790114",
+        "register": "Registered on 20-12-2000",
+        "director_details": [
+            {
+                "DIN": "01358769",
+                "direct_name": "Pradip Kumar Lohia"
+            },
+            {
+                "DIN": "01282201",
+                "direct_name": "Rajan Lohia"
+            }
+        ]
+    },
+    {
+        "company_name": "DEVI ENERGIES PRIVATE LIMITED",
+        "cin_no.": "U40109AR2007PTC008424",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "955000000",
+        "paid_up_capital": "954808950",
+        "registration_date": "31-01-2007",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Arunachal pradesh",
+        "district": "WEST KAMENG",
+        "address": "D.No",
+        "register": "Registered on 31-01-2007",
+        "director_details": []
+    },
+    {
+        "company_name": "RISER & PANEL INFRATECH PRIVATE LIMITED",
+        "cin_no.": "U45209AR2011PTC008425",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "830000000",
+        "paid_up_capital": "779062030",
+        "registration_date": "14-12-2011",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "WEST KAMENG",
+        "address": "D.No",
+        "register": "Registered on 14-12-2011",
+        "director_details": []
+    },
+    {
+        "company_name": "STRUCKEN BUILDALEAD INDIA PRIVATE LIMITED",
+        "cin_no.": "U52609AR2018PTC013509",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-02-2018",
+        "business_activity": "Trading",
+        "state": "Arunachal pradesh",
+        "district": "WEST SIANG",
+        "address": "NEW MARKET AALO AALO West Siang AR IN 791001",
+        "register": "Registered on 08-02-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "AALO FOODS & BEVERAGES PRIVATE LIMITED",
+        "cin_no.": "U01100AR2017PTC013495",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "2000000",
+        "registration_date": "15-09-2017",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "WEST SIANG",
+        "address": "UPPER COLONY, BEHIND OFFICIAL RESIDENCE OF ADC, AALO AALO West Siang AR IN 791001",
+        "register": "Registered on 15-09-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "HIPOHIGI ORGANIC PINEAPPLE PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100AR2017PTC013496",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-09-2017",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "WEST SIANG",
+        "address": "Yodimomen Aalo West Siang West Siang AR IN 791001",
+        "register": "Registered on 20-09-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "ABOTANI ORGANIC PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100AR2017PTC013498",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "13-10-2017",
+        "business_activity": "Agriculture",
+        "state": "Arunachal pradesh",
+        "district": "WEST SIANG",
+        "address": "FIRST FLOOR, E-87 , PAKAM-II NEAR MIDDLE SCHOOL, PAKAM ALONG West Siang AR IN 791001",
+        "register": "Registered on 13-10-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "RAGMUK BROTHERS INFRASTRUCTURE PRIVATE LIMITED",
+        "cin_no.": "U45500AR2018PTC013512",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "200000",
+        "registration_date": "14-03-2018",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "WEST SIANG",
+        "address": "HOUSE NO-37 GEMO TALI VILLAGE, PO/PS KAMBA AALO West Siang AR IN 791001",
+        "register": "Registered on 14-03-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "ASSOCIATED TEA & AGRO MANAGEMENT SERVICES PRIVATE LIMITED",
+        "cin_no.": "U74140AR2010PTC008303",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "31-03-2010",
+        "business_activity": "Business Services",
+        "state": "Arunachal pradesh",
+        "district": "WEST SIANG",
+        "address": "C-SECTOR ITANAGAR ITANAGAR AR IN 791001",
+        "register": "Registered on 31-03-2010",
+        "director_details": [
+            {
+                "DIN": "06911778",
+                "direct_name": "Nandita Sharma"
+            },
+            {
+                "DIN": "01045145",
+                "direct_name": "Subir Chattopadhay"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMALAYAN MINERAL INDUSTRIES INTERNATIONAL PVT LTD",
+        "cin_no.": "U15543AR1995PTC004607",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-11-1995",
+        "business_activity": "Food Manufacturing",
+        "state": "Arunachal pradesh",
+        "district": "WEST SIANG",
+        "address": "GUMINNAGAR, ALONG AR IN 791101",
+        "register": "Registered on 09-11-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "REALZEZ TRADING PRIVATE LIMITED",
+        "cin_no.": "U51103AR2012PTC008369",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-07-2012",
+        "business_activity": "Trading",
+        "state": "Arunachal pradesh",
+        "district": "WEST SIANG",
+        "address": "UPPER MARKET PO- YINGKIONG YINGKIONG Upper Siang AR IN 791001",
+        "register": "Registered on 19-07-2012",
+        "director_details": [
+            {
+                "DIN": "05332083",
+                "direct_name": "Dumen Nitik"
+            },
+            {
+                "DIN": "05332059",
+                "direct_name": "Ojing Pangkam"
+            }
+        ]
+    },
+    {
+        "company_name": "ARUNACHAL PROJECTS PRIVATE LIMITED",
+        "cin_no.": "U45203AR2009PTC008289",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "24-12-2009",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "WEST SIANG",
+        "address": "E 488 Town Vill Barapani Bazar Veterinary Complex Naharlagun West Siang AR IN 791001",
+        "register": "Registered on 24-12-2009",
+        "director_details": [
+            {
+                "DIN": "02630172",
+                "direct_name": "Neelam Nadap"
+            },
+            {
+                "DIN": "02630138",
+                "direct_name": "Neelam Tago"
+            }
+        ]
+    },
+    {
+        "company_name": "GEGUM CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U45303AR2012PTC008377",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "400000",
+        "registration_date": "03-12-2012",
+        "business_activity": "Construction",
+        "state": "Arunachal pradesh",
+        "district": "WEST SIANG",
+        "address": "E-96 (2) Vill-Kombo P.o & P.S-Aalo AALO West Siang AR IN 791001",
+        "register": "Registered on 03-12-2012",
+        "director_details": [
+            {
+                "DIN": "06421498",
+                "direct_name": "Dojir Lollen"
+            },
+            {
+                "DIN": "06421494",
+                "direct_name": "Gegum Lollen"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1122 @@
+[
+    {
+        "company_name": "AATHARAMURA ORGANIC PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01110TR2017PTC013524",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-06-2017",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "DHALAI",
+        "address": "P.S-Balaram Block-Bagamara Tripura Dhalai TR IN 799289",
+        "register": "Registered on 23-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "TRIDHA MILK PRODUCER COMPANY LIMITED",
+        "cin_no.": "U15130TR2018PTC013558",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-04-2018",
+        "business_activity": "Food Manufacturing",
+        "state": "Tripura",
+        "district": "DHALAI",
+        "address": "H/O RITA BOSE, NEAR UNITED BANK OF INDIA PURANA MOTOR STAND KAMALPUR Dhalai TR IN 799285",
+        "register": "Registered on 10-04-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "TRIPURASUANDARI INFRASTRUCTURE & LOGISTIC PRIVATE LIMITED",
+        "cin_no.": "U70109TR2017PTC013530",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "04-08-2017",
+        "business_activity": "Real Estate",
+        "state": "Tripura",
+        "district": "DHALAI",
+        "address": "Near Maruti showroom NH 44, Ambassa Dhalai Dhalai TR IN 799289",
+        "register": "Registered on 04-08-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "PRATISRUTI INFRA PROJECTS & SERVICES LIMITED",
+        "cin_no.": "U45202TR2013PLC008391",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "08-05-2013",
+        "business_activity": "Construction",
+        "state": "Tripura",
+        "district": "DHALAI",
+        "address": "SUBHASH PALLI NEAR AMBASSA SKYLINE NURSERY SCHOOL AMBASSA Dhalai TR IN 799289",
+        "register": "Registered on 08-05-2013",
+        "director_details": [
+            {
+                "DIN": "06534724",
+                "direct_name": "Sanjoy Marak"
+            },
+            {
+                "DIN": "06534684",
+                "direct_name": "Saurabh Deb"
+            },
+            {
+                "DIN": "06561209",
+                "direct_name": "Subrata Deb"
+            }
+        ]
+    },
+    {
+        "company_name": "PRERONA EARTHMOVERS PRIVATE LIMITED",
+        "cin_no.": "U70101TR2012PTC008355",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-07-2012",
+        "business_activity": "Real Estate",
+        "state": "Tripura",
+        "district": "DHALAI",
+        "address": "HALHALI KAMALPUR Dhalai TR IN 799286",
+        "register": "Registered on 09-07-2012",
+        "director_details": [
+            {
+                "DIN": "05303464",
+                "direct_name": "Lina Sinha"
+            },
+            {
+                "DIN": "05300538",
+                "direct_name": "Sudipta Roy"
+            }
+        ]
+    },
+    {
+        "company_name": "G.K.S. KINSHIP PROJECTS AND CONSTRUCTION LIMITED",
+        "cin_no.": "U45201TR2012PLC008360",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "26-07-2012",
+        "business_activity": "Construction",
+        "state": "Tripura",
+        "district": "DHALAI",
+        "address": "AMBASSA AMBASSA Dhalai TR IN 799289",
+        "register": "Registered on 26-07-2012",
+        "director_details": [
+            {
+                "DIN": "05327291",
+                "direct_name": "Kanchan Debnath"
+            },
+            {
+                "DIN": "05327304",
+                "direct_name": "Khokan Shil"
+            },
+            {
+                "DIN": "05327310",
+                "direct_name": "Reshmi Chanda"
+            },
+            {
+                "DIN": "05327317",
+                "direct_name": "Sadhan Chanda"
+            },
+            {
+                "DIN": "05327321",
+                "direct_name": "Subhas Chakraborty"
+            }
+        ]
+    },
+    {
+        "company_name": "DHRUBAJYOTI MICROFINANCE (INDIA) COMPANY LIMITED",
+        "cin_no.": "U65190TR2013NPL008380",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "11-01-2013",
+        "business_activity": "Finance",
+        "state": "Tripura",
+        "district": "DHALAI",
+        "address": "H/O MR. SANDIP PAL , C/O LT. RANJIT KUMAR PAL VILL - TRTC PARA ,G.C ROAD,NEAR TRIBAL REST HOUSE AMBASSA Dhalai TR IN 799289",
+        "register": "Registered on 11-01-2013",
+        "director_details": [
+            {
+                "DIN": "06461178",
+                "direct_name": "Sandip Pal"
+            },
+            {
+                "DIN": "06461190",
+                "direct_name": "Sudhanshu Chowdhury"
+            },
+            {
+                "DIN": "06461195",
+                "direct_name": "Sumita Choudhury"
+            }
+        ]
+    },
+    {
+        "company_name": "UJJAYANTA MUSTARD OIL INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U15142TR2016PTC008471",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "0",
+        "registration_date": "03-03-2016",
+        "business_activity": "Food Manufacturing",
+        "state": "Tripura",
+        "district": "EAST KHASI HILLS",
+        "address": "Stall No. 29, Bardowali Bipani Bitan Milan Sangha, AD Nagar, Agartala TR IN 793003",
+        "register": "Registered on 03-03-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "ELEMEL RESORTS & HOTELS PRIVATE LIMITED",
+        "cin_no.": "U55101TR2001PTC006615",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-09-2001",
+        "business_activity": "Trading",
+        "state": "Tripura",
+        "district": "KOHIMA",
+        "address": "MINISTER HILLNEAR VIP GUEST HOUSE KOHIMA NAGALAND Kohima TR IN 797001",
+        "register": "Registered on 07-09-2001",
+        "director_details": []
+    },
+    {
+        "company_name": "RAJWARSHI PROJECTS AND SERVICES LIMITED",
+        "cin_no.": "U01400TR2012PLC008344",
+        "status": "Under Process of Striking off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "30-01-2012",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "NA",
+        "address": "78 HGB Road Melarmath, Agartala West Tripura West Tripura TR IN 799107",
+        "register": "Registered on 30-01-2012",
+        "director_details": [
+            {
+                "DIN": "05150845",
+                "direct_name": "Nilanjan Bardhan"
+            },
+            {
+                "DIN": "05171528",
+                "direct_name": "Prasenjit Lodh"
+            },
+            {
+                "DIN": "05171539",
+                "direct_name": "Sadhan Das"
+            }
+        ]
+    },
+    {
+        "company_name": "MALANCHABAS COMPLEX PVT LTD",
+        "cin_no.": "U55101TR1979PTC001786",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "10000",
+        "registration_date": "18-08-1979",
+        "business_activity": "Trading",
+        "state": "Tripura",
+        "district": "NA",
+        "address": "Ujjayanta Palace, Agartala West Tripura TR IN",
+        "register": "Registered on 18-08-1979",
+        "director_details": []
+    },
+    {
+        "company_name": "SAMBIT HOTEL PVT LTD",
+        "cin_no.": "U55101TR1991PTC003548",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "20000",
+        "registration_date": "31-05-1991",
+        "business_activity": "Trading",
+        "state": "Tripura",
+        "district": "NA",
+        "address": "WEST TRIPURA WEST TRIPURA TRIPURA West Tripura TR IN",
+        "register": "Registered on 31-05-1991",
+        "director_details": []
+    },
+    {
+        "company_name": "HOTEL SIMRAN PRIVATE LIMITED",
+        "cin_no.": "U55101TR2000PTC006334",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "500000",
+        "registration_date": "17-10-2000",
+        "business_activity": "Trading",
+        "state": "Tripura",
+        "district": "NA",
+        "address": "L N BARI ROADEAST KOTWALI AGARTALA TRIPURA TR IN",
+        "register": "Registered on 17-10-2000",
+        "director_details": [
+            {
+                "DIN": "06543602",
+                "direct_name": "Babita Saha"
+            },
+            {
+                "DIN": "06543628",
+                "direct_name": "Prithiraj Paul"
+            }
+        ]
+    },
+    {
+        "company_name": "HOTEL PRAMILA PRIVATE LIMITED",
+        "cin_no.": "U55101TR2001PTC006462",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "26-03-2001",
+        "business_activity": "Trading",
+        "state": "Tripura",
+        "district": "NA",
+        "address": "THAKUR-PALLI ROADAGARTALA WEST TRIPURA TRIPURA West Tripura TR IN",
+        "register": "Registered on 26-03-2001",
+        "director_details": []
+    },
+    {
+        "company_name": "BOROK TRANSPORT PRIVATE LIMITED",
+        "cin_no.": "U60210TR2001PTC006464",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "26-03-2001",
+        "business_activity": "Transport and Storage",
+        "state": "Tripura",
+        "district": "NA",
+        "address": "DUKMALI HATIKUMULUNG WEST TRIPURA TRIPURA West Tripura TR IN",
+        "register": "Registered on 26-03-2001",
+        "director_details": []
+    },
+    {
+        "company_name": "GOMATI AGRI PRODUCER PRIVATE LIMITED",
+        "cin_no.": "U01100TR2011PTC008327",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "21-07-2011",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "NA",
+        "address": "Vill",
+        "register": "Registered on 21-07-2011",
+        "director_details": [
+            {
+                "DIN": "03547808",
+                "direct_name": "Dilip Pal"
+            },
+            {
+                "DIN": "03547693",
+                "direct_name": "Dulal Dey"
+            },
+            {
+                "DIN": "03547748",
+                "direct_name": "Jitendra Majumder"
+            },
+            {
+                "DIN": "03547750",
+                "direct_name": "Paramananda Sen"
+            },
+            {
+                "DIN": "03547696",
+                "direct_name": "Sudip Majumder"
+            }
+        ]
+    },
+    {
+        "company_name": "CHOWDHURY & SONS CO PVT LTD",
+        "cin_no.": "U01116TR1980PTC001847",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1050000",
+        "paid_up_capital": "118500",
+        "registration_date": "10-11-1980",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "NA",
+        "address": "RAJNAGARUDAIPUR SOUTH TRIPURA TRIPURA South Tripura TR IN",
+        "register": "Registered on 10-11-1980",
+        "director_details": []
+    },
+    {
+        "company_name": "NOTTING CHERRA TEA CO.PVT.LTD.",
+        "cin_no.": "U01132TR1961PTC001178",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "150000",
+        "paid_up_capital": "150000",
+        "registration_date": "18-11-1961",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "NA",
+        "address": "CHANDANA TEA ESTATE P.O",
+        "register": "Registered on 18-11-1961",
+        "director_details": []
+    },
+    {
+        "company_name": "UNOKOTI PLANTATIONS AND DEVELOPMENT CO.P VT.LTD.",
+        "cin_no.": "U01132TR1984PTC002200",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "300000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-07-1984",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "NA",
+        "address": "HARIGANGA ROAD,AGARTALADISTT.WEST TRIPURA West Tripura TR IN",
+        "register": "Registered on 27-07-1984",
+        "director_details": []
+    },
+    {
+        "company_name": "TRIPURA AGRO CHEMICALS PRIVATE LIMITED",
+        "cin_no.": "U01403TR2012PTC008349",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "03-04-2012",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "NORTH TRIPURA",
+        "address": "171, NUTAN PATTI, P.S.DHARMANAGAR DHARMANAGAR TR IN 799250",
+        "register": "Registered on 03-04-2012",
+        "director_details": [
+            {
+                "DIN": "05155842",
+                "direct_name": "Biswajit Chakraborty"
+            },
+            {
+                "DIN": "05155843",
+                "direct_name": "Mitali Chakraborty"
+            }
+        ]
+    },
+    {
+        "company_name": "DEO ORGANIC PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01110TR2017PTC013525",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-07-2017",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "NORTH TRIPURA",
+        "address": "Vill-Rajkandi Block- Kumarghat Tripura North Tripura TR IN 799290",
+        "register": "Registered on 17-07-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "FORTUNA AGRO PLANTATIONS LIMITED",
+        "cin_no.": "U15491WB1995PLC076201",
+        "status": "Not Available for eFiling",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "30000000",
+        "paid_up_capital": "2000",
+        "registration_date": "28-12-1995",
+        "business_activity": "Food Manufacturing",
+        "state": "West bengal",
+        "district": "KOLKATA",
+        "address": "227,A.J.C.BOSE RD.,2ND FL. KOLKATA WB IN 700020",
+        "register": "Registered on 28-12-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "DHARMANAGAR TEA PROCESSORS PRIVATE LIMITED",
+        "cin_no.": "U01132TR2008PTC008250",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2030000",
+        "registration_date": "17-09-2008",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "NORTH TRIPURA",
+        "address": "OFFICE TILLA ROAD DHARMANAGAR TR IN 799250",
+        "register": "Registered on 17-09-2008",
+        "director_details": [
+            {
+                "DIN": "02302303",
+                "direct_name": "Ashish Kumar Dey"
+            },
+            {
+                "DIN": "02970200",
+                "direct_name": "Kanhailal Kangsa Banik"
+            },
+            {
+                "DIN": "02301758",
+                "direct_name": "Rajkishore Sinha"
+            },
+            {
+                "DIN": "00851354",
+                "direct_name": "Ram Kumar Sharma"
+            },
+            {
+                "DIN": "02223110",
+                "direct_name": "Santosh Devi Bagaria"
+            },
+            {
+                "DIN": "02223164",
+                "direct_name": "Tickam Chand Ghorawath"
+            }
+        ]
+    },
+    {
+        "company_name": "DEBBARMA TEA PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01132TR2016PTC008467",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "04-02-2016",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "NORTH TRIPURA",
+        "address": "PANCHAMNAGAR PO-DHANBILASH KAILASHAHAR TR IN 799277",
+        "register": "Registered on 04-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SBP FOODS & BEVERAGES PRIVATE LIMITED",
+        "cin_no.": "U15410TR2013PTC008407",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-08-2013",
+        "business_activity": "Food Manufacturing",
+        "state": "Tripura",
+        "district": "NORTH TRIPURA",
+        "address": "47 , P.W.D ELAKA KAZIRGAON KAILASHAHAR North Tripura TR IN 799277",
+        "register": "Registered on 29-08-2013",
+        "director_details": [
+            {
+                "DIN": "06663904",
+                "direct_name": "Bikash Das"
+            },
+            {
+                "DIN": "06664072",
+                "direct_name": "Biraj Das"
+            }
+        ]
+    },
+    {
+        "company_name": "LEENJ INFRASTRUCTURES PRIVATE LIMITED",
+        "cin_no.": "U45201TR2013PTC008394",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-05-2013",
+        "business_activity": "Construction",
+        "state": "Tripura",
+        "district": "NORTH TRIPURA",
+        "address": "Choudhuri Para, Kailashahar North Tripura TR IN 799277",
+        "register": "Registered on 13-05-2013",
+        "director_details": [
+            {
+                "DIN": "06548175",
+                "direct_name": "Apu Sinha"
+            },
+            {
+                "DIN": "06548173",
+                "direct_name": "Joyjit Sinha"
+            }
+        ]
+    },
+    {
+        "company_name": "PRERONA PROJECTS AND DEVELOPERS LIMITED",
+        "cin_no.": "U45202TR2008PLC008246",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "01-07-2008",
+        "business_activity": "Construction",
+        "state": "Tripura",
+        "district": "NORTH TRIPURA",
+        "address": "OFFICE TILA DHARMANAGAR DHARMANAGAR North Tripura TR IN 799250",
+        "register": "Registered on 01-07-2008",
+        "director_details": [
+            {
+                "DIN": "02193638",
+                "direct_name": "Helal Uddin"
+            },
+            {
+                "DIN": "02193647",
+                "direct_name": "Monoj Kumar Dhar"
+            },
+            {
+                "DIN": "02193730",
+                "direct_name": "Spina Majumder"
+            }
+        ]
+    },
+    {
+        "company_name": "NEEDOMAIN MANUFACTURING PRIVATE LIMITED",
+        "cin_no.": "U26921TR2000PTC006316",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "860000",
+        "registration_date": "26-09-2000",
+        "business_activity": "Metals and Chemicals",
+        "state": "Tripura",
+        "district": "NORTH TRIPURA",
+        "address": "DHARMANAGARJAIL ROAD TRIPURA TR IN 799250",
+        "register": "Registered on 26-09-2000",
+        "director_details": [
+            {
+                "DIN": "02307905",
+                "direct_name": "Chittaranjan Goswami"
+            },
+            {
+                "DIN": "02602836",
+                "direct_name": "Papri Das"
+            }
+        ]
+    },
+    {
+        "company_name": "LEARNERS TECHNOCOM PRIVATE LIMITED",
+        "cin_no.": "U72200TR2003PTC007054",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "450000",
+        "paid_up_capital": "105000",
+        "registration_date": "27-03-2003",
+        "business_activity": "Business Services",
+        "state": "Tripura",
+        "district": "NORTH TRIPURA",
+        "address": "MAYA CINEMA HALL COMPLEXKALIBARI ROAD DHARMANAGAR West Tripura TR IN 799250",
+        "register": "Registered on 27-03-2003",
+        "director_details": []
+    },
+    {
+        "company_name": "GANDHIGRAM AGARBATTI CLUSTER PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400TR2013PTC008399",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-07-2013",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "SOUTH TRIPURA",
+        "address": "VILLAGE RAJNAGAR POST GANDHIGRAM, TRIPURA GANDHIGRAM West Tripura TR IN 799015",
+        "register": "Registered on 11-07-2013",
+        "director_details": [
+            {
+                "DIN": "06574739",
+                "direct_name": "Baby Sarkar"
+            },
+            {
+                "DIN": "06574742",
+                "direct_name": "Dipa Roy"
+            },
+            {
+                "DIN": "06574740",
+                "direct_name": "Madhumita Dutta"
+            },
+            {
+                "DIN": "03386084",
+                "direct_name": "Md Selim Reza"
+            },
+            {
+                "DIN": "03407959",
+                "direct_name": "Tushar Kanti Sarkar"
+            }
+        ]
+    },
+    {
+        "company_name": "GGRASONS AGRO INDIA PRIVATE LIMITED",
+        "cin_no.": "U01400TR2016PTC008473",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-03-2016",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "SOUTH TRIPURA",
+        "address": "PARATIA BASANKHALA, GRJ/890 R.K.PUR UDAIPUR South Tripura TR IN 799120",
+        "register": "Registered on 14-03-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "KRISHI O KRISHAK PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100TR2016PTC013479",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "844000",
+        "registration_date": "18-05-2016",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "SOUTH TRIPURA",
+        "address": "3/2897, CON FOR UDAIPUR PRIMARY MARKETING SICITY LTD. CHANBAN UDAIPUR RADHAKISHOREPUR South Tripura TR IN 799120",
+        "register": "Registered on 18-05-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "TRIPURESWARI ORGANIC PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01110TR2017PTC013518",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-05-2017",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "SOUTH TRIPURA",
+        "address": "Village Chakaku Para, Uttar Devipur Block-Bagafa Tripura South Tripura TR IN 799144",
+        "register": "Registered on 24-05-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "UNAKOTI INFRASTRUCTURE PRIVATE LIMITED",
+        "cin_no.": "U70109TR2016PTC013480",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-05-2016",
+        "business_activity": "Real Estate",
+        "state": "Tripura",
+        "district": "SOUTH TRIPURA",
+        "address": "Village- Ganjer Tila, Post- Santir Bazar Santir Bazar, South Tripura TR IN 799144",
+        "register": "Registered on 20-05-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "BASHUNDHARA INFRASTRUCTURE PRIVATE LIMITED",
+        "cin_no.": "U45202TR2015PTC008460",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-12-2015",
+        "business_activity": "Construction",
+        "state": "Tripura",
+        "district": "SOUTH TRIPURA",
+        "address": "HOUSE NO.- 16, NORTH MUHURIPUR P.O.- MUHURIPUR, P.S.- BAIKHORA SOUTH TRIPURA South Tripura TR IN 799142",
+        "register": "Registered on 08-12-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "TRIPURA DAIRY MANAGEMENT & FISHERY PROJECT PRIVATE LIMITED",
+        "cin_no.": "U51101TR2010PTC008293",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "2500000",
+        "registration_date": "09-04-2010",
+        "business_activity": "Trading",
+        "state": "Tripura",
+        "district": "SOUTH TRIPURA",
+        "address": "RAMESH CHOWMUHANI, UDAIPUR SOUTH TRIPURA SOUTH TRIPURA TR IN 799120",
+        "register": "Registered on 09-04-2010",
+        "director_details": [
+            {
+                "DIN": "06771607",
+                "direct_name": "Amitava Ray"
+            },
+            {
+                "DIN": "06775677",
+                "direct_name": "Manik Bhowmik"
+            },
+            {
+                "DIN": "02946331",
+                "direct_name": "Pradip Kumar Pal"
+            },
+            {
+                "DIN": "02946510",
+                "direct_name": "Supriya Debbarma"
+            }
+        ]
+    },
+    {
+        "company_name": "AISHWARYA PAPER MILLS PVT LTD",
+        "cin_no.": "U21029TR1992PTC003803",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "5000",
+        "registration_date": "13-11-1992",
+        "business_activity": "Paper and Printing",
+        "state": "Tripura",
+        "district": "SOUTH TRIPURA",
+        "address": "Jamajuri, Udaipur, South Tripura South Tripura TR IN 799120",
+        "register": "Registered on 13-11-1992",
+        "director_details": []
+    },
+    {
+        "company_name": "TIWARY ENTRADE LIMITED",
+        "cin_no.": "U51909TR2010PLC008283",
+        "status": "Under Process of Striking off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "09-02-2010",
+        "business_activity": "Trading",
+        "state": "Tripura",
+        "district": "SOUTH TRIPURA",
+        "address": "VILL BHAGALPUR, NARSINGARH P.O. BIMANGARH. AGARTALA West Tripura TR IN 799015",
+        "register": "Registered on 09-02-2010",
+        "director_details": [
+            {
+                "DIN": "05207828",
+                "direct_name": "Arjun Das"
+            },
+            {
+                "DIN": "06791890",
+                "direct_name": "Biplab Das"
+            },
+            {
+                "DIN": "02895427",
+                "direct_name": "Damanti Tiwary"
+            },
+            {
+                "DIN": "05131159",
+                "direct_name": "Partha Chakraborty"
+            }
+        ]
+    },
+    {
+        "company_name": "TRIPURA SUNDARI ENTRADE LIMITED",
+        "cin_no.": "U51909TR2010PLC008315",
+        "status": "Under Process of Striking off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "700000",
+        "registration_date": "11-11-2010",
+        "business_activity": "Trading",
+        "state": "Tripura",
+        "district": "SOUTH TRIPURA",
+        "address": "EAST DHWAJANAGAR, NEAR N.H. 44 P.O. GOKULPUR, P.S. R.K. PUR UDAIPUR South Tripura TR IN 799114",
+        "register": "Registered on 11-11-2010",
+        "director_details": [
+            {
+                "DIN": "03277136",
+                "direct_name": "Minu Debnath"
+            },
+            {
+                "DIN": "03277134",
+                "direct_name": "Parimal Majumder"
+            },
+            {
+                "DIN": "03277133",
+                "direct_name": "Uttam Kumar Debnath"
+            }
+        ]
+    },
+    {
+        "company_name": "RIGALIA ECO AGRO PRIVATE LIMITED",
+        "cin_no.": "U01400TR2010PTC008311",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "300000",
+        "registration_date": "09-09-2010",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "WEST TRIPURA",
+        "address": "RASIK BHAVAN EAST SHIBNAGAR, PO",
+        "register": "Registered on 09-09-2010",
+        "director_details": [
+            {
+                "DIN": "03142391",
+                "direct_name": "Raju Saha"
+            },
+            {
+                "DIN": "03157084",
+                "direct_name": "Rakesh Saha"
+            },
+            {
+                "DIN": "03157101",
+                "direct_name": "Sima Saha"
+            }
+        ]
+    },
+    {
+        "company_name": "NATIVE RURAL BAMBOO PRIVATE LIMITED",
+        "cin_no.": "U01403TR2009PTC008271",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-08-2009",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "WEST TRIPURA",
+        "address": "GANDHIGRAM (NEAR TEHSIL) GANDHIGRAM AGARTALLA West Tripura TR IN 799012",
+        "register": "Registered on 27-08-2009",
+        "director_details": [
+            {
+                "DIN": "02435289",
+                "direct_name": "Bharat Parekh"
+            },
+            {
+                "DIN": "02164418",
+                "direct_name": "Indurti Venkata Ramanuja Rao"
+            }
+        ]
+    },
+    {
+        "company_name": "LEGACY ENTRADE PRIVATE LIMITED",
+        "cin_no.": "U01403TR2010PTC008290",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "12-03-2010",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "WEST TRIPURA",
+        "address": "MALARMATH NEAR NAJRUL CHHATRABAS AGARTALA West Tripura TR IN 799001",
+        "register": "Registered on 12-03-2010",
+        "director_details": [
+            {
+                "DIN": "02401212",
+                "direct_name": "Indrajit Sur"
+            },
+            {
+                "DIN": "02403088",
+                "direct_name": "Purabi Debbarma"
+            },
+            {
+                "DIN": "02340248",
+                "direct_name": "Sadananda Bhowmik"
+            }
+        ]
+    },
+    {
+        "company_name": "HAPPYLIFE AQUA & AGRI FARMS PRIVATE LIMITED",
+        "cin_no.": "U01403TR2012PTC008346",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "08-02-2012",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "WEST TRIPURA",
+        "address": "Nager Jala, Near Jahar Bridge P.O. A.D. Nagar Agartala West Tripura TR IN 799003",
+        "register": "Registered on 08-02-2012",
+        "director_details": [
+            {
+                "DIN": "02726269",
+                "direct_name": "Babul Shil"
+            },
+            {
+                "DIN": "03615572",
+                "direct_name": "Bijan Ray"
+            },
+            {
+                "DIN": "03613854",
+                "direct_name": "Rana Biswas"
+            },
+            {
+                "DIN": "03615121",
+                "direct_name": "Sanjay Kumar Bhattacharya"
+            },
+            {
+                "DIN": "03615132",
+                "direct_name": "Shemel Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "TRIPURASHWARI AGRO PRODUCT PRIVATE LIMITED",
+        "cin_no.": "U01403TR2012PTC008374",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "60000000",
+        "paid_up_capital": "16796000",
+        "registration_date": "20-11-2012",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "WEST TRIPURA",
+        "address": "RAKESH SAHA, SHIV RUBBER RADHANAGAR, P.O. - AGARTALA AGARTALA West Tripura TR IN 799001",
+        "register": "Registered on 20-11-2012",
+        "director_details": [
+            {
+                "DIN": "02656329",
+                "direct_name": "Kuresh Akbarali Patel"
+            },
+            {
+                "DIN": "06455481",
+                "direct_name": "Rakesh Saha"
+            },
+            {
+                "DIN": "06378390",
+                "direct_name": "Sabyasachi Sam"
+            }
+        ]
+    },
+    {
+        "company_name": "MOUNTT AGROVET PRIVATE LIMITED",
+        "cin_no.": "U01409TR2015PTC008458",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "4980000",
+        "registration_date": "05-10-2015",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "WEST TRIPURA",
+        "address": "M G Bazar, Wooden Merket S/o Lt Pijush Kanti Paul Agartala TR IN 799001",
+        "register": "Registered on 05-10-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "BABALOKNATH MINI FOOD PARK PRIVATE LIMITED",
+        "cin_no.": "U01810TR2015PTC008461",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "18-12-2015",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "WEST TRIPURA",
+        "address": "BUDDHA MANDIR ABHOYNAGAR AGARTALA TR IN 799005",
+        "register": "Registered on 18-12-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "KATLAMARA BAMBOO SERVICES PRIVATE LIMITED",
+        "cin_no.": "U02000TR2014PTC008431",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-07-2014",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "WEST TRIPURA",
+        "address": "KATLAMARA SIDHAI West Tripura TR IN 799212",
+        "register": "Registered on 30-07-2014",
+        "director_details": [
+            {
+                "DIN": "06918880",
+                "direct_name": "Manna Roy"
+            },
+            {
+                "DIN": "06918861",
+                "direct_name": "Mausumi Ray Deb"
+            }
+        ]
+    },
+    {
+        "company_name": "TRIPURA REHABILITATION PLANTATION CORPORATION LIMITED",
+        "cin_no.": "U02001TR1983SGC002009",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "45773400",
+        "registration_date": "03-02-1983",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "WEST TRIPURA",
+        "address": "PALACE COMPOUND NORTH GATE, AGARTALA TR IN 799001",
+        "register": "Registered on 03-02-1983",
+        "director_details": [
+            {
+                "DIN": "02556161",
+                "direct_name": "Manindra Reang"
+            },
+            {
+                "DIN": "02701674",
+                "direct_name": "Rameshwar Lal Srivastava"
+            },
+            {
+                "DIN": "02556241",
+                "direct_name": "Sabitri Debbarma"
+            },
+            {
+                "DIN": "07176688",
+                "direct_name": "Sushil Debbarma"
+            }
+        ]
+    },
+    {
+        "company_name": "HIGHLAND TEAK PLANTATIONS PVT LTD",
+        "cin_no.": "U02001TR1995PTC004341",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "1050000",
+        "registration_date": "24-01-1995",
+        "business_activity": "Agriculture",
+        "state": "Tripura",
+        "district": "WEST TRIPURA",
+        "address": "CANTONMENT ROADAGARTALA TRIPURA West Tripura TR IN 799001",
+        "register": "Registered on 24-01-1995",
+        "director_details": []
+    }
+]

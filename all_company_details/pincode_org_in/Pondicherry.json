@@ -1,0 +1,1967 @@
+[
+    {
+        "company_name": "AUROFOOD PRIVATE LIMITED",
+        "cin_no.": "U99999PY1966PTC000091",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "120000000",
+        "paid_up_capital": "0",
+        "registration_date": "16-11-1966",
+        "business_activity": "Others",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "NO. C.S. TOWERS, FLAT NO.2A,III FLOOR, 34 BAZULLAH ROAD, T. NAGAR, CHENNAI-600017. TAMILNADU PY IN",
+        "register": "Registered on 16-11-1966",
+        "director_details": []
+    },
+    {
+        "company_name": "RANJIT FOODS PRIVATE LIMITED",
+        "cin_no.": "U99999PY1995PTC001095",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "0",
+        "registration_date": "12-06-1995",
+        "business_activity": "Others",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "NO.237, PETERS ROAD,CHENNAI-600086. TAMIL NADU 600086.. PY IN",
+        "register": "Registered on 12-06-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "MILLENNIUM E SOFT SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U99999PY2000PTC001522",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "9000000",
+        "paid_up_capital": "0",
+        "registration_date": "22-02-2000",
+        "business_activity": "Others",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "SHAPRE TOWERS, NO.39[OLDMNO.20NORTH USMAN ROAD T.NAGAR, CHENNAI-600002. CHENNAI-600002. PY IN",
+        "register": "Registered on 22-02-2000",
+        "director_details": []
+    },
+    {
+        "company_name": "SHRIRAM OVERSEAS FINANCE LIMITED",
+        "cin_no.": "L65929PY1989PLC000634",
+        "status": "Not Available for eFiling",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000000",
+        "paid_up_capital": "0",
+        "registration_date": "01-06-1989",
+        "business_activity": "Finance",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "123,ANGAPPA NAICKEN ST.,CHENNAI PIN-600001 600001. PY IN",
+        "register": "Registered on 01-06-1989",
+        "director_details": []
+    },
+    {
+        "company_name": "TEXCARE PRIVATE LIMITED",
+        "cin_no.": "U17210PY1992PTC000857",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "28-12-1992",
+        "business_activity": "Textiles",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "NO.72, [OLD NO.19],MARSHALS ROAD, EGMORE, CHENNAI-600008. 600008. PY IN",
+        "register": "Registered on 28-12-1992",
+        "director_details": []
+    },
+    {
+        "company_name": "MEDIVISION INDIA PRIVATE LIMITED",
+        "cin_no.": "U33119PY1997PTC001347",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-09-1997",
+        "business_activity": "Machinery and Equipments",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "NO.10, VILLIANOOR MAIN ROAD, MOOLAKULAM PONDICHERRY. PY IN 600010",
+        "register": "Registered on 23-09-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "MODERN HITECH ENGINEERING PRIVATE LIMITED",
+        "cin_no.": "U45203PY2008PTC002230",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "06-11-2008",
+        "business_activity": "Construction",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "33, 6th Cross Street Kurinji Nagar, Lawspet Pondicherry Pondicherry PY IN 600008",
+        "register": "Registered on 06-11-2008",
+        "director_details": [
+            {
+                "DIN": "02331277",
+                "direct_name": "Ramakrishnan Vinayagam"
+            },
+            {
+                "DIN": "02356242",
+                "direct_name": "Sivalingam Elangovan"
+            },
+            {
+                "DIN": "02356280",
+                "direct_name": "Srinivasan Gopalakrishnan"
+            }
+        ]
+    },
+    {
+        "company_name": "ALLPHA SOLUTIONS PONDICHERRY PRIVATE LIMITED",
+        "cin_no.": "U72900PY2009PTC002279",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-03-2009",
+        "business_activity": "Business Services",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "5, II FLOOR, ELLAPILLAI CHAVADI MAIN ROAD NEAR JK TOWER, PONDICHERRY PONDICHERRY Pondicherry PY IN 600013",
+        "register": "Registered on 27-03-2009",
+        "director_details": [
+            {
+                "DIN": "02593816",
+                "direct_name": "Arunraj Ezhumalai"
+            },
+            {
+                "DIN": "02593808",
+                "direct_name": "Venu Babu"
+            }
+        ]
+    },
+    {
+        "company_name": "SRI VENKATESWARA HITECH AGRO PRIVATE LIMITED",
+        "cin_no.": "U01409PY1999PTC001497",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "7500000",
+        "paid_up_capital": "7500000",
+        "registration_date": "25-10-1999",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "ADIVIPALAM,YANAM-533464. YANAM-533464. PY IN 533464",
+        "register": "Registered on 25-10-1999",
+        "director_details": [
+            {
+                "DIN": "07140323",
+                "direct_name": "Sri Venkata Suryanarayana Tammineedi"
+            },
+            {
+                "DIN": "07140325",
+                "direct_name": "Vardana Kumari Upperla"
+            }
+        ]
+    },
+    {
+        "company_name": "MARAINE HARVEST INDIA LTD.",
+        "cin_no.": "U05004PY1993PLC000871",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "1000",
+        "registration_date": "03-03-1993",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "8.141 PYDICONDALA STREETYANAM 533464. YANAM 533464. PY IN 533464",
+        "register": "Registered on 03-03-1993",
+        "director_details": [
+            {
+                "DIN": "00891076",
+                "direct_name": "Kameswara Rao Puilavarty"
+            }
+        ]
+    },
+    {
+        "company_name": "P R GEOTECH (INDIA) PRIVATE LIMITED",
+        "cin_no.": "U13200PY2011PTC002652",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-12-2011",
+        "business_activity": "Mining and Quarrying",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "DOOR NO.5-3-20, 1ST FLOOR, ADAVIPALEM UPSTAIRS OF VENKATA SAI ICE INDUSTRIES YANAM PY IN 533464",
+        "register": "Registered on 19-12-2011",
+        "director_details": [
+            {
+                "DIN": "03316954",
+                "direct_name": "Kuchupurrakal Georgepothen"
+            },
+            {
+                "DIN": "07046513",
+                "direct_name": "Radhakrishna Murthy Vemulapalli"
+            },
+            {
+                "DIN": "03615711",
+                "direct_name": "Satyasai Vani Vemulapalli"
+            },
+            {
+                "DIN": "07046511",
+                "direct_name": "Suresh Babu Yarlagadda"
+            },
+            {
+                "DIN": "07046514",
+                "direct_name": "Suseela Devi Vemulapalli"
+            },
+            {
+                "DIN": "03615707",
+                "direct_name": "Venkateswara Rao Vemulapalli"
+            },
+            {
+                "DIN": "05112276",
+                "direct_name": "Vidya Sagar Beta"
+            },
+            {
+                "DIN": "05122554",
+                "direct_name": "Yosaf Kakarla"
+            }
+        ]
+    },
+    {
+        "company_name": "YANAMS INDUSTRIAL CHEMICALS AND ALLIED P RODUCTS PVT.LTD.",
+        "cin_no.": "U24100PY1985PTC000349",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "400",
+        "registration_date": "30-08-1985",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "s.75, Paidikondal Street, Yanam, pondicherry PY IN 533462",
+        "register": "Registered on 30-08-1985",
+        "director_details": []
+    },
+    {
+        "company_name": "COROMANDEL PIGMENTS PVT.LTD.",
+        "cin_no.": "U24221PY1988PTC000576",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "865000",
+        "registration_date": "12-04-1988",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "Adivipolam Yanam PY IN 533464",
+        "register": "Registered on 12-04-1988",
+        "director_details": []
+    },
+    {
+        "company_name": "SWAMY CHEMICALS PVT. LTD.",
+        "cin_no.": "U24232PY1986PTC000410",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "800000",
+        "paid_up_capital": "2000",
+        "registration_date": "21-05-1986",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "7-3 Dhobi Street Yanam Pondicherry PY IN 533464",
+        "register": "Registered on 21-05-1986",
+        "director_details": []
+    },
+    {
+        "company_name": "LORD VENKY PHARMA PVT LTD",
+        "cin_no.": "U24232PY1989PTC000626",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "900000",
+        "paid_up_capital": "900000",
+        "registration_date": "16-03-1989",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "T.S.NO.A/5-4-8, METTAKURYANAM, U.T OF PONDICHERRY YANAM, U.T OF PONDICHERRY PY IN 533464",
+        "register": "Registered on 16-03-1989",
+        "director_details": [
+            {
+                "DIN": "07491776",
+                "direct_name": "Ratna Geetardha Chittoory"
+            },
+            {
+                "DIN": "02919836",
+                "direct_name": "Satya Narayana Murthy Chittoory"
+            },
+            {
+                "DIN": "01818365",
+                "direct_name": "Venkata Subrahmanyam Chittoory"
+            }
+        ]
+    },
+    {
+        "company_name": "REGENCY TRANSPORT CARRIERS LIMITED",
+        "cin_no.": "U60221PY2001PLC001594",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "4333000",
+        "registration_date": "17-05-2001",
+        "business_activity": "Transport and Storage",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "4-131, OPOSITE TO BUS STAND,YANAM, PINCODE - 533464 YANAM - 533464 PY IN 533464",
+        "register": "Registered on 17-05-2001",
+        "director_details": [
+            {
+                "DIN": "01852020",
+                "direct_name": "Poluru Dasaiah Naidu"
+            },
+            {
+                "DIN": "02700266",
+                "direct_name": "Poluru Vijaya Kumari"
+            },
+            {
+                "DIN": "01825331",
+                "direct_name": "Sreeramchowdary Venamadala"
+            }
+        ]
+    },
+    {
+        "company_name": "CHAMA EXPORTS AND IMPORTS PRIVATE LIMITE D",
+        "cin_no.": "U99999PY1994PTC001027",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "300000",
+        "paid_up_capital": "0",
+        "registration_date": "16-12-1994",
+        "business_activity": "Others",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "4-333, ANYAM GARDENS,YANAM-533464. UNION TERITORY OF PONDICHERRY. PY IN",
+        "register": "Registered on 16-12-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "SIBAR FINANCIAL SERVICES PRIVATE LIMITED",
+        "cin_no.": "U65910AP1997PTC027165",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "6000000",
+        "paid_up_capital": "0",
+        "registration_date": "23-05-1997",
+        "business_activity": "Finance",
+        "state": "Andhra pradesh",
+        "district": "NA",
+        "address": "D NO. 27-14-49, II FLOORRAJA GOPALACHARI STREET GOVERNORPET, VIJAYAWADA - 2. AP IN",
+        "register": "Registered on 23-05-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "ANJANEYA HERBALS LIMITED",
+        "cin_no.": "U01575PY2001PLC001575",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "26-02-2001",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "KANNUR",
+        "address": "7/1021, CHALAKKARA VILLAGE,MAHE, PONDICHERRY - 670 671 MAHE,PONDICHERRY-670 671 PY IN 670671",
+        "register": "Registered on 26-02-2001",
+        "director_details": []
+    },
+    {
+        "company_name": "PONDY ROLLER FLOUR MILLS PRIVATE LIMITED",
+        "cin_no.": "U15311PY1984PTC000295",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "9500000",
+        "paid_up_capital": "1500000",
+        "registration_date": "31-12-1984",
+        "business_activity": "Food Manufacturing",
+        "state": "Pondicherry",
+        "district": "KANNUR",
+        "address": "CHALAKKARA , MAHE 673 311 CHALAKKARA , MAHE 673 311 PY IN 673311",
+        "register": "Registered on 31-12-1984",
+        "director_details": [
+            {
+                "DIN": "01678711",
+                "direct_name": "Ahammed Pokkinary"
+            },
+            {
+                "DIN": "01327815",
+                "direct_name": "Mohamed Farvese Kottikolon Epavalath"
+            },
+            {
+                "DIN": "01678691",
+                "direct_name": "Moidu Kottikollan Edavalath"
+            },
+            {
+                "DIN": "00541315",
+                "direct_name": "Pokkinary Hashim"
+            }
+        ]
+    },
+    {
+        "company_name": "ICFI CHITS PRIVATE LIMITED",
+        "cin_no.": "U65992PY2012PTC002761",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "2500000",
+        "registration_date": "27-11-2012",
+        "business_activity": "Finance",
+        "state": "Pondicherry",
+        "district": "KANNUR",
+        "address": "House No MMC IX/257 Near Spinning mill East Palloor Mahe Mahe PY IN 670672",
+        "register": "Registered on 27-11-2012",
+        "director_details": [
+            {
+                "DIN": "02091232",
+                "direct_name": "Leelamma Mathew"
+            },
+            {
+                "DIN": "00898475",
+                "direct_name": "Mathew Thomas Kattiveetil"
+            }
+        ]
+    },
+    {
+        "company_name": "SREE LAKSHMI MOOKAMBIKA CHITS PRIVATE LIMITED",
+        "cin_no.": "U65992PY2013PTC002824",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "06-09-2013",
+        "business_activity": "Finance",
+        "state": "Pondicherry",
+        "district": "KANNUR",
+        "address": "Door No. X/298U, X/298V, 1st Floor Sakthi Complex, Near Register office, Chokli P.O, Pondicherry Mahe PY IN 670672",
+        "register": "Registered on 06-09-2013",
+        "director_details": [
+            {
+                "DIN": "06587157",
+                "direct_name": "Karunakaran Gopalakrishnan"
+            },
+            {
+                "DIN": "06587150",
+                "direct_name": "Pramod Kuniyil"
+            },
+            {
+                "DIN": "06587165",
+                "direct_name": "Sreejith Variyil Othiyoth"
+            }
+        ]
+    },
+    {
+        "company_name": "REAL DREAMS AGRO WORLD INDIA LIMITED",
+        "cin_no.": "U01400PY2014PLC002854",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "04-02-2014",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "KARAIKAL",
+        "address": "No.45/1, Market Street Karaikal Karaikal PY IN 609602",
+        "register": "Registered on 04-02-2014",
+        "director_details": [
+            {
+                "DIN": "06582502",
+                "direct_name": "Arumugam Pazhniyanti"
+            },
+            {
+                "DIN": "06582964",
+                "direct_name": "Govindarasu Rajamurthy"
+            },
+            {
+                "DIN": "06582999",
+                "direct_name": "Govindharaj"
+            },
+            {
+                "DIN": "06581207",
+                "direct_name": "Kaliaperumal Palani"
+            },
+            {
+                "DIN": "06583677",
+                "direct_name": "Kanagaraja"
+            },
+            {
+                "DIN": "05347870",
+                "direct_name": "Mohamadaly"
+            },
+            {
+                "DIN": "06582205",
+                "direct_name": "Palanivelu"
+            }
+        ]
+    },
+    {
+        "company_name": "KAMAKSHI CHEMICALS PRIVATE LIMITED",
+        "cin_no.": "U02429PY2002PTC001668",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "10-10-2002",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "KARAIKAL",
+        "address": "RS.NO.57/3/D,NAINIKATTALAI ROAD,POLAGAM, T.R.PATTINAM COMMUNE KARAIKAL-609 606 PY IN 609606",
+        "register": "Registered on 10-10-2002",
+        "director_details": [
+            {
+                "DIN": "02328732",
+                "direct_name": "Thangavelnadar Ponnarasi"
+            },
+            {
+                "DIN": "02294802",
+                "direct_name": "Vellakoilnadar Arulsing"
+            }
+        ]
+    },
+    {
+        "company_name": "P.R.N. AQUA FARMS PRIVATE LIMITED.",
+        "cin_no.": "U05004PY2002PTC001657",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "200000",
+        "registration_date": "26-08-2002",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "KARAIKAL",
+        "address": "50,BHARATHIAR ROADKOTTUCHERRY KARAIKAL-609 609 PY IN 609609",
+        "register": "Registered on 26-08-2002",
+        "director_details": [
+            {
+                "DIN": "01821666",
+                "direct_name": "Subramanian Nalamaharajan"
+            },
+            {
+                "DIN": "01853088",
+                "direct_name": "Thenaruvi Kutralingam Jayaraj"
+            },
+            {
+                "DIN": "01853057",
+                "direct_name": "Vasantha Govindarasu Nadar"
+            }
+        ]
+    },
+    {
+        "company_name": "BEACH MINERALS COMPANY PONDICHERY PRIVAT E LIMITED",
+        "cin_no.": "U13203PY2003PTC001741",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "700000",
+        "paid_up_capital": "700000",
+        "registration_date": "17-12-2003",
+        "business_activity": "Mining and Quarrying",
+        "state": "Pondicherry",
+        "district": "KARAIKAL",
+        "address": "255,THIRUNALLAR ROAD,KARAIKAL 609 602, PONDICHERRY. KARAIKAL 609 602 PY IN 609602",
+        "register": "Registered on 17-12-2003",
+        "director_details": [
+            {
+                "DIN": "00079398",
+                "direct_name": "Subbiah Nadar Sukumar"
+            },
+            {
+                "DIN": "00079587",
+                "direct_name": "Sukumar Kalaiyarasi"
+            }
+        ]
+    },
+    {
+        "company_name": "BALA MURUGAN CHEMICALS PRIVATE LIMITED",
+        "cin_no.": "U24111PY2005PTC001900",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "400000000",
+        "paid_up_capital": "400000000",
+        "registration_date": "14-09-2005",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "KARAIKAL",
+        "address": "NO.255, TIRUNALLAR ROAD,KARAIKAL-609602. 609602. PY IN 609602",
+        "register": "Registered on 14-09-2005",
+        "director_details": [
+            {
+                "DIN": "06403028",
+                "direct_name": "Krishnan Pandurangan"
+            },
+            {
+                "DIN": "06740688",
+                "direct_name": "Ramachandran Harihara Mahadevan"
+            },
+            {
+                "DIN": "06403066",
+                "direct_name": "Thirumani Selvan Nainar"
+            }
+        ]
+    },
+    {
+        "company_name": "ABHIRAAMI CHEMICALS LIMITED",
+        "cin_no.": "U24117PY1992PLC000855",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "1350000",
+        "registration_date": "23-12-1992",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "KARAIKAL",
+        "address": "PERALAM MAIN ROADTHIRUNALLAR KARAIKAL 609 607 KARAIKAL 609 607 PY IN 609607",
+        "register": "Registered on 23-12-1992",
+        "director_details": [
+            {
+                "DIN": "03095492",
+                "direct_name": "Krishnan Thiagarajan"
+            },
+            {
+                "DIN": "01352192",
+                "direct_name": "Pradosh Thonour Gopalakrishnan"
+            },
+            {
+                "DIN": "03097724",
+                "direct_name": "Ramachandran Ananthakrishna"
+            }
+        ]
+    },
+    {
+        "company_name": "SRI CHENTHOORAN SODIUM PLANT PRIVATE LIMITED",
+        "cin_no.": "U24117PY2003PTC001710",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "12-06-2003",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "KARAIKAL",
+        "address": "R.S.NO.563, KEELAVANJORE,THIRUMALAIRAYANPATTINAM, KARAIKAL-609606. 609606. PY IN 609606",
+        "register": "Registered on 12-06-2003",
+        "director_details": [
+            {
+                "DIN": "00538756",
+                "direct_name": "G Vidhya"
+            },
+            {
+                "DIN": "00538750",
+                "direct_name": "M Revathy"
+            }
+        ]
+    },
+    {
+        "company_name": "RAJLAKSHMI CHEMICALS PVT LTD",
+        "cin_no.": "U24118PY1992PTC000817",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "600000",
+        "paid_up_capital": "560000",
+        "registration_date": "01-07-1992",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "KARAIKAL",
+        "address": "86,CHURCH STREETKARAIKKAL PONDICHERRY PY IN 609602",
+        "register": "Registered on 01-07-1992",
+        "director_details": [
+            {
+                "DIN": "00152011",
+                "direct_name": "Ganesan Swaminathan"
+            },
+            {
+                "DIN": "00152215",
+                "direct_name": "Kumaar Swaminathan"
+            },
+            {
+                "DIN": "00151959",
+                "direct_name": "Vijayan Swaminathan"
+            }
+        ]
+    },
+    {
+        "company_name": "MANGALYAN MANUFACTURES PRIVATE LIMITED",
+        "cin_no.": "U24211PY2014PTC002885",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-06-2014",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "KARAIKAL",
+        "address": "NO- 31 SOUTH ABIRAMI AMMAN STREET T.R PATTINAM KARAIKAL Karaikal PY IN 609606",
+        "register": "Registered on 18-06-2014",
+        "director_details": [
+            {
+                "DIN": "06647057",
+                "direct_name": "Kadhiravan Madhivanan"
+            },
+            {
+                "DIN": "06805440",
+                "direct_name": "Olichandran Gejalakshmi"
+            }
+        ]
+    },
+    {
+        "company_name": "LAKSHMI INKS (KARAIKAL) PRIVATE LIMITED",
+        "cin_no.": "U24223PY1997PTC001290",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "150000",
+        "registration_date": "27-01-1997",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "KARAIKAL",
+        "address": "JEEVANAGAR ROADKOTTUCHERRY KARAIKAL 609 609 KARAIKAL 609 609 PY IN 609609",
+        "register": "Registered on 27-01-1997",
+        "director_details": [
+            {
+                "DIN": "02358039",
+                "direct_name": "Chockalingam Ramanathan"
+            },
+            {
+                "DIN": "02365829",
+                "direct_name": "Padma Parameswaran"
+            },
+            {
+                "DIN": "02365819",
+                "direct_name": "Parameswaran Nurani Thandaveswaran"
+            }
+        ]
+    },
+    {
+        "company_name": "INDO-FRENCH FACHIONS PVT LTD",
+        "cin_no.": "U18101PY1987PTC000544",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "2000000",
+        "registration_date": "12-11-1987",
+        "business_activity": "Textiles",
+        "state": "Pondicherry",
+        "district": "KARIM NAGAR",
+        "address": "26A, Radhakrishna Street, Pondicherry. PY IN 505001",
+        "register": "Registered on 12-11-1987",
+        "director_details": []
+    },
+    {
+        "company_name": "DIGITAL ELECTRO HOME APPLIANCES PRIVATE LIMITED",
+        "cin_no.": "U51395PY2003PTC001737",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2500000",
+        "registration_date": "28-11-2003",
+        "business_activity": "Trading",
+        "state": "Pondicherry",
+        "district": "MAHE",
+        "address": "MMCII,NEW599,HOSPIITAL JUNCTIOON, MAIN ROAD MAHE 673310, MAHE THAHSIL. 673310 PY IN 673310",
+        "register": "Registered on 28-11-2003",
+        "director_details": []
+    },
+    {
+        "company_name": "OXYGEN MARKETING INDIA PRIVATE LIMITED",
+        "cin_no.": "U51909PY2005PTC001904",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "28-09-2005",
+        "business_activity": "Trading",
+        "state": "Pondicherry",
+        "district": "MAHE",
+        "address": "D.NO.MMC/3-1386,GOVT. HOSPITAL JUNCTION, MAHE-673310. 673310. PY IN 673310",
+        "register": "Registered on 28-09-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "VINTAGE SPIRITS PRIVATE LIMITED",
+        "cin_no.": "U51909PY2010PTC002505",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "12-10-2010",
+        "business_activity": "Trading",
+        "state": "Pondicherry",
+        "district": "MAHE",
+        "address": "MMC.V/683-B NEAR INDIAN BANK MAHE PY IN 673310",
+        "register": "Registered on 12-10-2010",
+        "director_details": [
+            {
+                "DIN": "02238496",
+                "direct_name": "Benny Chakkichery Urumese"
+            },
+            {
+                "DIN": "02238486",
+                "direct_name": "Mary Joseph"
+            }
+        ]
+    },
+    {
+        "company_name": "R AND S PRECISION ELECTRONICS PRIVATE LIMITED",
+        "cin_no.": "U25209PY1999PTC001464",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "4000000",
+        "paid_up_capital": "4000000",
+        "registration_date": "19-04-1999",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "MAHE",
+        "address": "D.NO.742/II, POOZHIYIL HOUSE,NEAR SKBS CHOODIKOTTA, MAHE-673310. MAHE - 673 310 PY IN 673310",
+        "register": "Registered on 19-04-1999",
+        "director_details": [
+            {
+                "DIN": "01875443",
+                "direct_name": "Madhavi Chathoth Rajalakshmi"
+            },
+            {
+                "DIN": "01875352",
+                "direct_name": "Poozhiyil Gopalan"
+            }
+        ]
+    },
+    {
+        "company_name": "VNM JEWEL CRAFTS LIMITED",
+        "cin_no.": "U27205PY2001PLC001587",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "9500100",
+        "registration_date": "11-04-2001",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "MAHE",
+        "address": "5/2210/5 BOULEVARD ROADMANJAKKAL MAHE-673 310,PONDICHERRY. MAHE - 673 310 Mahe PY IN 673310",
+        "register": "Registered on 11-04-2001",
+        "director_details": [
+            {
+                "DIN": "00124817",
+                "direct_name": "Anupama Ravinath"
+            },
+            {
+                "DIN": "00138583",
+                "direct_name": "Ernest Theodore Poyyail"
+            },
+            {
+                "DIN": "07553590",
+                "direct_name": "Ganesh Surendran"
+            },
+            {
+                "DIN": "00304394",
+                "direct_name": "Ravinath Mohandas"
+            }
+        ]
+    },
+    {
+        "company_name": "SREE KANAKAM CHITS AND FINANCE PRIVATE L IMITED",
+        "cin_no.": "U65992PY2004PTC001831",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "300000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-12-2004",
+        "business_activity": "Finance",
+        "state": "Pondicherry",
+        "district": "MAHE",
+        "address": "R.S.NO.106, S.D.NO.15,MAHE COMMUNE, MAHE-673310. 673310. PY IN 673310",
+        "register": "Registered on 27-12-2004",
+        "director_details": []
+    },
+    {
+        "company_name": "PERAMBRA CHITS PRIVATE LIMITED",
+        "cin_no.": "U65992PY2012PTC002749",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "200000",
+        "registration_date": "17-10-2012",
+        "business_activity": "Finance",
+        "state": "Pondicherry",
+        "district": "MAHE",
+        "address": "M.M.C 9/122 PALLUR MAHE PY IN 673310",
+        "register": "Registered on 17-10-2012",
+        "director_details": [
+            {
+                "DIN": "06398450",
+                "direct_name": "Chethil Kizhakke Tharemmal Raghavan"
+            },
+            {
+                "DIN": "06520859",
+                "direct_name": "Jayesh Kizhakkayil Meethal"
+            },
+            {
+                "DIN": "06398331",
+                "direct_name": "Muraleedharan Marath"
+            },
+            {
+                "DIN": "06520882",
+                "direct_name": "Parachottil Surendranath"
+            },
+            {
+                "DIN": "06522043",
+                "direct_name": "Rajeesh Kuniyil"
+            },
+            {
+                "DIN": "06520863",
+                "direct_name": "Rajeevan"
+            },
+            {
+                "DIN": "06520870",
+                "direct_name": "Santhosh"
+            },
+            {
+                "DIN": "06565715",
+                "direct_name": "Shaiju Parappil"
+            },
+            {
+                "DIN": "06522064",
+                "direct_name": "Sreedharan"
+            },
+            {
+                "DIN": "06520856",
+                "direct_name": "Sudheer Susheela Damodharan Nambiar"
+            },
+            {
+                "DIN": "06522077",
+                "direct_name": "Unnikrishnan"
+            },
+            {
+                "DIN": "06398455",
+                "direct_name": "Vijayarajan Thekkapantheeraty"
+            },
+            {
+                "DIN": "06565705",
+                "direct_name": "Vinu"
+            }
+        ]
+    },
+    {
+        "company_name": "NINIKA CHITS PRIVATE LIMITED",
+        "cin_no.": "U65992PY2012PTC002757",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-11-2012",
+        "business_activity": "Finance",
+        "state": "Pondicherry",
+        "district": "MAHE",
+        "address": "VIII/365, Ground Floor Nadavayal Mahe Road Palloor PO Mahe PY IN 673310",
+        "register": "Registered on 19-11-2012",
+        "director_details": [
+            {
+                "DIN": "06418146",
+                "direct_name": "Anandan Mavulla Parambath"
+            },
+            {
+                "DIN": "06418103",
+                "direct_name": "Surendran"
+            }
+        ]
+    },
+    {
+        "company_name": "EMERGYS CHITS PRIVATE LIMITED",
+        "cin_no.": "U65999PY2018PTC008271",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-03-2018",
+        "business_activity": "Finance",
+        "state": "Pondicherry",
+        "district": "MAHE",
+        "address": "NO. M.M.C. II/386A,1st floor, NAAZ building, Railway Station road MAHE Mahe PY IN 673310",
+        "register": "Registered on 27-03-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "PRINCE GOLD CHAINS PRIVATE LIMITED",
+        "cin_no.": "U36911PY2003PTC001730",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "23-10-2003",
+        "business_activity": "Others",
+        "state": "Pondicherry",
+        "district": "MAHE",
+        "address": "MMC.NO.II/792/1,MAHE DESAM, MAHE COMMUNE, MAHE-673310. 673310. PY IN 673310",
+        "register": "Registered on 23-10-2003",
+        "director_details": []
+    },
+    {
+        "company_name": "SRI VENKATESWARA CANS PRIVATE LIMITED",
+        "cin_no.": "U99999PY1988PTC000599",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "05-09-1988",
+        "business_activity": "Others",
+        "state": "Pondicherry",
+        "district": "MUMBAI",
+        "address": "BHARAT TIN WORKS BUILDING,MAROL MAROSHI ROAD MAROL, MUMBAI-400059. 400059. PY IN",
+        "register": "Registered on 05-09-1988",
+        "director_details": []
+    },
+    {
+        "company_name": "EAST COAST FARMS PVT LTD",
+        "cin_no.": "U01400PY1992PTC000809",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "04-05-1992",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "NA",
+        "address": "PONDICHERRY-11 PY IN",
+        "register": "Registered on 04-05-1992",
+        "director_details": []
+    },
+    {
+        "company_name": "SRI SATYA AGRO PRODUCTS PVT LTD",
+        "cin_no.": "U01403PY1985PTC000325",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "0",
+        "registration_date": "23-05-1985",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "NA",
+        "address": "pondicherry PY IN",
+        "register": "Registered on 23-05-1985",
+        "director_details": []
+    },
+    {
+        "company_name": "BALAJI AGRO INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U01407PY1989PTC000637",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "40000000",
+        "paid_up_capital": "0",
+        "registration_date": "20-06-1989",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "NA",
+        "address": "16 S.V PATEL SALAIZAMINDAR GARDEN PONDICHERRY 12 PY IN",
+        "register": "Registered on 20-06-1989",
+        "director_details": []
+    },
+    {
+        "company_name": "UNITED FARMS AND EXPORTS (INDIA) LIMITED",
+        "cin_no.": "U01409PY1996PLC001210",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "18-03-1996",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "NA",
+        "address": "NO.81, VYSIAL STREET,PONDICHERRY-1. PY IN",
+        "register": "Registered on 18-03-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "SRI SRINIVASA AQUA FEEDS PVT. LTD",
+        "cin_no.": "U05000PY1994PTC000941",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "8000000",
+        "paid_up_capital": "0",
+        "registration_date": "10-02-1994",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "NA",
+        "address": "PY IN",
+        "register": "Registered on 10-02-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "ATCHYA MARINES PVT LTD",
+        "cin_no.": "U05001PY1987PTC000498",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "23-04-1987",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "NA",
+        "address": "NO.62/1 KRISHNAPURAMCUDDALORE PONDY ROAD KANNAKOIL POST PONDICHERRY PY IN",
+        "register": "Registered on 23-04-1987",
+        "director_details": []
+    },
+    {
+        "company_name": "MAHE FISHERIES PRIVATE LIMITED",
+        "cin_no.": "U05004PY1961PTC000049",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000",
+        "paid_up_capital": "0",
+        "registration_date": "21-09-1961",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "NA",
+        "address": "pondicherry PY IN",
+        "register": "Registered on 21-09-1961",
+        "director_details": []
+    },
+    {
+        "company_name": "FISH INDIA LIMITED",
+        "cin_no.": "U05004PY1995PLC001065",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "20-03-1995",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "NA",
+        "address": "ANANDHI BUILDINGS,VALLALAR SALAI, VENKATA NAGAR, PONDICHERRY-11. PY IN",
+        "register": "Registered on 20-03-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "GEETHA MARINE PRODUCTS PVT LTD",
+        "cin_no.": "U05012PY1985PTC000358",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "2120000",
+        "registration_date": "27-09-1985",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "NA",
+        "address": "114, III CROSSVENKATA NAGAR PONDICHERRY 11 PY IN",
+        "register": "Registered on 27-09-1985",
+        "director_details": []
+    },
+    {
+        "company_name": "SPECTRUM GRANITES PVT. LTD.",
+        "cin_no.": "U10201PY1993PTC000918",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "450000",
+        "paid_up_capital": "450000",
+        "registration_date": "27-09-1993",
+        "business_activity": "Mining and Quarrying",
+        "state": "Pondicherry",
+        "district": "NA",
+        "address": "12, PILLIAR KOIL ST.,KOSAPALAYAM, PONDICHERRY PY IN",
+        "register": "Registered on 27-09-1993",
+        "director_details": []
+    },
+    {
+        "company_name": "SEALAND RUBBTER PRODUCTS KARAIKAL PRIVAT E LIMITED",
+        "cin_no.": "U99999PY1996PTC001205",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "0",
+        "registration_date": "05-03-1996",
+        "business_activity": "Others",
+        "state": "Pondicherry",
+        "district": "NAGAPATTINAM",
+        "address": "37, KARAIKAL MAIN ROAD,MELAVANJORE, PONDICHERRY-611002. PY IN",
+        "register": "Registered on 05-03-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "KIRAN DET CHEMS ASIA PRIVATE LIMITED",
+        "cin_no.": "U24241PY1990PTC000668",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "700000",
+        "registration_date": "20-02-1990",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "NAGAPATTINAM",
+        "address": "37 NAGORE ROADMELAVANJORE 611 002 KARAIKKAL U.T OF PONDICHERRY PY IN 611002",
+        "register": "Registered on 20-02-1990",
+        "director_details": [
+            {
+                "DIN": "00531051",
+                "direct_name": "Chidambaram Chidambaram"
+            },
+            {
+                "DIN": "00226254",
+                "direct_name": "Putarjunam Kumar"
+            },
+            {
+                "DIN": "00129082",
+                "direct_name": "Raju Janarithanampillai"
+            }
+        ]
+    },
+    {
+        "company_name": "VANI SOAP WORKS PRIVATE LIMITED",
+        "cin_no.": "U24241PY1999PTC001474",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "6000000",
+        "paid_up_capital": "5797400",
+        "registration_date": "23-06-1999",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "NAGAPATTINAM",
+        "address": "20 EAST STREET,PADUTHARAKOLLAI, T.R.PATTINAM, KARAIKAL 609 703. KARAIKAL-609 703. PY IN 609703",
+        "register": "Registered on 23-06-1999",
+        "director_details": [
+            {
+                "DIN": "01793203",
+                "direct_name": "Jayaraman Ganesan"
+            },
+            {
+                "DIN": "01793415",
+                "direct_name": "Mageswari Megala"
+            }
+        ]
+    },
+    {
+        "company_name": "KIRAN GLOBAL CHEM LIMITED",
+        "cin_no.": "U24299PY2002PLC000618",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "550000000",
+        "paid_up_capital": "461562000",
+        "registration_date": "09-04-2002",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "NAGAPATTINAM",
+        "address": "R.S.NO.37, NAGORE ROAD,T.R.PATTINAM., KARAIKAL. T R Pattinam KARAIKAL PY IN 611002",
+        "register": "Registered on 09-04-2002",
+        "director_details": [
+            {
+                "DIN": "00005584",
+                "direct_name": "Atul Jain"
+            },
+            {
+                "DIN": "00004027",
+                "direct_name": "Charles Navis Rufus"
+            },
+            {
+                "DIN": "ADFPR4958Q",
+                "direct_name": "Charles Navis Rufus"
+            },
+            {
+                "DIN": "02028073",
+                "direct_name": "Chetan Meghna Jain"
+            },
+            {
+                "DIN": "ABOPV6633K",
+                "direct_name": "Dandey Vasudevan"
+            },
+            {
+                "DIN": "00004020",
+                "direct_name": "Manmohan Singh Jain"
+            },
+            {
+                "DIN": "07281707",
+                "direct_name": "Natarajan Ramamoorthy"
+            },
+            {
+                "DIN": "00004161",
+                "direct_name": "Prem Kumar Komroth Gangadharan"
+            },
+            {
+                "DIN": "02680703",
+                "direct_name": "Salam Rajendra Babu"
+            },
+            {
+                "DIN": "APSPB1405K",
+                "direct_name": "Thiyagarajan Bhuvaneswari"
+            }
+        ]
+    },
+    {
+        "company_name": "GENERAL PRE-CURED TREADS PVT.LTD.",
+        "cin_no.": "U25119PY1990PTC000687",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "600000",
+        "registration_date": "10-07-1990",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "NAGAPATTINAM",
+        "address": "R.S NO.11-D, KIZHAVANJOORNAGORE P.O, KARAIKKAL NAGORE P.O, KARAIKKAL PY IN 611002",
+        "register": "Registered on 10-07-1990",
+        "director_details": [
+            {
+                "DIN": "00128391",
+                "direct_name": "Divya Varughese"
+            },
+            {
+                "DIN": "00069104",
+                "direct_name": "George Varughese"
+            }
+        ]
+    },
+    {
+        "company_name": "KANYAKA FINE WELD LIMITED",
+        "cin_no.": "U31905PY1996PLC001731",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "16500000",
+        "paid_up_capital": "10025000",
+        "registration_date": "09-01-1996",
+        "business_activity": "Machinery and Equipments",
+        "state": "Pondicherry",
+        "district": "NAGAPATTINAM",
+        "address": "R.S.NO83/1, NAGORE MAIN ROAD,MELAVANJORE, T,R PATTINAM, KARAIKAL-611002. 611002. PY IN 611002",
+        "register": "Registered on 09-01-1996",
+        "director_details": [
+            {
+                "DIN": "02453770",
+                "direct_name": "Balamurugan Kulanthavel"
+            },
+            {
+                "DIN": "00152458",
+                "direct_name": "Muthampalam Rajendran"
+            },
+            {
+                "DIN": "00225515",
+                "direct_name": "R Kathiravan"
+            }
+        ]
+    },
+    {
+        "company_name": "MOTHER BROILER PRIVATE LIMITED",
+        "cin_no.": "U01222PY2005PTC001863",
+        "status": "Dissolved",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "06-05-2005",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "PONDICHERRY",
+        "address": "N0.9, IST CROSS STREET,KURINJI NAGAR (EXTENSION), LAWSPET, PONDICHERRY 605 008 PONDICHERRY - 605 008 PY IN 605008",
+        "register": "Registered on 06-05-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "MOTHER BROILER BREEDER FARMS PRIVATE LIM ITED",
+        "cin_no.": "U01222PY2005PTC001864",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "06-05-2005",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "PONDICHERRY",
+        "address": "NO.9,IST CROSS STREET,KURUNJI NAGAR, LAWS PET, PONDICHERRY - 605 008 PONDICHERRY - 605 008 PY IN 605008",
+        "register": "Registered on 06-05-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "NATHAN FEEDS PRIVATE LIMITED",
+        "cin_no.": "U01225PY2013PTC002790",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "10000000",
+        "registration_date": "25-04-2013",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "PONDICHERRY",
+        "address": "PLOT NO 5, SECOND CROSS SECOND STREET, EZHIL NAGAR( KRISHNA NAGAR) MUTHIALPET Pondicherry PY IN 605003",
+        "register": "Registered on 25-04-2013",
+        "director_details": [
+            {
+                "DIN": "06557218",
+                "direct_name": "Viswanathan"
+            },
+            {
+                "DIN": "06557210",
+                "direct_name": "Viswanathan Chellapappu"
+            }
+        ]
+    },
+    {
+        "company_name": "HONOURABLE'S AGRI INDIA PRIVATE LIMITED",
+        "cin_no.": "U01400PY2013PTC002772",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-01-2013",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "PONDICHERRY",
+        "address": "OLD NO 10, NEW NO 3 ,FIRST FLOOR, YAMUNAI ST VALLALAR NAGAR, NAINARMANDAPAM MUDHALIARPET Pondicherry PY IN 605004",
+        "register": "Registered on 01-01-2013",
+        "director_details": [
+            {
+                "DIN": "06462989",
+                "direct_name": "Gnanavalli"
+            },
+            {
+                "DIN": "06462975",
+                "direct_name": "Murugan"
+            },
+            {
+                "DIN": "06462986",
+                "direct_name": "Pushpavathy"
+            },
+            {
+                "DIN": "06462982",
+                "direct_name": "Sudha"
+            }
+        ]
+    },
+    {
+        "company_name": "SIO FARMZONE PRIVATE LIMITED",
+        "cin_no.": "U01400PY2018PTC008267",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "22-03-2018",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "PONDICHERRY",
+        "address": "NO. 13 & 14 SRIDHARAN NAGAR ARIYANKUPPAM Pondicherry PY IN 605007",
+        "register": "Registered on 22-03-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "URAMEL AGRO INDIA LIMITED",
+        "cin_no.": "U01403PY1995PLC001114",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "12-07-1995",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "PONDICHERRY",
+        "address": "C-30, TYPE II, FLATS,VENKATANAGAR, PONDICHERRY-605011. PY IN",
+        "register": "Registered on 12-07-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "DYNADIS BIOTECH INDIA PRIVATE LIMITED",
+        "cin_no.": "U01403PY2009PTC002376",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "19000000",
+        "paid_up_capital": "18809000",
+        "registration_date": "29-10-2009",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "PONDICHERRY",
+        "address": "A 23, 3rd Cross, PIPDIC INDUSTRIAL AREA SEDARAPET PONDICHERRY Pondicherry PY IN 605011",
+        "register": "Registered on 29-10-2009",
+        "director_details": [
+            {
+                "DIN": "01306381",
+                "direct_name": "Shyamprasad Kodimule"
+            },
+            {
+                "DIN": "02977922",
+                "direct_name": "Veena Shyamprasad"
+            }
+        ]
+    },
+    {
+        "company_name": "CUDDALORE AGRO FARMERS PRIVATE LIMITED",
+        "cin_no.": "U01403PY2011PTC002629",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-10-2011",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "PONDICHERRY",
+        "address": "NO.42, MARIAMMAN KOIL STREET IRULANSANDHAI KURUVINATHAM PONDICHERRY PY IN 607402",
+        "register": "Registered on 13-10-2011",
+        "director_details": [
+            {
+                "DIN": "05106341",
+                "direct_name": "Dhivya"
+            },
+            {
+                "DIN": "03603838",
+                "direct_name": "Loganathan"
+            }
+        ]
+    },
+    {
+        "company_name": "REAL DREAMS AGRO PRIVATE LIMITED",
+        "cin_no.": "U01403PY2012PTC002726",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-08-2012",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "PONDICHERRY",
+        "address": "NO",
+        "register": "Registered on 10-08-2012",
+        "director_details": [
+            {
+                "DIN": "06582502",
+                "direct_name": "Arumugam Pazhniyanti"
+            },
+            {
+                "DIN": "06582964",
+                "direct_name": "Govindarasu Rajamurthy"
+            },
+            {
+                "DIN": "06582999",
+                "direct_name": "Govindharaj"
+            },
+            {
+                "DIN": "05347944",
+                "direct_name": "Govindraj Tamilvanan"
+            },
+            {
+                "DIN": "06581207",
+                "direct_name": "Kaliaperumal Palani"
+            },
+            {
+                "DIN": "06583677",
+                "direct_name": "Kanagaraja"
+            },
+            {
+                "DIN": "05347870",
+                "direct_name": "Mohamadaly"
+            },
+            {
+                "DIN": "06582205",
+                "direct_name": "Palanivelu"
+            },
+            {
+                "DIN": "05347878",
+                "direct_name": "Prabakaran Kalidoss"
+            }
+        ]
+    },
+    {
+        "company_name": "FORUSTREE DEVELOPERS PRIVATE LIMITED",
+        "cin_no.": "U01403PY2013PTC002773",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-02-2013",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "PONDICHERRY",
+        "address": "NO 229, ROOM NO, 101 Ambalathadyar Madam Street Pondicherry Pondicherry PY IN 605001",
+        "register": "Registered on 01-02-2013",
+        "director_details": [
+            {
+                "DIN": "06446265",
+                "direct_name": "Rajarathnam Nallusamy"
+            },
+            {
+                "DIN": "06446273",
+                "direct_name": "Uma Rajarathnan"
+            }
+        ]
+    },
+    {
+        "company_name": "VASANTH CHEMICALS PRIVATE LIMITED",
+        "cin_no.": "U24100PY2009PTC002362",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "22500000",
+        "paid_up_capital": "1000000",
+        "registration_date": "07-09-2009",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "VILLUPURAM",
+        "address": "NO 16/12 SANYASIKUPPAM ROAD, T V KOIL VILLAGE, KANDAMANGALAM POST, MANADIPET PONDICHERRY Pondicherry PY IN 605102",
+        "register": "Registered on 07-09-2009",
+        "director_details": [
+            {
+                "DIN": "02738706",
+                "direct_name": "Jaya Kumary Janci"
+            },
+            {
+                "DIN": "02734016",
+                "direct_name": "Marie Philomine Vasantha"
+            }
+        ]
+    },
+    {
+        "company_name": "PONDICHERRY OXY-ACETYLENE PRIVATE LIMITED",
+        "cin_no.": "U24111PY1984PTC000256",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2400000",
+        "registration_date": "28-03-1984",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "VILLUPURAM",
+        "address": "97/7, PONDY-VILLUPURAM ROAD THIRUBHUVANAI, PONDICHERRY. PY IN 605107",
+        "register": "Registered on 28-03-1984",
+        "director_details": [
+            {
+                "DIN": "00631310",
+                "direct_name": "Palanivel Gomathi"
+            },
+            {
+                "DIN": "00600291",
+                "direct_name": "Veerappa Devar Subramanian Palanivel"
+            }
+        ]
+    },
+    {
+        "company_name": "QUALITY FLUORIDES PRIVATE LIMITED",
+        "cin_no.": "U24116PY1986PTC000467",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "700000",
+        "paid_up_capital": "700000",
+        "registration_date": "24-12-1986",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "VILLUPURAM",
+        "address": "R S NO 108-1 SEDARAPETPONDICHERRY 605111 PONDICHERRY 605111 PY IN 605111",
+        "register": "Registered on 24-12-1986",
+        "director_details": [
+            {
+                "DIN": "02582484",
+                "direct_name": "Murugan Ayyasamy"
+            },
+            {
+                "DIN": "02726298",
+                "direct_name": "Thilagavathi Balakrishnan"
+            }
+        ]
+    },
+    {
+        "company_name": "SQUARE D THAI PETRO CHEMICAL INDUSTRIES LIMITED",
+        "cin_no.": "U24119PY1999PLC001176",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000000",
+        "paid_up_capital": "507000",
+        "registration_date": "03-03-1999",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "VILLUPURAM",
+        "address": "NO.190/191,SIVARANTHAGAMKIZHUR POST,NETTAPALIKAM, PONDICHERRY PY IN 605106",
+        "register": "Registered on 03-03-1999",
+        "director_details": []
+    },
+    {
+        "company_name": "ATC CHEMICALS INDIA PRIVATE LIMITED",
+        "cin_no.": "U24119PY2004PTC001766",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "30000000",
+        "paid_up_capital": "30000000",
+        "registration_date": "25-03-2004",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "VILLUPURAM",
+        "address": "R.S.NO.14/4, 15/10-B,KAVIARASAN ROAD, NEAR PIPDIC INDUSTRIAL ESTATE,SEDARAPET- 605111. PY IN 605111",
+        "register": "Registered on 25-03-2004",
+        "director_details": [
+            {
+                "DIN": "06360563",
+                "direct_name": "Baptiste"
+            },
+            {
+                "DIN": "02137419",
+                "direct_name": "Gualino Jean Pierre"
+            },
+            {
+                "DIN": "06805750",
+                "direct_name": "Gualino Pierre Antoine"
+            },
+            {
+                "DIN": "02233098",
+                "direct_name": "Jean Baptiste Gualino Henri"
+            }
+        ]
+    },
+    {
+        "company_name": "NANOCEUT THERAPEUTICS PRIVATE LIMITED",
+        "cin_no.": "U24230PY2010PTC002523",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "10000000",
+        "registration_date": "04-11-2010",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "VILLUPURAM",
+        "address": "R.S. No.104/19A, E V R STREET SEDARAPET PY IN 605111",
+        "register": "Registered on 04-11-2010",
+        "director_details": [
+            {
+                "DIN": "06865632",
+                "direct_name": "Abboy Gunabai"
+            },
+            {
+                "DIN": "06865961",
+                "direct_name": "Haripriya"
+            }
+        ]
+    },
+    {
+        "company_name": "SKAN RESEARCH LAB PRIVATE LIMITED",
+        "cin_no.": "U24231PY2004PTC001829",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "2725000",
+        "registration_date": "20-12-2004",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "VILLUPURAM",
+        "address": "NO.3/7, THIRUBHUVANAI MAINROADTHIRUBUVANAI VILLAGE PONDICHERRY-605107. 605107. PY IN 605107",
+        "register": "Registered on 20-12-2004",
+        "director_details": [
+            {
+                "DIN": "00299594",
+                "direct_name": "Ramarao Narasimman"
+            },
+            {
+                "DIN": "01823054",
+                "direct_name": "Subramanian Ananthanarayanan"
+            },
+            {
+                "DIN": "00299533",
+                "direct_name": "Thirunagari Nallamuthiah Pillai Sekar"
+            }
+        ]
+    },
+    {
+        "company_name": "BYMAA LABORATORIES PRIVATE LIMITED",
+        "cin_no.": "U24231PY2006PTC002010",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "72500000",
+        "paid_up_capital": "72300000",
+        "registration_date": "23-11-2006",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "VILLUPURAM",
+        "address": "A.19,20,21&22 THIRUBUVANAI ELECTRONIC PARK, PIPDIC INDUSTRIAL ESTATE, THIRUBUVANAI. PONDICHERRY PY IN 605107",
+        "register": "Registered on 23-11-2006",
+        "director_details": [
+            {
+                "DIN": "07040243",
+                "direct_name": "Abdul Hameed"
+            },
+            {
+                "DIN": "07074414",
+                "direct_name": "Abdul Hameed Jameel Moin"
+            },
+            {
+                "DIN": "01820118",
+                "direct_name": "Jayaraj Geetha"
+            },
+            {
+                "DIN": "07020950",
+                "direct_name": "Jeyaraman Kaartic"
+            },
+            {
+                "DIN": "07206121",
+                "direct_name": "Mohamed Sameer"
+            },
+            {
+                "DIN": "07181936",
+                "direct_name": "Mohammed Zubair"
+            },
+            {
+                "DIN": "07074368",
+                "direct_name": "Ponraj Jayaraj"
+            },
+            {
+                "DIN": "01820167",
+                "direct_name": "Raghavaganesan Manonmani"
+            }
+        ]
+    },
+    {
+        "company_name": "MEDZONE PHARMACEUTICALS PRIVATE LIMITED",
+        "cin_no.": "U24232PY2010PTC002426",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "11-03-2010",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "VILLUPURAM",
+        "address": "NO.6, PIPDIC MAIN ROAD THIRUBUVANAI, MANNADIPET COMMUNE PONDICHERRY Pondicherry PY IN 605107",
+        "register": "Registered on 11-03-2010",
+        "director_details": [
+            {
+                "DIN": "03137936",
+                "direct_name": "Abdul Malick Shamshudeen"
+            },
+            {
+                "DIN": "02326320",
+                "direct_name": "Chandra Gnanatilakan"
+            },
+            {
+                "DIN": "02986627",
+                "direct_name": "Dayalan Nadesan"
+            },
+            {
+                "DIN": "02536668",
+                "direct_name": "Deivasigamani Alexander Jesudasan"
+            },
+            {
+                "DIN": "02994298",
+                "direct_name": "Rathina Kumar Balasubramanian"
+            }
+        ]
+    },
+    {
+        "company_name": "SWISS GARNIER HEALTH SCIENCES PRIVATE LIMITED",
+        "cin_no.": "U24232PY2012PTC002682",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-02-2012",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "VILLUPURAM",
+        "address": "RBF Building I A63 & 64 Industrial Estate Thirubuvanai Pondicherry PY IN 605107",
+        "register": "Registered on 21-02-2012",
+        "director_details": [
+            {
+                "DIN": "01536116",
+                "direct_name": "Muthu Theivendran Subramanian"
+            },
+            {
+                "DIN": "01536134",
+                "direct_name": "Rethinavalli Theivendran"
+            },
+            {
+                "DIN": "05193575",
+                "direct_name": "Vignesh Gandhi"
+            }
+        ]
+    },
+    {
+        "company_name": "FUTURE SAFETY SAVINGS AND FINANCE INVEST MENT SCHEME (INDIA) LTD",
+        "cin_no.": "U67100PY1987PLC000491",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "70000",
+        "registration_date": "08-04-1987",
+        "business_activity": "Finance",
+        "state": "Pondicherry",
+        "district": "WARANGAL",
+        "address": "1 Indira Nagar Pondichery pondicherry PY IN 506009",
+        "register": "Registered on 08-04-1987",
+        "director_details": []
+    }
+]

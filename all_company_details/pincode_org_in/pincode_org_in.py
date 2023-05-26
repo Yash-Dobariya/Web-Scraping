@@ -10,6 +10,7 @@ state_list = ["gujarat", "andaman-and-nicobar-islands", "bihar", "daman-and-diu"
             "meghalaya", "pondicherry", "tamil-nadu", "uttarakhand", "assam", "dadra-and-nagar-haveli", "jharkhand", "madhya-pradesh",
             "mizoram", "punjab", "telangana", "west-bengal"]
 
+
 for state in state_list:
     driver.get(f"https://pin-code.org.in/companies/listing/{state}")
 
@@ -17,7 +18,6 @@ for state in state_list:
     state_links = driver.find_elements(By.XPATH, "//div[@class='listWrap mt-2']//a[@href]")
     for state_link in state_links:
         state_links_list.append(state_link.get_attribute("href"))
-
     company_link_list = []
     for state_link in state_links_list:
         driver.get(state_link)
@@ -26,8 +26,13 @@ for state in state_list:
             company_link_list.append(company_link.get_attribute("href"))
 
     company_data_list = []
+    temp=0
     for company_link in  company_link_list:
         driver.get(company_link)
+        temp+=1
+        print(temp)
+        print(company_link)
+
         company_data = {}
 
         company_name = driver.find_element(By.XPATH, "//p/strong[contains(text(), 'Name:')]/following-sibling::a").text
@@ -69,19 +74,22 @@ for state in state_list:
         register = driver.find_element(By.XPATH, "//div[@class='col-md-9 col-12']//p").text.split(".")[-2].strip()
         company_data["register"] = register
 
-        directors_list = []
-        directors_info = driver.find_elements(By.XPATH, "//div[@class='col-md-10 col-12']//h3")
+        try:
+            directors_list = []
+            directors_info = driver.find_elements(By.XPATH, "//div[@class='row']//div[@class='col-md-10 col-12']//h3")
 
-        directors_dict = {}
-        for director in directors_info:
-            info = director.text.split()
-            directors_dict["DIN"] = info[-1]
-            directors_dict["direct_name"] = ' '.join(info[:-1])
-            directors_list.append(directors_dict)
+            for director in directors_info:
+                directors_dict = {}
+                info = director.text.split()
+                directors_dict["DIN"] = info[-1]
+                directors_dict["direct_name"] = ' '.join(info[:-1])
+                directors_list.append(directors_dict)
 
-        company_data["director_details"] = directors_list
+            company_data["director_details"] = directors_list
+        except:
+            pass
 
         company_data_list.append(company_data)
 
-        with open("gujarat_company.json", "w") as file:
+        with open(f"{state}.json", "w") as file:
             json.dump(company_data_list, file, indent=4)

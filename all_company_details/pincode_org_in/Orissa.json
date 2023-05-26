@@ -1,0 +1,371 @@
+[
+    {
+        "company_name": "THILLAI RAJAN REAL ESTATE PRIVATE LIMITE D",
+        "cin_no.": "U70101TN1998PTC041202",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "200",
+        "registration_date": "28-09-1998",
+        "business_activity": "Real Estate",
+        "state": "Tamil nadu",
+        "district": "ALAPPUZHA",
+        "address": "5, POOMPUHAR STREET, POLICEQUARTERS BACKSIDE ERODE 688001 688001 Chennai TN IN 688001",
+        "register": "Registered on 28-09-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "SRI TRIVIKRAMA MINES AND PROPERTIES LIMITED",
+        "cin_no.": "U14102TN2006PLC061212",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "26-09-2006",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM DALMIAPURAM TN IN 621651",
+        "register": "Registered on 26-09-2006",
+        "director_details": [
+            {
+                "DIN": "02148704",
+                "direct_name": "Bhabagrahi Pradhan"
+            },
+            {
+                "DIN": "00006842",
+                "direct_name": "Kalambur Veeraraghavan Mohan"
+            },
+            {
+                "DIN": "02203037",
+                "direct_name": "Nidhi Bisaria"
+            },
+            {
+                "DIN": "00006849",
+                "direct_name": "Rajesh Kumar Ghai"
+            }
+        ]
+    },
+    {
+        "company_name": "SRI MADHUSUDANA MINES AND PROPERTIES LIMITED",
+        "cin_no.": "U14105TN2006PLC061260",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "04-10-2006",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM DALMIAPURAM TN IN 621651",
+        "register": "Registered on 04-10-2006",
+        "director_details": [
+            {
+                "DIN": "02148704",
+                "direct_name": "Bhabagrahi Pradhan"
+            },
+            {
+                "DIN": "00006842",
+                "direct_name": "Kalambur Veeraraghavan Mohan"
+            },
+            {
+                "DIN": "02203037",
+                "direct_name": "Nidhi Bisaria"
+            },
+            {
+                "DIN": "00006849",
+                "direct_name": "Rajesh Kumar Ghai"
+            }
+        ]
+    },
+    {
+        "company_name": "DALMIA MINERALS & PROPERTIES LIMITED",
+        "cin_no.": "U14107TN2005PLC057327",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "30-08-2005",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM DISTRICT TIRUCHIRAPALLI Tiruchirappalli TN IN 621651",
+        "register": "Registered on 30-08-2005",
+        "director_details": [
+            {
+                "DIN": "02148704",
+                "direct_name": "Bhabagrahi Pradhan"
+            },
+            {
+                "DIN": "06852044",
+                "direct_name": "Manisha Bansal"
+            },
+            {
+                "DIN": "00010069",
+                "direct_name": "Rakesh Kumar Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "SRI SUBRAMANYA MINES & MINERALS LIMITED",
+        "cin_no.": "U14107TN2006PLC058816",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-02-2006",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM THIRUCHIRAPALLI DT Tiruchirappalli TN IN 621651",
+        "register": "Registered on 10-02-2006",
+        "director_details": [
+            {
+                "DIN": "06681218",
+                "direct_name": "Akhlesh Kumar Bansal"
+            },
+            {
+                "DIN": "00006890",
+                "direct_name": "Bharat Bhushan Mehta"
+            },
+            {
+                "DIN": "00006849",
+                "direct_name": "Rajesh Kumar Ghai"
+            }
+        ]
+    },
+    {
+        "company_name": "SRI SHANMUGHA MINES & MINERALS LIMITED",
+        "cin_no.": "U14107TN2006PLC058817",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-02-2006",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM TIRUCHIRAPALLI DIST Tiruchirappalli TN IN 621651",
+        "register": "Registered on 10-02-2006",
+        "director_details": [
+            {
+                "DIN": "06681218",
+                "direct_name": "Akhlesh Kumar Bansal"
+            },
+            {
+                "DIN": "00006890",
+                "direct_name": "Bharat Bhushan Mehta"
+            },
+            {
+                "DIN": "06852044",
+                "direct_name": "Manisha Bansal"
+            }
+        ]
+    },
+    {
+        "company_name": "SRI SWAMINATHA MINES & MINERALS LIMITTED",
+        "cin_no.": "U14107TN2006PLC058820",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-02-2006",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM THIRUCHIRAPALLI DT Tiruchirappalli TN IN 621651",
+        "register": "Registered on 10-02-2006",
+        "director_details": [
+            {
+                "DIN": "06681218",
+                "direct_name": "Akhlesh Kumar Bansal"
+            },
+            {
+                "DIN": "00006890",
+                "direct_name": "Bharat Bhushan Mehta"
+            },
+            {
+                "DIN": "06852044",
+                "direct_name": "Manisha Bansal"
+            }
+        ]
+    },
+    {
+        "company_name": "SRI DHANDAUTHAPANI MINES AND MINERALS LIMITED",
+        "cin_no.": "U14107TN2006PLC061254",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "04-10-2006",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM DALMIAPURAM TN IN 621651",
+        "register": "Registered on 04-10-2006",
+        "director_details": [
+            {
+                "DIN": "02684569",
+                "direct_name": "Dharmender Tuteja"
+            },
+            {
+                "DIN": "00006842",
+                "direct_name": "Kalambur Veeraraghavan Mohan"
+            },
+            {
+                "DIN": "02203037",
+                "direct_name": "Nidhi Bisaria"
+            },
+            {
+                "DIN": "00006849",
+                "direct_name": "Rajesh Kumar Ghai"
+            }
+        ]
+    },
+    {
+        "company_name": "SSGN ENGINEERING SERVICES PRIVATE LIMITED",
+        "cin_no.": "U52605TN2015PTC100092",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-04-2015",
+        "business_activity": "Trading",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "Gobi Nanda Illam, No.928, Sannathi Strett Nayaganaippiriyal Ariyalur Tiruchirappalli TN IN 621804",
+        "register": "Registered on 15-04-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "DALMIA REFRACTORIES LIMITED",
+        "cin_no.": "L24297TN1973PLC006372",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "31520840",
+        "registration_date": "21-06-1973",
+        "business_activity": "Metals and Chemicals",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM P.O,KALLAKUDI TIRUCHIRAPALLI TN IN 621651",
+        "register": "Registered on 21-06-1973",
+        "director_details": [
+            {
+                "DIN": "AZXPJ2573R",
+                "direct_name": "Akansha Jain"
+            },
+            {
+                "DIN": "AAJPM6539M",
+                "direct_name": "Chandra Narain Maheshwari"
+            },
+            {
+                "DIN": "00266838",
+                "direct_name": "Chandrasekaran Nagaratnam"
+            },
+            {
+                "DIN": "02421599",
+                "direct_name": "Deepak Ambadas Thombre"
+            },
+            {
+                "DIN": "03575675",
+                "direct_name": "Leena Rawal"
+            },
+            {
+                "DIN": "00319034",
+                "direct_name": "Mahendra Dooger Kumar"
+            },
+            {
+                "DIN": "00017659",
+                "direct_name": "Nagarajan Gopalaswamy"
+            },
+            {
+                "DIN": "00266758",
+                "direct_name": "Pradeep Dayal Mathur"
+            },
+            {
+                "DIN": "06599230",
+                "direct_name": "Sameer Nagpal"
+            },
+            {
+                "DIN": "AAKPS7259K",
+                "direct_name": "Sudhir Kumar Srivastava"
+            }
+        ]
+    },
+    {
+        "company_name": "OCL INDIA LIMITED",
+        "cin_no.": "L26942OR1949PLC000185",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "150000000",
+        "paid_up_capital": "113850000",
+        "registration_date": "11-10-1949",
+        "business_activity": "Metals and Chemicals",
+        "state": "Orissa",
+        "district": "SUNDERGARH",
+        "address": "AT/PO-RAJAGANGAPUR RAJAGANGAPUR SUNDARGARH OR IN 770017",
+        "register": "Registered on 11-10-1949",
+        "director_details": [
+            {
+                "DIN": "00226905",
+                "direct_name": "Amandeep"
+            },
+            {
+                "DIN": "00002008",
+                "direct_name": "Dharmendar Nath Davar"
+            },
+            {
+                "DIN": "00009639",
+                "direct_name": "Gaurav Dalmia"
+            },
+            {
+                "DIN": "00009758",
+                "direct_name": "Gautam Dalmia"
+            },
+            {
+                "DIN": "ACMPA4071B",
+                "direct_name": "Hira Lal Agarwal"
+            },
+            {
+                "DIN": "00017963",
+                "direct_name": "Jayesh Nagindas Doshi"
+            },
+            {
+                "DIN": "00243835",
+                "direct_name": "Mahendra Singhi"
+            },
+            {
+                "DIN": "00004821",
+                "direct_name": "Pradip Kumar Khaitan"
+            },
+            {
+                "DIN": "00022633",
+                "direct_name": "Puneet Yadu Dalmia"
+            },
+            {
+                "DIN": "AIBPG4983F",
+                "direct_name": "Rachna Goria"
+            },
+            {
+                "DIN": "02263950",
+                "direct_name": "Sudha Pillai"
+            },
+            {
+                "DIN": "00092593",
+                "direct_name": "Ved Prakash Sood"
+            }
+        ]
+    }
+]

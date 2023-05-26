@@ -1,0 +1,843 @@
+[
+    {
+        "company_name": "LERSIA FORTUNE FINANCE COMPANY LIMITED",
+        "cin_no.": "U65921MZ2007PLC008236",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20500000",
+        "paid_up_capital": "500000",
+        "registration_date": "20-08-2007",
+        "business_activity": "Finance",
+        "state": "Mizoram",
+        "district": "AIZAWL",
+        "address": "ZOLIANSANGA BUILDING CHANMARI AIZAWL MZ IN 796001",
+        "register": "Registered on 20-08-2007",
+        "director_details": [
+            {
+                "DIN": "02983266",
+                "direct_name": "Chongthu Biakmawia"
+            },
+            {
+                "DIN": "01642598",
+                "direct_name": "David Malsawmtluanga"
+            },
+            {
+                "DIN": "02676013",
+                "direct_name": "Dothanga Chawngthu"
+            },
+            {
+                "DIN": "02983246",
+                "direct_name": "Hmar Zohmingliana"
+            },
+            {
+                "DIN": "01642557",
+                "direct_name": "Lalhlimpuia Ralte"
+            },
+            {
+                "DIN": "01668543",
+                "direct_name": "Zothanpuia Sailo"
+            }
+        ]
+    },
+    {
+        "company_name": "NORTH EAST REGION HOUSING FINANCE COMPANY LIMITED",
+        "cin_no.": "U65922MZ2006PLC008256",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000000",
+        "paid_up_capital": "136665000",
+        "registration_date": "03-04-2006",
+        "business_activity": "Finance",
+        "state": "Mizoram",
+        "district": "AIZAWL",
+        "address": "HOUSE NO. D 64(E), 2ND BACK SIDE BUILDING, REPUBLIC ROAD, SIKULPUIKAWN, MISSION VENG, AIZAWL AIZAWL Aizawl MZ IN 796005",
+        "register": "Registered on 03-04-2006",
+        "director_details": [
+            {
+                "DIN": "02864845",
+                "direct_name": "Abel Darkhopui Hmar"
+            },
+            {
+                "DIN": "00386167",
+                "direct_name": "James Keishing Lalrongbawl"
+            },
+            {
+                "DIN": "00403197",
+                "direct_name": "Keishing Ashang Vivian"
+            },
+            {
+                "DIN": "00403145",
+                "direct_name": "Lal Remsiem"
+            },
+            {
+                "DIN": "00385975",
+                "direct_name": "Ram Lal Keshari"
+            }
+        ]
+    },
+    {
+        "company_name": "MIZORAM HANDLOOM AND HANDICRAFTS DEVELOPMENT CORPORATION LTD",
+        "cin_no.": "U65929MZ1988SGC003161",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000000",
+        "paid_up_capital": "100000000",
+        "registration_date": "20-12-1988",
+        "business_activity": "Finance",
+        "state": "Mizoram",
+        "district": "AIZAWL",
+        "address": "KHATLA, AIZWAL, MZ IN 796001",
+        "register": "Registered on 20-12-1988",
+        "director_details": [
+            {
+                "DIN": "05246546",
+                "direct_name": "Albert Lalthlamuana"
+            },
+            {
+                "DIN": "05245593",
+                "direct_name": "Hmar Lalmalsawma"
+            },
+            {
+                "DIN": "05220617",
+                "direct_name": "Kapthangvunga"
+            },
+            {
+                "DIN": "02961887",
+                "direct_name": "Lalrinawma Dova Ralte"
+            },
+            {
+                "DIN": "BRVPS5780E",
+                "direct_name": "Lalthlahlova Sailo"
+            },
+            {
+                "DIN": "05245599",
+                "direct_name": "Vanlalruata"
+            },
+            {
+                "DIN": "05155604",
+                "direct_name": "Zothankhuma"
+            }
+        ]
+    },
+    {
+        "company_name": "LEGACY INDIA MICRO FINANCE",
+        "cin_no.": "U65929MZ2013NPL008275",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Guarantee",
+        "authorize_capital": "0",
+        "paid_up_capital": "0",
+        "registration_date": "25-03-2013",
+        "business_activity": "Finance",
+        "state": "Mizoram",
+        "district": "AIZAWL",
+        "address": "KLB 5(J) Zemabawk, AL Road Aizawl Aizawl MZ IN 796017",
+        "register": "Registered on 25-03-2013",
+        "director_details": [
+            {
+                "DIN": "02983266",
+                "direct_name": "Chongthu Biakmawia"
+            },
+            {
+                "DIN": "01668543",
+                "direct_name": "Zothanpuia Sailo"
+            }
+        ]
+    },
+    {
+        "company_name": "LUSHAI HILLS MICRO FINANCE",
+        "cin_no.": "U65990MZ2014NPL008279",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Guarantee",
+        "authorize_capital": "0",
+        "paid_up_capital": "0",
+        "registration_date": "25-07-2014",
+        "business_activity": "Finance",
+        "state": "Mizoram",
+        "district": "AIZAWL",
+        "address": "DV 3 THAKTHING DAMVENG AIZAWL Aizawl MZ IN 796005",
+        "register": "Registered on 25-07-2014",
+        "director_details": [
+            {
+                "DIN": "02676013",
+                "direct_name": "Dothanga Chawngthu"
+            },
+            {
+                "DIN": "06674038",
+                "direct_name": "Lalduhsanga Lalduhsanga"
+            }
+        ]
+    },
+    {
+        "company_name": "ZONET CABLE TV PRIVATE LIMITED",
+        "cin_no.": "U92100MZ2011PTC008262",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "46543570",
+        "registration_date": "25-03-2011",
+        "business_activity": "Personal and Social Services",
+        "state": "Mizoram",
+        "district": "AIZAWL",
+        "address": "ZORUM, 3RD FLOOR, REV. ZAIREMA BUILDING, ZARKAWT, AIZAWL MZ IN 796001",
+        "register": "Registered on 25-03-2011",
+        "director_details": [
+            {
+                "DIN": "03466814",
+                "direct_name": "Lianzuala Ralte Kawlni"
+            },
+            {
+                "DIN": "03466836",
+                "direct_name": "Sapdanga Khawlhring"
+            },
+            {
+                "DIN": "03466864",
+                "direct_name": "Vanneih Tluanga"
+            }
+        ]
+    },
+    {
+        "company_name": "AIZAWL FOOTBALL CLUB PRIVATE LIMITED",
+        "cin_no.": "U92412MZ2015PTC008285",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "10000000",
+        "registration_date": "10-07-2015",
+        "business_activity": "Personal and Social Services",
+        "state": "Mizoram",
+        "district": "AIZAWL",
+        "address": "A.31 CHURCH STREET CHHINGA VENG AIZAWL Aizawl MZ IN 796001",
+        "register": "Registered on 10-07-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "COATES INFORMATION TECHNOLOGY PRIVATE LI MITED",
+        "cin_no.": "U72900MZ2000PTC006005",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "20000",
+        "registration_date": "25-01-2000",
+        "business_activity": "Business Services",
+        "state": "Mizoram",
+        "district": "AIZAWL",
+        "address": "2ND FLOOR R B COMPLEXZARKAWT AIZWAL MIZORAM MZ IN 796001",
+        "register": "Registered on 25-01-2000",
+        "director_details": []
+    },
+    {
+        "company_name": "PISTICUS NETWORK SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U72900MZ2015PTC008288",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "25-08-2015",
+        "business_activity": "Business Services",
+        "state": "Mizoram",
+        "district": "AIZAWL",
+        "address": "Lalhmelthaa Building, Upper Khatla, Aizawl Mizoram, Aizawl MZ IN 796001",
+        "register": "Registered on 25-08-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "PREMIER AGRO TECH PRIVATE LIMITED",
+        "cin_no.": "U01403MZ2012PTC008271",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "02-04-2012",
+        "business_activity": "Agriculture",
+        "state": "Mizoram",
+        "district": "AIZAWL",
+        "address": "HOUSE NO. F-54, R.L ZOMAWIA BUILDING CHANMARI AIZAWL Aizawl MZ IN 796007",
+        "register": "Registered on 02-04-2012",
+        "director_details": [
+            {
+                "DIN": "05123766",
+                "direct_name": "Abida Begum Barbhuiya"
+            },
+            {
+                "DIN": "05123776",
+                "direct_name": "Lalchangliana Hmar Chawnghmunte"
+            },
+            {
+                "DIN": "05123785",
+                "direct_name": "Lalhruaitluanga"
+            },
+            {
+                "DIN": "03486641",
+                "direct_name": "Mohammed Nakib Ahmed Laskar"
+            },
+            {
+                "DIN": "05123803",
+                "direct_name": "Rafi Ahmed Laskar"
+            },
+            {
+                "DIN": "05123792",
+                "direct_name": "Renthlei Vanbela"
+            },
+            {
+                "DIN": "05123821",
+                "direct_name": "Sanglianthanga"
+            }
+        ]
+    },
+    {
+        "company_name": "MIZORGANIC CHAMPHAI FARMER PRODUCER COMP ANY LIMITED",
+        "cin_no.": "U01122MZ2008PTC008241",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "250000",
+        "paid_up_capital": "0",
+        "registration_date": "12-06-2008",
+        "business_activity": "Agriculture",
+        "state": "Mizoram",
+        "district": "CHAMPHAI",
+        "address": "C/o AMFU Office, Pu H. Taithuama Building Champhai Venglai Champhai Champhai MZ IN 796321",
+        "register": "Registered on 12-06-2008",
+        "director_details": [
+            {
+                "DIN": "02035354",
+                "direct_name": "Hmar Ngurthanmawia"
+            },
+            {
+                "DIN": "02156355",
+                "direct_name": "Hniarcheng Lalawmpuia"
+            },
+            {
+                "DIN": "02155164",
+                "direct_name": "Huha Lalnunmawia"
+            },
+            {
+                "DIN": "02157058",
+                "direct_name": "Lalkunga Lalkhama"
+            },
+            {
+                "DIN": "01969589",
+                "direct_name": "Lalruata Hrangtawna"
+            }
+        ]
+    },
+    {
+        "company_name": "PS (OPC) PRIVATE LIMITED",
+        "cin_no.": "U52520MZ2016OPC013291",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-04-2016",
+        "business_activity": "Trading",
+        "state": "Mizoram",
+        "district": "CHAMPHAI",
+        "address": "House No. 225, Champhai Vengthar Champhai Champhai MZ IN 796321",
+        "register": "Registered on 19-04-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "ZOLAND PALI TRADERS PRIVATE LIMITED",
+        "cin_no.": "U52599MZ2014PTC008280",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-12-2014",
+        "business_activity": "Trading",
+        "state": "Mizoram",
+        "district": "CHAMPHAI",
+        "address": "29 kahrawt veng B C Lalthlamuana Building champai Champhai MZ IN 796321",
+        "register": "Registered on 08-12-2014",
+        "director_details": [
+            {
+                "DIN": "06780985",
+                "direct_name": "David Thangluaia"
+            },
+            {
+                "DIN": "06796546",
+                "direct_name": "Hlalramchullova"
+            }
+        ]
+    },
+    {
+        "company_name": "ZOMUAN FILM PRODUCTION PRIVATE LIMITED",
+        "cin_no.": "U74940MZ2015PTC008290",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-11-2015",
+        "business_activity": "Business Services",
+        "state": "Mizoram",
+        "district": "CHAMPHAI",
+        "address": "LSC No. CHP-45 of 1991, Bethel, Champhai, Champhai Champhai MZ IN 796321",
+        "register": "Registered on 26-11-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "MIZORGANICS KOLASIB FARMER PRODUCER COMP ANY LIMITED",
+        "cin_no.": "U01122MZ2008PTC008242",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "250000",
+        "paid_up_capital": "0",
+        "registration_date": "12-06-2008",
+        "business_activity": "Agriculture",
+        "state": "Mizoram",
+        "district": "KOLASIB",
+        "address": "C/o AMFU Office, AMFU Building Project Veng, Near Telephone Exchange Kolasib Kolasib MZ IN 796081",
+        "register": "Registered on 12-06-2008",
+        "director_details": [
+            {
+                "DIN": "02035354",
+                "direct_name": "Hmar Ngurthanmawia"
+            },
+            {
+                "DIN": "02157008",
+                "direct_name": "Khiangte Lalrintluanga"
+            },
+            {
+                "DIN": "02157027",
+                "direct_name": "Khiangte Lalthakima"
+            },
+            {
+                "DIN": "02157058",
+                "direct_name": "Lalkunga Lalkhama"
+            },
+            {
+                "DIN": "02155721",
+                "direct_name": "Rosiamliana Rualzachhinga"
+            }
+        ]
+    },
+    {
+        "company_name": "NAMSAY ENTERPRISES PRIVATE LIMITED",
+        "cin_no.": "U20219MZ2010PTC008259",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "22-06-2010",
+        "business_activity": "Wood Products",
+        "state": "Mizoram",
+        "district": "KOLASIB",
+        "address": "52, DIAKKAWN. KOLASIB MZ IN 796081",
+        "register": "Registered on 22-06-2010",
+        "director_details": [
+            {
+                "DIN": "03006834",
+                "direct_name": "Hanuman Mal Bhura"
+            },
+            {
+                "DIN": "03060810",
+                "direct_name": "Robinson Sailo"
+            },
+            {
+                "DIN": "02993018",
+                "direct_name": "Vijay Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "ZAUCHA CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U74999MZ2018PTC013318",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-04-2018",
+        "business_activity": "Business Services",
+        "state": "Mizoram",
+        "district": "KOLASIB",
+        "address": "C/O ZACHHINGI, PARKKAWN, NEAR COSMOPOLITAN SCHOOL VENGLAI KOLASIB Kolasib MZ IN 796081",
+        "register": "Registered on 18-04-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "MIZO ORGANIC LAWNGTLAI PRODUCTS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01122MZ2008PTC008245",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "250000",
+        "paid_up_capital": "0",
+        "registration_date": "12-06-2008",
+        "business_activity": "Agriculture",
+        "state": "Mizoram",
+        "district": "LAWNGTLAI",
+        "address": "C/o AMFU Office Lawngtlai Bazar Veng, Lawngtlai Lawngtlai MZ IN 796891",
+        "register": "Registered on 12-06-2008",
+        "director_details": [
+            {
+                "DIN": "02035354",
+                "direct_name": "Hmar Ngurthanmawia"
+            },
+            {
+                "DIN": "02156217",
+                "direct_name": "Immanuela Thanhaia"
+            },
+            {
+                "DIN": "02157043",
+                "direct_name": "Khingbawl Thanglinga"
+            },
+            {
+                "DIN": "02157058",
+                "direct_name": "Lalkunga Lalkhama"
+            },
+            {
+                "DIN": "02155724",
+                "direct_name": "Tinthe Nohmunga"
+            }
+        ]
+    },
+    {
+        "company_name": "MIZO ORGANIC LUNGLEI FARMER PRODUCER COM PANY LIMITED",
+        "cin_no.": "U01409MZ2008PTC008247",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "250000",
+        "paid_up_capital": "0",
+        "registration_date": "09-07-2008",
+        "business_activity": "Agriculture",
+        "state": "Mizoram",
+        "district": "LUNGLEI",
+        "address": "C/o AMFU Office, Pu K. Selhranga Building Near Civil Hospital, Lunglei Lunglei MZ IN 796571",
+        "register": "Registered on 09-07-2008",
+        "director_details": [
+            {
+                "DIN": "02155780",
+                "direct_name": "Chhakchhuak Vanlalfella"
+            },
+            {
+                "DIN": "02156410",
+                "direct_name": "Fanai Hmingthanga"
+            },
+            {
+                "DIN": "02035354",
+                "direct_name": "Hmar Ngurthanmawia"
+            },
+            {
+                "DIN": "02155847",
+                "direct_name": "Hrangthankhuma Thanghmasa"
+            },
+            {
+                "DIN": "02157058",
+                "direct_name": "Lalkunga Lalkhama"
+            }
+        ]
+    },
+    {
+        "company_name": "MIZO ORGANIC MAMIT PRODUCER COMPANY LIMI TED",
+        "cin_no.": "U01122MZ2008PTC008243",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "250000",
+        "paid_up_capital": "0",
+        "registration_date": "12-06-2008",
+        "business_activity": "Agriculture",
+        "state": "Mizoram",
+        "district": "MAMMIT",
+        "address": "C/o AMFU Office, Pu Vanlalthawma Pachuau Building Mamit Zion Veng, Mamit Mamit MZ IN 796441",
+        "register": "Registered on 12-06-2008",
+        "director_details": [
+            {
+                "DIN": "02155761",
+                "direct_name": "Danny Zonunmawia"
+            },
+            {
+                "DIN": "02035354",
+                "direct_name": "Hmar Ngurthanmawia"
+            },
+            {
+                "DIN": "02157058",
+                "direct_name": "Lalkunga Lalkhama"
+            },
+            {
+                "DIN": "01968681",
+                "direct_name": "Lalramsanga Zaluta"
+            },
+            {
+                "DIN": "01968509",
+                "direct_name": "Lalrinsanga Thangkhuma"
+            }
+        ]
+    },
+    {
+        "company_name": "GREENWOOD HOSPITAL PVT LTD",
+        "cin_no.": "U85110MZ1990PTC003430",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "12500000",
+        "paid_up_capital": "11637300",
+        "registration_date": "19-04-1990",
+        "business_activity": "Personal and Social Services",
+        "state": "Mizoram",
+        "district": "NA",
+        "address": "BAWNGKAWN AIZAWL MZ IN",
+        "register": "Registered on 19-04-1990",
+        "director_details": [
+            {
+                "DIN": "01666890",
+                "direct_name": "Aldrin Lallianlunga Ralte"
+            },
+            {
+                "DIN": "01916424",
+                "direct_name": "Lal Buatsaiha Ralte"
+            },
+            {
+                "DIN": "07196829",
+                "direct_name": "Lal Sawma Vanchhawng"
+            },
+            {
+                "DIN": "01916539",
+                "direct_name": "Vanlalmawia Ralte"
+            },
+            {
+                "DIN": "07091231",
+                "direct_name": "Ziri Ralte"
+            },
+            {
+                "DIN": "07196842",
+                "direct_name": "Zoramena"
+            }
+        ]
+    },
+    {
+        "company_name": "MOONLIGHT HOTEL PVT LTD",
+        "cin_no.": "U55101MZ1984PTC002211",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3500000",
+        "paid_up_capital": "1130000",
+        "registration_date": "17-08-1984",
+        "business_activity": "Trading",
+        "state": "Mizoram",
+        "district": "NA",
+        "address": "AIZAWL MZ IN",
+        "register": "Registered on 17-08-1984",
+        "director_details": []
+    },
+    {
+        "company_name": "MIZORAM GRAND HOTEL PRIVATE LIMITED",
+        "cin_no.": "U55101MZ2001PTC006593",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-08-2001",
+        "business_activity": "Trading",
+        "state": "Mizoram",
+        "district": "NA",
+        "address": "CHANDMARY VENGAIZAWL MIZORAM MZ IN",
+        "register": "Registered on 23-08-2001",
+        "director_details": []
+    },
+    {
+        "company_name": "MIZO TRANSPORT CO PVT LTD",
+        "cin_no.": "U60210MZ1971PTC001346",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "300",
+        "registration_date": "29-06-1971",
+        "business_activity": "Transport and Storage",
+        "state": "Mizoram",
+        "district": "NA",
+        "address": "BARA BAZARAIZAWL MIZORAM MZ IN",
+        "register": "Registered on 29-06-1971",
+        "director_details": []
+    },
+    {
+        "company_name": "ZO THLAI THAR PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100MZ2016PTC013293",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "10000",
+        "registration_date": "25-05-2016",
+        "business_activity": "Agriculture",
+        "state": "Mizoram",
+        "district": "NA",
+        "address": "DURTLANG MIZORAM MIZORAM Aizawl MZ IN 796025",
+        "register": "Registered on 25-05-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "ZORAM AGRICULTURAL TRADING COMPANY LIMIT ED",
+        "cin_no.": "U01111MZ1999PLC005713",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "35000",
+        "registration_date": "26-03-1999",
+        "business_activity": "Agriculture",
+        "state": "Mizoram",
+        "district": "NA",
+        "address": "P O BAZAR BUNGKAWN AIZAWL MZ IN",
+        "register": "Registered on 26-03-1999",
+        "director_details": []
+    },
+    {
+        "company_name": "VEE CEE COMMERCIALS PVT LTD",
+        "cin_no.": "U01119MZ1997PTC005236",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "20000",
+        "registration_date": "03-11-1997",
+        "business_activity": "Agriculture",
+        "state": "Mizoram",
+        "district": "NA",
+        "address": "6AWNGKAWNRAMHLUN ROAD AIZAWAL MIZORAM MZ IN",
+        "register": "Registered on 03-11-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "MIZORAM AGRO FOREST PRIVATE LIMITED",
+        "cin_no.": "U01119MZ2000PTC006070",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "30000",
+        "registration_date": "13-03-2000",
+        "business_activity": "Agriculture",
+        "state": "Mizoram",
+        "district": "NA",
+        "address": "0LECTRIC VENG B 69AIZAWL MIZORAM MZ IN",
+        "register": "Registered on 13-03-2000",
+        "director_details": []
+    },
+    {
+        "company_name": "ZAHNUN VEGETABLE OIL COMPANY PVT LTD",
+        "cin_no.": "U15143MZ1997PTC005117",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "20000",
+        "registration_date": "10-07-1997",
+        "business_activity": "Food Manufacturing",
+        "state": "Mizoram",
+        "district": "NA",
+        "address": "THUAMPUIAIZAWL MIZORAM MZ IN",
+        "register": "Registered on 10-07-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "ZORAM AGROFARM INDUSTRIES LIMITED",
+        "cin_no.": "U51109MZ1998PLC005310",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "7000",
+        "registration_date": "21-01-1998",
+        "business_activity": "Trading",
+        "state": "Mizoram",
+        "district": "NA",
+        "address": "C O DR SAMTE VUNGZALIANTUIKUAL A AIZWAL DIST AIZWAL. MIZORAM MZ IN",
+        "register": "Registered on 21-01-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "MIZORGANIC SAIHA PRODUCER COMPANY LIMITE D",
+        "cin_no.": "U01122MZ2008PTC008244",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "250000",
+        "paid_up_capital": "0",
+        "registration_date": "12-06-2008",
+        "business_activity": "Agriculture",
+        "state": "Mizoram",
+        "district": "SAIHA",
+        "address": "C/o AMFU Office Dr. Chawngkhuma Chawngthu Building, College Veng Saiha Saiha MZ IN 796901",
+        "register": "Registered on 12-06-2008",
+        "director_details": [
+            {
+                "DIN": "02155346",
+                "direct_name": "Chachhua Hlychho"
+            },
+            {
+                "DIN": "02155903",
+                "direct_name": "Fanchun Engnghaka"
+            },
+            {
+                "DIN": "02035354",
+                "direct_name": "Hmar Ngurthanmawia"
+            },
+            {
+                "DIN": "02157058",
+                "direct_name": "Lalkunga Lalkhama"
+            },
+            {
+                "DIN": "02155733",
+                "direct_name": "Rocho Nohro"
+            }
+        ]
+    },
+    {
+        "company_name": "MIZO ORGANICS SERCHHIP FARMER PRODUCER C OMPANY LIMITED",
+        "cin_no.": "U01122MZ2008PTC008240",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "250000",
+        "paid_up_capital": "0",
+        "registration_date": "12-06-2008",
+        "business_activity": "Agriculture",
+        "state": "Mizoram",
+        "district": "SERCHHIP",
+        "address": "C/o AMFU Office, PU PC Thangliana Building H/No 165 Serchhip Bazar Veng, Serchhip Serchhip MZ IN 796181",
+        "register": "Registered on 12-06-2008",
+        "director_details": [
+            {
+                "DIN": "02156993",
+                "direct_name": "Bawihtlung Lalhmangaiha"
+            },
+            {
+                "DIN": "02155737",
+                "direct_name": "Chenkual Lalpianthanga"
+            },
+            {
+                "DIN": "02035354",
+                "direct_name": "Hmar Ngurthanmawia"
+            },
+            {
+                "DIN": "02157058",
+                "direct_name": "Lalkunga Lalkhama"
+            },
+            {
+                "DIN": "02155729",
+                "direct_name": "Lalremsiama Kawlni"
+            }
+        ]
+    }
+]

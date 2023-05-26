@@ -1,0 +1,799 @@
+[
+    {
+        "company_name": "SPAN WEALTH CREATION LIMITED",
+        "cin_no.": "U67100DD2014PLC004742",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2500000",
+        "registration_date": "15-01-2014",
+        "business_activity": "Finance",
+        "state": "Daman and diu",
+        "district": "AHMEDABAD",
+        "address": "526/37 TEJ REGENCY, OPP. BHARAT INDUSTRIAL ESTATE, COSTAL HIGHWAY, BHIMPORE, DAMAN Daman DD IN 382481",
+        "register": "Registered on 15-01-2014",
+        "director_details": [
+            {
+                "DIN": "00244852",
+                "direct_name": "Anil Maneklal Shah"
+            },
+            {
+                "DIN": "06732133",
+                "direct_name": "Paresh Rasiklal Panchal"
+            },
+            {
+                "DIN": "06732124",
+                "direct_name": "Vatsal Anilbhai Shah"
+            }
+        ]
+    },
+    {
+        "company_name": "ARYA TRADEX PRIVATE LIMITED",
+        "cin_no.": "U51909DD2014PTC004757",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000000",
+        "paid_up_capital": "100000000",
+        "registration_date": "13-01-2014",
+        "business_activity": "Trading",
+        "state": "Daman and diu",
+        "district": "BHAVNAGAR",
+        "address": "New City Survey Plot No. PTS-93/240/A/1 Dr. Kelkar Road, DIU Diu DD IN 364001",
+        "register": "Registered on 13-01-2014",
+        "director_details": [
+            {
+                "DIN": "02984252",
+                "direct_name": "Ravi Prahladbhai Patel"
+            },
+            {
+                "DIN": "02984852",
+                "direct_name": "Shani Prahladbhai Patel"
+            }
+        ]
+    },
+    {
+        "company_name": "SUNIT LABELS PRIVATE LIMITED",
+        "cin_no.": "U01390DD1993PTC001390",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "4000",
+        "registration_date": "08-07-1993",
+        "business_activity": "Agriculture",
+        "state": "Daman and diu",
+        "district": "DADRA & NAGAR HAVELI",
+        "address": "T/8 PRAGATI INDUSTRIALESTATE OPP 66 KVA STATION SILVASA DD IN 396230",
+        "register": "Registered on 08-07-1993",
+        "director_details": []
+    },
+    {
+        "company_name": "TARPAULIN INDIA PRIVATE LIMITED",
+        "cin_no.": "U17215DN2001PTC000160",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-12-2001",
+        "business_activity": "Textiles",
+        "state": "Daman and diu",
+        "district": "DADRA & NAGAR HAVELI",
+        "address": "PLOT NO. 6. SURVEY NO. 101RAKHOLI INDUSTRIAL ESTATE, P.O. RAKHOLI, SILVASSA 396230 DD IN",
+        "register": "Registered on 19-12-2001",
+        "director_details": []
+    },
+    {
+        "company_name": "AXIOMATIC PETROCHEM PRIVATE LIMITED",
+        "cin_no.": "U23209DN2002PTC000165",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-06-2002",
+        "business_activity": "Metals and Chemicals",
+        "state": "Daman and diu",
+        "district": "DADRA & NAGAR HAVELI",
+        "address": "MADHURAM VANMALI COLONY,B/H OM HOSPITAL SAMARVARNS SILVASSA 396230 DD IN",
+        "register": "Registered on 04-06-2002",
+        "director_details": []
+    },
+    {
+        "company_name": "DHANI HOTELS PRIVATE LIMITED",
+        "cin_no.": "U01451DD1993PTC001451",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "7420000",
+        "registration_date": "20-10-1993",
+        "business_activity": "Agriculture",
+        "state": "Daman and diu",
+        "district": "DAMAN",
+        "address": "MAHARAJA SUPER MARKETOPP POLICE TATION NANI DAMAN U T OF DAMAN Daman DD IN 396210",
+        "register": "Registered on 20-10-1993",
+        "director_details": [
+            {
+                "DIN": "03053092",
+                "direct_name": "Lili Ranchor"
+            },
+            {
+                "DIN": "03053082",
+                "direct_name": "Rameshbhai Bhulabhai Pamsi"
+            }
+        ]
+    },
+    {
+        "company_name": "UNIVERSAL DIP IRRIGATION (I) PRIVATE LIMITED",
+        "cin_no.": "U01820DD2016PTC009794",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-12-2016",
+        "business_activity": "Agriculture",
+        "state": "Daman and diu",
+        "district": "DAMAN",
+        "address": "SURVEY NO. 82/2 & 91, DAMAN INDUSTRIAL ESTATE, KADAIYA, NANI DAMAN, DAMAN Daman DD IN 396210",
+        "register": "Registered on 05-12-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "ADVANCE SYSTEMS TECHNOLOGY PRIVATE LIMITED",
+        "cin_no.": "U02060DD1996PTC002060",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "5000",
+        "registration_date": "11-03-1996",
+        "business_activity": "Agriculture",
+        "state": "Daman and diu",
+        "district": "DAMAN",
+        "address": "A/1/1, GDDIDC INDUSTRIALESTATE, DAMAN DAMAN (VIA VAPI) DD IN 396210",
+        "register": "Registered on 11-03-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "CONSOLIDATED DISTRIBUTORS PRIVATE LIMITED",
+        "cin_no.": "U02246DD1997PTC002246",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "4750000",
+        "registration_date": "06-01-1997",
+        "business_activity": "Agriculture",
+        "state": "Daman and diu",
+        "district": "DAMAN",
+        "address": "SURVEY NO 52/1 52/2 DAMANINDUSTRIAL ESTATENEAR JAISHIN WIRE KADAYA, DISTBHIMPOR DAMAN (U T) DD IN 396210",
+        "register": "Registered on 06-01-1997",
+        "director_details": [
+            {
+                "DIN": "00520892",
+                "direct_name": "Mehool Narendra Bhuva"
+            },
+            {
+                "DIN": "00520842",
+                "direct_name": "Narendra Indulal Bhuva"
+            }
+        ]
+    },
+    {
+        "company_name": "SALT REFINERS AND PROJECT SERVICES PRIVATE LIMITED",
+        "cin_no.": "U02551DD1998PTC002551",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "2000",
+        "registration_date": "28-04-1998",
+        "business_activity": "Agriculture",
+        "state": "Daman and diu",
+        "district": "DAMAN",
+        "address": "DAMAN DD IN 396210",
+        "register": "Registered on 28-04-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "JACCUZI PHARMA AND DRUGS PRIVATE LIMITED",
+        "cin_no.": "U02582DD1998PTC002582",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-07-1998",
+        "business_activity": "Agriculture",
+        "state": "Daman and diu",
+        "district": "DAMAN",
+        "address": "OPP. BUS STAND,SOMNATH DABHEL DAMAN Daman DD IN 396210",
+        "register": "Registered on 30-07-1998",
+        "director_details": [
+            {
+                "DIN": "01798636",
+                "direct_name": "Jagrutiben Dahyabhai Patel"
+            },
+            {
+                "DIN": "01635771",
+                "direct_name": "Jignesh Dahyabhai Patel"
+            }
+        ]
+    },
+    {
+        "company_name": "HOTEL SEA VIEW PRIVATE LIMITED",
+        "cin_no.": "U02627DD1998PTC002627",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "40000000",
+        "paid_up_capital": "32400000",
+        "registration_date": "19-11-1998",
+        "business_activity": "Agriculture",
+        "state": "Daman and diu",
+        "district": "DAMAN",
+        "address": "2/1 F, DEVKA ROAD, MARWAD, NANI DAMAN, DAMAN Daman DD IN 396210",
+        "register": "Registered on 19-11-1998",
+        "director_details": [
+            {
+                "DIN": "01682668",
+                "direct_name": "Gangaben Gopal Tandel"
+            },
+            {
+                "DIN": "01682640",
+                "direct_name": "Gopalbhai Kalanbhai Tandel"
+            },
+            {
+                "DIN": "07426652",
+                "direct_name": "Hemraj Gopalbhai Tandel"
+            },
+            {
+                "DIN": "07710282",
+                "direct_name": "Ruchi Jivanbhai Tandel"
+            }
+        ]
+    },
+    {
+        "company_name": "CRUSTACE SEAFOOD PRIVATE LIMITED",
+        "cin_no.": "U05000DD2015PTC004756",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "12000000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-02-2015",
+        "business_activity": "Agriculture",
+        "state": "Daman and diu",
+        "district": "DAMAN",
+        "address": "1ST FLOOR, SHREE SAGAR DEVELOPERS JULAM BAUG,MOTI DAMAN DAMAN Daman DD IN 396220",
+        "register": "Registered on 20-02-2015",
+        "director_details": [
+            {
+                "DIN": "06793927",
+                "direct_name": "Rohit Kailash"
+            },
+            {
+                "DIN": "07030908",
+                "direct_name": "Sangeeta Arun Menon"
+            },
+            {
+                "DIN": "05170064",
+                "direct_name": "Vemana Kuppu Swamy"
+            }
+        ]
+    },
+    {
+        "company_name": "BIO COAL ENERGY PRIVATE LIMITED",
+        "cin_no.": "U10102DD2006PTC004651",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-12-2006",
+        "business_activity": "Mining and Quarrying",
+        "state": "Daman and diu",
+        "district": "DAMAN",
+        "address": "HOUSE NO. - 1101, MAYAVANSHI FALIA, AMBICA NAGAR, DUNETHA, NANI DAMAN Daman DD IN 396210",
+        "register": "Registered on 28-12-2006",
+        "director_details": [
+            {
+                "DIN": "01507641",
+                "direct_name": "Abhishek Surjeet Rana"
+            },
+            {
+                "DIN": "01212639",
+                "direct_name": "Damendra Pratap Singh Rana"
+            }
+        ]
+    },
+    {
+        "company_name": "METAL HOLDINGS INDIA PRIVATE LIMITED",
+        "cin_no.": "U14200DD2008PTC004716",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "30000000",
+        "paid_up_capital": "20350000",
+        "registration_date": "07-04-2008",
+        "business_activity": "Mining and Quarrying",
+        "state": "Daman and diu",
+        "district": "DAMAN",
+        "address": "F-105, Pushpanjali Apartment Nani Daman Daman and Dui Daman DD IN 396210",
+        "register": "Registered on 07-04-2008",
+        "director_details": [
+            {
+                "DIN": "00495970",
+                "direct_name": "Bhavarlal Mangilal Jain"
+            },
+            {
+                "DIN": "00495949",
+                "direct_name": "Rajmal Mangilal Jain"
+            }
+        ]
+    },
+    {
+        "company_name": "SHRI ANJANEY AGRO FOODS LIMITED",
+        "cin_no.": "L00210DD1992PLC001254",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "12000000",
+        "paid_up_capital": "0",
+        "registration_date": "15-07-1992",
+        "business_activity": "Others",
+        "state": "Daman and diu",
+        "district": "DIU",
+        "address": "INDUSTRIAL ESTATE, MALALA DIU MALALA DIU DD IN 362520",
+        "register": "Registered on 15-07-1992",
+        "director_details": []
+    },
+    {
+        "company_name": "VIPRIT TRADING PRIVATE LIMITED",
+        "cin_no.": "U51101DD2012PTC004743",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-11-2012",
+        "business_activity": "Trading",
+        "state": "Daman and diu",
+        "district": "DIU",
+        "address": "342, CHORO MITHABAVA, GHOGHALA DIU, GHOGHALA DIU Diu DD IN 362540",
+        "register": "Registered on 27-11-2012",
+        "director_details": [
+            {
+                "DIN": "03291687",
+                "direct_name": "Bhanwar Chaganlal Shah"
+            },
+            {
+                "DIN": "03302193",
+                "direct_name": "Jaydipbhai Natubhai Nasit"
+            }
+        ]
+    },
+    {
+        "company_name": "MAHALAXMI AQUACULTURE PRIVATE LIMITED",
+        "cin_no.": "U15124DD2004PTC003440",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "25-03-2004",
+        "business_activity": "Food Manufacturing",
+        "state": "Daman and diu",
+        "district": "DIU",
+        "address": "H NO 2867KHAJURIA STREET VANAKBARA DIU (UT) DD IN 362520",
+        "register": "Registered on 25-03-2004",
+        "director_details": []
+    },
+    {
+        "company_name": "NIRAJ FOREX & TRAVELS PRIVATE LIMITED",
+        "cin_no.": "U74900DD2010PTC004682",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "2655000",
+        "registration_date": "09-03-2010",
+        "business_activity": "Business Services",
+        "state": "Daman and diu",
+        "district": "DIU",
+        "address": "Gurukrupa Complex, Opp. Hotel Prince, Jethibai Road,Vorawada Diu DD IN 362520",
+        "register": "Registered on 09-03-2010",
+        "director_details": [
+            {
+                "DIN": "02893543",
+                "direct_name": "Niraj Jagdishkumar Ruparelia"
+            },
+            {
+                "DIN": "02895157",
+                "direct_name": "Ranjanaben Jagdishkumar Ruparelia"
+            }
+        ]
+    },
+    {
+        "company_name": "SAMYKH ENTERPRISE PRIVATE LIMITED",
+        "cin_no.": "U51504DD2012PTC004703",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-01-2012",
+        "business_activity": "Trading",
+        "state": "Daman and diu",
+        "district": "DIU",
+        "address": "C/1, SOMNATH BUILDING, DR. KELKAR ROAD OPP. TELEPHONE EXCHANGE DIU DD IN 362520",
+        "register": "Registered on 16-01-2012",
+        "director_details": [
+            {
+                "DIN": "03567897",
+                "direct_name": "Dharmistta Manmohanshinh"
+            },
+            {
+                "DIN": "03567909",
+                "direct_name": "Mileshkumar Babu"
+            }
+        ]
+    },
+    {
+        "company_name": "DIU SMART CITY LIMITED",
+        "cin_no.": "U74999DD2018PLC009814",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "05-03-2018",
+        "business_activity": "Business Services",
+        "state": "Daman and diu",
+        "district": "DIU",
+        "address": "DIU MUNICIPAL COUNCIL BUILDING, FORT ROAD DIU Diu DD IN 362520",
+        "register": "Registered on 05-03-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "R.C. HERBAL PRIVATE LIMITED",
+        "cin_no.": "U36998DD2016PTC009793",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-11-2016",
+        "business_activity": "Others",
+        "state": "Daman and diu",
+        "district": "DIU",
+        "address": "2063/1,KALA SHERI KALA SHERI VANAKBARA Diu DD IN 362570",
+        "register": "Registered on 23-11-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "ISHVA INFRACON INDIA PRIVATE LIMITED",
+        "cin_no.": "U45200DD2015PTC004755",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-02-2015",
+        "business_activity": "Construction",
+        "state": "Daman and diu",
+        "district": "DIU",
+        "address": "SHOP NO. 7, 1ST FLOOR, DMC COMPLEX, NEAR JUMMA MASJID, DIU Diu DD IN 362520",
+        "register": "Registered on 05-02-2015",
+        "director_details": [
+            {
+                "DIN": "07043839",
+                "direct_name": "Aruna Jitendrakumar Solanki"
+            },
+            {
+                "DIN": "07043842",
+                "direct_name": "Jitendrakumar Govind Solanki"
+            }
+        ]
+    },
+    {
+        "company_name": "SHAAFIA FOREX PRIVATE LIMITED",
+        "cin_no.": "U67190DD2009PTC004673",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2700000",
+        "paid_up_capital": "2700000",
+        "registration_date": "18-08-2009",
+        "business_activity": "Finance",
+        "state": "Daman and diu",
+        "district": "DIU",
+        "address": "NR. ELECTRIC SUB-STATION MAIN BAZAR DIU DD IN 362520",
+        "register": "Registered on 18-08-2009",
+        "director_details": [
+            {
+                "DIN": "02682584",
+                "direct_name": "Mahmad Sajid Kasmani"
+            },
+            {
+                "DIN": "02682567",
+                "direct_name": "Mahmadyasif Kasmani"
+            },
+            {
+                "DIN": "06963929",
+                "direct_name": "Mahmed Sarfaraz Abdulla Kasmani"
+            }
+        ]
+    },
+    {
+        "company_name": "LAABH FOREX & CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U67190DD2011PTC004689",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "3000000",
+        "registration_date": "06-01-2011",
+        "business_activity": "Finance",
+        "state": "Daman and diu",
+        "district": "DIU",
+        "address": "HOUSE NO. 5/105(8)-4, PARSIWADA, MAIN BAZAR DIU DD IN 362520",
+        "register": "Registered on 06-01-2011",
+        "director_details": [
+            {
+                "DIN": "03275132",
+                "direct_name": "Rimple Hetal Modasia"
+            },
+            {
+                "DIN": "03267872",
+                "direct_name": "Sneha Hiten Modasia"
+            }
+        ]
+    },
+    {
+        "company_name": "TRANS ORCHARDS LIMITED",
+        "cin_no.": "U02001DD1995PLC001780",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "1000",
+        "registration_date": "20-02-1995",
+        "business_activity": "Agriculture",
+        "state": "Daman and diu",
+        "district": "NA",
+        "address": "23 BHARAT INDUSTRIAL ESTATEBHIMPORE DAMAN DAMAN DD IN",
+        "register": "Registered on 20-02-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "MAGNUM PORT AND TECHNICAL SERVICES PRIVATE LIMITED",
+        "cin_no.": "U02545DD1998PTC002545",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "200",
+        "registration_date": "01-04-1998",
+        "business_activity": "Agriculture",
+        "state": "Daman and diu",
+        "district": "NA",
+        "address": "HOTEL S K AGARWALAASHIRWAD COMPLEX SEA FACE ROAD NANI DAMAN DAMAN U T DD IN",
+        "register": "Registered on 01-04-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "GOA FOAM PRIVATE LIMITED",
+        "cin_no.": "U24139DD1972PTC000134",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "15-02-1972",
+        "business_activity": "Metals and Chemicals",
+        "state": "Daman and diu",
+        "district": "NA",
+        "address": "PLOT NO 24SOMNATH INDUSTRIAL ESTATE DAMAN DAMAN DD IN",
+        "register": "Registered on 15-02-1972",
+        "director_details": []
+    },
+    {
+        "company_name": "AGAM AND GEM LABORATORIES PRIVATE LIMITED",
+        "cin_no.": "U24232DD1995PTC001997",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000000",
+        "paid_up_capital": "10000000",
+        "registration_date": "26-12-1995",
+        "business_activity": "Metals and Chemicals",
+        "state": "Daman and diu",
+        "district": "NA",
+        "address": "PLOT NO 5DAMAN INDUSTRIAL ESTATE SOMNATH ROAD DAMAN DD IN 369210",
+        "register": "Registered on 26-12-1995",
+        "director_details": [
+            {
+                "DIN": "00179643",
+                "direct_name": "Asim Gulammohmed Momin"
+            },
+            {
+                "DIN": "00179820",
+                "direct_name": "Sherbanu Gulam Mohmed Momin"
+            },
+            {
+                "DIN": "01333881",
+                "direct_name": "Siva Rama Krishna Chittoory"
+            },
+            {
+                "DIN": "00179706",
+                "direct_name": "Wajidali Gulam Mohamed Momin"
+            }
+        ]
+    },
+    {
+        "company_name": "KRIKING TRADERS PRIVATE LIMITED",
+        "cin_no.": "U52601DD2016PTC009795",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "150000",
+        "paid_up_capital": "150000",
+        "registration_date": "19-12-2016",
+        "business_activity": "Trading",
+        "state": "Daman and diu",
+        "district": "NA",
+        "address": "H No - 52/1 Survey No - 280/6, Dhinsha Dagachi, Bhucharwada Diu Diu DD IN 362571",
+        "register": "Registered on 19-12-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SWEET HOME HOTELS PRIVATE LIMITED",
+        "cin_no.": "U55101DD1989PTC000967",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "958000",
+        "registration_date": "12-04-1989",
+        "business_activity": "Trading",
+        "state": "Daman and diu",
+        "district": "NA",
+        "address": "SUTHARWADAVAPI DAMAN ROAD DABHEL DAMAN (UT) DD IN",
+        "register": "Registered on 12-04-1989",
+        "director_details": []
+    },
+    {
+        "company_name": "SHALIMAR PACKAGING PRIVATE LIMITED",
+        "cin_no.": "U55101DD1992PTC003655",
+        "status": "Amalgamated",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "40000000",
+        "registration_date": "02-06-1992",
+        "business_activity": "Trading",
+        "state": "Daman and diu",
+        "district": "NA",
+        "address": "OFFICE NO. 205,SABARI KACHIGAM, DAMAN 396 210 (U.T.) DD IN",
+        "register": "Registered on 02-06-1992",
+        "director_details": []
+    },
+    {
+        "company_name": "SAHIL HOTELS AND INVESTMENTS PRIVATE LIMITED",
+        "cin_no.": "U55101DD1993PTC001477",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "2000",
+        "registration_date": "26-11-1993",
+        "business_activity": "Trading",
+        "state": "Daman and diu",
+        "district": "NA",
+        "address": "PLOT NO 88/25 & 26MOTI DAMAN DAMAN&DIU DD IN",
+        "register": "Registered on 26-11-1993",
+        "director_details": []
+    },
+    {
+        "company_name": "TRANS FLEET LIMITED",
+        "cin_no.": "U60231DD1994PLC001687",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "52000000",
+        "paid_up_capital": "50000000",
+        "registration_date": "31-10-1994",
+        "business_activity": "Transport and Storage",
+        "state": "Daman and diu",
+        "district": "NA",
+        "address": "23BHARAT INDUSTRIAL ESTATE BHIMPORE DAMAN DD IN",
+        "register": "Registered on 31-10-1994",
+        "director_details": [
+            {
+                "DIN": "ARUPB5325J",
+                "direct_name": "Aditi Shrenik Pasad"
+            },
+            {
+                "DIN": "01431926",
+                "direct_name": "Amar Prakash Mahavir Prasad Agarwal"
+            },
+            {
+                "DIN": "07011612",
+                "direct_name": "Bandu Babu Thik"
+            },
+            {
+                "DIN": "02759827",
+                "direct_name": "Manoj Dashrath Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "KLJO",
+        "cin_no.": "U99999MH1990PTC054456",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Guarantee",
+        "authorize_capital": "0",
+        "paid_up_capital": "0",
+        "registration_date": "23-10-1990",
+        "business_activity": "Others",
+        "state": "Daman and diu",
+        "district": "NA",
+        "address": "DD IN",
+        "register": "Registered on 23-10-1990",
+        "director_details": []
+    },
+    {
+        "company_name": "TRANS DAIRY PRODUCTS LIMITED",
+        "cin_no.": "U15201DD1995PLC001781",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "700",
+        "registration_date": "20-02-1995",
+        "business_activity": "Food Manufacturing",
+        "state": "Daman and diu",
+        "district": "NAVSARI",
+        "address": "23 BHARAT INDUSTRIAL ESTATEBHIMPORE DAMAN DD IN 396321",
+        "register": "Registered on 20-02-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "GHOTAGE AND MANJREKAR EXPORTS PRIVATE LIMITED",
+        "cin_no.": "U51102DD2005PTC004149",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-09-2005",
+        "business_activity": "Trading",
+        "state": "Daman and diu",
+        "district": "NAVSARI",
+        "address": "B-T-10 CAMPAL TRADE CENTERBEHIND MILITARY HOSPITAL CAMPAL PANJI GOA DD IN 396321",
+        "register": "Registered on 26-09-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "SHADE NET INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U25202DD2015PTC004766",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-09-2015",
+        "business_activity": "Metals and Chemicals",
+        "state": "Daman and diu",
+        "district": "VALSAD",
+        "address": "Survey No. 222 & 223/1, Nr. New OIDC Industrial Estate, Opp. Dabel Talab Daman Daman DD IN 396120",
+        "register": "Registered on 30-09-2015",
+        "director_details": []
+    }
+]

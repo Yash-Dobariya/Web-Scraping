@@ -1,0 +1,34 @@
+[
+    {
+        "company_name": "TRIP OF LIFETIME TRAVELTREK PRIVATE LIMITED",
+        "cin_no.": "U63030SK2016PTC013231",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-06-2016",
+        "business_activity": "Transport and Storage",
+        "state": "Sikkim",
+        "district": "EAST SIKKIM",
+        "address": "Tadong, Daragoan, Near Greendale School, Below ICAR Complex, Gangtok East Sikkim SK IN 737102",
+        "register": "Registered on 13-06-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "PANDIM ONLINE SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U74999SK2016PTC013232",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-10-2016",
+        "business_activity": "Business Services",
+        "state": "Sikkim",
+        "district": "EAST SIKKIM",
+        "address": "6th Mile,Tadong, Near Sikkim University, Gangtok East East Sikkim SK IN 737102",
+        "register": "Registered on 06-10-2016",
+        "director_details": []
+    }
+]

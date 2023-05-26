@@ -1,0 +1,385 @@
+[
+    {
+        "company_name": "AUROFOOD PRIVATE LIMITED",
+        "cin_no.": "U99999PY1966PTC000091",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "120000000",
+        "paid_up_capital": "0",
+        "registration_date": "16-11-1966",
+        "business_activity": "Others",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "NO. C.S. TOWERS, FLAT NO.2A,III FLOOR, 34 BAZULLAH ROAD, T. NAGAR, CHENNAI-600017. TAMILNADU PY IN",
+        "register": "Registered on 16-11-1966",
+        "director_details": []
+    },
+    {
+        "company_name": "RANJIT FOODS PRIVATE LIMITED",
+        "cin_no.": "U99999PY1995PTC001095",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "0",
+        "registration_date": "12-06-1995",
+        "business_activity": "Others",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "NO.237, PETERS ROAD,CHENNAI-600086. TAMIL NADU 600086.. PY IN",
+        "register": "Registered on 12-06-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "MILLENNIUM E SOFT SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U99999PY2000PTC001522",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "9000000",
+        "paid_up_capital": "0",
+        "registration_date": "22-02-2000",
+        "business_activity": "Others",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "SHAPRE TOWERS, NO.39[OLDMNO.20NORTH USMAN ROAD T.NAGAR, CHENNAI-600002. CHENNAI-600002. PY IN",
+        "register": "Registered on 22-02-2000",
+        "director_details": []
+    },
+    {
+        "company_name": "SHRIRAM OVERSEAS FINANCE LIMITED",
+        "cin_no.": "L65929PY1989PLC000634",
+        "status": "Not Available for eFiling",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000000",
+        "paid_up_capital": "0",
+        "registration_date": "01-06-1989",
+        "business_activity": "Finance",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "123,ANGAPPA NAICKEN ST.,CHENNAI PIN-600001 600001. PY IN",
+        "register": "Registered on 01-06-1989",
+        "director_details": []
+    },
+    {
+        "company_name": "TEXCARE PRIVATE LIMITED",
+        "cin_no.": "U17210PY1992PTC000857",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "28-12-1992",
+        "business_activity": "Textiles",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "NO.72, [OLD NO.19],MARSHALS ROAD, EGMORE, CHENNAI-600008. 600008. PY IN",
+        "register": "Registered on 28-12-1992",
+        "director_details": []
+    },
+    {
+        "company_name": "MEDIVISION INDIA PRIVATE LIMITED",
+        "cin_no.": "U33119PY1997PTC001347",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-09-1997",
+        "business_activity": "Machinery and Equipments",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "NO.10, VILLIANOOR MAIN ROAD, MOOLAKULAM PONDICHERRY. PY IN 600010",
+        "register": "Registered on 23-09-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "MODERN HITECH ENGINEERING PRIVATE LIMITED",
+        "cin_no.": "U45203PY2008PTC002230",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "06-11-2008",
+        "business_activity": "Construction",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "33, 6th Cross Street Kurinji Nagar, Lawspet Pondicherry Pondicherry PY IN 600008",
+        "register": "Registered on 06-11-2008",
+        "director_details": [
+            {
+                "DIN": "02331277",
+                "direct_name": "Ramakrishnan Vinayagam"
+            },
+            {
+                "DIN": "02356242",
+                "direct_name": "Sivalingam Elangovan"
+            },
+            {
+                "DIN": "02356280",
+                "direct_name": "Srinivasan Gopalakrishnan"
+            }
+        ]
+    },
+    {
+        "company_name": "ALLPHA SOLUTIONS PONDICHERRY PRIVATE LIMITED",
+        "cin_no.": "U72900PY2009PTC002279",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-03-2009",
+        "business_activity": "Business Services",
+        "state": "Pondicherry",
+        "district": "CHENNAI",
+        "address": "5, II FLOOR, ELLAPILLAI CHAVADI MAIN ROAD NEAR JK TOWER, PONDICHERRY PONDICHERRY Pondicherry PY IN 600013",
+        "register": "Registered on 27-03-2009",
+        "director_details": [
+            {
+                "DIN": "02593816",
+                "direct_name": "Arunraj Ezhumalai"
+            },
+            {
+                "DIN": "02593808",
+                "direct_name": "Venu Babu"
+            }
+        ]
+    },
+    {
+        "company_name": "SRI VENKATESWARA HITECH AGRO PRIVATE LIMITED",
+        "cin_no.": "U01409PY1999PTC001497",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "7500000",
+        "paid_up_capital": "7500000",
+        "registration_date": "25-10-1999",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "ADIVIPALAM,YANAM-533464. YANAM-533464. PY IN 533464",
+        "register": "Registered on 25-10-1999",
+        "director_details": [
+            {
+                "DIN": "07140323",
+                "direct_name": "Sri Venkata Suryanarayana Tammineedi"
+            },
+            {
+                "DIN": "07140325",
+                "direct_name": "Vardana Kumari Upperla"
+            }
+        ]
+    },
+    {
+        "company_name": "MARAINE HARVEST INDIA LTD.",
+        "cin_no.": "U05004PY1993PLC000871",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "1000",
+        "registration_date": "03-03-1993",
+        "business_activity": "Agriculture",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "8.141 PYDICONDALA STREETYANAM 533464. YANAM 533464. PY IN 533464",
+        "register": "Registered on 03-03-1993",
+        "director_details": [
+            {
+                "DIN": "00891076",
+                "direct_name": "Kameswara Rao Puilavarty"
+            }
+        ]
+    },
+    {
+        "company_name": "P R GEOTECH (INDIA) PRIVATE LIMITED",
+        "cin_no.": "U13200PY2011PTC002652",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-12-2011",
+        "business_activity": "Mining and Quarrying",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "DOOR NO.5-3-20, 1ST FLOOR, ADAVIPALEM UPSTAIRS OF VENKATA SAI ICE INDUSTRIES YANAM PY IN 533464",
+        "register": "Registered on 19-12-2011",
+        "director_details": [
+            {
+                "DIN": "03316954",
+                "direct_name": "Kuchupurrakal Georgepothen"
+            },
+            {
+                "DIN": "07046513",
+                "direct_name": "Radhakrishna Murthy Vemulapalli"
+            },
+            {
+                "DIN": "03615711",
+                "direct_name": "Satyasai Vani Vemulapalli"
+            },
+            {
+                "DIN": "07046511",
+                "direct_name": "Suresh Babu Yarlagadda"
+            },
+            {
+                "DIN": "07046514",
+                "direct_name": "Suseela Devi Vemulapalli"
+            },
+            {
+                "DIN": "03615707",
+                "direct_name": "Venkateswara Rao Vemulapalli"
+            },
+            {
+                "DIN": "05112276",
+                "direct_name": "Vidya Sagar Beta"
+            },
+            {
+                "DIN": "05122554",
+                "direct_name": "Yosaf Kakarla"
+            }
+        ]
+    },
+    {
+        "company_name": "YANAMS INDUSTRIAL CHEMICALS AND ALLIED P RODUCTS PVT.LTD.",
+        "cin_no.": "U24100PY1985PTC000349",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "400",
+        "registration_date": "30-08-1985",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "s.75, Paidikondal Street, Yanam, pondicherry PY IN 533462",
+        "register": "Registered on 30-08-1985",
+        "director_details": []
+    },
+    {
+        "company_name": "COROMANDEL PIGMENTS PVT.LTD.",
+        "cin_no.": "U24221PY1988PTC000576",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "865000",
+        "registration_date": "12-04-1988",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "Adivipolam Yanam PY IN 533464",
+        "register": "Registered on 12-04-1988",
+        "director_details": []
+    },
+    {
+        "company_name": "SWAMY CHEMICALS PVT. LTD.",
+        "cin_no.": "U24232PY1986PTC000410",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "800000",
+        "paid_up_capital": "2000",
+        "registration_date": "21-05-1986",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "7-3 Dhobi Street Yanam Pondicherry PY IN 533464",
+        "register": "Registered on 21-05-1986",
+        "director_details": []
+    },
+    {
+        "company_name": "LORD VENKY PHARMA PVT LTD",
+        "cin_no.": "U24232PY1989PTC000626",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "900000",
+        "paid_up_capital": "900000",
+        "registration_date": "16-03-1989",
+        "business_activity": "Metals and Chemicals",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "T.S.NO.A/5-4-8, METTAKURYANAM, U.T OF PONDICHERRY YANAM, U.T OF PONDICHERRY PY IN 533464",
+        "register": "Registered on 16-03-1989",
+        "director_details": [
+            {
+                "DIN": "07491776",
+                "direct_name": "Ratna Geetardha Chittoory"
+            },
+            {
+                "DIN": "02919836",
+                "direct_name": "Satya Narayana Murthy Chittoory"
+            },
+            {
+                "DIN": "01818365",
+                "direct_name": "Venkata Subrahmanyam Chittoory"
+            }
+        ]
+    },
+    {
+        "company_name": "REGENCY TRANSPORT CARRIERS LIMITED",
+        "cin_no.": "U60221PY2001PLC001594",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "4333000",
+        "registration_date": "17-05-2001",
+        "business_activity": "Transport and Storage",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "4-131, OPOSITE TO BUS STAND,YANAM, PINCODE - 533464 YANAM - 533464 PY IN 533464",
+        "register": "Registered on 17-05-2001",
+        "director_details": [
+            {
+                "DIN": "01852020",
+                "direct_name": "Poluru Dasaiah Naidu"
+            },
+            {
+                "DIN": "02700266",
+                "direct_name": "Poluru Vijaya Kumari"
+            },
+            {
+                "DIN": "01825331",
+                "direct_name": "Sreeramchowdary Venamadala"
+            }
+        ]
+    },
+    {
+        "company_name": "CHAMA EXPORTS AND IMPORTS PRIVATE LIMITE D",
+        "cin_no.": "U99999PY1994PTC001027",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "300000",
+        "paid_up_capital": "0",
+        "registration_date": "16-12-1994",
+        "business_activity": "Others",
+        "state": "Pondicherry",
+        "district": "EAST GODAVARI",
+        "address": "4-333, ANYAM GARDENS,YANAM-533464. UNION TERITORY OF PONDICHERRY. PY IN",
+        "register": "Registered on 16-12-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "SIBAR FINANCIAL SERVICES PRIVATE LIMITED",
+        "cin_no.": "U65910AP1997PTC027165",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "6000000",
+        "paid_up_capital": "0",
+        "registration_date": "23-05-1997",
+        "business_activity": "Finance",
+        "state": "Andhra pradesh",
+        "district": "NA",
+        "address": "D NO. 27-14-49, II FLOORRAJA GOPALACHARI STREET GOVERNORPET, VIJAYAWADA - 2. AP IN",
+        "register": "Registered on 23-05-1997",
+        "director_details": []
+    }
+]

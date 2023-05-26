@@ -1,0 +1,1304 @@
+[
+    {
+        "company_name": "YANHO TIMBER INDUSTRIES PVT LTD",
+        "cin_no.": "U20211AS1983PTC002119",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "7500",
+        "registration_date": "16-12-1983",
+        "business_activity": "Wood Products",
+        "state": "Assam",
+        "district": "DIBRUGARH",
+        "address": "ASAM DIBRUGARH Tinsukia AS IN 786003",
+        "register": "Registered on 16-12-1983",
+        "director_details": []
+    },
+    {
+        "company_name": "SARAS FOOD AND BREVERAGES PVT LTD",
+        "cin_no.": "U15549NL1987PTC002816",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "5956000",
+        "registration_date": "03-12-1987",
+        "business_activity": "Food Manufacturing",
+        "state": "Nagaland",
+        "district": "DIMAPUR",
+        "address": "NEAR EROS CINEMADIMAPUR NAGALAND NL IN 797112",
+        "register": "Registered on 03-12-1987",
+        "director_details": [
+            {
+                "DIN": "00528764",
+                "direct_name": "Abhinav Mittal"
+            },
+            {
+                "DIN": "00203933",
+                "direct_name": "Shubhangi Jasrasaria"
+            }
+        ]
+    },
+    {
+        "company_name": "VIMAL PREMIUM SUITINGS PRIVATE LIMITED",
+        "cin_no.": "U17100NL2015PTC008381",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "06-05-2015",
+        "business_activity": "Textiles",
+        "state": "Nagaland",
+        "district": "DIMAPUR",
+        "address": "KAILASH FANCY STORE MP ROAD DIMAPUR Dimapur NL IN 797112",
+        "register": "Registered on 06-05-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "GREEN FIELD AGRO FARMS PVT LTD",
+        "cin_no.": "U17120NL1993PTC003886",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "200",
+        "registration_date": "26-03-1993",
+        "business_activity": "Textiles",
+        "state": "Nagaland",
+        "district": "DIMAPUR",
+        "address": "Kher Mahal Dimapur Dimapur Kohima NL IN 797112",
+        "register": "Registered on 26-03-1993",
+        "director_details": []
+    },
+    {
+        "company_name": "NAGA ECO-FRIENDLY MULTI-PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U17124NL2003PTC007040",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-03-2003",
+        "business_activity": "Textiles",
+        "state": "Nagaland",
+        "district": "DIMAPUR",
+        "address": "PURANA BAZARNEAR SIMA BAPTIST CHURCH DIMAPUR NAGALAND Dimapur NL IN 797112",
+        "register": "Registered on 06-03-2003",
+        "director_details": []
+    },
+    {
+        "company_name": "VIMAL SYNCOTEX PRIVATE LIMITED",
+        "cin_no.": "U17290NL2011PTC008297",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-05-2011",
+        "business_activity": "Textiles",
+        "state": "Nagaland",
+        "district": "DIMAPUR",
+        "address": "C/O KAILASH FANCY STORE M.P. ROAD DIMAPUR NL IN 797112",
+        "register": "Registered on 11-05-2011",
+        "director_details": [
+            {
+                "DIN": "01846414",
+                "direct_name": "Kanak Jain"
+            },
+            {
+                "DIN": "07682477",
+                "direct_name": "Kuldeep Jain"
+            },
+            {
+                "DIN": "00835438",
+                "direct_name": "Vijay Kumar Jain"
+            }
+        ]
+    },
+    {
+        "company_name": "AMBIKA OVERSEAS PVT LTD",
+        "cin_no.": "U74992WB1996PTC081613",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3500000",
+        "paid_up_capital": "2685000",
+        "registration_date": "07-10-1996",
+        "business_activity": "Business Services",
+        "state": "West bengal",
+        "district": "KOLKATA",
+        "address": "75 GANESH AVENUE 2ND FL KOLKATA WB IN 700010",
+        "register": "Registered on 07-10-1996",
+        "director_details": [
+            {
+                "DIN": "02142310",
+                "direct_name": "Aayush Goel"
+            },
+            {
+                "DIN": "00321427",
+                "direct_name": "Naresh Goel"
+            }
+        ]
+    },
+    {
+        "company_name": "AMENTO AND ALHOSHE MARKETING PRIVATE LIM ITED",
+        "cin_no.": "U51399NL2007PTC008247",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "12-11-2007",
+        "business_activity": "Trading",
+        "state": "Nagaland",
+        "district": "DIMAPUR",
+        "address": "PURANA BAZAR DIMAPUR Dimapur NL IN 797112",
+        "register": "Registered on 12-11-2007",
+        "director_details": [
+            {
+                "DIN": "01854412",
+                "direct_name": "Alhoshe Yepthomi"
+            },
+            {
+                "DIN": "01844723",
+                "direct_name": "Amento Sumi"
+            }
+        ]
+    },
+    {
+        "company_name": "BAZARI STEELS PRIVATE LIMITED",
+        "cin_no.": "U51433NL2016PTC008390",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "30000000",
+        "paid_up_capital": "27600000",
+        "registration_date": "06-01-2016",
+        "business_activity": "Trading",
+        "state": "Nagaland",
+        "district": "DIMAPUR",
+        "address": "HOUSE NO. 02, WARD 18, G.S.ROAD NEAR RAM JANKI HIGHER SECONDARY SCHOOL DIMAPUR Dimapur NL IN 797112",
+        "register": "Registered on 06-01-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "XALU AGRI AND ALLIED COMPANY PRIVATE LIMITED",
+        "cin_no.": "U01400NL2011PTC008302",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-08-2011",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "DIMAPUR",
+        "address": "XALU COTTAGE, 3RD MILE, CENSUS H/NO. 046(1) THILIXU VILLAGE, BLOCK-2, DOYAPUR ROAD DIMAPUR Dimapur NL IN 797112",
+        "register": "Registered on 19-08-2011",
+        "director_details": [
+            {
+                "DIN": "03200304",
+                "direct_name": "Khehoto Assumi"
+            },
+            {
+                "DIN": "03200310",
+                "direct_name": "Meshak Assumi"
+            }
+        ]
+    },
+    {
+        "company_name": "BIOME AGRO PRIVATE LIMITED",
+        "cin_no.": "U01403NL2008PTC008255",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "13-12-2008",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "DIMAPUR",
+        "address": "HOKIVI BUILDING LHOMITHI COLONY POINT DIMAPUR Dimapur NL IN 797112",
+        "register": "Registered on 13-12-2008",
+        "director_details": [
+            {
+                "DIN": "02409953",
+                "direct_name": "Abhishek Sharma"
+            },
+            {
+                "DIN": "02314717",
+                "direct_name": "Ramesh Kumar Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "NORTH EASTERN HIGH AGRICULTURAL DEVELOPMENT CO LTD",
+        "cin_no.": "U01409NL2000PLC006163",
+        "status": "Not Available for eFiling",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "15-05-2000",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "IMPHAL WEST",
+        "address": "IROM LEITED IMPHAL Kohima NL IN 795001",
+        "register": "Registered on 15-05-2000",
+        "director_details": []
+    },
+    {
+        "company_name": "PRISTINE AGRITECH PRIVATE LIMITED",
+        "cin_no.": "U01403NL2008PTC008248",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "05-05-2008",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "KOHIMA",
+        "address": "CHUMUKEDIMA `A', BLOCK 4 NEAR ST. JOSEPH'S SCHOOL CHUMUKEDIMA Dimapur NL IN 797105",
+        "register": "Registered on 05-05-2008",
+        "director_details": [
+            {
+                "DIN": "01980683",
+                "direct_name": "Ditsolo Kapfo"
+            },
+            {
+                "DIN": "01980669",
+                "direct_name": "Rhiku Kapfo"
+            }
+        ]
+    },
+    {
+        "company_name": "NAGALAND STATE MINERAL DEVELOPMENT CORPORATION LTD",
+        "cin_no.": "U11101NL1981SGC001879",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "16000400",
+        "registration_date": "21-05-1981",
+        "business_activity": "Mining and Quarrying",
+        "state": "Nagaland",
+        "district": "KOHIMA",
+        "address": "A.G.COLONY KOHIMA NL IN 797001",
+        "register": "Registered on 21-05-1981",
+        "director_details": [
+            {
+                "DIN": "02274213",
+                "direct_name": "Hokhuvi Kiviho Chishi"
+            },
+            {
+                "DIN": "01891894",
+                "direct_name": "Ruvuokhrielie Angami"
+            }
+        ]
+    },
+    {
+        "company_name": "NAGAMAIKI SMALLHOLDER PIG PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100NL2017PTC013430",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2750",
+        "registration_date": "27-04-2017",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "KOHIMA",
+        "address": "NBCC Building, First Floor, Road Level Bayavu Colony, Kohima Kohima Kohima NL IN 797001",
+        "register": "Registered on 27-04-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "NAGALAND AGRO FOREST PRODUCE MARKETING P RIVATE LIMITED",
+        "cin_no.": "U01111NL2005PTC007906",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "200000",
+        "registration_date": "04-10-2005",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "KOHIMA",
+        "address": "D BLOCKNAGALAND KOHIMA Kohima NL IN 797001",
+        "register": "Registered on 04-10-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "ASPORA NAGALAND LIMITED",
+        "cin_no.": "U01111NL2017PLC013418",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "1550000",
+        "registration_date": "10-02-2017",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "KOHIMA",
+        "address": "Entrepreneurs Associates PWD Junction, NH 29 KOHIMA Kohima NL IN 797001",
+        "register": "Registered on 10-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "EANFER LIMITED",
+        "cin_no.": "U01114NL2017PLC013432",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "16-05-2017",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "KOHIMA",
+        "address": "Entrepreneurs Associates PWD Junction, NH 29 KOHIMA Kohima NL IN 797001",
+        "register": "Registered on 16-05-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "JAPFU VALLEY AGRO FARMS PRIVATE LIMITED",
+        "cin_no.": "U01122NL2015PTC008376",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-01-2015",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "KOHIMA",
+        "address": "4TH FLOOR, MATO COMPLEX, PHQ JUNCTION, P.R HILL KOHIMA Kohima NL IN 797001",
+        "register": "Registered on 12-01-2015",
+        "director_details": [
+            {
+                "DIN": "06626099",
+                "direct_name": "James Angami"
+            },
+            {
+                "DIN": "06938632",
+                "direct_name": "Rokosenuo Angami"
+            }
+        ]
+    },
+    {
+        "company_name": "R & S DESIGN ENGINEERS PRIVATE LIMITED",
+        "cin_no.": "U74120NL1999PTC005720",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "40000",
+        "registration_date": "05-04-1999",
+        "business_activity": "Business Services",
+        "state": "Nagaland",
+        "district": "KOHIMA",
+        "address": "UTILITY COMPLEX,TAXI STAND,POST OFFICE ROAD KOHIMA, NAGALAND Kohima NL IN 797001",
+        "register": "Registered on 05-04-1999",
+        "director_details": []
+    },
+    {
+        "company_name": "EZUNG ENTERPRISES PVT LTD",
+        "cin_no.": "U51909NL1997PTC005104",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "3000",
+        "registration_date": "24-06-1997",
+        "business_activity": "Trading",
+        "state": "Nagaland",
+        "district": "KOHIMA",
+        "address": "BAYAVU HILL KOHIMAPOST BOX KOHIMA NAGALAND Kohima NL IN 797001",
+        "register": "Registered on 24-06-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "SIEDZE FINANCE AND INVESTMENT PRIVATE LI MITED",
+        "cin_no.": "U51909NL1998PTC005583",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "22500",
+        "registration_date": "11-11-1998",
+        "business_activity": "Trading",
+        "state": "Nagaland",
+        "district": "KOHIMA",
+        "address": "CATHOLIC PUBLICATION CENTRED BLOCK POST BOX NO 219 KOHIMA NAGALAND Kohima NL IN 797001",
+        "register": "Registered on 11-11-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "IBISBILL MINING AND MINERALS PRIVATE LIMITED",
+        "cin_no.": "U13200NL2016PTC008392",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-01-2016",
+        "business_activity": "Mining and Quarrying",
+        "state": "Nagaland",
+        "district": "MOKOKCHUNG",
+        "address": "PLOT NO-182, HOUSE NO-1 MOLUNGYIMSEN B, LUYONG TULI Mokokchung NL IN 798618",
+        "register": "Registered on 27-01-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "JHANJI MINING AND MINERALS PRIVATE LIMITED",
+        "cin_no.": "U13200NL2016PTC008396",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-02-2016",
+        "business_activity": "Mining and Quarrying",
+        "state": "Nagaland",
+        "district": "MOKOKCHUNG",
+        "address": "PLOT NO-182, HOUSE NO-2 MOLUNGYIMSEN B , LUYONG TULI Mokokchung NL IN 798618",
+        "register": "Registered on 11-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "HORNBILL MINES & MINERALS PRIVATE LIMITED",
+        "cin_no.": "U14200NL2013PTC008348",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "700000",
+        "registration_date": "27-02-2013",
+        "business_activity": "Mining and Quarrying",
+        "state": "Nagaland",
+        "district": "MOKOKCHUNG",
+        "address": "PLOT NO - 182, HOUSE NO - 2 MOLUNGYIMSEN, B, LUYONG TULI NL IN 798618",
+        "register": "Registered on 27-02-2013",
+        "director_details": [
+            {
+                "DIN": "02864566",
+                "direct_name": "Songappan Gokula Kannan"
+            },
+            {
+                "DIN": "06488612",
+                "direct_name": "Sushil Mahapatra"
+            }
+        ]
+    },
+    {
+        "company_name": "NAGINIMORA VENEER & SAW MILLS PVT LTD",
+        "cin_no.": "U20101NL1981PTC001876",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2470000",
+        "registration_date": "07-04-1981",
+        "business_activity": "Wood Products",
+        "state": "Nagaland",
+        "district": "MOKOKCHUNG",
+        "address": "MILAK INDUSTRIAL AREA, 8TH MILE TULI NL IN 798618",
+        "register": "Registered on 07-04-1981",
+        "director_details": [
+            {
+                "DIN": "02490510",
+                "direct_name": "Amenla Chingwang"
+            },
+            {
+                "DIN": "05273213",
+                "direct_name": "Imtiliba Nukshimongla"
+            },
+            {
+                "DIN": "03111209",
+                "direct_name": "Pradeep Kumar Agarwalla"
+            },
+            {
+                "DIN": "03111069",
+                "direct_name": "Raj Kumar Agarwalla"
+            },
+            {
+                "DIN": "07136227",
+                "direct_name": "Sarita Agarwalla"
+            },
+            {
+                "DIN": "07136877",
+                "direct_name": "Shital Agarwalla"
+            }
+        ]
+    },
+    {
+        "company_name": "NAGALAND PULP & PAPER COMPANY LTD",
+        "cin_no.": "U21012NL1971SGC001349",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000000",
+        "paid_up_capital": "1177500700",
+        "registration_date": "14-09-1971",
+        "business_activity": "Paper and Printing",
+        "state": "Nagaland",
+        "district": "MOKOKCHUNG",
+        "address": "PAPER NAGAR , P.O. - TULI, DIST - MOKOKCHUNG NL IN 798623",
+        "register": "Registered on 14-09-1971",
+        "director_details": [
+            {
+                "DIN": "06956955",
+                "direct_name": "Arvind Kumar"
+            },
+            {
+                "DIN": "03024319",
+                "direct_name": "Kanhaiya Lal Garg"
+            },
+            {
+                "DIN": "02544579",
+                "direct_name": "Mesetshulo Kezienuo Mero"
+            },
+            {
+                "DIN": "03602200",
+                "direct_name": "Mohan Jha"
+            },
+            {
+                "DIN": "03208062",
+                "direct_name": "Nixuvi Hushili Sema"
+            },
+            {
+                "DIN": "07019906",
+                "direct_name": "Palash Goswami"
+            },
+            {
+                "DIN": "03479271",
+                "direct_name": "Shashi Kanth Jain"
+            },
+            {
+                "DIN": "03147076",
+                "direct_name": "Subhendra Nath Bhattacharyya"
+            }
+        ]
+    },
+    {
+        "company_name": "OUTDOORZ PRIVATE LIMITED",
+        "cin_no.": "U74999NL2016PTC013416",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-12-2016",
+        "business_activity": "Business Services",
+        "state": "Nagaland",
+        "district": "MOKOKCHUNG",
+        "address": "HOUSE NO",
+        "register": "Registered on 23-12-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "ARUNA SOLAR PRIVATE LIMITED",
+        "cin_no.": "U40106NL2013PTC008337",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-01-2013",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Nagaland",
+        "district": "MOKOKCHUNG",
+        "address": "LONGKUMER ESTATE NO.1 LONGTHU VALLEY MONGKOLEMBA Mokokchung NL IN 798601",
+        "register": "Registered on 14-01-2013",
+        "director_details": [
+            {
+                "DIN": "02681291",
+                "direct_name": "Ankur Ashok Chaturvedi"
+            },
+            {
+                "DIN": "03042954",
+                "direct_name": "Anuj Ashok Chaturvedi"
+            },
+            {
+                "DIN": "02098138",
+                "direct_name": "Temjenimna Jonah Imna Sashi Along"
+            }
+        ]
+    },
+    {
+        "company_name": "BHASKAR SUN VENTURES PRIVATE LIMITED",
+        "cin_no.": "U40106NL2013PTC008338",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-01-2013",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Nagaland",
+        "district": "MOKOKCHUNG",
+        "address": "LONGKUMER ESTATE NO.1 LONGTHU VALLEY MONGKOLEMBA Mokokchung NL IN 798601",
+        "register": "Registered on 14-01-2013",
+        "director_details": [
+            {
+                "DIN": "02681291",
+                "direct_name": "Ankur Ashok Chaturvedi"
+            },
+            {
+                "DIN": "03042954",
+                "direct_name": "Anuj Ashok Chaturvedi"
+            },
+            {
+                "DIN": "02098138",
+                "direct_name": "Temjenimna Jonah Imna Sashi Along"
+            }
+        ]
+    },
+    {
+        "company_name": "BASDEV SUN VENTURES PRIVATE LIMITED",
+        "cin_no.": "U40106NL2013PTC008341",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-01-2013",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Nagaland",
+        "district": "MOKOKCHUNG",
+        "address": "LONGKUMER ESTATE NO.1 LONGTHU VALLEY MONGKOLEMBA Mokokchung NL IN 798601",
+        "register": "Registered on 29-01-2013",
+        "director_details": [
+            {
+                "DIN": "02681291",
+                "direct_name": "Ankur Ashok Chaturvedi"
+            },
+            {
+                "DIN": "03042954",
+                "direct_name": "Anuj Ashok Chaturvedi"
+            },
+            {
+                "DIN": "02098138",
+                "direct_name": "Temjenimna Jonah Imna Sashi Along"
+            }
+        ]
+    },
+    {
+        "company_name": "GOVINDA SOLAR PRIVATE LIMITED",
+        "cin_no.": "U40106NL2013PTC008342",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-01-2013",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Nagaland",
+        "district": "MOKOKCHUNG",
+        "address": "LONGKUMER ESTATE NO.1 LONGTHU VALLEY MONGKOLEMBA Mokokchung NL IN 798601",
+        "register": "Registered on 29-01-2013",
+        "director_details": [
+            {
+                "DIN": "02681291",
+                "direct_name": "Ankur Ashok Chaturvedi"
+            },
+            {
+                "DIN": "03042954",
+                "direct_name": "Anuj Ashok Chaturvedi"
+            },
+            {
+                "DIN": "02098138",
+                "direct_name": "Temjenimna Jonah Imna Sashi Along"
+            }
+        ]
+    },
+    {
+        "company_name": "TAI-WANG-SHU MINING AND MANUFACTURING CO MPANY PRIVATE LIMITED",
+        "cin_no.": "U10101NL2007PTC008234",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "06-02-2007",
+        "business_activity": "Mining and Quarrying",
+        "state": "Nagaland",
+        "district": "MON",
+        "address": "HELSA COTTAGE DIC COLONY MON Mon NL IN 798621",
+        "register": "Registered on 06-02-2007",
+        "director_details": [
+            {
+                "DIN": "00576868",
+                "direct_name": "Pradeep Keshav Hule"
+            },
+            {
+                "DIN": "01867713",
+                "direct_name": "Sumitra Kayastha"
+            }
+        ]
+    },
+    {
+        "company_name": "LORDS MINING AND RESOURCES LIMITED",
+        "cin_no.": "U10102NL2012PLC008326",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "930000",
+        "registration_date": "28-08-2012",
+        "business_activity": "Mining and Quarrying",
+        "state": "Nagaland",
+        "district": "MON",
+        "address": "TONGMEI KONYAK VILLAGE LAPA LAMPONG TIZIT TOWN NL IN 798602",
+        "register": "Registered on 28-08-2012",
+        "director_details": [
+            {
+                "DIN": "00973971",
+                "direct_name": "Amit Saha"
+            },
+            {
+                "DIN": "02891183",
+                "direct_name": "Anit Ghose"
+            },
+            {
+                "DIN": "00974074",
+                "direct_name": "Asis Kumar Saha"
+            },
+            {
+                "DIN": "02782681",
+                "direct_name": "Rakhi Saha"
+            },
+            {
+                "DIN": "02782694",
+                "direct_name": "Seema Saha"
+            }
+        ]
+    },
+    {
+        "company_name": "MOILONG EXPLORATION PRIVATE LIMITED",
+        "cin_no.": "U11100NL2015PTC008387",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-11-2015",
+        "business_activity": "Mining and Quarrying",
+        "state": "Nagaland",
+        "district": "MON",
+        "address": "HOUSE NO - 22 UPPER TIRU VILLAGE, NAGINIMORA MON NL IN 798622",
+        "register": "Registered on 17-11-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "SANGRAHALAYA TIMBER AND CRAFTS LTD",
+        "cin_no.": "L20101NL1985PLC002284",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200100000",
+        "paid_up_capital": "200100000",
+        "registration_date": "04-01-1985",
+        "business_activity": "Wood Products",
+        "state": "Nagaland",
+        "district": "MON",
+        "address": "P.O. - NAGINIMARA DIST",
+        "register": "Registered on 04-01-1985",
+        "director_details": [
+            {
+                "DIN": "00030815",
+                "direct_name": "Champa Lal Pareek"
+            },
+            {
+                "DIN": "BFMPM5176B",
+                "direct_name": "Chanchal Rungta"
+            },
+            {
+                "DIN": "00343685",
+                "direct_name": "Chand Ratan Modi"
+            },
+            {
+                "DIN": "07204106",
+                "direct_name": "Sourav Saha"
+            },
+            {
+                "DIN": "00343396",
+                "direct_name": "Tarak Nath Dey"
+            },
+            {
+                "DIN": "07203672",
+                "direct_name": "Tripty Modi"
+            }
+        ]
+    },
+    {
+        "company_name": "HOTAHOTI WOOD PRODUCTS LTD",
+        "cin_no.": "L20211NL1984PLC002149",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200100000",
+        "paid_up_capital": "199999600",
+        "registration_date": "08-03-1984",
+        "business_activity": "Wood Products",
+        "state": "Nagaland",
+        "district": "MON",
+        "address": "P.O. - NAGINIMORA, MON, Nagaland NL IN 798622",
+        "register": "Registered on 08-03-1984",
+        "director_details": [
+            {
+                "DIN": "00030815",
+                "direct_name": "Champa Lal Pareek"
+            },
+            {
+                "DIN": "07590027",
+                "direct_name": "Chanchal Rungta"
+            },
+            {
+                "DIN": "00343685",
+                "direct_name": "Chand Ratan Modi"
+            },
+            {
+                "DIN": "07204106",
+                "direct_name": "Sourav Saha"
+            },
+            {
+                "DIN": "00343396",
+                "direct_name": "Tarak Nath Dey"
+            },
+            {
+                "DIN": "BFCPM8562H",
+                "direct_name": "Tripty Modi"
+            }
+        ]
+    },
+    {
+        "company_name": "HILLS TEA ESTATE PVT LTD",
+        "cin_no.": "U01132NL1998PTC005464",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "10000",
+        "registration_date": "09-07-1998",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "MON",
+        "address": "LAPALANGPONG TIZIT TALAQ DIST",
+        "register": "Registered on 09-07-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "CHENO TRADING PRIVATE LIMITED",
+        "cin_no.": "U51503NL2015PTC008379",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-03-2015",
+        "business_activity": "Trading",
+        "state": "Nagaland",
+        "district": "MON",
+        "address": "C/O - SHRI JOHN TOMPANG ADC COLONY MON Mon NL IN 798621",
+        "register": "Registered on 02-03-2015",
+        "director_details": [
+            {
+                "DIN": "06968025",
+                "direct_name": "Cheno Loching John Konyak"
+            },
+            {
+                "DIN": "06968030",
+                "direct_name": "Mangam Konyak"
+            }
+        ]
+    },
+    {
+        "company_name": "IDEAL PLY UDYOG PVT LTD",
+        "cin_no.": "U20211NL1983PTC002071",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "900000",
+        "registration_date": "18-08-1983",
+        "business_activity": "Wood Products",
+        "state": "Nagaland",
+        "district": "MON",
+        "address": "P.O. Naginimara, Nagaland NAGALAND NL IN 798622",
+        "register": "Registered on 18-08-1983",
+        "director_details": [
+            {
+                "DIN": "00590300",
+                "direct_name": "Kailash Kumar Khemani"
+            },
+            {
+                "DIN": "00571382",
+                "direct_name": "Suresh Khemani"
+            }
+        ]
+    },
+    {
+        "company_name": "ARUN FOREST PRODUCTS PVT LTD",
+        "cin_no.": "U20211NL1983PTC002090",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "29-09-1983",
+        "business_activity": "Wood Products",
+        "state": "Nagaland",
+        "district": "MON",
+        "address": "Mon NAGALAND Mon NL IN 798621",
+        "register": "Registered on 29-09-1983",
+        "director_details": []
+    },
+    {
+        "company_name": "EMPIRE WOOD CRAFTS PVT LTD",
+        "cin_no.": "U20211NL1984PTC002203",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "7500",
+        "registration_date": "03-08-1984",
+        "business_activity": "Wood Products",
+        "state": "Nagaland",
+        "district": "MON",
+        "address": "DIMAPUR DIMAPUR NAGALAND Mon NL IN 798622",
+        "register": "Registered on 03-08-1984",
+        "director_details": []
+    },
+    {
+        "company_name": "NAGALAND HANDLOOM & HANDICRAFTS DEVELOPMENT CORPORATION LIMITED",
+        "cin_no.": "U17113NL1979SGC001764",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "90000000",
+        "paid_up_capital": "8300000",
+        "registration_date": "27-02-1979",
+        "business_activity": "Textiles",
+        "state": "Nagaland",
+        "district": "NA",
+        "address": "DIMAPUR, DIST- KOHIMA NAGALAND Dimapur NL IN",
+        "register": "Registered on 27-02-1979",
+        "director_details": [
+            {
+                "DIN": "03593869",
+                "direct_name": "Hokiye Yepthom"
+            },
+            {
+                "DIN": "03208062",
+                "direct_name": "Nixuvi Hushili Sema"
+            }
+        ]
+    },
+    {
+        "company_name": "KOHIMA WEAVING AND HANDLOOM COMPANY PRIV ATE LIMITED",
+        "cin_no.": "U17309NL1998PTC005617",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "7500",
+        "registration_date": "10-12-1998",
+        "business_activity": "Textiles",
+        "state": "Nagaland",
+        "district": "NA",
+        "address": "LT IMKONG S BUILDINGOFFICER S HILL LADIES ROAD KOHIMA NAGALAND Kohima NL IN",
+        "register": "Registered on 10-12-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "NAGALAND AGRO INDUSTRIES PVT LTD",
+        "cin_no.": "U01409NL1985PTC002394",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "200",
+        "registration_date": "19-07-1985",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "NA",
+        "address": "GOLAGHAT ROADDIMAPUR NAGALAND Kohima NL IN",
+        "register": "Registered on 19-07-1985",
+        "director_details": [
+            {
+                "DIN": "00491205",
+                "direct_name": "Ambika Baruah"
+            },
+            {
+                "DIN": "00491205**",
+                "direct_name": "Ambika Baruah"
+            },
+            {
+                "DIN": "03619001",
+                "direct_name": "Amit Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "MAK PRODUCE COMPANY PVT LTD",
+        "cin_no.": "U01409NL1994PTC004068",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000",
+        "paid_up_capital": "20",
+        "registration_date": "03-02-1994",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "NA",
+        "address": "DUNCAN BASTIDIMAPUR NAGALAND Dimapur NL IN",
+        "register": "Registered on 03-02-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "LUMOKINGT AGRO-TECH PRIVATE LIMITED",
+        "cin_no.": "U01409NL1999PTC005755",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "12000",
+        "registration_date": "10-05-1999",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "NA",
+        "address": "PANSOTUENSANG NAGALAND NL IN",
+        "register": "Registered on 10-05-1999",
+        "director_details": []
+    },
+    {
+        "company_name": "BHANDARI YANJO WOOD PRODUCTS PVT LTD",
+        "cin_no.": "U02001NL1988PTC002980",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "165400",
+        "registration_date": "10-05-1988",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "NA",
+        "address": "P O & DIST VILL BHANDARITOWN DIST WOKHA NAGALAND NL IN",
+        "register": "Registered on 10-05-1988",
+        "director_details": []
+    },
+    {
+        "company_name": "N.D. FARMING COMPANY PVT LTD",
+        "cin_no.": "U02001NL1993PTC003900",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000",
+        "paid_up_capital": "20",
+        "registration_date": "10-05-1993",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "NA",
+        "address": "KHERMAHAL KOHIMA DIMAPUR Kohima NL IN",
+        "register": "Registered on 10-05-1993",
+        "director_details": []
+    },
+    {
+        "company_name": "TAHAIKI PLANTATIONS PRIVATE LIMITED",
+        "cin_no.": "U02001NL1996PTC004921",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "2000",
+        "registration_date": "10-12-1996",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "NA",
+        "address": "CIRCULAR ROADDIMAPUR DISTRICT KOHIMA NAGALAND Kohima NL IN",
+        "register": "Registered on 10-12-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "TECHAUKI PLANTATIONS PRIVATE LIMITED",
+        "cin_no.": "U02001NL1997PTC004981",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "2000",
+        "registration_date": "05-02-1997",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "NA",
+        "address": "CIRCULAR ROADOPP HOLY CROSS DIMAPUR NAGALAND Kohima NL IN",
+        "register": "Registered on 05-02-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "FAIRLIE ENTERPRISES PVT LTD",
+        "cin_no.": "U24119NL1989PTC003380",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "1600000",
+        "registration_date": "21-12-1989",
+        "business_activity": "Metals and Chemicals",
+        "state": "Nagaland",
+        "district": "NA",
+        "address": "CHURCH ROADDIMAPUR NAGALAND Kohima NL IN",
+        "register": "Registered on 21-12-1989",
+        "director_details": []
+    },
+    {
+        "company_name": "SOLAR TIMBERS PVT LTD",
+        "cin_no.": "U20211NL1984PTC002190",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "5000000",
+        "registration_date": "29-06-1984",
+        "business_activity": "Wood Products",
+        "state": "Nagaland",
+        "district": "PAPUM PARE",
+        "address": "4th Mile,Kohima Road Dimapur NAGALAND NL IN 791112",
+        "register": "Registered on 29-06-1984",
+        "director_details": [
+            {
+                "DIN": "01082043",
+                "direct_name": "Anil Kumar Aggarwal"
+            },
+            {
+                "DIN": "00809343",
+                "direct_name": "Mahender Kumar Maheshwari"
+            }
+        ]
+    },
+    {
+        "company_name": "PEREN PIG PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100NL2018PTC013461",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000",
+        "paid_up_capital": "100",
+        "registration_date": "31-10-2018",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "PEREN",
+        "address": "Company PEREN PIG PRODUCER COMPANY LIMITED JALUKIE MHAINAMTSI 797110 PAREN-Kohima",
+        "register": "Registered on 31-10-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "PHEK ORGANIC LARGE CARDAMOM PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01111NL2018PTC013450",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company Limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-05-2018",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "PHEK",
+        "address": "House No.228 B, Forest Colony, Pfutsero Town Phek Phek-797107,Nagaland",
+        "register": "Registered on 10-05-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "YONGKONG ENTERPRISES PRIVATE LIMITED",
+        "cin_no.": "U74999NL2017PTC013441",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-10-2017",
+        "business_activity": "Business Services",
+        "state": "Nagaland",
+        "district": "TUENSANG",
+        "address": "C/o A- Chingmak Chang, Noksen, Sector- High School-B, High School Road Tuensang Tuensang NL IN 798612",
+        "register": "Registered on 13-10-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "BITONG SANGTAM BUILDERS PRIVATE LIMITED",
+        "cin_no.": "U45201NL2005PTC007626",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-01-2005",
+        "business_activity": "Construction",
+        "state": "Nagaland",
+        "district": "TUENSANG",
+        "address": "LONGKHIM TOWNOPPOSITE S B I TUENSANG KOHIMA NL IN 798616",
+        "register": "Registered on 13-01-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "OKING ENERGY PRIVATE LIMITED",
+        "cin_no.": "U40102NL2010PTC008287",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "200000",
+        "registration_date": "20-11-2010",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Nagaland",
+        "district": "WEST TRIPURA",
+        "address": "Opposite Circuit House New Minister Hill Kohima NL IN 799001",
+        "register": "Registered on 20-11-2010",
+        "director_details": [
+            {
+                "DIN": "02976691",
+                "direct_name": "Seyiekuolie Kesiezie"
+            },
+            {
+                "DIN": "02990979",
+                "direct_name": "Vikethonyu Keseizie"
+            }
+        ]
+    },
+    {
+        "company_name": "ZHIMOMI BAMBOOKRAFT PRIVATE LIMITED",
+        "cin_no.": "U74999NL2018PTC013446",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "07-03-2018",
+        "business_activity": "Business Services",
+        "state": "Nagaland",
+        "district": "WOKHA",
+        "address": ".NO-11,SUMITO VILLAGE P.O-BHANDARI DIMAPUR Wokha NL IN 797111",
+        "register": "Registered on 07-03-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "GNU TEA COMPANY PRIVATE LIMITED",
+        "cin_no.": "U01132NL2002PTC006951",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-11-2002",
+        "business_activity": "Agriculture",
+        "state": "Nagaland",
+        "district": "ZUNHEBOTTO",
+        "address": "D C HILLSZUHENBOTO NAGALAND NL IN 798620",
+        "register": "Registered on 21-11-2002",
+        "director_details": []
+    }
+]

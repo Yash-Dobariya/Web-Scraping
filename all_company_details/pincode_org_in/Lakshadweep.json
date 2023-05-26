@@ -1,0 +1,345 @@
+[
+    {
+        "company_name": "LAKSHADWEEP DEVELOPMENT CORPORATION LIMITED",
+        "cin_no.": "U05004LD1987GOI004937",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000000",
+        "paid_up_capital": "65041000",
+        "registration_date": "22-12-1987",
+        "business_activity": "Agriculture",
+        "state": "Lakshadweep",
+        "district": "LAKSHADWEEP",
+        "address": "BOTANICAL GARDENSBOTANICAL GARDENS KAVARATTI LAKSHADWEEP Lakshadweep LD IN 682555",
+        "register": "Registered on 22-12-1987",
+        "director_details": [
+            {
+                "DIN": "06509347",
+                "direct_name": "Anvar Makkayyapura"
+            },
+            {
+                "DIN": "06846589",
+                "direct_name": "Asha Chhoolakkal Parameswaran"
+            },
+            {
+                "DIN": "06955218",
+                "direct_name": "Ashokkumar Jayapal"
+            },
+            {
+                "DIN": "06755291",
+                "direct_name": "Balwan Singh Vasisht"
+            },
+            {
+                "DIN": "ARMPP7403M",
+                "direct_name": "Cherry Neeta Marie Prasad"
+            },
+            {
+                "DIN": "07348921",
+                "direct_name": "Farooq Khan"
+            },
+            {
+                "DIN": "06516512",
+                "direct_name": "Harihiriadka Rajesh Prasad"
+            },
+            {
+                "DIN": "07651098",
+                "direct_name": "Harjeet Singh Choudhary"
+            },
+            {
+                "DIN": "07569787",
+                "direct_name": "Jatin Goyal"
+            },
+            {
+                "DIN": "07221043",
+                "direct_name": "Karanjit Parshotam Vadodaria"
+            },
+            {
+                "DIN": "06674637",
+                "direct_name": "Karthikeyan"
+            },
+            {
+                "DIN": "07046732",
+                "direct_name": "Ravishankar Chandragiri Nagarajarao"
+            },
+            {
+                "DIN": "07399500",
+                "direct_name": "Reuben Mathew Jacob"
+            },
+            {
+                "DIN": "07616684",
+                "direct_name": "Shubhankar Ghosh"
+            },
+            {
+                "DIN": "07569786",
+                "direct_name": "Tariq Thomas"
+            },
+            {
+                "DIN": "06785136",
+                "direct_name": "Vijay Kumar"
+            },
+            {
+                "DIN": "02509480",
+                "direct_name": "Vivek Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "WHITESANDS GLOBAL CONSULTANTS PRIVATE LIMITED",
+        "cin_no.": "U55100LD2015PTC019310",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "20-05-2015",
+        "business_activity": "Trading",
+        "state": "Lakshadweep",
+        "district": "LAKSHADWEEP",
+        "address": "PUTHIYAVEED, NEAR GOVERNMENT HOUSE WARD I, BLOCK II, KAVARATTI ISLAND KAVARATTI Lakshadweep LD IN 682555",
+        "register": "Registered on 20-05-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "LACCADIVES LAGOONA RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55101LD2008PTC019303",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "23-01-2008",
+        "business_activity": "Trading",
+        "state": "Lakshadweep",
+        "district": "LAKSHADWEEP",
+        "address": "SRS/358, CHERIYAPURA AGATTI ISLAND Lakshadweep LD IN 682551",
+        "register": "Registered on 23-01-2008",
+        "director_details": [
+            {
+                "DIN": "01902045",
+                "direct_name": "Beena Mohamed Kasim"
+            },
+            {
+                "DIN": "01787957",
+                "direct_name": "Mohammed Kasim Halookakkada"
+            }
+        ]
+    },
+    {
+        "company_name": "LAKSHADWEEP COCONUT PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01133LD2008PTC019304",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-09-2008",
+        "business_activity": "Agriculture",
+        "state": "Lakshadweep",
+        "district": "LAKSHADWEEP",
+        "address": "1/76, POLTORY FARM ROAD ANDROTH ISLAND P O LAKSHADWEEP Lakshadweep LD IN 682551",
+        "register": "Registered on 30-09-2008",
+        "director_details": [
+            {
+                "DIN": "02442376",
+                "direct_name": "Abdul Matheen Neelathupura"
+            },
+            {
+                "DIN": "02289271",
+                "direct_name": "Moosamkakada Mohammed Jaleel"
+            },
+            {
+                "DIN": "02332751",
+                "direct_name": "Pathummabi Neelathupura"
+            }
+        ]
+    },
+    {
+        "company_name": "WHITESANDS GLOBAL CONSULTANTS PRIVATE LIMITED",
+        "cin_no.": "U55100LD2015PTC019310",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "20-05-2015",
+        "business_activity": "Trading",
+        "state": "Lakshadweep",
+        "district": "LAKSHADWEEP",
+        "address": "PUTHIYAVEED, NEAR GOVERNMENT HOUSE WARD I, BLOCK II, KAVARATTI ISLAND KAVARATTI Lakshadweep LD IN 682555",
+        "register": "Registered on 20-05-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "LAKSHADEEP AGRO FOODS PRIVATE LIMITED",
+        "cin_no.": "U15400LD2009PTC019305",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-07-2009",
+        "business_activity": "Food Manufacturing",
+        "state": "Lakshadweep",
+        "district": "LAKSHADWEEP",
+        "address": "KUNNAMKULAM (H), PO. KALPENI ISLAND. KALPENI Lakshadweep LD IN 682557",
+        "register": "Registered on 01-07-2009",
+        "director_details": [
+            {
+                "DIN": "02670134",
+                "direct_name": "Benazir Nazar"
+            },
+            {
+                "DIN": "02629338",
+                "direct_name": "Shaheedha Faseen"
+            }
+        ]
+    },
+    {
+        "company_name": "MURAADHU MARITIME SERVICES AND TRADING COMPANY PRIVATE LIMITED",
+        "cin_no.": "U51900LD2010PTC019309",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-07-2010",
+        "business_activity": "Trading",
+        "state": "Lakshadweep",
+        "district": "LAKSHADWEEP",
+        "address": "DOOR NO. 1/178, GREEN FIELD MOUVALU MINICOY ISLAND Lakshadweep LD IN 682559",
+        "register": "Registered on 07-07-2010",
+        "director_details": [
+            {
+                "DIN": "03048607",
+                "direct_name": "Abdul Rasheed Manikfan"
+            },
+            {
+                "DIN": "03054475",
+                "direct_name": "Ibrahim Manikfan Muraduganduver"
+            },
+            {
+                "DIN": "03048518",
+                "direct_name": "Suneer Dom Manikfan"
+            }
+        ]
+    },
+    {
+        "company_name": "HAVENS MARKETING PRIVATE LIMITED",
+        "cin_no.": "U51900LD2015PTC019311",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-07-2015",
+        "business_activity": "Trading",
+        "state": "Lakshadweep",
+        "district": "LAKSHADWEEP",
+        "address": "W/2/224 Purathupura House Chammacheri Andrott Island Lakshadweep LD IN 682551",
+        "register": "Registered on 09-07-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "COASTAL SHIPPING LINKS (INDIA) PRIVATE LIMITED",
+        "cin_no.": "U35110LD2007PTC019302",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-09-2007",
+        "business_activity": "Machinery and Equipments",
+        "state": "Lakshadweep",
+        "district": "LAKSHADWEEP",
+        "address": "VDP WARD NO.V1 HOUSE NO 33 AOUKOHORATHUMANIKAGE RANMED VILLAGE MINICOY P O LD IN 682559",
+        "register": "Registered on 07-09-2007",
+        "director_details": [
+            {
+                "DIN": "07017044",
+                "direct_name": "Hasrath Muhammed"
+            },
+            {
+                "DIN": "01772538",
+                "direct_name": "Mavadigothi Dekunufarathuge Mohammed"
+            },
+            {
+                "DIN": "01047577",
+                "direct_name": "Mohammed Hassan Babigothi"
+            }
+        ]
+    },
+    {
+        "company_name": "WHITESANDS FREIGHT PRIVATE LIMITED",
+        "cin_no.": "U63010LD2009PTC019306",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-09-2009",
+        "business_activity": "Transport and Storage",
+        "state": "Lakshadweep",
+        "district": "LAKSHADWEEP",
+        "address": "\"NEONAZ BEACH VILLA\" AIRPORT ROAD, SOUTHERN END KAVARATTI LD IN 682555",
+        "register": "Registered on 08-09-2009",
+        "director_details": [
+            {
+                "DIN": "05328813",
+                "direct_name": "Arifa Puthiya Illam"
+            },
+            {
+                "DIN": "02753234",
+                "direct_name": "Fareed Ponnelam Khan"
+            }
+        ]
+    },
+    {
+        "company_name": "DARAJA VENTURES PRTIVATE LIMITED.",
+        "cin_no.": "U01407LA1997PTC011730",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "0",
+        "registration_date": "26-08-1997",
+        "business_activity": "Agriculture",
+        "state": "Lakshadweep",
+        "district": "NA",
+        "address": "32/1858 B \"AMMU\"SURABHI ROAD MAMANGALAM KOCHI-682 024 LD IN",
+        "register": "Registered on 26-08-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "SOAP MANUFACTURERS ASSSOCIATION OF BOMBAY.",
+        "cin_no.": "U99999LD1947PLC005754",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company Limited by Guarantee",
+        "authorize_capital": "0",
+        "paid_up_capital": "0",
+        "registration_date": "10-05-1947",
+        "business_activity": "Others",
+        "state": "Lakshadweep",
+        "district": "NA",
+        "address": "LD IN",
+        "register": "Registered on 10-05-1947",
+        "director_details": []
+    },
+    {
+        "company_name": "LAKSHADWEEP TOURISMDEVELOPMENTCORPORATION LIMITED",
+        "cin_no.": "U92490LD2018GOI024313",
+        "status": "Not available for efiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500",
+        "paid_up_capital": "500",
+        "registration_date": "11-10-2018",
+        "business_activity": "Personal and Social Services",
+        "state": "Lakshadweep",
+        "district": "NA",
+        "address": "Company LAKSHADWEEP TOURISM DEVELOPMENT CORPORATION LIMITED BLOCK V SECRETARIAT",
+        "register": "Registered on 11-10-2018",
+        "director_details": []
+    }
+]

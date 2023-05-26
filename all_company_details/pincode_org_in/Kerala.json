@@ -1,0 +1,1709 @@
+[
+    {
+        "company_name": "THILLAI RAJAN REAL ESTATE PRIVATE LIMITE D",
+        "cin_no.": "U70101TN1998PTC041202",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "200",
+        "registration_date": "28-09-1998",
+        "business_activity": "Real Estate",
+        "state": "Tamil nadu",
+        "district": "ALAPPUZHA",
+        "address": "5, POOMPUHAR STREET, POLICEQUARTERS BACKSIDE ERODE 688001 688001 Chennai TN IN 688001",
+        "register": "Registered on 28-09-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "SRI TRIVIKRAMA MINES AND PROPERTIES LIMITED",
+        "cin_no.": "U14102TN2006PLC061212",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "26-09-2006",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM DALMIAPURAM TN IN 621651",
+        "register": "Registered on 26-09-2006",
+        "director_details": [
+            {
+                "DIN": "02148704",
+                "direct_name": "Bhabagrahi Pradhan"
+            },
+            {
+                "DIN": "00006842",
+                "direct_name": "Kalambur Veeraraghavan Mohan"
+            },
+            {
+                "DIN": "02203037",
+                "direct_name": "Nidhi Bisaria"
+            },
+            {
+                "DIN": "00006849",
+                "direct_name": "Rajesh Kumar Ghai"
+            }
+        ]
+    },
+    {
+        "company_name": "SRI MADHUSUDANA MINES AND PROPERTIES LIMITED",
+        "cin_no.": "U14105TN2006PLC061260",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "04-10-2006",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM DALMIAPURAM TN IN 621651",
+        "register": "Registered on 04-10-2006",
+        "director_details": [
+            {
+                "DIN": "02148704",
+                "direct_name": "Bhabagrahi Pradhan"
+            },
+            {
+                "DIN": "00006842",
+                "direct_name": "Kalambur Veeraraghavan Mohan"
+            },
+            {
+                "DIN": "02203037",
+                "direct_name": "Nidhi Bisaria"
+            },
+            {
+                "DIN": "00006849",
+                "direct_name": "Rajesh Kumar Ghai"
+            }
+        ]
+    },
+    {
+        "company_name": "DALMIA MINERALS & PROPERTIES LIMITED",
+        "cin_no.": "U14107TN2005PLC057327",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "30-08-2005",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM DISTRICT TIRUCHIRAPALLI Tiruchirappalli TN IN 621651",
+        "register": "Registered on 30-08-2005",
+        "director_details": [
+            {
+                "DIN": "02148704",
+                "direct_name": "Bhabagrahi Pradhan"
+            },
+            {
+                "DIN": "06852044",
+                "direct_name": "Manisha Bansal"
+            },
+            {
+                "DIN": "00010069",
+                "direct_name": "Rakesh Kumar Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "SRI SUBRAMANYA MINES & MINERALS LIMITED",
+        "cin_no.": "U14107TN2006PLC058816",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-02-2006",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM THIRUCHIRAPALLI DT Tiruchirappalli TN IN 621651",
+        "register": "Registered on 10-02-2006",
+        "director_details": [
+            {
+                "DIN": "06681218",
+                "direct_name": "Akhlesh Kumar Bansal"
+            },
+            {
+                "DIN": "00006890",
+                "direct_name": "Bharat Bhushan Mehta"
+            },
+            {
+                "DIN": "00006849",
+                "direct_name": "Rajesh Kumar Ghai"
+            }
+        ]
+    },
+    {
+        "company_name": "SRI SHANMUGHA MINES & MINERALS LIMITED",
+        "cin_no.": "U14107TN2006PLC058817",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-02-2006",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM TIRUCHIRAPALLI DIST Tiruchirappalli TN IN 621651",
+        "register": "Registered on 10-02-2006",
+        "director_details": [
+            {
+                "DIN": "06681218",
+                "direct_name": "Akhlesh Kumar Bansal"
+            },
+            {
+                "DIN": "00006890",
+                "direct_name": "Bharat Bhushan Mehta"
+            },
+            {
+                "DIN": "06852044",
+                "direct_name": "Manisha Bansal"
+            }
+        ]
+    },
+    {
+        "company_name": "SRI SWAMINATHA MINES & MINERALS LIMITTED",
+        "cin_no.": "U14107TN2006PLC058820",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-02-2006",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM THIRUCHIRAPALLI DT Tiruchirappalli TN IN 621651",
+        "register": "Registered on 10-02-2006",
+        "director_details": [
+            {
+                "DIN": "06681218",
+                "direct_name": "Akhlesh Kumar Bansal"
+            },
+            {
+                "DIN": "00006890",
+                "direct_name": "Bharat Bhushan Mehta"
+            },
+            {
+                "DIN": "06852044",
+                "direct_name": "Manisha Bansal"
+            }
+        ]
+    },
+    {
+        "company_name": "SRI DHANDAUTHAPANI MINES AND MINERALS LIMITED",
+        "cin_no.": "U14107TN2006PLC061254",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "04-10-2006",
+        "business_activity": "Mining and Quarrying",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM DALMIAPURAM TN IN 621651",
+        "register": "Registered on 04-10-2006",
+        "director_details": [
+            {
+                "DIN": "02684569",
+                "direct_name": "Dharmender Tuteja"
+            },
+            {
+                "DIN": "00006842",
+                "direct_name": "Kalambur Veeraraghavan Mohan"
+            },
+            {
+                "DIN": "02203037",
+                "direct_name": "Nidhi Bisaria"
+            },
+            {
+                "DIN": "00006849",
+                "direct_name": "Rajesh Kumar Ghai"
+            }
+        ]
+    },
+    {
+        "company_name": "SSGN ENGINEERING SERVICES PRIVATE LIMITED",
+        "cin_no.": "U52605TN2015PTC100092",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-04-2015",
+        "business_activity": "Trading",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "Gobi Nanda Illam, No.928, Sannathi Strett Nayaganaippiriyal Ariyalur Tiruchirappalli TN IN 621804",
+        "register": "Registered on 15-04-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "DALMIA REFRACTORIES LIMITED",
+        "cin_no.": "L24297TN1973PLC006372",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "31520840",
+        "registration_date": "21-06-1973",
+        "business_activity": "Metals and Chemicals",
+        "state": "Tamil nadu",
+        "district": "ARIYALUR",
+        "address": "DALMIAPURAM P.O,KALLAKUDI TIRUCHIRAPALLI TN IN 621651",
+        "register": "Registered on 21-06-1973",
+        "director_details": [
+            {
+                "DIN": "AZXPJ2573R",
+                "direct_name": "Akansha Jain"
+            },
+            {
+                "DIN": "AAJPM6539M",
+                "direct_name": "Chandra Narain Maheshwari"
+            },
+            {
+                "DIN": "00266838",
+                "direct_name": "Chandrasekaran Nagaratnam"
+            },
+            {
+                "DIN": "02421599",
+                "direct_name": "Deepak Ambadas Thombre"
+            },
+            {
+                "DIN": "03575675",
+                "direct_name": "Leena Rawal"
+            },
+            {
+                "DIN": "00319034",
+                "direct_name": "Mahendra Dooger Kumar"
+            },
+            {
+                "DIN": "00017659",
+                "direct_name": "Nagarajan Gopalaswamy"
+            },
+            {
+                "DIN": "00266758",
+                "direct_name": "Pradeep Dayal Mathur"
+            },
+            {
+                "DIN": "06599230",
+                "direct_name": "Sameer Nagpal"
+            },
+            {
+                "DIN": "AAKPS7259K",
+                "direct_name": "Sudhir Kumar Srivastava"
+            }
+        ]
+    },
+    {
+        "company_name": "OCL INDIA LIMITED",
+        "cin_no.": "L26942OR1949PLC000185",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "150000000",
+        "paid_up_capital": "113850000",
+        "registration_date": "11-10-1949",
+        "business_activity": "Metals and Chemicals",
+        "state": "Orissa",
+        "district": "SUNDERGARH",
+        "address": "AT/PO-RAJAGANGAPUR RAJAGANGAPUR SUNDARGARH OR IN 770017",
+        "register": "Registered on 11-10-1949",
+        "director_details": [
+            {
+                "DIN": "00226905",
+                "direct_name": "Amandeep"
+            },
+            {
+                "DIN": "00002008",
+                "direct_name": "Dharmendar Nath Davar"
+            },
+            {
+                "DIN": "00009639",
+                "direct_name": "Gaurav Dalmia"
+            },
+            {
+                "DIN": "00009758",
+                "direct_name": "Gautam Dalmia"
+            },
+            {
+                "DIN": "ACMPA4071B",
+                "direct_name": "Hira Lal Agarwal"
+            },
+            {
+                "DIN": "00017963",
+                "direct_name": "Jayesh Nagindas Doshi"
+            },
+            {
+                "DIN": "00243835",
+                "direct_name": "Mahendra Singhi"
+            },
+            {
+                "DIN": "00004821",
+                "direct_name": "Pradip Kumar Khaitan"
+            },
+            {
+                "DIN": "00022633",
+                "direct_name": "Puneet Yadu Dalmia"
+            },
+            {
+                "DIN": "AIBPG4983F",
+                "direct_name": "Rachna Goria"
+            },
+            {
+                "DIN": "02263950",
+                "direct_name": "Sudha Pillai"
+            },
+            {
+                "DIN": "00092593",
+                "direct_name": "Ved Prakash Sood"
+            }
+        ]
+    },
+    {
+        "company_name": "M G METALS PRIVATE LIMITED",
+        "cin_no.": "U99999TN1987PTC014760",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "495000",
+        "registration_date": "14-08-1987",
+        "business_activity": "Others",
+        "state": "Tamil nadu",
+        "district": "BANGALORE",
+        "address": "PLOT NO.406,PEENYA INDUSTRIALAREA,W.PHASE, BANGALORE-560058 BANGALORE-560058 TN IN",
+        "register": "Registered on 14-08-1987",
+        "director_details": []
+    },
+    {
+        "company_name": "DONATUS VICTORIA ESTATES & HOTELS PVT LTD",
+        "cin_no.": "U70101TN1979PTC007768",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "0",
+        "registration_date": "21-03-1979",
+        "business_activity": "Real Estate",
+        "state": "Tamil nadu",
+        "district": "BANGALORE",
+        "address": "NO.47/48, RESIDENCY ROAD,BANGALORE-560025 BANGALORE-560025 Chennai TN IN",
+        "register": "Registered on 21-03-1979",
+        "director_details": []
+    },
+    {
+        "company_name": "GANEX INDIA MARKETING PRIVATE LIMITED",
+        "cin_no.": "U74999TN2003PTC051080",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-06-2003",
+        "business_activity": "Business Services",
+        "state": "Tamil nadu",
+        "district": "BANGALORE",
+        "address": "25/1,,CHICHAZAARROAD,MEENAKSHIKOILSTREET SHIVAJINAGAR, BANGALORE-560051.KARNATAKASTAT E. Chennai TN IN",
+        "register": "Registered on 19-06-2003",
+        "director_details": []
+    },
+    {
+        "company_name": "TECHTRAN ELECTRONICS (INDIA) PRIVATE LIMITED",
+        "cin_no.": "U30007TN1995PTC032678",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "23-08-1995",
+        "business_activity": "Machinery and Equipments",
+        "state": "Tamil nadu",
+        "district": "BANGALORE",
+        "address": "SURAJNO 25/4, 4TH CROSS,LIC COLONY, JAYANAGAR III BLOC K(EAST) BANGALORE-560011 K(EAST) BANGALORE-560011 Chennai TN IN",
+        "register": "Registered on 23-08-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "KSK ENERGY VENTURES PRIVATE LIMITED",
+        "cin_no.": "U45204TN2001PTC046626",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "14-02-2001",
+        "business_activity": "Construction",
+        "state": "Tamil nadu",
+        "district": "BANGALORE",
+        "address": "IST FLOOR,SDESERENE CHAMBERS,ROAD NO.7 BANJARA HILLS, HYDERABAD-560034 HYDERABAD-560034 Chennai TN IN",
+        "register": "Registered on 14-02-2001",
+        "director_details": []
+    },
+    {
+        "company_name": "MAG COMMUNICATIONS PRIVATE LIMITED",
+        "cin_no.": "U74300KA1998PTC029470",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "1200000",
+        "registration_date": "29-05-1998",
+        "business_activity": "Business Services",
+        "state": "Karnataka",
+        "district": "BANGALORE",
+        "address": "140/13, 27TH CROSS, 13TH MAIN,3RD BLOCK, JAYANAGAR BANGALORE BANGALORE KA IN 560011",
+        "register": "Registered on 29-05-1998",
+        "director_details": [
+            {
+                "DIN": "01726591",
+                "direct_name": "Ashwini Magar"
+            },
+            {
+                "DIN": "02391370",
+                "direct_name": "Ramesh Shivaji Magar"
+            }
+        ]
+    },
+    {
+        "company_name": "VENI FARMS PRIVATE LIMITED",
+        "cin_no.": "U01222TN1989PTC017178",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "300",
+        "registration_date": "05-04-1989",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CHENNAI",
+        "address": "D-9,MARUTI APARTMENTS 87 DRALAGAPPA ROAD PURASAWAKKAM MADRAS-84 MADRAS-84 Chennai TN IN 600084",
+        "register": "Registered on 05-04-1989",
+        "director_details": []
+    },
+    {
+        "company_name": "HIMAJA POULTRIES PRIVATE LIMITED",
+        "cin_no.": "U01222TN1991PTC021554",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "15000000",
+        "paid_up_capital": "14075000",
+        "registration_date": "16-10-1991",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CHENNAI",
+        "address": "NO.18 VARASITHI VINAYAKAR KOILSTREET, PERIAMET, CHENNAI-3 TAMILNADU TN IN 600003",
+        "register": "Registered on 16-10-1991",
+        "director_details": [
+            {
+                "DIN": "01685972",
+                "direct_name": "Ashokkumar Ackamapet Pushparathnam"
+            },
+            {
+                "DIN": "02269110",
+                "direct_name": "Rahul Ashok Kumar"
+            },
+            {
+                "DIN": "01929776",
+                "direct_name": "Selvaraj Duraikannu"
+            }
+        ]
+    },
+    {
+        "company_name": "MAHESH GARDENS PRIVATE LIMITED",
+        "cin_no.": "U01222TN1992PTC022868",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "520000",
+        "registration_date": "15-06-1992",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CHENNAI",
+        "address": "35,BEACH HOME AVENUE,BESANT NAGAR, MADRAS-600090 MADRAS-600090 Chennai TN IN",
+        "register": "Registered on 15-06-1992",
+        "director_details": []
+    },
+    {
+        "company_name": "NILU FARMS PVT. LTD",
+        "cin_no.": "U01222TN1993PTC024792",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "07-04-1993",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CHENNAI",
+        "address": "NO.80,THEYAGARAJA ROAD,T.NAGAR, MADRAS-600017 MADRAS-600017 Chennai TN IN",
+        "register": "Registered on 07-04-1993",
+        "director_details": []
+    },
+    {
+        "company_name": "KIRTHIKA POULTRY FARMS PRIVATE LIMITED",
+        "cin_no.": "U01222TN1998PTC039921",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "30000",
+        "registration_date": "17-02-1998",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CHENNAI",
+        "address": "28/A, MATLI ROAD T.NAGAR CHENNAI Chennai TN IN 600017",
+        "register": "Registered on 17-02-1998",
+        "director_details": []
+    },
+    {
+        "company_name": "SARASWATHI BREEDERS PRIVATE LIMITED",
+        "cin_no.": "U01222TN2011PTC079734",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-03-2011",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CHENNAI",
+        "address": "NO.37, SYFUL MULK STREET, PUDUPET, CHENNAI Chennai TN IN 600002",
+        "register": "Registered on 18-03-2011",
+        "director_details": [
+            {
+                "DIN": "01751647",
+                "direct_name": "Damodiran Saivenugopal"
+            },
+            {
+                "DIN": "01751605",
+                "direct_name": "Sai Venu Gopal Rani"
+            },
+            {
+                "DIN": "02578140",
+                "direct_name": "Saivenugopal Krishnakumar"
+            },
+            {
+                "DIN": "03275327",
+                "direct_name": "Saivenugopal Swarnalakshmi"
+            }
+        ]
+    },
+    {
+        "company_name": "NATURE'S NECTAR WELLNESS (OPC) PRIVATE LIMITED",
+        "cin_no.": "U01223TN2016OPC104290",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-02-2016",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CHENNAI",
+        "address": "11/19, Venkatraman street, R A Puram Chennai TN IN 600028",
+        "register": "Registered on 22-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "INSTANT FOODS & ALLIED INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U01229TN1979PTC007973",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "30000",
+        "paid_up_capital": "16600",
+        "registration_date": "17-10-1979",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CHENNAI",
+        "address": "5, BAJAN BUILDINGS, 163,MOWBRAYS ROAD, ALWARPET, CHENNAI Chennai TN IN 600018",
+        "register": "Registered on 17-10-1979",
+        "director_details": []
+    },
+    {
+        "company_name": "DELTA BROILER FARM PVT LTD",
+        "cin_no.": "U01229TN1988PTC015449",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "0",
+        "registration_date": "07-03-1988",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CHENNAI",
+        "address": "NO.97,II FLOOR,GENERAL PATTERSROAD, MADRAS 600002 ROAD, MADRAS 600002 Chennai TN IN",
+        "register": "Registered on 07-03-1988",
+        "director_details": []
+    },
+    {
+        "company_name": "AMMI FOODS AND FARMS PRODUCTS PRIVATE LI MITED",
+        "cin_no.": "U01229TN1989PTC017207",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "11-04-1989",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CHENNAI",
+        "address": "15 BALFOUR ROAD MADRAS Chennai TN IN 600010",
+        "register": "Registered on 11-04-1989",
+        "director_details": []
+    },
+    {
+        "company_name": "A.A.POULTRY FARMS PRIVATE LIMITED",
+        "cin_no.": "U01222TZ1946PTC000024",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "311500",
+        "registration_date": "11-11-1946",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "COIMBATORE",
+        "address": "11/1, CHETTIPALAYAM ROAD,P.B. NO.4614, PODANUR, PODANUR COIMBATORE Coimbatore TN IN 641023",
+        "register": "Registered on 11-11-1946",
+        "director_details": []
+    },
+    {
+        "company_name": "A.V.M.HATCHERIES POULTRY BREEDING RESEARCH CENTRE PRIVATE LIMITED",
+        "cin_no.": "U01222TZ1984PTC001478",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3500000",
+        "paid_up_capital": "3500000",
+        "registration_date": "06-09-1984",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "COIMBATORE",
+        "address": "25/327RANGAI GOWDER STREET COIMBATORE COIMBATORE TN IN 641001",
+        "register": "Registered on 06-09-1984",
+        "director_details": [
+            {
+                "DIN": "00358727",
+                "direct_name": "Aramathukodi Abdul Mohammed Farook"
+            },
+            {
+                "DIN": "00358681",
+                "direct_name": "Aramathukodi Abdul Mohammed Rafi"
+            },
+            {
+                "DIN": "00358630",
+                "direct_name": "Aramathukodi Abdul Mohammed Ziaudeen"
+            }
+        ]
+    },
+    {
+        "company_name": "UNIKAY HATCHERIES PRIVATE LIMITED",
+        "cin_no.": "U01222TZ1988PTC002303",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "956600",
+        "registration_date": "07-12-1988",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "COIMBATORE",
+        "address": "13, IV CROSS STREET TATABAD COIMBATORE Coimbatore TN IN 641012",
+        "register": "Registered on 07-12-1988",
+        "director_details": []
+    },
+    {
+        "company_name": "RAJA POULTRIES PRIVATE LIMITED",
+        "cin_no.": "U01222TZ1993PTC004559",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "20000",
+        "registration_date": "03-09-1993",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "COIMBATORE",
+        "address": "S.F.NO.68/2, PONGALUR TIRUPUR TALUK COIMBATORE DISTRICT Coimbatore TN IN 641667",
+        "register": "Registered on 03-09-1993",
+        "director_details": []
+    },
+    {
+        "company_name": "SREETHAM FRAGO LIMITED",
+        "cin_no.": "U01222TZ1994PLC005206",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "7000",
+        "registration_date": "08-07-1994",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "COIMBATORE",
+        "address": "121, KRISHNA COLONY - SINGANALLUR COIMBATORE Coimbatore TN IN 641005",
+        "register": "Registered on 08-07-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "PIONEER HATCHERIES PRIVATE LIMITED",
+        "cin_no.": "U01222TZ1994PTC004923",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "19407000",
+        "registration_date": "11-03-1994",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "COIMBATORE",
+        "address": "7 67 PONGALURTIRUPUR COIMBATORE COIMBATORE TN IN 641667",
+        "register": "Registered on 11-03-1994",
+        "director_details": [
+            {
+                "DIN": "00077200",
+                "direct_name": "Pongalur Venkataswami Naidu Ragupathi"
+            },
+            {
+                "DIN": "00250106",
+                "direct_name": "Venkatasamy Naidu Leelakrishnan"
+            },
+            {
+                "DIN": "00085492",
+                "direct_name": "Venkataswami Naidu Thimmiyan"
+            }
+        ]
+    },
+    {
+        "company_name": "SUGUNA FOODS PRIVATE LIMITED",
+        "cin_no.": "U01222TZ1994PTC004951",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "760000000",
+        "paid_up_capital": "580343280",
+        "registration_date": "23-03-1994",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "COIMBATORE",
+        "address": "5TH FLOOR,. JAYA ENCLAVE 1057 AVANASHI ROAD COIMBATORE TN IN 641018",
+        "register": "Registered on 23-03-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "SINITHA CHICK SPECIALITY PRIVATE LIMITED",
+        "cin_no.": "U01222TZ1994PTC005026",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "20000",
+        "registration_date": "26-04-1994",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "COIMBATORE",
+        "address": "4-B LAKSHMIPURAM GANAPATHY COIMBATORE Coimbatore TN IN 641006",
+        "register": "Registered on 26-04-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "K M POULTRY PRIVATE LIMITED",
+        "cin_no.": "U01222TZ1995PTC005772",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "294600",
+        "registration_date": "09-02-1995",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "COIMBATORE",
+        "address": "THUTHARIPALAYAM TIRUPUR TALUK COIMBATORE DIST KALLIPALAYAM POST TN IN 641664",
+        "register": "Registered on 09-02-1995",
+        "director_details": [
+            {
+                "DIN": "01878260",
+                "direct_name": "Balasubramanian Muralitharan"
+            },
+            {
+                "DIN": "01878276",
+                "direct_name": "Kasthurisamy Naidu Balasubramanian"
+            }
+        ]
+    },
+    {
+        "company_name": "A.M. POULTRY FARMS PRIVATE LIMITED",
+        "cin_no.": "U01222TZ1995PTC006004",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "900000",
+        "paid_up_capital": "2000",
+        "registration_date": "05-04-1995",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "COIMBATORE",
+        "address": "BRINDHAVAN, 90-BCHINTHAMANIPUDUR COIMBATORE Coimbatore TN IN 641003",
+        "register": "Registered on 05-04-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "PEOPLE LIFE CARE DIARIES AND AGROTECH INDIA LIMITED",
+        "cin_no.": "U01400TN2013PLC094063",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "05-12-2013",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CUDDALORE",
+        "address": "NO 13 , SOUTH STREET SRIRAM NAGAR ,UNPOST PENNADAM Cuddalore TN IN 606105",
+        "register": "Registered on 05-12-2013",
+        "director_details": [
+            {
+                "DIN": "03557351",
+                "direct_name": "Rajarajan Senthilkumar"
+            },
+            {
+                "DIN": "06668667",
+                "direct_name": "Selvi"
+            },
+            {
+                "DIN": "03557356",
+                "direct_name": "Senthilkumar Kannan"
+            }
+        ]
+    },
+    {
+        "company_name": "REDLOTUS AGRO FARM INDIA LIMITED",
+        "cin_no.": "U01400TN2014PLC096479",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-07-2014",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CUDDALORE",
+        "address": "No.7, Kattukudalore Road, Virddhachalam,Cuddalore District Virddhachalam Cuddalore TN IN 606001",
+        "register": "Registered on 10-07-2014",
+        "director_details": [
+            {
+                "DIN": "06871855",
+                "direct_name": "Arumugam Pakkirisamy"
+            },
+            {
+                "DIN": "07083180",
+                "direct_name": "Maria Sebastin Antony Thiruselvam"
+            },
+            {
+                "DIN": "06871902",
+                "direct_name": "Vengatesan Barathi"
+            }
+        ]
+    },
+    {
+        "company_name": "THIRUMUTHUKUNDRAM FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400TN2015PTC098948",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1100000",
+        "paid_up_capital": "248000",
+        "registration_date": "23-01-2015",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CUDDALORE",
+        "address": "13 North Street, Keelapalaiyur Post Vriddhachalam Cuddalore TN IN 606103",
+        "register": "Registered on 23-01-2015",
+        "director_details": [
+            {
+                "DIN": "07042243",
+                "direct_name": "Jayaraman Babu"
+            },
+            {
+                "DIN": "07041719",
+                "direct_name": "Palamalai Kannan Senthamarai"
+            },
+            {
+                "DIN": "07041580",
+                "direct_name": "Palanivel Pandiyan"
+            },
+            {
+                "DIN": "07041560",
+                "direct_name": "Poongan Subburayan Natrajan"
+            },
+            {
+                "DIN": "07041715",
+                "direct_name": "Rajagopal Venugopal"
+            },
+            {
+                "DIN": "07128221",
+                "direct_name": "Seetharaman Sujatha"
+            },
+            {
+                "DIN": "07037278",
+                "direct_name": "Sundararajan Jayakumar"
+            },
+            {
+                "DIN": "07041624",
+                "direct_name": "Vadivel Rathinasabapathy"
+            },
+            {
+                "DIN": "07041547",
+                "direct_name": "Velmurugan Manikandan"
+            },
+            {
+                "DIN": "07128215",
+                "direct_name": "Venkatesan Sivasakthi"
+            },
+            {
+                "DIN": "07041321",
+                "direct_name": "Venkatesan Srinivasan"
+            },
+            {
+                "DIN": "07037260",
+                "direct_name": "Venugopal"
+            }
+        ]
+    },
+    {
+        "company_name": "PANRUTI FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400TN2015PTC099583",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-03-2015",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CUDDALORE",
+        "address": "636-D State Bank Nagar, L.N.Puram, Panruti Cuddalore Cuddalore TN IN 607106",
+        "register": "Registered on 10-03-2015",
+        "director_details": [
+            {
+                "DIN": "07074628",
+                "direct_name": "Anjapuli Sivaperumal"
+            },
+            {
+                "DIN": "07074496",
+                "direct_name": "Kuppusamy Arasan"
+            },
+            {
+                "DIN": "07074625",
+                "direct_name": "Sakthijayaraw"
+            },
+            {
+                "DIN": "07074626",
+                "direct_name": "Sangamithra"
+            },
+            {
+                "DIN": "07074499",
+                "direct_name": "Singaram Jayabalan"
+            },
+            {
+                "DIN": "07074490",
+                "direct_name": "Thulasingam Gopal"
+            }
+        ]
+    },
+    {
+        "company_name": "L K REALITIES PRIVATE LIMITED",
+        "cin_no.": "U01403TN2006PTC061425",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "200000",
+        "registration_date": "02-11-2006",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CUDDALORE",
+        "address": "17A, Hospital Road Cuddalore TN IN 607001",
+        "register": "Registered on 02-11-2006",
+        "director_details": [
+            {
+                "DIN": "01720204",
+                "direct_name": "Krishnamurthy Kothandapani"
+            },
+            {
+                "DIN": "02345295",
+                "direct_name": "Lakshmi Krishnamurthy"
+            }
+        ]
+    },
+    {
+        "company_name": "KALANJIAM MILK PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403TN2009PTC071221",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-04-2009",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CUDDALORE",
+        "address": "PLOT NO 100 102 AYEKUPPAM VILLAGE KULLANCHAVADI POST CUDDALORE TN IN 607301",
+        "register": "Registered on 02-04-2009",
+        "director_details": [
+            {
+                "DIN": "02385599",
+                "direct_name": "Anandhavani Desingh"
+            },
+            {
+                "DIN": "02385597",
+                "direct_name": "Bhuvanalosani Ramalingam"
+            },
+            {
+                "DIN": "02385591",
+                "direct_name": "Muthulakshmi Balakrishnan"
+            },
+            {
+                "DIN": "02385603",
+                "direct_name": "Padmavathy Punniakody"
+            },
+            {
+                "DIN": "02441817",
+                "direct_name": "Padmavathy Subramania Pillai"
+            }
+        ]
+    },
+    {
+        "company_name": "AATHAVAN AGRO FARMS LIMITED",
+        "cin_no.": "U01403TN2011PLC082176",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "02-09-2011",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CUDDALORE",
+        "address": "NO.4, Deivam Complex, Aladi Road, Busstand - Back Side, Vridhachalam Cuddalore TN IN 606001",
+        "register": "Registered on 02-09-2011",
+        "director_details": [
+            {
+                "DIN": "03571201",
+                "direct_name": "Kalyani"
+            },
+            {
+                "DIN": "03571199",
+                "direct_name": "Muthuvel Karuveppilan Kurichi Pavadai"
+            },
+            {
+                "DIN": "03571956",
+                "direct_name": "Santhakumari"
+            },
+            {
+                "DIN": "03571189",
+                "direct_name": "Venkatesan Dharmalingam"
+            }
+        ]
+    },
+    {
+        "company_name": "VIRUTHAI AGRO FARMS LIMITED",
+        "cin_no.": "U01403TN2012PLC085377",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "11-04-2012",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CUDDALORE",
+        "address": "Survey No.74/1A, Plot No.8, Opp to A.G.Church Kolanchiyappar College Nagar, VIRUDHACHALAM Villupuram TN IN 606001",
+        "register": "Registered on 11-04-2012",
+        "director_details": [
+            {
+                "DIN": "05234173",
+                "direct_name": "Chandrakasu Jayachandran"
+            },
+            {
+                "DIN": "05229313",
+                "direct_name": "Dharma Armudalingam Dharmarajan"
+            },
+            {
+                "DIN": "05229985",
+                "direct_name": "Jayachandran Selvi"
+            },
+            {
+                "DIN": "03571189",
+                "direct_name": "Venkatesan Dharmalingam"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMAAL AGRO & PROMOTERS INDIA LIMITED",
+        "cin_no.": "U01403TN2013PLC091123",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "13-05-2013",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CUDDALORE",
+        "address": "NO. 1179, CHENNAI SALAI PANRUTI CUDDALORE Dist Cuddalore TN IN 607106",
+        "register": "Registered on 13-05-2013",
+        "director_details": [
+            {
+                "DIN": "06377331",
+                "direct_name": "Arulmurugan Subaramani"
+            },
+            {
+                "DIN": "06377333",
+                "direct_name": "Seeralan Vasudevan"
+            },
+            {
+                "DIN": "06377337",
+                "direct_name": "Vijayasankar Raviraj"
+            }
+        ]
+    },
+    {
+        "company_name": "GLORYGREEN INFRA LIMITED",
+        "cin_no.": "U01403TN2013PLC092728",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "600000",
+        "paid_up_capital": "500000",
+        "registration_date": "28-08-2013",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "CUDDALORE",
+        "address": "31/1, Kaashini Complex Kumbakonam Road Panruti Cuddalore TN IN 607106",
+        "register": "Registered on 28-08-2013",
+        "director_details": [
+            {
+                "DIN": "06574473",
+                "direct_name": "Abdul Hameed Bakrudeen"
+            },
+            {
+                "DIN": "06645273",
+                "direct_name": "Balaraman Vallal"
+            },
+            {
+                "DIN": "06543863",
+                "direct_name": "Natesan Chandrakumar"
+            }
+        ]
+    },
+    {
+        "company_name": "THENAMOOTHU FOODS PRIVATE LIMITED",
+        "cin_no.": "U01549TZ1996PTC007591",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "7500000",
+        "paid_up_capital": "7500000",
+        "registration_date": "04-12-1996",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DHARMAPURI",
+        "address": "NO.41A, SALEM MAIN ROAD UPSTAIRS, VIJAY GARDEN, BHARATHIPURAM DHARMAPURI TN IN 636705",
+        "register": "Registered on 04-12-1996",
+        "director_details": [
+            {
+                "DIN": "00857069",
+                "direct_name": "Chinnasamy Manivannan"
+            },
+            {
+                "DIN": "00843395",
+                "direct_name": "Elangovan Dharmapuri Chinnasamy"
+            }
+        ]
+    },
+    {
+        "company_name": "RELIABLE AGRITECH COMPANY (INDIA) PRIVAT E LIMITED",
+        "cin_no.": "U01400TZ1992PTC004138",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000",
+        "registration_date": "27-11-1992",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DHARMAPURI",
+        "address": "29, METTU SRINIVASA STREET,-. SALEM Salem TN IN 636001",
+        "register": "Registered on 27-11-1992",
+        "director_details": []
+    },
+    {
+        "company_name": "FRUITFUL HARVEST PRIVATE LIMITED",
+        "cin_no.": "U01400TZ2017PTC028700",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-03-2017",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DHARMAPURI",
+        "address": "136 e Bazaar Street, Chinnakadai, Salem Salem TN IN 636001",
+        "register": "Registered on 27-03-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "VYALI AGRO PRIVATE LIMITED",
+        "cin_no.": "U01400TZ2017PTC028834",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-04-2017",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DHARMAPURI",
+        "address": "5/203-1 ERRANAHALLI VILL& PO MUTHUGOUNDEN KOTTAI PALACODE DHARMAPURI Dharmapuri TN IN 636808",
+        "register": "Registered on 21-04-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "BE POSITIVE AGRI FARMING INDIA PRIVATE L IMITED",
+        "cin_no.": "U01403TZ2011PTC016964",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-04-2011",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DHARMAPURI",
+        "address": "NO.4-354, WARD 4, NATONAL HIGHWAYS EASTSIDE PERIYANAHALLI, PERIYAMPATTI AND POST DHARMAPURI Dharmapuri TN IN 636808",
+        "register": "Registered on 20-04-2011",
+        "director_details": [
+            {
+                "DIN": "03359903",
+                "direct_name": "Angichetty Kalaivani"
+            },
+            {
+                "DIN": "03359869",
+                "direct_name": "Angichetty Ramkumar"
+            }
+        ]
+    },
+    {
+        "company_name": "GREEN MOUNTAIN AGRI INDIA PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01403TZ2011PTC017577",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-11-2011",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DHARMAPURI",
+        "address": "NO.32D, 4TH FLOOR, VALAMPURI RAJAN COMPLEX, SIDHA VEERAPPA CHETTY STREET, DHARMAPURI Dharmapuri TN IN 636701",
+        "register": "Registered on 14-11-2011",
+        "director_details": [
+            {
+                "DIN": "06535762",
+                "direct_name": "Gowran Boothal"
+            },
+            {
+                "DIN": "03635913",
+                "direct_name": "Kandan Perumal"
+            },
+            {
+                "DIN": "03635877",
+                "direct_name": "Kuppan Selvaraj"
+            },
+            {
+                "DIN": "06535766",
+                "direct_name": "Malligeswaran Dhanasekaran"
+            },
+            {
+                "DIN": "06535759",
+                "direct_name": "Ramalingam Anandan"
+            }
+        ]
+    },
+    {
+        "company_name": "M.L.C AGRITECH INDIA LIMITED",
+        "cin_no.": "U01403TZ2014PLC020171",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "17-01-2014",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DHARMAPURI",
+        "address": "4/128 S KOTTAYOUR KUPPUR POST DHARMAPURI Dharmapuri TN IN 636704",
+        "register": "Registered on 17-01-2014",
+        "director_details": [
+            {
+                "DIN": "02153870",
+                "direct_name": "Ganesan Vijayakumar"
+            },
+            {
+                "DIN": "06722054",
+                "direct_name": "Natarajan Seethalakshmi"
+            },
+            {
+                "DIN": "06784222",
+                "direct_name": "Ravichandran Sampath"
+            }
+        ]
+    },
+    {
+        "company_name": "BILVA PLANTATIONS PRIVATE LIMITED",
+        "cin_no.": "U01403TZ2014PTC020846",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-11-2014",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DHARMAPURI",
+        "address": "NO.95, THEERTHAGIRI ROAD, SALEM, SALEM Salem TN IN 636001",
+        "register": "Registered on 05-11-2014",
+        "director_details": [
+            {
+                "DIN": "02409996",
+                "direct_name": "Renuka Kannan"
+            },
+            {
+                "DIN": "06813943",
+                "direct_name": "Venkatraman Kannan"
+            }
+        ]
+    },
+    {
+        "company_name": "THAGADUR UZHAVAR PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403TZ2015PTC021637",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "1387000",
+        "registration_date": "05-08-2015",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DHARMAPURI",
+        "address": "Karuppanna Gounder Complex, Kurinji Nagar, Uthangarai Mainroad, Harur Dharmapuri TN IN 636903",
+        "register": "Registered on 05-08-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "SITTILINGI VALLEY ORGANIC FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403TZ2015PTC021980",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "368200",
+        "registration_date": "18-11-2015",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DHARMAPURI",
+        "address": "No.808 Tribal Techonology Initiative Campus Sittilingi Dharmapuri TN IN 636906",
+        "register": "Registered on 18-11-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "PVRSM BROILERS AND HATCHERIES PRIVATE LIMITED",
+        "cin_no.": "U01222TZ1996PTC007508",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2500000",
+        "registration_date": "07-10-1996",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DINDIGUL",
+        "address": "191ANNA NAGAR PALANI DINDIGUL DT TN IN 624601",
+        "register": "Registered on 07-10-1996",
+        "director_details": [
+            {
+                "DIN": "02497204",
+                "direct_name": "Kuppusamy Subramanian"
+            },
+            {
+                "DIN": "02497208",
+                "direct_name": "Subramanian Sedipoun"
+            }
+        ]
+    },
+    {
+        "company_name": "N R S POULTRY FARMS PRIVATE LIMITED",
+        "cin_no.": "U01222TZ2005PTC011729",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "5000000",
+        "registration_date": "13-04-2005",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DINDIGUL",
+        "address": "185NEW DHARAPURAM ROAD DINDIGUL DIST PALANI TN IN 624601",
+        "register": "Registered on 13-04-2005",
+        "director_details": [
+            {
+                "DIN": "02281150",
+                "direct_name": "Nachimuthu Gounder Ramasamy"
+            },
+            {
+                "DIN": "02281169",
+                "direct_name": "Selvi Ramasamy"
+            }
+        ]
+    },
+    {
+        "company_name": "SENTHILANDAVAR POULTRY FARMS PRIVATE LIMITED",
+        "cin_no.": "U01222TZ2005PTC011730",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "2000000",
+        "registration_date": "13-04-2005",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DINDIGUL",
+        "address": "188, ANNA NAGAR, DINDIGUL DISTRICT PALANI TN IN 624601",
+        "register": "Registered on 13-04-2005",
+        "director_details": [
+            {
+                "DIN": "02497204",
+                "direct_name": "Kuppusamy Subramanian"
+            },
+            {
+                "DIN": "02497208",
+                "direct_name": "Subramanian Sedipoun"
+            }
+        ]
+    },
+    {
+        "company_name": "GRS EMU HATCHERIES AND BREEDING FARMS PR IVATE LIMITED",
+        "cin_no.": "U01222TZ2008PTC014201",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "06-02-2008",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DINDIGUL",
+        "address": "313/4, A. VELLODU MAIN ROAD VEDAPATTI VIA, ADIYANOOTHU DINDIGUL Dindigul TN IN 624003",
+        "register": "Registered on 06-02-2008",
+        "director_details": [
+            {
+                "DIN": "01932784",
+                "direct_name": "Kumarasamy Suresh Kannan"
+            },
+            {
+                "DIN": "01932807",
+                "direct_name": "Veerasamy Rajapandi"
+            }
+        ]
+    },
+    {
+        "company_name": "JEEVAN EMU CARE INDIA PRIVATE LIMITED",
+        "cin_no.": "U01222TZ2010PTC016074",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "25-05-2010",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DINDIGUL",
+        "address": "NO. 5/38, EAST STREET NALLAMPATTY, ADIYANOOTHU DINDIGUL Dindigul TN IN 624001",
+        "register": "Registered on 25-05-2010",
+        "director_details": [
+            {
+                "DIN": "03036440",
+                "direct_name": "Veerachamy Senthilmurugan"
+            },
+            {
+                "DIN": "01932807",
+                "direct_name": "Veerasamy Rajapandi"
+            }
+        ]
+    },
+    {
+        "company_name": "MALLIS POULTRY PRIVATE LIMITED",
+        "cin_no.": "U01222TZ2012PTC018001",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-03-2012",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DINDIGUL",
+        "address": "38, NEW AGRAHARAM PALANI ROAD DINDIGUL Dindigul TN IN 624001",
+        "register": "Registered on 08-03-2012",
+        "director_details": [
+            {
+                "DIN": "05207638",
+                "direct_name": "Aruchamy Ramesh"
+            },
+            {
+                "DIN": "05206992",
+                "direct_name": "Chellappan Kumaresan"
+            }
+        ]
+    },
+    {
+        "company_name": "BEST EMU FARMS PRIVATE LIMITED",
+        "cin_no.": "U01222TZ2012PTC018252",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "600000",
+        "registration_date": "14-05-2012",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DINDIGUL",
+        "address": "5/157 DINDIGUL MAIN ROAD, NEAR PSNA COLLEGE KATHIRAIYANKULAM,REDDIARCHATRAM VIA,S VADIPATTI PO DINDIGUL Dindigul TN IN 624622",
+        "register": "Registered on 14-05-2012",
+        "director_details": [
+            {
+                "DIN": "06387111",
+                "direct_name": "Srinivasan"
+            },
+            {
+                "DIN": "05230322",
+                "direct_name": "Srinivasan Kannan"
+            }
+        ]
+    },
+    {
+        "company_name": "VENNILA POULTRY FARMS PRIVATE LIMITED",
+        "cin_no.": "U01222TZ2015PTC021888",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-10-2015",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DINDIGUL",
+        "address": "36G/81,PALANI ROAD DINDIGUL DINDIGUL Dindigul TN IN 624001",
+        "register": "Registered on 19-10-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "MADURA ORCHARDS LIMITED",
+        "cin_no.": "U01300TZ1946PLC003906",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "750000",
+        "registration_date": "28-10-1946",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DINDIGUL",
+        "address": "12/2/4AHIGH SCHOOL ROAD PATTIVEERANPATTI PATTIVEERANPATTI TN IN 624211",
+        "register": "Registered on 28-10-1946",
+        "director_details": [
+            {
+                "DIN": "01553852",
+                "direct_name": "Nagarajan Arun Rengasamy"
+            },
+            {
+                "DIN": "01904613",
+                "direct_name": "Nagarajan Shaker"
+            },
+            {
+                "DIN": "01647578",
+                "direct_name": "Rachel Kalpana Arun"
+            }
+        ]
+    },
+    {
+        "company_name": "ANITHAA FARMS PRIVATE LIMITED",
+        "cin_no.": "U01300TZ1999PTC008972",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "19-08-1999",
+        "business_activity": "Agriculture",
+        "state": "Tamil nadu",
+        "district": "DINDIGUL",
+        "address": "87, SPENCER COMPOUND, DINDIGUL Dindigul TN IN 624003",
+        "register": "Registered on 19-08-1999",
+        "director_details": []
+    },
+    {
+        "company_name": "GOWRIE AGENCY PRIVATE LIMITED",
+        "cin_no.": "U51229TN2004PTC053136",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-05-2004",
+        "business_activity": "Trading",
+        "state": "Tamil nadu",
+        "district": "ERNAKULAM",
+        "address": "166, GREAT COTTON ROAD,TUTICORIN-682 001 TAMILNADU TAMILNADU TN IN 682001",
+        "register": "Registered on 05-05-2004",
+        "director_details": [
+            {
+                "DIN": "02590635",
+                "direct_name": "Natarajan Rajaram"
+            },
+            {
+                "DIN": "02228587",
+                "direct_name": "Rajaram Bhanurekha"
+            }
+        ]
+    },
+    {
+        "company_name": "ROADSTONE TYRES INDIA LIMITED",
+        "cin_no.": "U25111KL2003PLC016053",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "70000000",
+        "paid_up_capital": "0",
+        "registration_date": "31-03-2003",
+        "business_activity": "Metals and Chemicals",
+        "state": "Kerala",
+        "district": "NA",
+        "address": "BLDG. NO. XI/423, H.M.T. ROADKALAMASSERY, KERALA - PIN. 683 503 Idukki KL IN",
+        "register": "Registered on 31-03-2003",
+        "director_details": []
+    }
+]

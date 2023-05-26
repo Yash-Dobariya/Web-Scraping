@@ -1,0 +1,2104 @@
+[
+    {
+        "company_name": "MEGHALAYA REFRACTORIES AND MINERALS PRIV ATE LIMITED",
+        "cin_no.": "U26921ML2002PTC006885",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "200000",
+        "registration_date": "09-08-2002",
+        "business_activity": "Metals and Chemicals",
+        "state": "Meghalaya",
+        "district": "BARPETA",
+        "address": "13 TH MILETAMULKUCHI BYRNIHAT RI BHOI MEGHALAYA ML IN 781315",
+        "register": "Registered on 09-08-2002",
+        "director_details": []
+    },
+    {
+        "company_name": "FAREAST SYNERGY PRIVATE LIMITED",
+        "cin_no.": "U11100ML1989PTC003378",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2400000",
+        "paid_up_capital": "103000",
+        "registration_date": "19-12-1989",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "EAST GARO HILLS",
+        "address": "HOUSE OF MR GODFREY NARENGH LOWER CHANDMARI TURA MEGHALAYA ML IN 794002",
+        "register": "Registered on 19-12-1989",
+        "director_details": [
+            {
+                "DIN": "02945296",
+                "direct_name": "Champak Phukan"
+            },
+            {
+                "DIN": "02943197",
+                "direct_name": "Luhit Das"
+            },
+            {
+                "DIN": "07560808",
+                "direct_name": "Sandeep Jogen Buragohain"
+            }
+        ]
+    },
+    {
+        "company_name": "RAKSAM LIME & MINERALS PRIVATE LIMITED",
+        "cin_no.": "U14200ML2010PTC008430",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "400000",
+        "registration_date": "09-09-2010",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "EAST GARO HILLS",
+        "address": "DO BETKOLGRE P.O. WILLIAMNAGAR WILLIAMNAGAR East Garo Hills ML IN 794111",
+        "register": "Registered on 09-09-2010",
+        "director_details": [
+            {
+                "DIN": "03202544",
+                "direct_name": "Albinush Raksam Marak"
+            },
+            {
+                "DIN": "03202540",
+                "direct_name": "Jonathone Nengminza Sangma"
+            },
+            {
+                "DIN": "03202541",
+                "direct_name": "Nassa Nengminza Sangma"
+            },
+            {
+                "DIN": "03202542",
+                "direct_name": "Phildarine Nengminja"
+            }
+        ]
+    },
+    {
+        "company_name": "AASTITVA ENTERPRISES PRIVATE LIMITED",
+        "cin_no.": "U60200ML2012PTC008512",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "7050000",
+        "registration_date": "01-08-2012",
+        "business_activity": "Transport and Storage",
+        "state": "Meghalaya",
+        "district": "EAST GARO HILLS",
+        "address": "NEAR POST OFFICE, VILL- NANGAL BIBRA, NANGAL BIBRA South Garo Hills ML IN 794107",
+        "register": "Registered on 01-08-2012",
+        "director_details": [
+            {
+                "DIN": "05333687",
+                "direct_name": "Dinesh Kuamr Sharma"
+            },
+            {
+                "DIN": "05333691",
+                "direct_name": "Shankar Lal"
+            },
+            {
+                "DIN": "05333699",
+                "direct_name": "Suresh Kumar Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "BCMS TRADERS PRIVATE LIMITED",
+        "cin_no.": "U60231ML2000PTC008582",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "483000",
+        "registration_date": "12-07-2000",
+        "business_activity": "Transport and Storage",
+        "state": "Meghalaya",
+        "district": "EAST GARO HILLS",
+        "address": "C/O CELLIE MARAK (DIRECTOR), 23 UPPER CHANDMARI TURA West Garo Hills ML IN 794002",
+        "register": "Registered on 12-07-2000",
+        "director_details": [
+            {
+                "DIN": "02870770",
+                "direct_name": "Cellie Azarine Rangsa Marak"
+            },
+            {
+                "DIN": "06842752",
+                "direct_name": "Johny Mathis Marak"
+            },
+            {
+                "DIN": "02246554",
+                "direct_name": "Mahesh Kumar Agarwala"
+            },
+            {
+                "DIN": "06842756",
+                "direct_name": "Reymo A Sangma"
+            }
+        ]
+    },
+    {
+        "company_name": "CHIGANCHINGGRE-SAMANDA FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100ML2017PTC013640",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-08-2017",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "EAST GARO HILLS",
+        "address": "Jakopgre East Garo Hills East Garo Hills ML IN 794111",
+        "register": "Registered on 11-08-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "MEGHALAYA BUSHES PRIVATE LIMITED",
+        "cin_no.": "U01132ML2001PTC006487",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-04-2001",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "EAST GARO HILLS",
+        "address": "USUMKHOLGRAWILLIAMNAGAR EAST GARO HILLS MEGHALAYA East Khasi Hills ML IN 794111",
+        "register": "Registered on 10-04-2001",
+        "director_details": []
+    },
+    {
+        "company_name": "RONGTHAM MULTI-TECH PRIVATE LIMITED",
+        "cin_no.": "U15400ML2015PTC008584",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "200000",
+        "registration_date": "18-02-2015",
+        "business_activity": "Food Manufacturing",
+        "state": "Meghalaya",
+        "district": "EAST GARO HILLS",
+        "address": "DOBAKOL NENGJAGITTIM P.O. NAGALBIBRA, P.S. BAGHMARA DOBAKOL NENGJAGITTIM South Garo Hills ML IN 794107",
+        "register": "Registered on 18-02-2015",
+        "director_details": [
+            {
+                "DIN": "07088238",
+                "direct_name": "Engthy Mongsrang Sangma"
+            },
+            {
+                "DIN": "07088243",
+                "direct_name": "Saileni Marak"
+            }
+        ]
+    },
+    {
+        "company_name": "ACHIK MEDIA PUBLISHING AND BROADCASTING PRIVATE LIMITED",
+        "cin_no.": "U22130ML2012PTC008516",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-08-2012",
+        "business_activity": "Paper and Printing",
+        "state": "Meghalaya",
+        "district": "EAST GARO HILLS",
+        "address": "PRINTING PRESS, RONGKHON NEAR DON BOSCO SCHOOL, RONGKHON TURA West Garo Hills ML IN 794002",
+        "register": "Registered on 22-08-2012",
+        "director_details": [
+            {
+                "DIN": "05356534",
+                "direct_name": "Rikrak Chisim Sangma"
+            },
+            {
+                "DIN": "05356564",
+                "direct_name": "Suchona Ch Sangma"
+            }
+        ]
+    },
+    {
+        "company_name": "MEGHAMAX HEALTH CARE PRIVATE LIMITED",
+        "cin_no.": "U85190ML2014PTC008573",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "08-08-2014",
+        "business_activity": "Personal and Social Services",
+        "state": "Meghalaya",
+        "district": "EAST GARO HILLS",
+        "address": "H.O. DEPA SARENGMA, P.O. DAINADUBI, NORTH GARO HILLS, MEGHALAYA, INDIA DEPA SARENGMA West Garo Hills ML IN 794110",
+        "register": "Registered on 08-08-2014",
+        "director_details": [
+            {
+                "DIN": "06940207",
+                "direct_name": "Lapbington G Marak"
+            },
+            {
+                "DIN": "06940215",
+                "direct_name": "Tengsath Cheran Momin"
+            },
+            {
+                "DIN": "06940198",
+                "direct_name": "Wilingston Sangma"
+            }
+        ]
+    },
+    {
+        "company_name": "N E MINING & CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U10100ML2009PTC008387",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-11-2009",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "EAST KHASI HILLS",
+        "address": "C/O TLIBON LYNGDOH NONGRAH, NONGPDENG SHILLONG East Khasi Hills ML IN 793006",
+        "register": "Registered on 19-11-2009",
+        "director_details": [
+            {
+                "DIN": "06492086",
+                "direct_name": "Anil Bhaiya"
+            },
+            {
+                "DIN": "02301563",
+                "direct_name": "Sanjib Daimary"
+            }
+        ]
+    },
+    {
+        "company_name": "EASTERN CARBON & ALLIED MINERALS PRIVATE LIMITED",
+        "cin_no.": "U10100ML2010PTC008435",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-10-2010",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "EAST KHASI HILLS",
+        "address": "C/o Mrs. Ahmed, 2nd Floor, Dobhi Ghat Laban Shillong East Khasi Hills ML IN 793004",
+        "register": "Registered on 01-10-2010",
+        "director_details": [
+            {
+                "DIN": "05180303",
+                "direct_name": "Arti Singh"
+            },
+            {
+                "DIN": "03113674",
+                "direct_name": "Humanstar Rani"
+            }
+        ]
+    },
+    {
+        "company_name": "7 WATTS MINING & ENERGIES PRIVATE LIMITED",
+        "cin_no.": "U10100ML2013PTC008535",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-02-2013",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "EAST KHASI HILLS",
+        "address": "AMAZING GRACE COTTAGE NEXT TO LAW COLLEGE DHANKHETI SHILLONG East Khasi Hills ML IN 793001",
+        "register": "Registered on 14-02-2013",
+        "director_details": [
+            {
+                "DIN": "02940058",
+                "direct_name": "Amit Kapoor"
+            },
+            {
+                "DIN": "02154198",
+                "direct_name": "Gitika Kapoor"
+            },
+            {
+                "DIN": "03626807",
+                "direct_name": "Ikval Singh Saggu"
+            },
+            {
+                "DIN": "06479792",
+                "direct_name": "Sajay Laloo"
+            }
+        ]
+    },
+    {
+        "company_name": "ASSAM MINING AND TRADING CO.PVT LTD",
+        "cin_no.": "U10101ML1945PTC000626",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "11000",
+        "registration_date": "03-11-1945",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "EAST KHASI HILLS",
+        "address": "LAITKOR SHILLONG MEGHALAYA East Khasi Hills ML IN 793010",
+        "register": "Registered on 03-11-1945",
+        "director_details": []
+    },
+    {
+        "company_name": "OSSMELL GIRI & CO PVT LTD",
+        "cin_no.": "U10101ML1953PTC001035",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "21000",
+        "registration_date": "17-11-1953",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "EAST KHASI HILLS",
+        "address": "LAWMALI ROAD, SHILLONG East Khasi Hills ML IN 793001",
+        "register": "Registered on 17-11-1953",
+        "director_details": []
+    },
+    {
+        "company_name": "KOILAJAN COLLIERIES LIMITED",
+        "cin_no.": "U10101ML1963PLC001207",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "488000",
+        "registration_date": "23-04-1963",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "EAST KHASI HILLS",
+        "address": "UMSOHSUN ROAD, EAST KHASHI HILLS SHILLONG East Khasi Hills ML IN 793002",
+        "register": "Registered on 23-04-1963",
+        "director_details": []
+    },
+    {
+        "company_name": "ESS KAY MINING AND CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U10101ML2003PTC007188",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-08-2003",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "EAST KHASI HILLS",
+        "address": "MAWLAI, NONGKWAR BLOCK XI SHILLONG East Khasi Hills ML IN 793008",
+        "register": "Registered on 19-08-2003",
+        "director_details": [
+            {
+                "DIN": "01599174",
+                "direct_name": "Cansee T Lyngdoh"
+            },
+            {
+                "DIN": "01856247",
+                "direct_name": "Lurmangkara Sehekaya Thongney"
+            },
+            {
+                "DIN": "01856254",
+                "direct_name": "Rangkynsai Sehekaya Thongney"
+            },
+            {
+                "DIN": "01599129",
+                "direct_name": "Sehekaya Lyngdoh"
+            }
+        ]
+    },
+    {
+        "company_name": "JAYSHREE MINES AND MINERALS PRIVATE LIMI TED",
+        "cin_no.": "U10101ML2005PTC007998",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "400000",
+        "registration_date": "15-12-2005",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "EAST KHASI HILLS",
+        "address": "POHKSEH,RYNJAH, SHILLONG-793006. East Khasi Hills ML IN",
+        "register": "Registered on 15-12-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "CARBON MINING COMPANY PRIVATE LIMITED",
+        "cin_no.": "U10101ML2010PTC008422",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-07-2010",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "EAST KHASI HILLS",
+        "address": "TRIPLE PINE, LUMDIENGSOH NONGTHYMMAI SHILLONG East Khasi Hills ML IN 793014",
+        "register": "Registered on 23-07-2010",
+        "director_details": [
+            {
+                "DIN": "03135324",
+                "direct_name": "Ivan Lyngdoh"
+            },
+            {
+                "DIN": "01361361",
+                "direct_name": "Sarfaraz Hashmat"
+            }
+        ]
+    },
+    {
+        "company_name": "MEGHA COAL TRADE PRIVATE LIMITED",
+        "cin_no.": "U10101ML2012PTC008527",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "19700000",
+        "registration_date": "30-10-2012",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "EAST KHASI HILLS",
+        "address": "RE-DO-RIA COTTAGE, M.G. ROAD (ADJACENT TO GUWAHATI SHILLONG HIGH COURT) SHILLONG ML IN 793001",
+        "register": "Registered on 30-10-2012",
+        "director_details": [
+            {
+                "DIN": "06407215",
+                "direct_name": "Chaman Tulsyan"
+            },
+            {
+                "DIN": "01122851",
+                "direct_name": "Dilip Kumar Kharkrang"
+            },
+            {
+                "DIN": "05256671",
+                "direct_name": "Wagish Garg"
+            }
+        ]
+    },
+    {
+        "company_name": "MATIZ METALS PRIVATE LIMITED",
+        "cin_no.": "U13205ML2000PTC006350",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "60000000",
+        "paid_up_capital": "8920000",
+        "registration_date": "09-11-2000",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "GOALPARA",
+        "address": "BYRNIHATRIBHOI BYRNIHAT MEGHALAYA ML IN 783101",
+        "register": "Registered on 09-11-2000",
+        "director_details": [
+            {
+                "DIN": "03336906",
+                "direct_name": "Christine Rynjah"
+            },
+            {
+                "DIN": "00121467",
+                "direct_name": "Navin Kumar Surendra Kumar Agarwal"
+            },
+            {
+                "DIN": "00121599",
+                "direct_name": "Surendrakumar Girdharilal Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "JAINTIA FRUITS CO PVT LTD",
+        "cin_no.": "U01409ML1995PTC004470",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "15000",
+        "registration_date": "14-06-1995",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "JAINTIA HILLS",
+        "address": "KHIMMUSNIANGJOWAI JAINTIA HILLS MEGHALAYA ML IN 793150",
+        "register": "Registered on 14-06-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "NONGKHLIEH MINES PRIVATE LIMITED.",
+        "cin_no.": "U10100ML2007PTC008294",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-11-2007",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "JAINTIA HILLS",
+        "address": "M/S PNAR SERVICE STATION, LADRYMBAI, MOOKHEP PETROL PUMP, P.O KHLIEHRIAT, SHILLONG Jaintia Hills ML IN 793200",
+        "register": "Registered on 29-11-2007",
+        "director_details": [
+            {
+                "DIN": "01925556",
+                "direct_name": "Jimson Kharkongor"
+            },
+            {
+                "DIN": "07150646",
+                "direct_name": "Madhu Sudan Patra"
+            },
+            {
+                "DIN": "01686185",
+                "direct_name": "Philip Pala"
+            },
+            {
+                "DIN": "07599820",
+                "direct_name": "Ranjan Purkayastha"
+            }
+        ]
+    },
+    {
+        "company_name": "STAR CEMENT LIMITED",
+        "cin_no.": "U26942ML2001PLC006663",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "830000000",
+        "paid_up_capital": "419228997",
+        "registration_date": "02-11-2001",
+        "business_activity": "Metals and Chemicals",
+        "state": "Meghalaya",
+        "district": "JAINTIA HILLS",
+        "address": "VILL LUMSHNONG,KHALIEHRIAT JAINTIA HILLS MEGHALAYA ML IN 793200",
+        "register": "Registered on 02-11-2001",
+        "director_details": [
+            {
+                "DIN": "01125056",
+                "direct_name": "Brij Bhushan Agarwal"
+            },
+            {
+                "DIN": "02800955",
+                "direct_name": "Clara Suja"
+            },
+            {
+                "DIN": "ABWPA5129R",
+                "direct_name": "Dilip Kumar Agarwal"
+            },
+            {
+                "DIN": "00353075",
+                "direct_name": "Mangilal Jain"
+            },
+            {
+                "DIN": "00312918",
+                "direct_name": "Manindra Nath Banerjee"
+            },
+            {
+                "DIN": "AELPA5301F",
+                "direct_name": "Manoj Agarwal"
+            },
+            {
+                "DIN": "00383635",
+                "direct_name": "Pankaj Kejriwal"
+            },
+            {
+                "DIN": "00591512",
+                "direct_name": "Prem Kumar Bhajanka"
+            },
+            {
+                "DIN": "00246171",
+                "direct_name": "Rajendra Chamaria"
+            },
+            {
+                "DIN": "00246043",
+                "direct_name": "Sajjan Bhajanka"
+            },
+            {
+                "DIN": "00246132",
+                "direct_name": "Sanjay Agarwal"
+            },
+            {
+                "DIN": "ADUPG4355K",
+                "direct_name": "Sanjay Kumar Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "ADHUNIK CEMENT LIMITED",
+        "cin_no.": "U26942ML2003PLC007090",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "350000000",
+        "paid_up_capital": "329450000",
+        "registration_date": "01-05-2003",
+        "business_activity": "Metals and Chemicals",
+        "state": "Meghalaya",
+        "district": "JAINTIA HILLS",
+        "address": "VILL THANGSKAI P.O LUMSHNONG KHELRIAHAT ML IN 793200",
+        "register": "Registered on 01-05-2003",
+        "director_details": [
+            {
+                "DIN": "ARYPK0747R",
+                "direct_name": "Aashima Khanna"
+            },
+            {
+                "DIN": "02391716",
+                "direct_name": "Ajit Aravindaksha Menon"
+            },
+            {
+                "DIN": "06852044",
+                "direct_name": "Manisha Bansal"
+            },
+            {
+                "DIN": "00421643",
+                "direct_name": "Phon Syih"
+            },
+            {
+                "DIN": "00016512",
+                "direct_name": "Prakash Bajirao Kulkarni"
+            },
+            {
+                "DIN": "07333614",
+                "direct_name": "Rowther Alwar Krishnakumar"
+            },
+            {
+                "DIN": "ABDPA7577N",
+                "direct_name": "Sunil Aggarwal"
+            },
+            {
+                "DIN": "00221577",
+                "direct_name": "Vaidyanathan Ramamurthy"
+            },
+            {
+                "DIN": "00124050",
+                "direct_name": "Venkatesan Thyagarajan"
+            }
+        ]
+    },
+    {
+        "company_name": "MEGHALAYA CEMENTS LIMITED",
+        "cin_no.": "U26942ML2003PLC007125",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000000",
+        "paid_up_capital": "380000000",
+        "registration_date": "12-06-2003",
+        "business_activity": "Metals and Chemicals",
+        "state": "Meghalaya",
+        "district": "JAINTIA HILLS",
+        "address": "THANGSKAILUMSHNONG KHLIEHRIAT, JAINTIA HILLS KHLIEHRIAT ML IN 793200",
+        "register": "Registered on 12-06-2003",
+        "director_details": [
+            {
+                "DIN": "00268711",
+                "direct_name": "Amit Agarwal"
+            },
+            {
+                "DIN": "AMXPC1584A",
+                "direct_name": "Animesh Choudhary"
+            },
+            {
+                "DIN": "00044379",
+                "direct_name": "Bijay Kumar Garodia"
+            },
+            {
+                "DIN": "00512267",
+                "direct_name": "Kailash Chandra Lohia"
+            },
+            {
+                "DIN": "07015035",
+                "direct_name": "Kaushik Agarwal"
+            },
+            {
+                "DIN": "00818916",
+                "direct_name": "Kiran Agarwal"
+            },
+            {
+                "DIN": "00044343",
+                "direct_name": "Mahendra Kumar Agarwal"
+            },
+            {
+                "DIN": "00129815",
+                "direct_name": "Nishant Garodia"
+            },
+            {
+                "DIN": "00421643",
+                "direct_name": "Phon Syih"
+            },
+            {
+                "DIN": "ACUPA2403P",
+                "direct_name": "Ranjit Kumar Agarwal"
+            },
+            {
+                "DIN": "01404575",
+                "direct_name": "Sanket Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "HILLS CEMENT COMPANY LIMITED",
+        "cin_no.": "U17295AS2006PLC007295",
+        "status": "Not Available for eFiling",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "0",
+        "paid_up_capital": "0",
+        "registration_date": "28-02-2006",
+        "business_activity": "Textiles",
+        "state": "Assam",
+        "district": "KAMRUP",
+        "address": "H M TOWER FIRST FLOORS C GOSWAMI ROAD, PANBAZAR, GUWAHATI Kamrup AS IN 781001",
+        "register": "Registered on 28-02-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "MEGHALAYA MINERALS & MINES LIMITED",
+        "cin_no.": "U14108ML2000PLC006057",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "15000000",
+        "paid_up_capital": "14900000",
+        "registration_date": "03-03-2000",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "JAINTIA HILLS",
+        "address": "VILLAGE LUMSHNONG DISTRICT JAINTIA HILLS LUMSHNONG KHLIARIAT MEGHALAYA Jaintia Hills ML IN 793200",
+        "register": "Registered on 03-03-2000",
+        "director_details": [
+            {
+                "DIN": "01601926",
+                "direct_name": "Biaki Paite"
+            },
+            {
+                "DIN": "01053893",
+                "direct_name": "Jagdish Prasad Shah"
+            },
+            {
+                "DIN": "01580068",
+                "direct_name": "Lamshwa Kyndoh"
+            },
+            {
+                "DIN": "01033252",
+                "direct_name": "Sushil Kumar Bajaj"
+            },
+            {
+                "DIN": "07092147",
+                "direct_name": "Vineet Garodia"
+            }
+        ]
+    },
+    {
+        "company_name": "SAKHIAT MINING PRIVATE LIMITED",
+        "cin_no.": "U14200ML2012PTC008519",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "300000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-08-2012",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "JAINTIA HILLS",
+        "address": "RYMBAI DOLLOISHIP KHLIEHRIAT Jaintia Hills ML IN 793200",
+        "register": "Registered on 27-08-2012",
+        "director_details": [
+            {
+                "DIN": "02352107",
+                "direct_name": "Herlington Shadap"
+            },
+            {
+                "DIN": "06400880",
+                "direct_name": "Limawapang Jamir"
+            },
+            {
+                "DIN": "05350220",
+                "direct_name": "Shibun Lyngdoh"
+            }
+        ]
+    },
+    {
+        "company_name": "THREE GOLDEN FRUITS E- LOGISTICS PRIVATE LIMITED",
+        "cin_no.": "U60221ML2017PTC013650",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "200000",
+        "registration_date": "17-11-2017",
+        "business_activity": "Transport and Storage",
+        "state": "Meghalaya",
+        "district": "JAINTIA HILLS",
+        "address": "HOUSE NO. 95, MOOKYRDUP VILL/TOWN",
+        "register": "Registered on 17-11-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "STAR CEMENT LIMITED",
+        "cin_no.": "U26942ML2001PLC006663",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "830000000",
+        "paid_up_capital": "419228997",
+        "registration_date": "02-11-2001",
+        "business_activity": "Metals and Chemicals",
+        "state": "Meghalaya",
+        "district": "JAINTIA HILLS",
+        "address": "VILL LUMSHNONG,KHALIEHRIAT JAINTIA HILLS MEGHALAYA ML IN 793200",
+        "register": "Registered on 02-11-2001",
+        "director_details": [
+            {
+                "DIN": "01125056",
+                "direct_name": "Brij Bhushan Agarwal"
+            },
+            {
+                "DIN": "02800955",
+                "direct_name": "Clara Suja"
+            },
+            {
+                "DIN": "ABWPA5129R",
+                "direct_name": "Dilip Kumar Agarwal"
+            },
+            {
+                "DIN": "00353075",
+                "direct_name": "Mangilal Jain"
+            },
+            {
+                "DIN": "00312918",
+                "direct_name": "Manindra Nath Banerjee"
+            },
+            {
+                "DIN": "AELPA5301F",
+                "direct_name": "Manoj Agarwal"
+            },
+            {
+                "DIN": "00383635",
+                "direct_name": "Pankaj Kejriwal"
+            },
+            {
+                "DIN": "00591512",
+                "direct_name": "Prem Kumar Bhajanka"
+            },
+            {
+                "DIN": "00246171",
+                "direct_name": "Rajendra Chamaria"
+            },
+            {
+                "DIN": "00246043",
+                "direct_name": "Sajjan Bhajanka"
+            },
+            {
+                "DIN": "00246132",
+                "direct_name": "Sanjay Agarwal"
+            },
+            {
+                "DIN": "ADUPG4355K",
+                "direct_name": "Sanjay Kumar Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "UMDAMLI MINERALS PRIVATE LIMITED",
+        "cin_no.": "U14297ML2004PTC007405",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "300000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-05-2004",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "KAMRUP",
+        "address": "BARIDUAOPP C R P F CAMP RI BHOI DIST AMERIGOG ML IN 781023",
+        "register": "Registered on 05-05-2004",
+        "director_details": []
+    },
+    {
+        "company_name": "SESHU NUTRITION PRIVATE LIMITED",
+        "cin_no.": "U15137ML2001PTC006678",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "3000000",
+        "registration_date": "13-11-2001",
+        "business_activity": "Food Manufacturing",
+        "state": "Meghalaya",
+        "district": "KAMRUP",
+        "address": "9TH MILEDIST RI BHOI RI BHOI MEGHALAYA ML IN 781023",
+        "register": "Registered on 13-11-2001",
+        "director_details": [
+            {
+                "DIN": "02367111",
+                "direct_name": "Kanhaiya Lal Agarwala"
+            },
+            {
+                "DIN": "01888175",
+                "direct_name": "Manoj Kumar Agarwal"
+            },
+            {
+                "DIN": "02367107",
+                "direct_name": "Sabita Devi Agarwala"
+            }
+        ]
+    },
+    {
+        "company_name": "S B REFINERIES & CHEMICALS PVT LTD",
+        "cin_no.": "U15142ML1980PTC001822",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3500000",
+        "paid_up_capital": "2402000",
+        "registration_date": "10-06-1980",
+        "business_activity": "Food Manufacturing",
+        "state": "Meghalaya",
+        "district": "KAMRUP",
+        "address": "9 TH MILEG S ROAD AMERIGOG BARIDUA RI BHOI MEGHALAYA ML IN 781023",
+        "register": "Registered on 10-06-1980",
+        "director_details": [
+            {
+                "DIN": "01267927",
+                "direct_name": "Aruna Deorah"
+            },
+            {
+                "DIN": "07231018",
+                "direct_name": "Krishna Deorah"
+            },
+            {
+                "DIN": "01361044",
+                "direct_name": "Rahul Deorah"
+            },
+            {
+                "DIN": "00924887",
+                "direct_name": "Raman Kumar Deorah"
+            }
+        ]
+    },
+    {
+        "company_name": "SHIROMANI FOOD PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U15311ML2002PTC006837",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2400000",
+        "paid_up_capital": "680000",
+        "registration_date": "07-06-2002",
+        "business_activity": "Food Manufacturing",
+        "state": "Meghalaya",
+        "district": "KAMRUP",
+        "address": "BARIDUA9 TH MILE AMERIGOG RI BHOI MEGHALAYA ML IN 781023",
+        "register": "Registered on 07-06-2002",
+        "director_details": [
+            {
+                "DIN": "01550889",
+                "direct_name": "Binod Kumar Agarwala"
+            },
+            {
+                "DIN": "01551804",
+                "direct_name": "Manish Kumar Agarwala"
+            },
+            {
+                "DIN": "01297742",
+                "direct_name": "Weston Nonghuloo"
+            }
+        ]
+    },
+    {
+        "company_name": "PREMIER ALCOBREW PRIVATE LIMITED",
+        "cin_no.": "U15533ML2005PTC007744",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "650000",
+        "registration_date": "12-05-2005",
+        "business_activity": "Food Manufacturing",
+        "state": "Meghalaya",
+        "district": "KAMRUP",
+        "address": "BARIDUAGUWAHATI SHILLONG HIGHWAY AMERIGOG MEGHALAYA. ML IN 781023",
+        "register": "Registered on 12-05-2005",
+        "director_details": [
+            {
+                "DIN": "00367413",
+                "direct_name": "Jiwan Mal Jain"
+            },
+            {
+                "DIN": "01551841",
+                "direct_name": "Manju Devi Jain"
+            },
+            {
+                "DIN": "03346624",
+                "direct_name": "Vineet Kumar Jain"
+            }
+        ]
+    },
+    {
+        "company_name": "MEGHALAYA BOARDS PRIVATE LIMITED",
+        "cin_no.": "U21011ML2005PTC008464",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "480000",
+        "registration_date": "15-06-2005",
+        "business_activity": "Paper and Printing",
+        "state": "Meghalaya",
+        "district": "KAMRUP",
+        "address": "UMA PALACE S.C.ROAD, ATHGAON GUWAHATI ML IN 781001",
+        "register": "Registered on 15-06-2005",
+        "director_details": [
+            {
+                "DIN": "01681649",
+                "direct_name": "Pradeep Kumar Agarwal"
+            },
+            {
+                "DIN": "01681944",
+                "direct_name": "Raj Kumar Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "RAIN CARBONS PRIVATE LIMITED",
+        "cin_no.": "U23109ML2004PTC007586",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-12-2004",
+        "business_activity": "Metals and Chemicals",
+        "state": "Meghalaya",
+        "district": "KAMRUP",
+        "address": "THEM MARWETNEAR PARBATI PETROL PVT LTD KHANAPARA RI BHOI MEGHALAYA ML IN 781022",
+        "register": "Registered on 13-12-2004",
+        "director_details": [
+            {
+                "DIN": "00625592",
+                "direct_name": "Dundee Cliff Khongsit"
+            },
+            {
+                "DIN": "01843854",
+                "direct_name": "Kailash Kumar Agarwal"
+            },
+            {
+                "DIN": "01159538",
+                "direct_name": "Om Prakash Agarwal"
+            },
+            {
+                "DIN": "01016992",
+                "direct_name": "Riju Prasad Sarma"
+            }
+        ]
+    },
+    {
+        "company_name": "PEE GEE (INDIA) LIMITED",
+        "cin_no.": "U51909ML2000PTC006091",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "6500000",
+        "paid_up_capital": "6100000",
+        "registration_date": "24-03-2000",
+        "business_activity": "Trading",
+        "state": "Meghalaya",
+        "district": "KAMRUP",
+        "address": "M I E CYCLE FACTORYKALAPHARA GUWAHATI ASSAM ML IN 781016",
+        "register": "Registered on 24-03-2000",
+        "director_details": []
+    },
+    {
+        "company_name": "SREE RADHA CREATION PRIVATE LIMITED",
+        "cin_no.": "U24246ML2001PTC006399",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "4000000",
+        "paid_up_capital": "2455000",
+        "registration_date": "19-01-2001",
+        "business_activity": "Metals and Chemicals",
+        "state": "Meghalaya",
+        "district": "KAMRUP",
+        "address": "THEM MARWETKHANAPARA RI BHOI MEGHALAYA ML IN 781023",
+        "register": "Registered on 19-01-2001",
+        "director_details": [
+            {
+                "DIN": "01503002",
+                "direct_name": "Habi Mannar"
+            },
+            {
+                "DIN": "00504445",
+                "direct_name": "Rajat Deorah"
+            },
+            {
+                "DIN": "00504416",
+                "direct_name": "Rohit Kumar Deorah"
+            }
+        ]
+    },
+    {
+        "company_name": "PATNI FERRO TECH PRIVATE LIMITED",
+        "cin_no.": "U27101ML2002PTC006902",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-08-2002",
+        "business_activity": "Metals and Chemicals",
+        "state": "Meghalaya",
+        "district": "KAMRUP",
+        "address": "G S ROADMAWSMAI 10 TH MILE RI BHOI ML IN 781023",
+        "register": "Registered on 28-08-2002",
+        "director_details": [
+            {
+                "DIN": "01181227",
+                "direct_name": "Amit Kumar Choudhury"
+            },
+            {
+                "DIN": "01117328",
+                "direct_name": "Bimala Devi Choudhury"
+            },
+            {
+                "DIN": "02530458",
+                "direct_name": "Donboklang War"
+            },
+            {
+                "DIN": "00554818",
+                "direct_name": "Raj Kumar Choudhury"
+            },
+            {
+                "DIN": "00554867",
+                "direct_name": "Rohit Choudhury"
+            }
+        ]
+    },
+    {
+        "company_name": "ENERGY ENTERPRISES PRIVATE LIMITED",
+        "cin_no.": "U10101ML2004PTC007481",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "2900000",
+        "registration_date": "23-07-2004",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "NA",
+        "address": "13TH MILETAMULKUCHI MEGHALAYA ML IN",
+        "register": "Registered on 23-07-2004",
+        "director_details": [
+            {
+                "DIN": "00849755",
+                "direct_name": "Asha Agarwal"
+            },
+            {
+                "DIN": "01773464",
+                "direct_name": "Histar Kharsati"
+            },
+            {
+                "DIN": "00849713",
+                "direct_name": "Pradip Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "PNAR MINES AND MINERALS PRIVATE LIMITED",
+        "cin_no.": "U10101ML2005PTC007978",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-11-2005",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "NA",
+        "address": "THANGSKAILUMSHNONG KHILEHRIAT JAINTI HILLS ML IN",
+        "register": "Registered on 29-11-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "HILLS TRADERS PVT LTD",
+        "cin_no.": "U10200ML1983PTC002098",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "30000",
+        "registration_date": "02-11-1983",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "NA",
+        "address": "ORANGE COTTAGE RED HILL ROADLAITMUKHRAH SHILLONG MEGHALAYA East Khasi Hills ML IN",
+        "register": "Registered on 02-11-1983",
+        "director_details": []
+    },
+    {
+        "company_name": "PRAG INDIA CEMENT PRIVATE LIMITED",
+        "cin_no.": "U26942ML2005PTC007815",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "12-07-2005",
+        "business_activity": "Metals and Chemicals",
+        "state": "Meghalaya",
+        "district": "NA",
+        "address": "P O KHLIEHRIATVILL CHIEHRUPHI DIST JAINTIA HILLS MEGHALAYA ML IN",
+        "register": "Registered on 12-07-2005",
+        "director_details": [
+            {
+                "DIN": "00498001",
+                "direct_name": "Mahabir Prasad Jain"
+            },
+            {
+                "DIN": "00732487",
+                "direct_name": "Mahavir Prasad Jain"
+            }
+        ]
+    },
+    {
+        "company_name": "ACCOLADE INDIA PVT LTD",
+        "cin_no.": "U65922ML2006PTC004752",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "0",
+        "paid_up_capital": "0",
+        "registration_date": "31-01-2006",
+        "business_activity": "Finance",
+        "state": "Meghalaya",
+        "district": "NA",
+        "address": "BAREH BUILDINGSHILLONG MEGHALAYA ML IN",
+        "register": "Registered on 31-01-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "KRISHNA COMERCIAL BANK LIMITED",
+        "cin_no.": "U65928ML1986PTC002630",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "0",
+        "registration_date": "22-12-1986",
+        "business_activity": "Finance",
+        "state": "Meghalaya",
+        "district": "NA",
+        "address": "BROMING BUIDING (3RD FLOOR)G.S.ROAD SHILLONG-1 MEGHALAYA. East Khasi Hills ML IN",
+        "register": "Registered on 22-12-1986",
+        "director_details": []
+    },
+    {
+        "company_name": "TYLLILANG PRODUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U14102ML2000PTC006242",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "60000",
+        "registration_date": "07-07-2000",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "NA",
+        "address": "PYNDENGUMIONGMAIRANG WEST KHASI HILLS MEGHALAYA West Khasi Hills ML IN",
+        "register": "Registered on 07-07-2000",
+        "director_details": []
+    },
+    {
+        "company_name": "TERTIARY MINERALS PVT LTD.",
+        "cin_no.": "U14107ML1994PTC004054",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20500000",
+        "paid_up_capital": "0",
+        "registration_date": "07-01-1994",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "NA",
+        "address": "THAW AIN PLAIN, SUNNY HILLSSHILLONG DIST. EAST KHASI HILLS, MEGHALAYA. East Khasi Hills ML IN",
+        "register": "Registered on 07-01-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "MAWTHENGKUT MINES AND MINERALS PVT LTD",
+        "cin_no.": "U14107ML1994PTC004287",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "3400000",
+        "registration_date": "02-11-1994",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "NA",
+        "address": "NONGSTOINWEST KHASI HILLS MEGHALAYA West Khasi Hills ML IN",
+        "register": "Registered on 02-11-1994",
+        "director_details": []
+    },
+    {
+        "company_name": "S.D.DIENGDOH AND COMPANY LTD",
+        "cin_no.": "U14107ML1995PLC004336",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "4500000",
+        "paid_up_capital": "34000",
+        "registration_date": "05-01-1995",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "NA",
+        "address": "SHELLA BAZAR, EAST KHASI HILLS SHELLA East Khasi Hills ML IN",
+        "register": "Registered on 05-01-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "SKYLIMIT ENTERPRISES PRIVATE LIMITED",
+        "cin_no.": "U10101ML2004PTC007571",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "5162500",
+        "registration_date": "16-11-2004",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "RI BHOI",
+        "address": "13TH MILE TAMULIKUCHI BYRNIHAT ML IN 793101",
+        "register": "Registered on 16-11-2004",
+        "director_details": [
+            {
+                "DIN": "02744132",
+                "direct_name": "Jiten Rahang"
+            },
+            {
+                "DIN": "00304395",
+                "direct_name": "Robin Gupta"
+            },
+            {
+                "DIN": "02563192",
+                "direct_name": "Rohit Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "OASIS ENTERPRISE PRIVATE LIMITED",
+        "cin_no.": "U10101ML2004PTC007578",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "5962500",
+        "registration_date": "09-12-2004",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "RI BHOI",
+        "address": "13TH MILE TAMULKUCHI BYRNIHAT ML IN 793101",
+        "register": "Registered on 09-12-2004",
+        "director_details": [
+            {
+                "DIN": "00539116",
+                "direct_name": "Dhan Bey"
+            },
+            {
+                "DIN": "00304395",
+                "direct_name": "Robin Gupta"
+            },
+            {
+                "DIN": "02563192",
+                "direct_name": "Rohit Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "WEST KHASHI MINERALS & MINING PRIVATE LIMITED",
+        "cin_no.": "U10101ML2009PTC008382",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-10-2009",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "RI BHOI",
+        "address": "PLOT NO.-19,23 EPIP ZONE RAJABAGAN BYRNIHAT BYRNIHAT ML IN 793101",
+        "register": "Registered on 14-10-2009",
+        "director_details": [
+            {
+                "DIN": "00507800",
+                "direct_name": "Ghanshyam Das Agarwal"
+            },
+            {
+                "DIN": "00610885",
+                "direct_name": "Naveen Kumar Agarwal"
+            },
+            {
+                "DIN": "00605669",
+                "direct_name": "Nirmal Kumar Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "RIBHOI MINING & MINERALS PRIVATE LIMITED",
+        "cin_no.": "U10101ML2009PTC008383",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-10-2009",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "RI BHOI",
+        "address": "PLOT NO.-19,23 EPIP ZONE RAJABAGAN BYRNIHAT BYRNIHAT ML IN 793101",
+        "register": "Registered on 14-10-2009",
+        "director_details": [
+            {
+                "DIN": "00507800",
+                "direct_name": "Ghanshyam Das Agarwal"
+            },
+            {
+                "DIN": "00227460",
+                "direct_name": "Jugal Kishore Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "RIBHOI FARMING AND FOOD PRODUCTS INDIA PRIVATE LIMITED",
+        "cin_no.": "U01403ML2009PTC008385",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "380000",
+        "registration_date": "15-10-2009",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "RI BHOI",
+        "address": "PAHAMSYIEM, MARNGAR, NONGPOH Ri-Bhoi ML IN 793102",
+        "register": "Registered on 15-10-2009",
+        "director_details": [
+            {
+                "DIN": "02755035",
+                "direct_name": "Abed Hussain"
+            },
+            {
+                "DIN": "01210153",
+                "direct_name": "Alfarid Ahmed"
+            },
+            {
+                "DIN": "02774607",
+                "direct_name": "Jerry Nongkhlaw"
+            },
+            {
+                "DIN": "02755072",
+                "direct_name": "Nizam Choudhury"
+            },
+            {
+                "DIN": "02789502",
+                "direct_name": "Pronoi Das"
+            }
+        ]
+    },
+    {
+        "company_name": "MEGHALAYA INTENSIVE PLANTATIONS AND BAMBOOS (INDIA) LIMITED",
+        "cin_no.": "U01403ML2011PLC008459",
+        "status": "Under Process of Striking off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "700000",
+        "registration_date": "04-03-2011",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "RI BHOI",
+        "address": "SILBON LYNDDOH UMLUR, MAIRANG ROAD., P.O. UMRIT RIBHOI Ri-Bhoi ML IN 793102",
+        "register": "Registered on 04-03-2011",
+        "director_details": [
+            {
+                "DIN": "03037686",
+                "direct_name": "Lakshmichand Haridas"
+            },
+            {
+                "DIN": "03413396",
+                "direct_name": "Shiji Kumar Paranamkunnel Kumaran"
+            },
+            {
+                "DIN": "03007214",
+                "direct_name": "Usha Kuttankodath Raman"
+            }
+        ]
+    },
+    {
+        "company_name": "VICTORYPLUS (INDIA) PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403ML2011PTC008476",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "08-06-2011",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "RI BHOI",
+        "address": "SILBON LYNDDOH UMLUR, MAIRANG ROAD, P.O. UMRIT RIBHOI Ri-Bhoi ML IN 793102",
+        "register": "Registered on 08-06-2011",
+        "director_details": [
+            {
+                "DIN": "06392945",
+                "direct_name": "Abraham Eettinilkunnathil George"
+            },
+            {
+                "DIN": "05309253",
+                "direct_name": "Anilkumar Gandhimathi Sundarapanicker"
+            },
+            {
+                "DIN": "05309259",
+                "direct_name": "Baburaj Resalayyan"
+            },
+            {
+                "DIN": "03246720",
+                "direct_name": "George Thundathil Joseph"
+            },
+            {
+                "DIN": "03051153",
+                "direct_name": "John Kutty Yacob Nadar"
+            },
+            {
+                "DIN": "03037686",
+                "direct_name": "Lakshmichand Haridas"
+            },
+            {
+                "DIN": "03494133",
+                "direct_name": "Maret Oommen Josey"
+            },
+            {
+                "DIN": "03494130",
+                "direct_name": "Mattackal Abraham Ipe"
+            },
+            {
+                "DIN": "05356571",
+                "direct_name": "Ranganath Rahulnath"
+            },
+            {
+                "DIN": "05309266",
+                "direct_name": "Senthilkumar Somasundarampillai"
+            },
+            {
+                "DIN": "05335261",
+                "direct_name": "Sijumon Maloth Cleetus"
+            }
+        ]
+    },
+    {
+        "company_name": "JIRANG ORGANIC AGRO FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01820ML2017PTC013645",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-10-2017",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "RI BHOI",
+        "address": "VILLAGE & P.O.-NEW JIRANG P.S.- KHANAPARA DIST.-MEGHALAYA RI BHOI Ri-Bhoi ML IN 793102",
+        "register": "Registered on 12-10-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "NEW NORTH-EAST COAL MINING PRIVATE LIMIT ED",
+        "cin_no.": "U10102ML1998PTC005606",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "1299000",
+        "registration_date": "04-12-1998",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "RI BHOI",
+        "address": "13 MILE TAMULKUCHI, RIBHOI BYRNIHAT ML IN 793101",
+        "register": "Registered on 04-12-1998",
+        "director_details": [
+            {
+                "DIN": "00552625",
+                "direct_name": "Bijender Kumar"
+            },
+            {
+                "DIN": "00304577",
+                "direct_name": "Rajesh Kumar Goyal"
+            }
+        ]
+    },
+    {
+        "company_name": "MEGHALAYA MINING LIMITED",
+        "cin_no.": "U10102ML2000PLC006093",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "1912500",
+        "registration_date": "24-03-2000",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "RI BHOI",
+        "address": "13 TH MILE, TAMULKUCHI, BYRNIHAT ML IN 793101",
+        "register": "Registered on 24-03-2000",
+        "director_details": [
+            {
+                "DIN": "00304577",
+                "direct_name": "Rajesh Kumar Goyal"
+            },
+            {
+                "DIN": "00304395",
+                "direct_name": "Robin Gupta"
+            },
+            {
+                "DIN": "02563192",
+                "direct_name": "Rohit Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "MARAK AGRO-HORTI PRIVATE LIMITED",
+        "cin_no.": "U01122ML2015PTC008581",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "02-02-2015",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "SOUTH GARO HILLS",
+        "address": "VILLAGE",
+        "register": "Registered on 02-02-2015",
+        "director_details": [
+            {
+                "DIN": "07060019",
+                "direct_name": "Kelbis Sangma"
+            },
+            {
+                "DIN": "07032261",
+                "direct_name": "Susil Syanthang Marak"
+            }
+        ]
+    },
+    {
+        "company_name": "MEGHA SHINE AGRO COMPANY LIMITED",
+        "cin_no.": "U01403ML2011PLC008455",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "02-02-2011",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "WEST GARO HILLS",
+        "address": "VILL. DEOSALI P.O. TIKRILLA TURA West Garo Hills ML IN 794109",
+        "register": "Registered on 02-02-2011",
+        "director_details": [
+            {
+                "DIN": "03405464",
+                "direct_name": "Berns Sangma"
+            },
+            {
+                "DIN": "03405479",
+                "direct_name": "Jinu Marak"
+            },
+            {
+                "DIN": "03405333",
+                "direct_name": "Titu Chandra Nath"
+            }
+        ]
+    },
+    {
+        "company_name": "SIMSANG CEMENTS PRIVATE LIMITED",
+        "cin_no.": "U26942ML2005PTC007792",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-06-2005",
+        "business_activity": "Metals and Chemicals",
+        "state": "Meghalaya",
+        "district": "WEST GARO HILLS",
+        "address": "TURA BAZARWEST GARO HILLS MEGHALAYA TURA ML IN 794001",
+        "register": "Registered on 24-06-2005",
+        "director_details": [
+            {
+                "DIN": "00736898",
+                "direct_name": "Banarashilal Agarwala"
+            },
+            {
+                "DIN": "00732069",
+                "direct_name": "Godfrey Nongbak Arengh"
+            },
+            {
+                "DIN": "00736955",
+                "direct_name": "Pankaj Agarwala"
+            }
+        ]
+    },
+    {
+        "company_name": "DURAMA CEMENT PRIVATE LIMITED",
+        "cin_no.": "U26942ML2005PTC007843",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-08-2005",
+        "business_activity": "Metals and Chemicals",
+        "state": "Meghalaya",
+        "district": "WEST GARO HILLS",
+        "address": "KEMP VERTICALARAIMILE NEW TURA MEGHALAYA West Garo Hills ML IN 794101",
+        "register": "Registered on 08-08-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "KATULI AGRO PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100ML2017PTC013628",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-05-2017",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "WEST GARO HILLS",
+        "address": "VILL KATULI PO KATLI KATULI South Garo Hills ML IN 794115",
+        "register": "Registered on 19-05-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "GARO HILL TEA PROCESSING INDUSTRY PRIVATE LIMITED",
+        "cin_no.": "U01100ML2017PTC013630",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-06-2017",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "WEST GARO HILLS",
+        "address": "BURNY HILL P.O- DAKOPGRI TURA West Garo Hills ML IN 794101",
+        "register": "Registered on 23-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "GANDHIPARA-BETASING FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100ML2017PTC013636",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-07-2017",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "WEST GARO HILLS",
+        "address": "R/o Haridas Koch Gandhipara west garo hills West Garo Hills ML IN 794105",
+        "register": "Registered on 21-07-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "CHOKPOT FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100ML2017PTC013639",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-07-2017",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "WEST GARO HILLS",
+        "address": "Dobogre South Garo Hills South Garo Hills ML IN 794005",
+        "register": "Registered on 26-07-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "MARAHALIPARA FOOD PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100ML2017PTC013641",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-08-2017",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "WEST GARO HILLS",
+        "address": "KALAIGAON MARAHALIPARA, P.O- KALAI P/S- MAHENDRAGANJ SOUTH WEST GARO HILLS West Garo Hills ML IN 794115",
+        "register": "Registered on 16-08-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "TANGABARIPARA-BETASING FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01114ML2017PTC013633",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-07-2017",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "WEST GARO HILLS",
+        "address": "Gandhipara West Garo Hills West Garo Hills ML IN 794105",
+        "register": "Registered on 05-07-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "ASHIMA PROJECTS PRIVATE LIMITED",
+        "cin_no.": "U01132ML1999PTC005829",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "3540000",
+        "registration_date": "27-07-1999",
+        "business_activity": "Agriculture",
+        "state": "Meghalaya",
+        "district": "WEST GARO HILLS",
+        "address": "FANCY VALLEY WEST GARO HILLS TURA West Garo Hills ML IN 794001",
+        "register": "Registered on 27-07-1999",
+        "director_details": [
+            {
+                "DIN": "00513214",
+                "direct_name": "Ashima Saha"
+            },
+            {
+                "DIN": "00513216",
+                "direct_name": "Upendra Nath Saha"
+            }
+        ]
+    },
+    {
+        "company_name": "B K BANI ENTERPRISE COMPANY PRIVATE LIMI TED",
+        "cin_no.": "U14107ML2004PTC007607",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "145000",
+        "registration_date": "24-12-2004",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "WEST KHASI HILLS",
+        "address": "NONGSTOIN DIST.WEST KHASI HILLS NONGSTOIN ML IN 793119",
+        "register": "Registered on 24-12-2004",
+        "director_details": [
+            {
+                "DIN": "03200394",
+                "direct_name": "Bestorwel Kharbani"
+            },
+            {
+                "DIN": "02743717",
+                "direct_name": "Nestingdar Nongdkhar"
+            }
+        ]
+    },
+    {
+        "company_name": "NEWZONE MINES PRIVATE LIMITED",
+        "cin_no.": "U14200ML2008PTC008349",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "101000",
+        "registration_date": "11-12-2008",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "WEST KHASI HILLS",
+        "address": "213, MAIRANGMISSION MAIRANGMISSION ML IN 793120",
+        "register": "Registered on 11-12-2008",
+        "director_details": [
+            {
+                "DIN": "03041715",
+                "direct_name": "Akash Agarwala"
+            },
+            {
+                "DIN": "00131472",
+                "direct_name": "Sushil Kumar Goel"
+            },
+            {
+                "DIN": "02396758",
+                "direct_name": "Trinalin Doloi"
+            }
+        ]
+    },
+    {
+        "company_name": "SATYARATAN VENTURES PRIVATE LIMITED",
+        "cin_no.": "U14200ML2011PTC008480",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-07-2011",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "WEST KHASI HILLS",
+        "address": "PYNDENGREI VILLAGE NONGSTOIN SYIEMSHIP, WEST KHASI HILLS DISTRICT NONGSTOIN SYIEMSHIP ML IN 793120",
+        "register": "Registered on 07-07-2011",
+        "director_details": [
+            {
+                "DIN": "02909846",
+                "direct_name": "Harsh Sharma"
+            },
+            {
+                "DIN": "00538375",
+                "direct_name": "Kamal Kumar Sharma"
+            },
+            {
+                "DIN": "00706165",
+                "direct_name": "Ratan Kumar Sharma"
+            },
+            {
+                "DIN": "03562063",
+                "direct_name": "Sylvester Nongbri"
+            }
+        ]
+    },
+    {
+        "company_name": "SHREE SHAKAMBARI FERRO ALLOYS PRIVATE LIMITED",
+        "cin_no.": "U23109ML2005PTC008361",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "55000000",
+        "paid_up_capital": "54114350",
+        "registration_date": "25-02-2005",
+        "business_activity": "Metals and Chemicals",
+        "state": "Meghalaya",
+        "district": "WEST KHASI HILLS",
+        "address": "Village",
+        "register": "Registered on 25-02-2005",
+        "director_details": [
+            {
+                "DIN": "00428129",
+                "direct_name": "Kailash Chandra Keyal"
+            },
+            {
+                "DIN": "00428169",
+                "direct_name": "Naresh Chandra Keyal"
+            },
+            {
+                "DIN": "ACJPA0565H",
+                "direct_name": "Pawan Kumar Agarwal"
+            },
+            {
+                "DIN": "02273046",
+                "direct_name": "Restar Lyngdoh Marshillong"
+            }
+        ]
+    },
+    {
+        "company_name": "MEGHALAYA FERRO ALLOYS & POWER LIMITED",
+        "cin_no.": "U27100ML2011PLC008483",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "14-07-2011",
+        "business_activity": "Metals and Chemicals",
+        "state": "Meghalaya",
+        "district": "WEST KHASI HILLS",
+        "address": "C/0 JEETA MARAK,P.O & P.S- SHALLANG BAZAR,SONGHAK LANDMARK-BESIDE RIANGDO RIVER AT SHALLANG SHALLANG ML IN 793119",
+        "register": "Registered on 14-07-2011",
+        "director_details": [
+            {
+                "DIN": "00510919",
+                "direct_name": "Ajit Kumar Jana"
+            },
+            {
+                "DIN": "01125056",
+                "direct_name": "Brij Bhushan Agarwal"
+            },
+            {
+                "DIN": "06924009",
+                "direct_name": "Satyanarayan Kundu"
+            },
+            {
+                "DIN": "00551235",
+                "direct_name": "Yogesh Kumar Chaudhry"
+            }
+        ]
+    },
+    {
+        "company_name": "LAMLYN INSTITUTE OF PROFESSIONAL & VOCATIONAL STUDIES PRIVATE LIMITED",
+        "cin_no.": "U80902ML2016PTC013614",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-09-2016",
+        "business_activity": "Personal and Social Services",
+        "state": "Meghalaya",
+        "district": "WEST KHASI HILLS",
+        "address": "Mawkyrwat Town, West Khasi Hills, Meghalaya-793114 Shillong West Khasi Hills ML IN 793114",
+        "register": "Registered on 07-09-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "NE MINING & ENGINEERING SERVICES PRIVATE LIMITED",
+        "cin_no.": "U10200ML2018PTC013672",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "20-09-2018",
+        "business_activity": "Mining and Quarrying",
+        "state": "Meghalaya",
+        "district": "WEST KHASI HILLS",
+        "address": "C/O TRINALIN DOLOI 213/A MIRANG MISSION WEST KHASI HILLS 793120",
+        "register": "Registered on 20-09-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "HILL VIEW MULTIPRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U16008ML2000PTC006206",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "9845000",
+        "registration_date": "12-06-2000",
+        "business_activity": "Food Manufacturing",
+        "state": "Meghalaya",
+        "district": "WEST SIANG",
+        "address": "GARIKHANA SHILLONG ML IN 791001",
+        "register": "Registered on 12-06-2000",
+        "director_details": [
+            {
+                "DIN": "01073970",
+                "direct_name": "Anjula Devi Sarawgi"
+            },
+            {
+                "DIN": "00659750",
+                "direct_name": "Rajkamal Sarawgi"
+            }
+        ]
+    }
+]

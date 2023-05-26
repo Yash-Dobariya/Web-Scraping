@@ -1,0 +1,4108 @@
+[
+    {
+        "company_name": "ASHWARYA FINVEST LIMITED",
+        "cin_no.": "U06591CT1996PLC011433",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "2756000",
+        "registration_date": "29-11-1996",
+        "business_activity": "Others",
+        "state": "Chattisgarh",
+        "district": "ASHOK NAGAR",
+        "address": "4 - NARAYAN COMPLEX, NEHRU PARK, ASHOK NAGAR GUNA, CT IN 473331",
+        "register": "Registered on 29-11-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "S.R.T.AGRO SCIENCE PRIVATE LIMITED",
+        "cin_no.": "U24210CT2007PTC020491",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "36500000",
+        "paid_up_capital": "13426000",
+        "registration_date": "28-12-2007",
+        "business_activity": "Metals and Chemicals",
+        "state": "Chattisgarh",
+        "district": "BALAGHAT",
+        "address": "Village-Funda,Tahsil-Patan, Distt.-Durg Durg CT IN 481111",
+        "register": "Registered on 28-12-2007",
+        "director_details": [
+            {
+                "DIN": "01790256",
+                "direct_name": "Rajesh Kumar Taunk"
+            },
+            {
+                "DIN": "01790255",
+                "direct_name": "Shirish Taunk"
+            }
+        ]
+    },
+    {
+        "company_name": "VIKAS MITRA RURAL SUPPORT SERVICE PRODUCER CO. LIMITED.",
+        "cin_no.": "U01403CT2006PTC020029",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "11-07-2006",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BASTAR",
+        "address": "VIKAS MITRA RURAL SUPPORT SERVICE PRODUCER CO. LTD SARGIPAL KONDAGAON TEHSIL KONDAGAON CT IN 494226",
+        "register": "Registered on 11-07-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "AANASHWAR FARMS PRIVATE LIMITED",
+        "cin_no.": "U01403CT2006PTC020123",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "05-12-2006",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BASTAR",
+        "address": "HOUSE NO. 175, JAIN MANDIR ROAD IIND LANE, PRATAPGANJ ROAD JAGDALPUR Bastar CT IN 494001",
+        "register": "Registered on 05-12-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "NARANGI AGRO ENTERPRISES PRIVATE LIMITED",
+        "cin_no.": "U01403CT2012PTC000284",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-04-2012",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BASTAR",
+        "address": "NEAR WATER TANK, TEHSIL PARA WARD KONDAGAON Bastar CT IN 494226",
+        "register": "Registered on 11-04-2012",
+        "director_details": [
+            {
+                "DIN": "05152750",
+                "direct_name": "Namrata Alma"
+            },
+            {
+                "DIN": "05152858",
+                "direct_name": "Niranjan Lal Jain"
+            }
+        ]
+    },
+    {
+        "company_name": "MADHYA BASTAR KISAN PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2013PTC000754",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-03-2013",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BASTAR",
+        "address": "Near Hanuman Mandir Bafna, Kondagaon Bastar Bastar CT IN 494226",
+        "register": "Registered on 20-03-2013",
+        "director_details": [
+            {
+                "DIN": "06446547",
+                "direct_name": "Jagdish Pandey"
+            },
+            {
+                "DIN": "06446553",
+                "direct_name": "Jairam Dewangan"
+            },
+            {
+                "DIN": "06446593",
+                "direct_name": "Manoj Kumar Kaushik"
+            },
+            {
+                "DIN": "06446569",
+                "direct_name": "Nandkishor Dewangan"
+            },
+            {
+                "DIN": "06446595",
+                "direct_name": "Ramesh Kumar Shardul"
+            }
+        ]
+    },
+    {
+        "company_name": "MAA HINGLAJIN AGRO PRODUCT PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2016PTC002150",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-02-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BASTAR",
+        "address": "S/O SHRI SUDARU RAM PO-BAKAWAND, TEH-BAKAWAND BAKAWAND Bastar CT IN 494222",
+        "register": "Registered on 22-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "KUTUMSAR AGRO PRODUCTS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2016PTC002160",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "25-02-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BASTAR",
+        "address": "S/o Shri Makhanlal Gupta, Banjarapara, Vill-Munjala, Post-Bhanpuri, Teh-Baster Munjala Bastar CT IN 494229",
+        "register": "Registered on 25-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "BASTAR KRISHIUTPADAK PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2016PTC002180",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "03-03-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BASTAR",
+        "address": "PLOT NO. 932 HAATKACHORA JAGDALPUR (C.G) JAGDALPUR Bastar CT IN 494442",
+        "register": "Registered on 03-03-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "HOT METALS & MINERALS PRIVATE LIMITED",
+        "cin_no.": "U13100CT2008PTC020544",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "9947000",
+        "registration_date": "29-01-2008",
+        "business_activity": "Mining and Quarrying",
+        "state": "Chattisgarh",
+        "district": "BASTAR",
+        "address": "BMS HOUSE MOTI TALAB PARA JAGDALPUR Bastar CT IN 494001",
+        "register": "Registered on 29-01-2008",
+        "director_details": [
+            {
+                "DIN": "00270297",
+                "direct_name": "Dinesh Kumar Somani"
+            },
+            {
+                "DIN": "00010475",
+                "direct_name": "Shyamlal Somani"
+            }
+        ]
+    },
+    {
+        "company_name": "SUPRA CELLTECH PRIVATE LIMITED",
+        "cin_no.": "U52603CT2009PTC021280",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "4476000",
+        "registration_date": "14-07-2009",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "BASTAR",
+        "address": "RAVI PLAZA BASTAR HIGH SCHOOL ROAD JAGDALPUR CT IN 494001",
+        "register": "Registered on 14-07-2009",
+        "director_details": [
+            {
+                "DIN": "02569164",
+                "direct_name": "Sameer Kumar Bal"
+            },
+            {
+                "DIN": "02569172",
+                "direct_name": "Sonali Bal"
+            }
+        ]
+    },
+    {
+        "company_name": "TEERATHGARH AGRO PRODUCT PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100CT2016PTC007247",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-05-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BASTAR",
+        "address": "Thakur Road, Sardar Ward No. 10, Teh-Jagdalpur, Jagdalpur Bastar CT IN 494001",
+        "register": "Registered on 04-05-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "BALAJI INDUCTION FURNACE PRIVATE LIMITED",
+        "cin_no.": "U28910CT2012PTC000509",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "4000000",
+        "paid_up_capital": "3258500",
+        "registration_date": "10-09-2012",
+        "business_activity": "Metals and Chemicals",
+        "state": "Chattisgarh",
+        "district": "BETUL",
+        "address": "NAYA GANJ RAIGARH CT IN 460001",
+        "register": "Registered on 10-09-2012",
+        "director_details": [
+            {
+                "DIN": "00098711",
+                "direct_name": "Mukesh Kuamr Agrawal"
+            },
+            {
+                "DIN": "00098705",
+                "direct_name": "Rajesh Kumar Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "CVS IT SOFTWARES PRIVATE LIMITED",
+        "cin_no.": "U72300CT2012PTC000500",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "31-08-2012",
+        "business_activity": "Business Services",
+        "state": "Chattisgarh",
+        "district": "BHOPAL",
+        "address": "SHOP NO. 23 JAIL PARISAR ROAD RAIGARH Raigarh CT IN 462001",
+        "register": "Registered on 31-08-2012",
+        "director_details": [
+            {
+                "DIN": "06362933",
+                "direct_name": "Sandip Chauhtha"
+            },
+            {
+                "DIN": "06739876",
+                "direct_name": "Saurabh Panda"
+            }
+        ]
+    },
+    {
+        "company_name": "PERSONNEL STAFFING SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U74910CT2004PTC016801",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "1200000",
+        "registration_date": "02-08-2004",
+        "business_activity": "Business Services",
+        "state": "Chattisgarh",
+        "district": "BHOPAL",
+        "address": "V M HOUSE 91-MAHABALI NAGAR KOLAR ROAD BHOPAL CT IN 462016",
+        "register": "Registered on 02-08-2004",
+        "director_details": [
+            {
+                "DIN": "00501150",
+                "direct_name": "Lini Varghese"
+            },
+            {
+                "DIN": "01916864",
+                "direct_name": "Viju Varghese"
+            }
+        ]
+    },
+    {
+        "company_name": "KODAI MATA AGRO PRODUCTS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100CT2016PTC007418",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "25-07-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BIJAPUR(CGH)",
+        "address": "S/O SHRI RAMARAM PANDEY, NEW BUS STAND VILL-BIJAPUR, TEH-BIJAPUR, POST-BIJAPUR BIJAPUR Dantewada CT IN 494444",
+        "register": "Registered on 25-07-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "VENTURE INFRABUILD PRIVATE LIMITED",
+        "cin_no.": "U45209CT2012PTC000293",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "400000",
+        "registration_date": "19-04-2012",
+        "business_activity": "Construction",
+        "state": "Chattisgarh",
+        "district": "BIJAPUR(CGH)",
+        "address": "TEHSIPARA BIJAPUR NEAR BUS STAND BIJAPUR Bastar CT IN 494444",
+        "register": "Registered on 19-04-2012",
+        "director_details": [
+            {
+                "DIN": "02302618",
+                "direct_name": "Pittala Ashok"
+            },
+            {
+                "DIN": "05204450",
+                "direct_name": "Tripati Durgam"
+            },
+            {
+                "DIN": "05204968",
+                "direct_name": "Venktesh Kumar Durgam"
+            }
+        ]
+    },
+    {
+        "company_name": "GREEN GRACE MARKETING AND INFRASTRUCTURE PRIVATE LIMITED",
+        "cin_no.": "U45400CT2012PTC000332",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-05-2012",
+        "business_activity": "Construction",
+        "state": "Chattisgarh",
+        "district": "BIJAPUR(CGH)",
+        "address": "H.NO.73, SHANTI NAGAR BIJAPUR Dantewada CT IN 494444",
+        "register": "Registered on 08-05-2012",
+        "director_details": [
+            {
+                "DIN": "05247962",
+                "direct_name": "Manoj Kumar Kudmul"
+            },
+            {
+                "DIN": "05230808",
+                "direct_name": "Seetoo Ram Hemla"
+            }
+        ]
+    },
+    {
+        "company_name": "ANSH AGROFARM PRIVATE LIMITED",
+        "cin_no.": "U01403CT2008PTC001247",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1200000",
+        "paid_up_capital": "1170000",
+        "registration_date": "12-11-2008",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BILASPUR(CGH)",
+        "address": "SHOP NO. GS 37, GROUND FLOOR, CLC PLAZA, MANGLA CHOWK BILASPUR Bilaspur CT IN 495001",
+        "register": "Registered on 12-11-2008",
+        "director_details": []
+    },
+    {
+        "company_name": "RAMJIDAS AGROFARM PRIVATE LIMITED",
+        "cin_no.": "U01403CT2009PTC001231",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1400000",
+        "paid_up_capital": "1400000",
+        "registration_date": "15-12-2009",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BILASPUR(CGH)",
+        "address": "SHOP NO. 01, CLC PLAZA, SECOND FLOOR, MANGLA CHOWK, BILASPUR Bilaspur CT IN 495001",
+        "register": "Registered on 15-12-2009",
+        "director_details": []
+    },
+    {
+        "company_name": "VENTURE FARMS PRIVATE LIMITED",
+        "cin_no.": "U01403CT2011PTC022635",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "200000",
+        "registration_date": "25-08-2011",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BILASPUR(CGH)",
+        "address": "B/2-102 RAMAKRISHNA ENCLAVE NUTAN CHOWK SARKANDA BILASPUR Bilaspur CT IN 495001",
+        "register": "Registered on 25-08-2011",
+        "director_details": [
+            {
+                "DIN": "03598252",
+                "direct_name": "Rama Rao"
+            },
+            {
+                "DIN": "03596705",
+                "direct_name": "Sai Prabhala Krishna"
+            }
+        ]
+    },
+    {
+        "company_name": "SHIVAM AGRI TRADELINK (INDIA) PRIVATE LIMITED",
+        "cin_no.": "U01403CT2012PTC000109",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-01-2012",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BILASPUR(CGH)",
+        "address": "L-4, NEAR SUN SHIN SCHOOL VINOBA NAGAR BILASPUR CT IN 495001",
+        "register": "Registered on 11-01-2012",
+        "director_details": [
+            {
+                "DIN": "01943259",
+                "direct_name": "Sandeep Kumar Pandey"
+            },
+            {
+                "DIN": "05118142",
+                "direct_name": "Upasna Pandey"
+            }
+        ]
+    },
+    {
+        "company_name": "UNIVERSAL POULTRIES PRIVATE LIMITED",
+        "cin_no.": "U01403CT2012PTC000256",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "1200000",
+        "registration_date": "23-03-2012",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BILASPUR(CGH)",
+        "address": "1st Flour, M/s Indus Automotives Private limited Opp. C.S.E.B. Guest House, Raipur Road, Tifra Bilaspur CT IN 495001",
+        "register": "Registered on 23-03-2012",
+        "director_details": [
+            {
+                "DIN": "03499799",
+                "direct_name": "Rammehar Singh"
+            },
+            {
+                "DIN": "03499824",
+                "direct_name": "Satbir Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "PANSY PETALS PRIVATE LIMITED",
+        "cin_no.": "U01403CT2012PTC000318",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-04-2012",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BILASPUR(CGH)",
+        "address": "SHRI JULIL KHAND-4 ARCHANA VIHAR, NEHRU NAGAR BILASPUR Bilaspur CT IN 495001",
+        "register": "Registered on 30-04-2012",
+        "director_details": [
+            {
+                "DIN": "06423524",
+                "direct_name": "Ashish Singh"
+            },
+            {
+                "DIN": "05252065",
+                "direct_name": "Sudip Biswas"
+            }
+        ]
+    },
+    {
+        "company_name": "BALDAKACCHAR KRISHI BHOOMI VIKAS PRIVATE LIMITED",
+        "cin_no.": "U01403CT2013PTC000764",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2400000",
+        "paid_up_capital": "1818730",
+        "registration_date": "21-03-2013",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BILASPUR(CGH)",
+        "address": "RAMA SQUARE, RAMA LIFE CITY, SAKRI ROAD BILASPUR-495001, CHHATTISGARH BILASPUR Bilaspur CT IN 495001",
+        "register": "Registered on 21-03-2013",
+        "director_details": [
+            {
+                "DIN": "02647528",
+                "direct_name": "Mahesh Kumar Sharma"
+            },
+            {
+                "DIN": "06847555",
+                "direct_name": "Ramesh Lal Nagendra"
+            }
+        ]
+    },
+    {
+        "company_name": "MAHANADI KRISHI UPAJ PRIVATE LIMITED",
+        "cin_no.": "U01403CT2013PTC000829",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2400000",
+        "paid_up_capital": "1687290",
+        "registration_date": "29-04-2013",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BILASPUR(CGH)",
+        "address": "TK 2 THIRD FLOOR RAMA PORT, VYAPAAR VIHAR BILASPUR Bilaspur CT IN 495001",
+        "register": "Registered on 29-04-2013",
+        "director_details": [
+            {
+                "DIN": "00516238",
+                "direct_name": "Rajeev Agrawal"
+            },
+            {
+                "DIN": "01950372",
+                "direct_name": "Rajesh Agrawal"
+            },
+            {
+                "DIN": "00516354",
+                "direct_name": "Sanjay Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "AKALTARA AGRO PRIVATE LIMITED",
+        "cin_no.": "U01403CT2014PTC001413",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-07-2014",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BILASPUR(CGH)",
+        "address": "NARMAL SCHOOL, HIGH COURT ROAD BILASPUR Bilaspur CT IN 495001",
+        "register": "Registered on 10-07-2014",
+        "director_details": [
+            {
+                "DIN": "06873930",
+                "direct_name": "Pallavi Singh"
+            },
+            {
+                "DIN": "06873904",
+                "direct_name": "Shubha Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "RAMOJI AGRICHEM PRIVATE LIMITED",
+        "cin_no.": "U01403CT2014PTC001451",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "8075000",
+        "registration_date": "08-08-2014",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "BILASPUR(CGH)",
+        "address": "A-01, RAMA LIFE CITY SAKRI BILASPUR Bilaspur CT IN 495001",
+        "register": "Registered on 08-08-2014",
+        "director_details": [
+            {
+                "DIN": "06701747",
+                "direct_name": "Ashish Shukla"
+            },
+            {
+                "DIN": "06701753",
+                "direct_name": "Kalpana Pandey"
+            },
+            {
+                "DIN": "06732947",
+                "direct_name": "Shivam Pandey"
+            }
+        ]
+    },
+    {
+        "company_name": "DANTEWADA AGRO PRODUCTS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2016PTC002212",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "12000",
+        "registration_date": "23-03-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DANTEWADA",
+        "address": "HOUSE NO. 09, WARD NO-2, JAIL ROAD, DANTEWADA DANTEWADA Dantewada CT IN 494449",
+        "register": "Registered on 23-03-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "BHOOMGAADI ORGANIC FARMER'S PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100CT2016PTC007498",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "626900",
+        "registration_date": "26-08-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DANTEWADA",
+        "address": "Old Janpad Bhavan Besides Petrol Pump, Bacheli Road, Dantewada Dantewada CT IN 494449",
+        "register": "Registered on 26-08-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SUKMA ANIMAL HUSBANDRY & AGRO PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01100CT2016PTC007693",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-12-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DANTEWADA",
+        "address": "C/o P Anil Kumar Bagicha Para Sukma Dantewada CT IN 494111",
+        "register": "Registered on 29-12-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "ACCUROWS TECHNOLOGIES SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U72900CT2017PTC007892",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-04-2017",
+        "business_activity": "Business Services",
+        "state": "Chattisgarh",
+        "district": "DANTEWADA",
+        "address": "W/O T.SHIV SHANKER RAO NEAR TO COLLECTOR RESIDENTIAL CHITALANKA DANTEWADA Dantewada CT IN 494449",
+        "register": "Registered on 11-04-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "POOJA CIVICON PRIVATE LIMITED",
+        "cin_no.": "U45201CT2008PTC020880",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "17-09-2008",
+        "business_activity": "Construction",
+        "state": "Chattisgarh",
+        "district": "DANTEWADA",
+        "address": "PURANA MARKET BACHELI BACHELI Dantewada CT IN 494553",
+        "register": "Registered on 17-09-2008",
+        "director_details": [
+            {
+                "DIN": "01440988",
+                "direct_name": "Manish Guru"
+            },
+            {
+                "DIN": "01440993",
+                "direct_name": "Shishir Kumar Guru"
+            }
+        ]
+    },
+    {
+        "company_name": "LARGE CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U45201CT2016PTC007267",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-05-2016",
+        "business_activity": "Construction",
+        "state": "Chattisgarh",
+        "district": "DANTEWADA",
+        "address": "BAIL BAZAR PARA GEEDAM Dantewada CT IN 494441",
+        "register": "Registered on 12-05-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "K.A.PAPPACHAN CONSTRUCTIONS AND PETRO PRIVATE LIMITED",
+        "cin_no.": "U45203CT1997PTC012504",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "5000000",
+        "registration_date": "10-12-1997",
+        "business_activity": "Construction",
+        "state": "Chattisgarh",
+        "district": "DANTEWADA",
+        "address": "4- RING ROAD KIRANDUL DANTEWADA CT IN 494556",
+        "register": "Registered on 10-12-1997",
+        "director_details": [
+            {
+                "DIN": "00309463",
+                "direct_name": "Jovins Pappachan"
+            },
+            {
+                "DIN": "00309328",
+                "direct_name": "Karingen Anthony Pappachan"
+            },
+            {
+                "DIN": "00309396",
+                "direct_name": "Silveena Pappachan"
+            }
+        ]
+    },
+    {
+        "company_name": "ALOK INFRAVENTURES (OPC) PRIVATE LIMITED",
+        "cin_no.": "U45309CT2017OPC008194",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "29-09-2017",
+        "business_activity": "Construction",
+        "state": "Chattisgarh",
+        "district": "DANTEWADA",
+        "address": "C/O LATE D L BHAGAT CHITALANKA DANTEWADA Dantewada CT IN 494449",
+        "register": "Registered on 29-09-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "GIRIRAJ INFRAVENTURE PRIVATE LIMITED",
+        "cin_no.": "U45309CT2017PTC008190",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "27-09-2017",
+        "business_activity": "Construction",
+        "state": "Chattisgarh",
+        "district": "DANTEWADA",
+        "address": "C/O SHRI S. R. SINGH KAILASH NAGAR DANTEWADA Dantewada CT IN 494449",
+        "register": "Registered on 27-09-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "BASTAR ART & LIVING COMPANY PRIVATE LIMITED",
+        "cin_no.": "U52100CT2010PTC021583",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-02-2010",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "DANTEWADA",
+        "address": "SAMYAK COMPLEX NH-16,MAIN ROAD GEEDAM Dantewada CT IN 494441",
+        "register": "Registered on 09-02-2010",
+        "director_details": [
+            {
+                "DIN": "02887698",
+                "direct_name": "Ram Kumar Chouhan"
+            },
+            {
+                "DIN": "02842260",
+                "direct_name": "Ved Kumar Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "ANGAARMOTI KRISHI PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400CT2016PTC007417",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "25-07-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DHAMTARI",
+        "address": "Village- Nawagaon, Patwari H. No. 52/28 Tahshil- Dhamtari, Distt- Dhamtari Dhamtari Dhamtari CT IN 493663",
+        "register": "Registered on 25-07-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SHREERAJIV LOCHAN AGRO INVENTION PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2016PTC002162",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "26-02-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DHAMTARI",
+        "address": "Gram Panchayat Kundel, P. H. No. 66, PO-Magarlod Dhamtari Dhamtari CT IN 493662",
+        "register": "Registered on 26-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SHRI PADDY PROCESSOR PRIVATE LIMITED",
+        "cin_no.": "U01531CT2005PTC017760",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "1500000",
+        "registration_date": "06-07-2005",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DHAMTARI",
+        "address": "SAROJINI CHOWK POST OFFICEKURUD POST OFFICE KURUD DISTT-DHAMTARI DHAMTARI CT IN 493663",
+        "register": "Registered on 06-07-2005",
+        "director_details": [
+            {
+                "DIN": "01603962",
+                "direct_name": "Anil Chandrakar"
+            },
+            {
+                "DIN": "01603909",
+                "direct_name": "Durgesh Kumar Chandrakar"
+            },
+            {
+                "DIN": "01603835",
+                "direct_name": "Vishwanath Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "N. A. MINERALS PRIVATE LIMITED",
+        "cin_no.": "U13100CT2010PTC021730",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-04-2010",
+        "business_activity": "Mining and Quarrying",
+        "state": "Chattisgarh",
+        "district": "DHAMTARI",
+        "address": "226, WARD NO. 14, BANIYAPARA NEAR SHIV CHOWK DHAMTARI Raipur CT IN 493773",
+        "register": "Registered on 13-04-2010",
+        "director_details": [
+            {
+                "DIN": "03009815",
+                "direct_name": "Nehal Ahmed"
+            },
+            {
+                "DIN": "03009832",
+                "direct_name": "Shabina Bano"
+            }
+        ]
+    },
+    {
+        "company_name": "MAA VINDHYAVASINI MINERALS AND STEELS PRIVATE LIMITED",
+        "cin_no.": "U13200CT2007PTC020424",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "23-10-2007",
+        "business_activity": "Mining and Quarrying",
+        "state": "Chattisgarh",
+        "district": "DHAMTARI",
+        "address": "\"SADASHIV SMRITI\" MARATHA PARA DHAMTARI CT IN 493773",
+        "register": "Registered on 23-10-2007",
+        "director_details": [
+            {
+                "DIN": "00098715",
+                "direct_name": "Bhagwati Prasad Agarwal"
+            },
+            {
+                "DIN": "06381453",
+                "direct_name": "Guru Ram Rana"
+            },
+            {
+                "DIN": "00098714",
+                "direct_name": "Mukesh Agarwal"
+            },
+            {
+                "DIN": "00357792",
+                "direct_name": "Rajesh Kumar Jachak"
+            },
+            {
+                "DIN": "00397841",
+                "direct_name": "Shubhangi Bhamkar"
+            },
+            {
+                "DIN": "01895337",
+                "direct_name": "Vivek Rana"
+            }
+        ]
+    },
+    {
+        "company_name": "SARWAN'S GREENLEAF VIPNAN PRIVATE LIMITED",
+        "cin_no.": "U24232CT2009PTC021490",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-12-2009",
+        "business_activity": "Metals and Chemicals",
+        "state": "Chattisgarh",
+        "district": "DHAMTARI",
+        "address": "C/O KALPTARU SERVICES BRAHMA CHOWK, GOKULPUR DHAMTARI Dhamtari CT IN 493773",
+        "register": "Registered on 11-12-2009",
+        "director_details": [
+            {
+                "DIN": "02794098",
+                "direct_name": "Mahendra Kumar Brahmbhatt"
+            },
+            {
+                "DIN": "02462860",
+                "direct_name": "Sudeep Sarwan"
+            }
+        ]
+    },
+    {
+        "company_name": "SAJESH TRANSPORT PRIVATE LIMITED",
+        "cin_no.": "U60221CT2017PTC007747",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "1500000",
+        "registration_date": "01-02-2017",
+        "business_activity": "Transport and Storage",
+        "state": "Chattisgarh",
+        "district": "DHAMTARI",
+        "address": "M/S TEJAS SOAP, PRO. SHRI VINOD KUMAR AGARWAL, NEAR ASHOK RICE MILL, MILL AREA,DMT DHAMTARI Dhamtari CT IN 493773",
+        "register": "Registered on 01-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "R.L AGROTECH LIMITED",
+        "cin_no.": "L15147CT1987PLC004109",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "80000000",
+        "paid_up_capital": "69122000",
+        "registration_date": "20-08-1987",
+        "business_activity": "Food Manufacturing",
+        "state": "Chattisgarh",
+        "district": "DHAMTARI",
+        "address": "R.L. HOUSE INDUSTRIAL AREA DHAMTARI CT IN 493773",
+        "register": "Registered on 20-08-1987",
+        "director_details": [
+            {
+                "DIN": "06993748",
+                "direct_name": "Sanjay Kumar Jain"
+            },
+            {
+                "DIN": "02099887",
+                "direct_name": "Sunil Kumar Agrawal"
+            },
+            {
+                "DIN": "06994582",
+                "direct_name": "Vijay Saheb"
+            }
+        ]
+    },
+    {
+        "company_name": "SONKESARIYA AGRO PRODUCTS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100CT2016PTC007409",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "105000",
+        "registration_date": "21-07-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DHAMTARI",
+        "address": "Shop No. 4, Atal Vyavsayik Prisar, Gram Panchayat, Bodra sa Sambalpur Dhamtari CT IN 493773",
+        "register": "Registered on 21-07-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SHRINGI RISHI KRISHAK PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100CT2016PTC007419",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "120000",
+        "registration_date": "25-07-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DHAMTARI",
+        "address": "P.H.NO. 09, GRAM- KHARKABHARRI, SIHAWA, TAHSIL- NAGARI, DHAMTARI Dhamtari CT IN 493773",
+        "register": "Registered on 25-07-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "ANAND AGRITECH PRIVATE LIMITED",
+        "cin_no.": "U01400CT2010PTC022107",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-10-2010",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DURG",
+        "address": "B-8, ROYAL GREEN, JUNWANI ROAD BHILAI CT IN 491001",
+        "register": "Registered on 15-10-2010",
+        "director_details": [
+            {
+                "DIN": "03206543",
+                "direct_name": "Anand Singh Choudhary"
+            },
+            {
+                "DIN": "03206553",
+                "direct_name": "Reena Choudhary"
+            }
+        ]
+    },
+    {
+        "company_name": "SAURAB SWATI AGRITECH PRIVATE LIMITED",
+        "cin_no.": "U01400CT2011PTC000044",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-12-2011",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DURG",
+        "address": "KRISHNA BHAWAN TAMER PARA DURG CT IN 491001",
+        "register": "Registered on 07-12-2011",
+        "director_details": [
+            {
+                "DIN": "03635250",
+                "direct_name": "Pramod Kumar Agrawal"
+            },
+            {
+                "DIN": "03635318",
+                "direct_name": "Rekha Agrawal"
+            },
+            {
+                "DIN": "03635263",
+                "direct_name": "Saurabh Agrawal"
+            },
+            {
+                "DIN": "03635280",
+                "direct_name": "Swati Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "SHREE PAVITRA AGRI & FARMING LIMITED",
+        "cin_no.": "U01400CT2012PLC000658",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "18-12-2012",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DURG",
+        "address": "LIG - II - 403, 32 ACRE, HOUSING BOARD, INDUSTRIAL AREA, DIST. DURG, BHILAI Durg CT IN 490026",
+        "register": "Registered on 18-12-2012",
+        "director_details": [
+            {
+                "DIN": "06410759",
+                "direct_name": "Maddu Anant Rao"
+            },
+            {
+                "DIN": "06407799",
+                "direct_name": "Maddu Jagannath Rao"
+            },
+            {
+                "DIN": "06407791",
+                "direct_name": "Sadupallu Parvati"
+            }
+        ]
+    },
+    {
+        "company_name": "XTREME AGRO FARMS PRIVATE LIMITED",
+        "cin_no.": "U01400CT2012PTC000169",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-02-2012",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DURG",
+        "address": "4/1 PRIYADARSHINI PARISAR (WEST) BHILAI CT IN 490020",
+        "register": "Registered on 10-02-2012",
+        "director_details": [
+            {
+                "DIN": "00405586",
+                "direct_name": "Kunal Jaiswal"
+            },
+            {
+                "DIN": "00462654",
+                "direct_name": "Vijay Kumar Jaiswal"
+            }
+        ]
+    },
+    {
+        "company_name": "DHAVALA GREENEARTH SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U01402CT2016PTC002088",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-01-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DURG",
+        "address": "1 - MAITRI MARG, MAITRI KUNJ RISALI BHILAI Durg CT IN 490006",
+        "register": "Registered on 21-01-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "S.K. SORTEX PRIVATE LIMITED",
+        "cin_no.": "U01403CT2006PTC020013",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "1075000",
+        "registration_date": "22-06-2006",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DURG",
+        "address": "A-30, \"GEETA-SHRI\", Kandelwal Colony DURG CT IN 491001",
+        "register": "Registered on 22-06-2006",
+        "director_details": [
+            {
+                "DIN": "06803995",
+                "direct_name": "Meena Devi Khandelwal"
+            },
+            {
+                "DIN": "00919404",
+                "direct_name": "Sudhir Khandelwal"
+            }
+        ]
+    },
+    {
+        "company_name": "CREATIVE CONSORTIUM PRIVATE LIMITED",
+        "cin_no.": "U01403CT2008PTC020956",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "02-12-2008",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DURG",
+        "address": "1ST FLOOR, 16, COMMERCIAL COMPLEX MOTILAL NEHRU NAGAR (EAST) BHILAI CT IN 490020",
+        "register": "Registered on 02-12-2008",
+        "director_details": [
+            {
+                "DIN": "02074846",
+                "direct_name": "Ambereesh Kumar Singh"
+            },
+            {
+                "DIN": "02087958",
+                "direct_name": "Yogeshwar Chandak"
+            }
+        ]
+    },
+    {
+        "company_name": "ADITYA AGRIFARM PRIVATE LIMITED",
+        "cin_no.": "U01403CT2010PTC022136",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2500000",
+        "registration_date": "28-10-2010",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DURG",
+        "address": "B-8, ROYAL GREEN, JUNWANI ROAD, BHILAI CT IN 490036",
+        "register": "Registered on 28-10-2010",
+        "director_details": [
+            {
+                "DIN": "03206543",
+                "direct_name": "Anand Singh Choudhary"
+            },
+            {
+                "DIN": "03206553",
+                "direct_name": "Reena Choudhary"
+            }
+        ]
+    },
+    {
+        "company_name": "GHRIT FARMS PRIVATE LIMITED",
+        "cin_no.": "U01403CT2011PTC000091",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "235000",
+        "registration_date": "30-12-2011",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DURG",
+        "address": "C/O HARISH KUMAR AGRAWAL ADARSH NAGAR, CHARODA (BMY), BHILAI-3, BHILAI CT IN 490025",
+        "register": "Registered on 30-12-2011",
+        "director_details": [
+            {
+                "DIN": "00079539",
+                "direct_name": "Harish Kumar Agrawal"
+            },
+            {
+                "DIN": "03497347",
+                "direct_name": "Ram Shankar Jha"
+            }
+        ]
+    },
+    {
+        "company_name": "PURVA KRISHI PRIVATE LIMITED",
+        "cin_no.": "U01403CT2011PTC022521",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-06-2011",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "DURG",
+        "address": "B-31, ROYAL GREEN SOCIETY, OPP. SHANKARA COLLEGE JUNWANI, BHILAI, P.O.- NEHRU NAGAR BHILAI Durg CT IN 490020",
+        "register": "Registered on 08-06-2011",
+        "director_details": [
+            {
+                "DIN": "03523310",
+                "direct_name": "Padam Singh Dahiya"
+            },
+            {
+                "DIN": "03523311",
+                "direct_name": "Vedvati Singh Dahiya"
+            }
+        ]
+    },
+    {
+        "company_name": "KRISHNA OIL EXTRACTIONS LIMITED",
+        "cin_no.": "U15143CT1982PLC002024",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "40000000",
+        "paid_up_capital": "31200000",
+        "registration_date": "05-08-1982",
+        "business_activity": "Food Manufacturing",
+        "state": "Chattisgarh",
+        "district": "INDORE",
+        "address": "821-A URLA INDUSTRIAL AREA SARORA RAIPUR CT IN 452001",
+        "register": "Registered on 05-08-1982",
+        "director_details": [
+            {
+                "DIN": "02278148",
+                "direct_name": "Madan Lal Sharma"
+            },
+            {
+                "DIN": "00177200",
+                "direct_name": "Niranjan Lal Agrawal"
+            },
+            {
+                "DIN": "00413850",
+                "direct_name": "Om Prakash Goel"
+            }
+        ]
+    },
+    {
+        "company_name": "AVON MARKETING LIMITED",
+        "cin_no.": "U51410CT1988PLC004472",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "28-03-1988",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "INDORE",
+        "address": "130, KANCHAN BAG. INDORE INDORE,M.P. CT IN 452001",
+        "register": "Registered on 28-03-1988",
+        "director_details": [
+            {
+                "DIN": "00065565",
+                "direct_name": "Jayesh Chandra Jha"
+            },
+            {
+                "DIN": "00083254",
+                "direct_name": "Pallavi Jayesh Jha"
+            },
+            {
+                "DIN": "00083322",
+                "direct_name": "Satish Chandra Jha"
+            }
+        ]
+    },
+    {
+        "company_name": "SHIVA ISPAT AND POWER PRIVATE LIMITED",
+        "cin_no.": "U27102CT2004PTC016628",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "235000",
+        "registration_date": "21-05-2004",
+        "business_activity": "Metals and Chemicals",
+        "state": "Chattisgarh",
+        "district": "INDORE",
+        "address": "MANJUSHA 15/481CIVIL LINES RAIPUR CT IN 452001",
+        "register": "Registered on 21-05-2004",
+        "director_details": [
+            {
+                "DIN": "00874780",
+                "direct_name": "Lalit Kumar Singhania"
+            },
+            {
+                "DIN": "00455478",
+                "direct_name": "Manish Raj Singhania"
+            },
+            {
+                "DIN": "03036366",
+                "direct_name": "Usha Devi Singhania"
+            }
+        ]
+    },
+    {
+        "company_name": "JEWEL FINANCE LIMITED",
+        "cin_no.": "U65999CT1990PLC005989",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "2450000",
+        "registration_date": "30-08-1990",
+        "business_activity": "Finance",
+        "state": "Chattisgarh",
+        "district": "INDORE",
+        "address": "110, SUBHASH NAGAR, INDORE, CT IN 452001",
+        "register": "Registered on 30-08-1990",
+        "director_details": []
+    },
+    {
+        "company_name": "VICTOR GUARDS AND DETECTIVES PRIVATE LIMITED",
+        "cin_no.": "U74920CT1997PTC012374",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-10-1997",
+        "business_activity": "Business Services",
+        "state": "Chattisgarh",
+        "district": "INDORE",
+        "address": "BLOCK-377, 3RD FLOOR RAVI BHAWAN RAIPUR CT IN 452001",
+        "register": "Registered on 10-10-1997",
+        "director_details": [
+            {
+                "DIN": "02571326",
+                "direct_name": "Ashok Kumar Niasi"
+            },
+            {
+                "DIN": "05227091",
+                "direct_name": "Randeep Sharma"
+            },
+            {
+                "DIN": "01764028",
+                "direct_name": "Santosh Sharma"
+            },
+            {
+                "DIN": "01673321",
+                "direct_name": "Vinod Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "GULSHAN NIRMAN INDIA LIMITED",
+        "cin_no.": "U45200CT2011PLC022452",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "500000",
+        "registration_date": "03-05-2011",
+        "business_activity": "Construction",
+        "state": "Chattisgarh",
+        "district": "JABALPUR",
+        "address": "STATION ROAD NEAR DESHBANDHU SCHOOL RAIPUR Raipur CT IN 482001",
+        "register": "Registered on 03-05-2011",
+        "director_details": [
+            {
+                "DIN": "07247207",
+                "direct_name": "Santu Bhattacharjee"
+            },
+            {
+                "DIN": "06812965",
+                "direct_name": "Sukanta Majhi"
+            },
+            {
+                "DIN": "07293512",
+                "direct_name": "Swapan Mitra"
+            }
+        ]
+    },
+    {
+        "company_name": "CAPSICUM AGRO PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2016PTC002151",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "500000",
+        "registration_date": "22-02-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "JASHPUR",
+        "address": "S/O LATE SHRI UMESHCHANDRA SAHAY BANIYA TOLI, NAGARPALIKA PATH, PO- JASHPURNAGAR JASHPUR Jashpur CT IN 496331",
+        "register": "Registered on 22-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "MINIMATA AGRO PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100CT2016PTC007264",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-05-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "JASHPUR",
+        "address": "C/O. SMT. SITA BAI , W/O. DARSHAN SINGH RATHIA KODWARIPARA, TAH-DHARMAJAIGARH, RAIGARH Raigarh CT IN 496118",
+        "register": "Registered on 11-05-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "PATHALGAON AGRO PRODUCT PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100CT2016PTC007328",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "110000",
+        "registration_date": "06-06-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "JASHPUR",
+        "address": "At/ Po Palidih, 8853, Pathalgaon, Jashpur Nagar, Pathalgaon Jashpur CT IN 496118",
+        "register": "Registered on 06-06-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "GREEN HERBS & BIO ORGANICS PRIVATE LIMITED",
+        "cin_no.": "U01110CT2016PTC007263",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "11-05-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "JASHPUR",
+        "address": "Near Telephone Exchange, Jashpur Road, Pathalgaon Jashpur Jashpur CT IN 496118",
+        "register": "Registered on 11-05-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "JASHPUR AGROTECH AND MINERALS PRIVATE LIIMITED",
+        "cin_no.": "U01122CT2007PTC020201",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-02-2007",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "JASHPUR",
+        "address": "ARAM NIWAS JASHPUR Janjgir-Champa CT IN 496331",
+        "register": "Registered on 19-02-2007",
+        "director_details": [
+            {
+                "DIN": "06789064",
+                "direct_name": "Abhinav Sharma"
+            },
+            {
+                "DIN": "01123886",
+                "direct_name": "Amrita Singh"
+            },
+            {
+                "DIN": "06714544",
+                "direct_name": "Dhananjay Singh Thakur"
+            }
+        ]
+    },
+    {
+        "company_name": "DEONARAYAN AUTOMOBILES PRIVATE LIMITED",
+        "cin_no.": "U50100CT2016PTC007561",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "4000000",
+        "registration_date": "29-09-2016",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "JASHPUR",
+        "address": "C/o SHANTI DEVI GUPTA, PLOT NO. 1070/1, 1072/1, RAIGARH ROAD, JASHPUR JASHPUR Jashpur CT IN 496331",
+        "register": "Registered on 29-09-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "S P J AUTOMOBILES & PARTS DISTRIBUTORS PRIVATE LIMITED",
+        "cin_no.": "U50102CT2013PTC000967",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-07-2013",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "JASHPUR",
+        "address": "BALAJI WARD CHIR BAGICHA JASHPUR Jashpur CT IN 496331",
+        "register": "Registered on 10-07-2013",
+        "director_details": [
+            {
+                "DIN": "06560415",
+                "direct_name": "Jyoti Jain"
+            },
+            {
+                "DIN": "06554274",
+                "direct_name": "Pankaj Kumar Jain"
+            }
+        ]
+    },
+    {
+        "company_name": "ARSH TRADERS PRIVATE LIMITED",
+        "cin_no.": "U50102CT2014PTC001393",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "900000",
+        "registration_date": "01-07-2014",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "JASHPUR",
+        "address": "BESIDE H NO 57, PURANI TOLI JASHPUR Jashpur CT IN 496331",
+        "register": "Registered on 01-07-2014",
+        "director_details": [
+            {
+                "DIN": "06873147",
+                "direct_name": "Narendra Kumar Jain"
+            },
+            {
+                "DIN": "06873153",
+                "direct_name": "Rakesh Kumar Jain"
+            }
+        ]
+    },
+    {
+        "company_name": "ENDOW INTERNATIONAL GEOMINES PRIVATE LIMITED",
+        "cin_no.": "U14296CT2017PTC008110",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "22-08-2017",
+        "business_activity": "Mining and Quarrying",
+        "state": "Chattisgarh",
+        "district": "JASHPUR",
+        "address": "143, WARD NO. 2 NAWA TOLI, SANNA ROAD, NEAR SHIV MANDIR JASHPURNAGAR Jashpur CT IN 496331",
+        "register": "Registered on 22-08-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "HPRJ AGRI TRADERS PRIVATE LIMITED",
+        "cin_no.": "U15400CT2008PTC020838",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "1700000",
+        "registration_date": "29-08-2008",
+        "business_activity": "Food Manufacturing",
+        "state": "Chattisgarh",
+        "district": "JASHPUR",
+        "address": "COLLEGE ROAD JASHPURNAGAR CT IN 496331",
+        "register": "Registered on 29-08-2008",
+        "director_details": [
+            {
+                "DIN": "02196406",
+                "direct_name": "Rahul Jain"
+            },
+            {
+                "DIN": "02196413",
+                "direct_name": "Rajan Kumar Jain"
+            }
+        ]
+    },
+    {
+        "company_name": "HEEMALAYA REARING & FARM ESTATES (INDIA) LIMITED",
+        "cin_no.": "U01400CT2013PLC000811",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "17-04-2013",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KANKER",
+        "address": "H NO-111, KURRUBHAT BAZARPARA PS- CHARAMA, VILL- KURRUBHAT, TEH-CHARAMA KANKER Kanker CT IN 494336",
+        "register": "Registered on 17-04-2013",
+        "director_details": [
+            {
+                "DIN": "06552895",
+                "direct_name": "Amrit"
+            },
+            {
+                "DIN": "06651996",
+                "direct_name": "Khem Raj Chauhan"
+            },
+            {
+                "DIN": "06552902",
+                "direct_name": "Nek Ram Nayak"
+            }
+        ]
+    },
+    {
+        "company_name": "DANDAKARANYA AGRI ENTERPRISE PRIVATE LIMITED",
+        "cin_no.": "U01400CT2016PTC007511",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-09-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KANKER",
+        "address": "House No. 57/K, Ward No. 01, P.V. 46 Pakhanjore Colony, Distt- Uttar Bastar Kanker Pankhanjore Kanker CT IN 494776",
+        "register": "Registered on 05-09-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "ANGAR MOTI KISAN PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2013PTC000735",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-03-2013",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KANKER",
+        "address": "Sarona Gram & Post Sarona Narharpur Kanker CT IN 494335",
+        "register": "Registered on 18-03-2013",
+        "director_details": [
+            {
+                "DIN": "06477230",
+                "direct_name": "Chetan Ram Sinha"
+            },
+            {
+                "DIN": "06482001",
+                "direct_name": "Deshiram Bhaskar"
+            },
+            {
+                "DIN": "06477236",
+                "direct_name": "Gabdu Ram Bhasker"
+            },
+            {
+                "DIN": "06477239",
+                "direct_name": "Lachan Ram Sahu"
+            },
+            {
+                "DIN": "06478991",
+                "direct_name": "Naresh Sahu"
+            }
+        ]
+    },
+    {
+        "company_name": "MAHANADI FARMER PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2014PTC001565",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "110000",
+        "registration_date": "15-11-2014",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KANKER",
+        "address": "KASHYAP COLONY LAKHANPURI,GRAM POST LAKHANPURI, TEHSIL CHARAMA, ZILA KANKER KANKER Kanker CT IN 494336",
+        "register": "Registered on 15-11-2014",
+        "director_details": [
+            {
+                "DIN": "06963756",
+                "direct_name": "Amrit Lal Sinha"
+            },
+            {
+                "DIN": "06963775",
+                "direct_name": "Chhabesingh Shori"
+            },
+            {
+                "DIN": "06963782",
+                "direct_name": "Lakhan Ram Sahu"
+            },
+            {
+                "DIN": "06963787",
+                "direct_name": "Mahipal Saho"
+            },
+            {
+                "DIN": "06963793",
+                "direct_name": "Manhar"
+            },
+            {
+                "DIN": "06963808",
+                "direct_name": "Radheshyam Bhaskar"
+            },
+            {
+                "DIN": "06963832",
+                "direct_name": "Sakharam Mandavi"
+            }
+        ]
+    },
+    {
+        "company_name": "GADHIYA FARMER PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2015PTC001700",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "120000",
+        "registration_date": "25-03-2015",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KANKER",
+        "address": "INFRONT OF SAINT MICHAEL SCHOOL, SAMTANAGAR, POST GOVINDPUR, TEHSIL KANKER KANKER Kanker CT IN 494334",
+        "register": "Registered on 25-03-2015",
+        "director_details": [
+            {
+                "DIN": "07074815",
+                "direct_name": "Bihari Ram Pradhan"
+            },
+            {
+                "DIN": "07074806",
+                "direct_name": "Kamal Singh Nag"
+            },
+            {
+                "DIN": "07074798",
+                "direct_name": "Kamlesh Kumar"
+            },
+            {
+                "DIN": "07074790",
+                "direct_name": "Kunvar Lal Kavachi"
+            },
+            {
+                "DIN": "07074786",
+                "direct_name": "Prahlad Usendi"
+            },
+            {
+                "DIN": "07074779",
+                "direct_name": "Pyar Singh Mandavi"
+            }
+        ]
+    },
+    {
+        "company_name": "VAN LAXMI KISAN PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2016PTC002133",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-02-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KANKER",
+        "address": "KH.NO.431, PLOT NO.05, PH NO.31 VILLAGE -GADPICHWADI KANKER Kanker CT IN 494334",
+        "register": "Registered on 15-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "HITWAY CROP SCIENCE PRIVATE LIMITED",
+        "cin_no.": "U01100CT2017PTC007752",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "200000",
+        "registration_date": "02-02-2017",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KANKER",
+        "address": "RAJBANDHA PARISAR KANKER (T) KANKER Kanker CT IN 494334",
+        "register": "Registered on 02-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "DUDHNADI KRISHAK PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01114CT2017PTC008296",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-12-2017",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KANKER",
+        "address": "Kisan Rice Mill, Karyalaya Complex, Singarbhata, Lattipara Kanker Kanker CT IN 494334",
+        "register": "Registered on 06-12-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "SHIVNATH AUTOMOTIVE PRIVATE LIMITED",
+        "cin_no.": "U50500CT2016PTC007664",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2500000",
+        "registration_date": "13-12-2016",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "KANKER",
+        "address": "206, NEAR KD HOSPITAL, JANAKPUR WARD, TIKARAPARA KANKER Kanker CT IN 494334",
+        "register": "Registered on 13-12-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "V & S COMMERCIAL PVT LTD",
+        "cin_no.": "U51909CT2006PTC001660",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3700000",
+        "paid_up_capital": "3700000",
+        "registration_date": "25-01-2006",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "KANKER",
+        "address": "Civil Line, HNo.1/7, Mahurband Para Ward 1 Kanker Kanker CT IN 494334",
+        "register": "Registered on 25-01-2006",
+        "director_details": [
+            {
+                "DIN": "02732813",
+                "direct_name": "Dilraj Patel"
+            },
+            {
+                "DIN": "02732898",
+                "direct_name": "Harish Chandra Dubey"
+            }
+        ]
+    },
+    {
+        "company_name": "VIVAN PAPER BOX (OPC) PRIVATE LIMITED",
+        "cin_no.": "U52601CT2017OPC008159",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "11-09-2017",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "KAWARDHA",
+        "address": "VILL-BHARELI, TEH - BODLA POST-KHARHATT KAWARDHA Kawardha CT IN 491995",
+        "register": "Registered on 11-09-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "YESHRAJ AGROTECH PRIVATE LIMITED",
+        "cin_no.": "U01110CT2016PTC007442",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-08-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KAWARDHA",
+        "address": "VILL BIRKONA TAH",
+        "register": "Registered on 02-08-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SARVA VARGA UDYANIKI PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01117CT2016PTC007317",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "31-05-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KAWARDHA",
+        "address": "H No 35, Bade Thakur Para, Village -Pathara, Kawardha Kawardha CT IN 491995",
+        "register": "Registered on 31-05-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "PRATHA AUTOMOBILES PRIVATE LIMITED",
+        "cin_no.": "U50500CT2017PTC008320",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "4600000",
+        "registration_date": "22-12-2017",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "KAWARDHA",
+        "address": "C/O KANHAIYA AGRAWAL, S/O B. L. AGRAWAL INFRONT OF URJA PARK KAWARDHA Kawardha CT IN 491995",
+        "register": "Registered on 22-12-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "BRANDOZEN INDIA PRIVATE LIMITED",
+        "cin_no.": "U51100CT2017PTC008007",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-06-2017",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "KAWARDHA",
+        "address": "HARI OM CHOWK KAILASH NAGAR KAWARDHA KAWARDHA Kawardha CT IN 491995",
+        "register": "Registered on 16-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "SOVEREIGNTY ACCOMMODATION SERVICES PRIVATE LIMITED",
+        "cin_no.": "U74999CT2017PTC008007",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-06-2017",
+        "business_activity": "Business Services",
+        "state": "Chattisgarh",
+        "district": "KAWARDHA",
+        "address": "HARI OM CHOWK KAILASH NAGAR KAWARDHA KAWARDHA Kawardha CT IN 491995",
+        "register": "Registered on 16-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "SATARUPA JEWELLERS PRIVATE LIMITED",
+        "cin_no.": "U36912WB2006PTC107982",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "880000",
+        "paid_up_capital": "872000",
+        "registration_date": "15-02-2006",
+        "business_activity": "Others",
+        "state": "West bengal",
+        "district": "KOLKATA",
+        "address": "1 BRITISH INDIAN ST KOLKATA WB IN 700069",
+        "register": "Registered on 15-02-2006",
+        "director_details": []
+    },
+    {
+        "company_name": "VRAJ ELECTRONIC SECURITY SYSTEM PRIVATE LIMITED",
+        "cin_no.": "U29253CT2014PTC001284",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-02-2014",
+        "business_activity": "Machinery and Equipments",
+        "state": "Chattisgarh",
+        "district": "KAWARDHA",
+        "address": "H.NO.141/B, SIYARAM PARA VILL- PALANSARI, TEH- PANDARIA KABIRDHAM Kawardha CT IN 491559",
+        "register": "Registered on 14-02-2014",
+        "director_details": [
+            {
+                "DIN": "06782643",
+                "direct_name": "Rajesh Kumar Sahu"
+            },
+            {
+                "DIN": "06784109",
+                "direct_name": "Vijay Kumar Chandrawanshi"
+            }
+        ]
+    },
+    {
+        "company_name": "DATAMON IT SERVICES PRIVATE LIMITED",
+        "cin_no.": "U72900CT2017PTC007738",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-01-2017",
+        "business_activity": "Business Services",
+        "state": "Chattisgarh",
+        "district": "KAWARDHA",
+        "address": "Ward No. 14, Kabir Para, Kawardha Kawardha CT IN 491995",
+        "register": "Registered on 23-01-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "DESHLAHRA MINERALS AND INFRA PRIVATE LIMITED",
+        "cin_no.": "U45100CT2012PTC000158",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-02-2012",
+        "business_activity": "Construction",
+        "state": "Chattisgarh",
+        "district": "KAWARDHA",
+        "address": "HOUSE NO-17, DESHLAHRA BHAWAN WARD-23, MAHAVEER SWAMI CHOWK KABIRDHAM Kawardha CT IN 491995",
+        "register": "Registered on 06-02-2012",
+        "director_details": []
+    },
+    {
+        "company_name": "NATURES PRO FOODS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2016PTC002154",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-02-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KORBA",
+        "address": "H NO. 1101/1, WARD NO. 25, NEAR GRIHLAKSHMI KIRANA STORE, RAMPUR KORBA Korba CT IN 495677",
+        "register": "Registered on 23-02-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "MY ULTIMATE DEAL WEB PRIVATE LIMITED",
+        "cin_no.": "U52609CT2016PTC007556",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "475000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-09-2016",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "KORBA",
+        "address": "MAKAN N. 74 GAJRA SIDE, BANKI MONGRA KORBA Korba CT IN 495447",
+        "register": "Registered on 27-09-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "INDO SPONGE POWER AND STEEL LIMITED",
+        "cin_no.": "U02710CT2005PLC017418",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "170000000",
+        "paid_up_capital": "167021000",
+        "registration_date": "09-03-2005",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KORBA",
+        "address": "Plot No. 13/2, 13/3 Rajgamar Road, Vill. Jhagaraha KORBA Korba CT IN 495677",
+        "register": "Registered on 09-03-2005",
+        "director_details": [
+            {
+                "DIN": "02065813",
+                "direct_name": "Ankit Agrawal"
+            },
+            {
+                "DIN": "07126210",
+                "direct_name": "Manas Agrawal"
+            },
+            {
+                "DIN": "07215644",
+                "direct_name": "Rahul Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "SHRIKISHAN AND COMPANY PRIVATE LIMITED",
+        "cin_no.": "U04520CT2005PTC017447",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "5495210",
+        "registration_date": "17-03-2005",
+        "business_activity": "Others",
+        "state": "Chattisgarh",
+        "district": "KORBA",
+        "address": "S-1, SHRI COMPLEX STADIUM ROAD, TRANSPORT NAGAR KORBA CT IN 495677",
+        "register": "Registered on 17-03-2005",
+        "director_details": [
+            {
+                "DIN": "01533726",
+                "direct_name": "Sarita Agrawal"
+            },
+            {
+                "DIN": "06363601",
+                "direct_name": "Sharad Goyal"
+            }
+        ]
+    },
+    {
+        "company_name": "KORBA COAL MINES BHU VISTHAPIT LIMITED",
+        "cin_no.": "U10102CT2017PLC008011",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "19-06-2017",
+        "business_activity": "Mining and Quarrying",
+        "state": "Chattisgarh",
+        "district": "KORBA",
+        "address": "SARAI PALI - BHATHORA HARDI BAZAR KORBA Korba CT IN 495677",
+        "register": "Registered on 19-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "POWER CITY COAL PRIVATE LIMITED",
+        "cin_no.": "U10200CT2008PTC020581",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "6000000",
+        "paid_up_capital": "5640000",
+        "registration_date": "26-02-2008",
+        "business_activity": "Mining and Quarrying",
+        "state": "Chattisgarh",
+        "district": "KORBA",
+        "address": "28, SUBDHA COMPLEX T.P.NAGAR KORBA CT IN 495677",
+        "register": "Registered on 26-02-2008",
+        "director_details": [
+            {
+                "DIN": "02024548",
+                "direct_name": "Sajan Kumar Agrawal"
+            },
+            {
+                "DIN": "02024602",
+                "direct_name": "Suman Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "TIWARTA COAL BENEFICIATION LIMITED",
+        "cin_no.": "U10300CT2015PLC001845",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "10065000",
+        "registration_date": "12-08-2015",
+        "business_activity": "Mining and Quarrying",
+        "state": "Chattisgarh",
+        "district": "KORBA",
+        "address": "VILL- LEMHA BELTARA BILASPUR Bilaspur CT IN 495449",
+        "register": "Registered on 12-08-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "KPRS ENGINEERING PRIVATE LIMITED",
+        "cin_no.": "U10300CT2017PTC008044",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-07-2017",
+        "business_activity": "Mining and Quarrying",
+        "state": "Chattisgarh",
+        "district": "KORBA",
+        "address": "993/27, GAYATRI MANDIR ROAD PADIMAR, BHADRAPARA, BALCO KORBA Korba CT IN 495684",
+        "register": "Registered on 13-07-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "KRITI MINING PRIVATE LIMITED",
+        "cin_no.": "U13200CT2010PTC021568",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-01-2010",
+        "business_activity": "Mining and Quarrying",
+        "state": "Chattisgarh",
+        "district": "KORBA",
+        "address": "H. NO. 366, LALURAM COLONY BESIDE LIONS SCHOOL, T. P. NAGAR KORBA Korba CT IN 495677",
+        "register": "Registered on 23-01-2010",
+        "director_details": [
+            {
+                "DIN": "02777777",
+                "direct_name": "Umesh Kumar Jatav"
+            },
+            {
+                "DIN": "01783413",
+                "direct_name": "Vimal Kohli"
+            }
+        ]
+    },
+    {
+        "company_name": "SWASTIK POWER & MINERAL RESOURCES PRIVATE LIMITED",
+        "cin_no.": "U13209CT2004PTC017162",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2050000000",
+        "paid_up_capital": "1715907500",
+        "registration_date": "14-12-2004",
+        "business_activity": "Mining and Quarrying",
+        "state": "Chattisgarh",
+        "district": "KORBA",
+        "address": "Village -Kanberi (Kanki Road Along With Canal) Post-Padania,Tehsil-Katghora Korba Korba CT IN 495454",
+        "register": "Registered on 14-12-2004",
+        "director_details": [
+            {
+                "DIN": "00238346",
+                "direct_name": "Anil Sehrawat"
+            },
+            {
+                "DIN": "00516197",
+                "direct_name": "Pawan Kumar Agrawal"
+            },
+            {
+                "DIN": "00516238",
+                "direct_name": "Rajeev Agrawal"
+            },
+            {
+                "DIN": "02460048",
+                "direct_name": "Rishi Pal Saharan"
+            },
+            {
+                "DIN": "AKMPV7188G",
+                "direct_name": "Sameer Verma"
+            },
+            {
+                "DIN": "00516420",
+                "direct_name": "Satish Kumar Agrawal"
+            },
+            {
+                "DIN": "03085128",
+                "direct_name": "Surinder Ahlawat"
+            }
+        ]
+    },
+    {
+        "company_name": "MAHAMAYA MAHILA KISAN PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2015PTC001919",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "169300",
+        "registration_date": "16-10-2015",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KORIYA",
+        "address": "JOONAPARA, PO-BAIKUNTHPUR BAIKUNTHPUR Koriya CT IN 497335",
+        "register": "Registered on 16-10-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "DENMART MARKETING PRIVATE LIMITED",
+        "cin_no.": "U01820CT2017PTC008213",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-10-2017",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KORIYA",
+        "address": "C/O SHITLA PRASAD GUPTA INFRONT OF POLICE STATION MANENDRAGARH KOREA Koriya CT IN 497442",
+        "register": "Registered on 10-10-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "KORIYA AGRO PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100CT2016PTC007218",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "10000",
+        "registration_date": "11-04-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "KORIYA",
+        "address": "Village Umjhar Nagar Chowk Tehsil Baikunthpur Koriya Koriya CT IN 497335",
+        "register": "Registered on 11-04-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "FARMANIA ENTERPRISES PRIVATE LIMITED",
+        "cin_no.": "U55101CT2008PTC020568",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "996750",
+        "registration_date": "14-02-2008",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "KORIYA",
+        "address": "SCHOOL ROAD MANENDRAGARH CT IN 497442",
+        "register": "Registered on 14-02-2008",
+        "director_details": [
+            {
+                "DIN": "01795649",
+                "direct_name": "Anita Agrawal"
+            },
+            {
+                "DIN": "01830900",
+                "direct_name": "Govind Ram Agrawal"
+            },
+            {
+                "DIN": "01797177",
+                "direct_name": "Pawan Kumar Agrawal"
+            },
+            {
+                "DIN": "07547948",
+                "direct_name": "Rohan Farmania"
+            },
+            {
+                "DIN": "01831344",
+                "direct_name": "Suresh Kumar Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "PRAMILA AUTO WHEELS PRIVATE LIMITED",
+        "cin_no.": "U50101CT2017PTC007844",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-03-2017",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "KORIYA",
+        "address": "NEAR NAZIR AZHAR PETROL PUMP RAMPUR BAIKUNTHPUR Koriya CT IN 497335",
+        "register": "Registered on 10-03-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "BHAMRA MATRIX ONLINE PRIVATE LIMITED",
+        "cin_no.": "U51909CT2009PTC021091",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-03-2009",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "KORIYA",
+        "address": "WARD NO 21, NH-78 AMBIKAPUR ROAD MANENDRAGARH Koriya CT IN 497442",
+        "register": "Registered on 05-03-2009",
+        "director_details": [
+            {
+                "DIN": "02477214",
+                "direct_name": "Ashok Kumar Singh"
+            },
+            {
+                "DIN": "02493653",
+                "direct_name": "Gurdeep Kour Bhamra"
+            },
+            {
+                "DIN": "02138040",
+                "direct_name": "Majinder Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "ALVINA E-COMMERCE (OPC) PRIVATE LIMITED",
+        "cin_no.": "U74999CT2016OPC007649",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "05-12-2016",
+        "business_activity": "Business Services",
+        "state": "Chattisgarh",
+        "district": "KORIYA",
+        "address": "C/O KRISHNA BIHARI JAISWAL, ODGI NAKA BAIKUNTHPUR KORIYA Koriya CT IN 497449",
+        "register": "Registered on 05-12-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SARVSUVIDHA SERVICES PRIVATE LIMITED",
+        "cin_no.": "U74999CT2017PTC007718",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-01-2017",
+        "business_activity": "Business Services",
+        "state": "Chattisgarh",
+        "district": "KORIYA",
+        "address": "C/O SATYA PRAKASH GUPTA SADAK DAFAI, HALDIBADI CHIRMIRI Koriya CT IN 497451",
+        "register": "Registered on 12-01-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "BYOSURE LIFE SCIENCE PRIVATE LIMITED",
+        "cin_no.": "U74999CT2017PTC007732",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-01-2017",
+        "business_activity": "Business Services",
+        "state": "Chattisgarh",
+        "district": "KORIYA",
+        "address": "NEAR KHAN NURSING HOME, SAMPAT MEDICAL J.K.D. ROAD MANENDRAGARH Koriya CT IN 497442",
+        "register": "Registered on 19-01-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "TANISHKA WEBWORLD PRIVATE LIMITED",
+        "cin_no.": "U74999CT2017PTC007827",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-03-2017",
+        "business_activity": "Business Services",
+        "state": "Chattisgarh",
+        "district": "KORIYA",
+        "address": "DHAWARATIKRA BAIKUNTHPUR DIST KORIYA Koriya CT IN 497335",
+        "register": "Registered on 06-03-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "DHARAPUTRA AGRIFARMING PRIVATE LIMITED",
+        "cin_no.": "U01400CT2015PTC001785",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "900000",
+        "paid_up_capital": "100000",
+        "registration_date": "25-06-2015",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "MAHASAMUND",
+        "address": "WARD NO. 12 RAIPUR ROAD MAHASAMUND Mahasamund CT IN 493449",
+        "register": "Registered on 25-06-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "SHRI ADISHWAR OILS AND FATS LIMITED",
+        "cin_no.": "U01514CT1991PLC006211",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "43500000",
+        "paid_up_capital": "34200000",
+        "registration_date": "11-01-1991",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "MAHASAMUND",
+        "address": "HOUSE NO.213STATION ROAD MAHASAMUND Raipur CT IN 493445",
+        "register": "Registered on 11-01-1991",
+        "director_details": [
+            {
+                "DIN": "00747569",
+                "direct_name": "Dilip Kumar Shrishrimal"
+            },
+            {
+                "DIN": "05251530",
+                "direct_name": "Ishwarlal Maganlal Upadhyay"
+            },
+            {
+                "DIN": "00747619",
+                "direct_name": "Khushal Chand Shrishrimal"
+            }
+        ]
+    },
+    {
+        "company_name": "SURYA EDIBLES EXIMS PRIVATE LIMITED",
+        "cin_no.": "U01549CT1995PTC010074",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "425000",
+        "registration_date": "17-10-1995",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "MAHASAMUND",
+        "address": "PITIYAJHAR ROAD, MAHASAMUND MAHASAMUND CT IN 493445",
+        "register": "Registered on 17-10-1995",
+        "director_details": []
+    },
+    {
+        "company_name": "SHRI GEETA STEELCON PRIVATE LIMITED",
+        "cin_no.": "U02710CT2004PTC017208",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "400000",
+        "registration_date": "29-12-2004",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "MAHASAMUND",
+        "address": "MAIN ROAD BAGBAHRAC.G CG Mahasamund CT IN 493449",
+        "register": "Registered on 29-12-2004",
+        "director_details": [
+            {
+                "DIN": "01403962",
+                "direct_name": "Prakash Chand Agrawal"
+            },
+            {
+                "DIN": "01405406",
+                "direct_name": "Sunil Kumar Goyal"
+            }
+        ]
+    },
+    {
+        "company_name": "CHITRANAND CROP SCIENCE PRIVATE LIMITED",
+        "cin_no.": "U24119CT2015PTC001713",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "150000",
+        "paid_up_capital": "150000",
+        "registration_date": "01-04-2015",
+        "business_activity": "Metals and Chemicals",
+        "state": "Chattisgarh",
+        "district": "MAHASAMUND",
+        "address": "KISAN MITAN, NEAR KHALARI MANDIR, BAGABAHARA ROAD, MAHASAMUND Mahasamund CT IN 493445",
+        "register": "Registered on 01-04-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "AGRASEN LEISURE PRIVATE LIMITED",
+        "cin_no.": "U55101CT2014PTC001431",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "900000",
+        "paid_up_capital": "100000",
+        "registration_date": "25-07-2014",
+        "business_activity": "Trading",
+        "state": "Chattisgarh",
+        "district": "MAHASAMUND",
+        "address": "WARD NO. 01, MAIN ROAD, NEAR NAGAR PANCHAYAT BAGBAHARA BAGBAHARA Mahasamund CT IN 493449",
+        "register": "Registered on 25-07-2014",
+        "director_details": [
+            {
+                "DIN": "01055036",
+                "direct_name": "Rishi Agrawal"
+            },
+            {
+                "DIN": "05233554",
+                "direct_name": "Rupesh Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "SPICES AND HERBS EXPORTS PRIVATE LIMITED",
+        "cin_no.": "U00112CT2005PTC017420",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "14-03-2005",
+        "business_activity": "Others",
+        "state": "Chattisgarh",
+        "district": "MAHASAMUND",
+        "address": "KUSHGARH, SANKARA, (JONK) RAIPUR CT IN 492112",
+        "register": "Registered on 14-03-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "FULJHAR SEVA SAMITI PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01110CT2016PTC007385",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-07-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "MAHASAMUND",
+        "address": "POST OFFICE ROAD, SARAIPALI, SARAIPALI Mahasamund CT IN 493558",
+        "register": "Registered on 12-07-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "URZA KRISHI FARMER PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01114CT2017PTC008255",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-11-2017",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "MAHASAMUND",
+        "address": "MOHAN LAL CHANDRAKAR S/O DWARIKA PRASAD VILLAGE KESHWA MAHASAMUND Mahasamund CT IN 493445",
+        "register": "Registered on 08-11-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "MAHASAMUND KRISHI KIRAN FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01120CT2016PTC007270",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-05-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "MAHASAMUND",
+        "address": "Gadhshvani MAHASAMUND Mahasamund CT IN 493445",
+        "register": "Registered on 13-05-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SUMADHU AGRICULTURE HOUSE PVT LTD",
+        "cin_no.": "U01300CT1987PTC004160",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "2000",
+        "registration_date": "08-10-1987",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "NA",
+        "address": "C.G. C.G. CG. CT IN",
+        "register": "Registered on 08-10-1987",
+        "director_details": []
+    },
+    {
+        "company_name": "SURANA MINING AND MINERALS PRIVATE LIMIT ED",
+        "cin_no.": "U01320CT1996PTC010753",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "2000",
+        "registration_date": "17-04-1996",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "NA",
+        "address": "G-7, Anupam Nagar RAIPUR CT IN",
+        "register": "Registered on 17-04-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "GOEL ORE ENERGY LIMITED",
+        "cin_no.": "U01320CT1999PLC013730",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "7000",
+        "registration_date": "07-09-1999",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "NA",
+        "address": "21/466,KEWAL COTTAGECIVIL LINES, RAIPUR CT IN",
+        "register": "Registered on 07-09-1999",
+        "director_details": []
+    },
+    {
+        "company_name": "BILASPUR PROGRESSIVE FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400CT2010PTC021935",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-07-2010",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "NA",
+        "address": "C/O RAJESHWAR MAHTO, B-203, OM RESIDENCY GITANJALI ENCLAVE , RING ROAD NO.2, BILASPUR Bilaspur CT IN 495002",
+        "register": "Registered on 06-07-2010",
+        "director_details": [
+            {
+                "DIN": "03029288",
+                "direct_name": "Hari Prasad Singrol"
+            },
+            {
+                "DIN": "03029222",
+                "direct_name": "Hari Ram Kaushik"
+            },
+            {
+                "DIN": "03029338",
+                "direct_name": "Jawahar Lal"
+            },
+            {
+                "DIN": "03061676",
+                "direct_name": "Jay Singh"
+            },
+            {
+                "DIN": "03049817",
+                "direct_name": "Usha Kaushik"
+            }
+        ]
+    },
+    {
+        "company_name": "MIRANI FARMS PVT LTD",
+        "cin_no.": "U01403CT1983PTC002159",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "06-04-1983",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "NA",
+        "address": "SADAR BAZAR, DHAMTARI, DISTT.RAIPUR C.G. C,G. CT IN",
+        "register": "Registered on 06-04-1983",
+        "director_details": []
+    },
+    {
+        "company_name": "CHHATTISGARH AGRICON PRIVATE LIMITED",
+        "cin_no.": "U01403CT2005PTC017928",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "02-09-2005",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "NA",
+        "address": "23, PITHALIA COMPLEX K.K. ROAD RAIPUR CT IN",
+        "register": "Registered on 02-09-2005",
+        "director_details": [
+            {
+                "DIN": "02042225",
+                "direct_name": "Krishna Kumar Sharivastava"
+            },
+            {
+                "DIN": "02451668",
+                "direct_name": "Manish Kumar Sharma"
+            },
+            {
+                "DIN": "02166407",
+                "direct_name": "Rajnish Awasthi"
+            },
+            {
+                "DIN": "01686309",
+                "direct_name": "Sanket Thakur"
+            },
+            {
+                "DIN": "01763169",
+                "direct_name": "Umesh Kumar Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "FORTUNE BIOSCIENCE PRIVATE LIMITED",
+        "cin_no.": "U01403CT2009PTC021048",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "11-02-2009",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "NA",
+        "address": "Corporate Centre, 1st Floor Canal Road Crossing, Ring Road No. 01 Raipur Raipur CT IN 492006",
+        "register": "Registered on 11-02-2009",
+        "director_details": [
+            {
+                "DIN": "00959506",
+                "direct_name": "Hema Chawda"
+            },
+            {
+                "DIN": "00918150",
+                "direct_name": "Narayan Chawda"
+            },
+            {
+                "DIN": "00959420",
+                "direct_name": "Vimal Chawda"
+            }
+        ]
+    },
+    {
+        "company_name": "AAS ECOCARE PRIVATE LIMITED",
+        "cin_no.": "U01403CT2010PTC021951",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "19-07-2010",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "NA",
+        "address": "H-8, Anand Niketan Avanti Vihar RAIPUR CT IN 492007",
+        "register": "Registered on 19-07-2010",
+        "director_details": [
+            {
+                "DIN": "03101401",
+                "direct_name": "Amit Daan"
+            },
+            {
+                "DIN": "02141686",
+                "direct_name": "Samir Kumar Vatslya"
+            }
+        ]
+    },
+    {
+        "company_name": "OASIS CROP CARE PRIVATE LIMITED",
+        "cin_no.": "U01404CT2005PTC017342",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "15-02-2005",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "NA",
+        "address": "488 PRIYADARSHINI NAGAR PACHPEDI NAKA RAIPUR CT IN",
+        "register": "Registered on 15-02-2005",
+        "director_details": [
+            {
+                "DIN": "06941778",
+                "direct_name": "Anurag Chandrakar"
+            },
+            {
+                "DIN": "01551968",
+                "direct_name": "Ashok Kumar Chandrakar"
+            },
+            {
+                "DIN": "06941977",
+                "direct_name": "Asutosh Chandrakar"
+            },
+            {
+                "DIN": "02002993",
+                "direct_name": "Nandani Chandrakar"
+            }
+        ]
+    },
+    {
+        "company_name": "VRINDAVAN FARM PVT.LTD.",
+        "cin_no.": "U01409CT1991PTC006387",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "70000",
+        "registration_date": "15-04-1991",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "NA",
+        "address": "C.G. C.G. RAIPUR CT IN",
+        "register": "Registered on 15-04-1991",
+        "director_details": []
+    },
+    {
+        "company_name": "MAVLI MATA FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01100CT2017PTC007971",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "25-05-2017",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "NARAYANPUR",
+        "address": "S/o Shri Kesaru Ram Kumeti, Kerlapal Narayanpur Bastar CT IN 494661",
+        "register": "Registered on 25-05-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "GOPALA YATRA AND TRANSLINK PRIVATE LIMITED",
+        "cin_no.": "U63040CT2013PTC001132",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "31-10-2013",
+        "business_activity": "Transport and Storage",
+        "state": "Chattisgarh",
+        "district": "NARAYANPUR",
+        "address": "TAHSILPARA NARAYANPUR Bastar CT IN 494661",
+        "register": "Registered on 31-10-2013",
+        "director_details": [
+            {
+                "DIN": "06719188",
+                "direct_name": "Apurba Brojeswar Bhakta"
+            },
+            {
+                "DIN": "06719190",
+                "direct_name": "Srinibash Sarkar"
+            }
+        ]
+    },
+    {
+        "company_name": "PARASONATH EDUCATION FOUNDATION",
+        "cin_no.": "U85300CT2018NPL008747",
+        "status": "Not available for efiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "150000",
+        "registration_date": "07-09-2018",
+        "business_activity": "Health",
+        "state": "Chattisgarh",
+        "district": "NARAYANPUR",
+        "address": "C/O RAHUL JAIN, S/O JAWAR LAL JAIN VARDHMAN SHOP SONPUR ROAD NARAYANPUR 494661",
+        "register": "Registered on 07-09-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "CHHATTISGARH AGROVET PRIVATE LIMITED",
+        "cin_no.": "U01403CT2010PTC021578",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "230000",
+        "registration_date": "04-02-2010",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIGARH",
+        "address": "NEAR SHYAM RICE MILL BY PASS ROAD, SANGITARAI RAIGARH CT IN 496001",
+        "register": "Registered on 04-02-2010",
+        "director_details": [
+            {
+                "DIN": "02908034",
+                "direct_name": "Rajesh Kumar Agrawal"
+            },
+            {
+                "DIN": "02889097",
+                "direct_name": "Sunita Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "KALP AGRI FARMS PRIVATE LIMITED",
+        "cin_no.": "U01403CT2011PTC022667",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "600000",
+        "registration_date": "09-09-2011",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIGARH",
+        "address": "GROUND FLOOR, FLAT NO. 1, SARLA VILLA CHAKRADHARNAGAR RAIGARH CT IN 496001",
+        "register": "Registered on 09-09-2011",
+        "director_details": [
+            {
+                "DIN": "06843728",
+                "direct_name": "Anubhav Singhal"
+            },
+            {
+                "DIN": "01289965",
+                "direct_name": "Govind Ram Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "JAIBHARAT PADDY PROCESSING PRIVATE LIMITED",
+        "cin_no.": "U01403CT2012PTC000532",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5500000",
+        "paid_up_capital": "3376270",
+        "registration_date": "27-09-2012",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIGARH",
+        "address": "AT DABHRA ROAD KHARISA CT IN 496661",
+        "register": "Registered on 27-09-2012",
+        "director_details": [
+            {
+                "DIN": "01790127",
+                "direct_name": "Bajrang Lal Jindal"
+            },
+            {
+                "DIN": "01790134",
+                "direct_name": "Kamal Jindal"
+            },
+            {
+                "DIN": "01790117",
+                "direct_name": "Rajesh Kumar Jindel"
+            }
+        ]
+    },
+    {
+        "company_name": "MAA CHANDRAHASINI KISAN PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2013PTC000720",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-03-2013",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIGARH",
+        "address": "Gram Salhe Post Chind Sarangarh Raigarh CT IN 496445",
+        "register": "Registered on 07-03-2013",
+        "director_details": [
+            {
+                "DIN": "06476564",
+                "direct_name": "Babu Lal Sahu"
+            },
+            {
+                "DIN": "06476568",
+                "direct_name": "Chandra Shekhar Sahu"
+            },
+            {
+                "DIN": "06476570",
+                "direct_name": "Mohar Say Sahu"
+            },
+            {
+                "DIN": "06476575",
+                "direct_name": "Nandini Sahu"
+            },
+            {
+                "DIN": "06476578",
+                "direct_name": "Rup Lal Sahu"
+            }
+        ]
+    },
+    {
+        "company_name": "GAARE TAAP UPAKRAMA PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2013PTC001009",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-08-2013",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIGARH",
+        "address": "Gare, Saraitola Tamnar, Dist-Raigarh Raigarh Raigarh CT IN 496001",
+        "register": "Registered on 14-08-2013",
+        "director_details": [
+            {
+                "DIN": "06465330",
+                "direct_name": "Baranasingh Sidar"
+            },
+            {
+                "DIN": "06465335",
+                "direct_name": "Bhuvan Lal Patel"
+            },
+            {
+                "DIN": "06465338",
+                "direct_name": "Gangadhar Patel"
+            },
+            {
+                "DIN": "06465336",
+                "direct_name": "Harihar Prasad Patel"
+            },
+            {
+                "DIN": "06465333",
+                "direct_name": "Manoj Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "NARMADA GRAINTECH PRIVATE LIMITED",
+        "cin_no.": "U01403CT2013PTC001118",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "5100000",
+        "registration_date": "21-10-2013",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIGARH",
+        "address": "Shop No. 33, Krishna Complex, Chaitanya Nagar, Raigarh Raigarh CT IN 496001",
+        "register": "Registered on 21-10-2013",
+        "director_details": [
+            {
+                "DIN": "01151138",
+                "direct_name": "Abhishek Jain"
+            },
+            {
+                "DIN": "00369582",
+                "direct_name": "Ajay Kumar Jain"
+            },
+            {
+                "DIN": "06661616",
+                "direct_name": "Brij Mohan Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "ADARSH AGRICULTURE PRIVATE LIMITED",
+        "cin_no.": "U01403CT2014PTC001531",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "200000",
+        "registration_date": "01-10-2014",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIGARH",
+        "address": "Khasra No. 18/2, Kaya Ghat Road Raigarh Raigarh CT IN 496001",
+        "register": "Registered on 01-10-2014",
+        "director_details": [
+            {
+                "DIN": "06950546",
+                "direct_name": "Rakesh Kumar Yadav"
+            },
+            {
+                "DIN": "06950612",
+                "direct_name": "Sandhya Yadav"
+            }
+        ]
+    },
+    {
+        "company_name": "SAHYOG HARITIMA PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2015PTC001631",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "23-01-2015",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIGARH",
+        "address": "SAHYOG SAMITI BOIRDADAR NEAR CHARCH CHAKRADHAR NAGAR Raigarh CT IN 496001",
+        "register": "Registered on 23-01-2015",
+        "director_details": [
+            {
+                "DIN": "07116722",
+                "direct_name": "Archana Singh"
+            },
+            {
+                "DIN": "06988175",
+                "direct_name": "Arshi Hanfi"
+            },
+            {
+                "DIN": "06988208",
+                "direct_name": "Dharmendra Kumar Choudhary"
+            },
+            {
+                "DIN": "06988231",
+                "direct_name": "Jitendra Dewangan"
+            },
+            {
+                "DIN": "06988239",
+                "direct_name": "Rajesh Kumar Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "RAIGARH INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U02692CT1960PTC000899",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "200",
+        "registration_date": "28-07-1960",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIGARH",
+        "address": "STATION ROAD RAIGARH CT IN 496001",
+        "register": "Registered on 28-07-1960",
+        "director_details": []
+    },
+    {
+        "company_name": "SHRI GOPAL & COMPANY LIMITED",
+        "cin_no.": "U02710CT1942PLC000724",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "200000",
+        "registration_date": "09-01-1942",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIGARH",
+        "address": "RAIGARH RAIGARH RAIGARH CT IN 496001",
+        "register": "Registered on 09-01-1942",
+        "director_details": []
+    },
+    {
+        "company_name": "ASHA AGRISYSTEMS PRIVATE LIMITED",
+        "cin_no.": "U01300CT2007PTC020322",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-07-2007",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIPUR",
+        "address": "4, ASHWARIA RESIDENCY, TELEBANDHA, RAIPUR CT IN 492001",
+        "register": "Registered on 12-07-2007",
+        "director_details": [
+            {
+                "DIN": "02572646",
+                "direct_name": "Ashok Mishra"
+            },
+            {
+                "DIN": "02313972",
+                "direct_name": "Upendra Kumar Rath"
+            }
+        ]
+    },
+    {
+        "company_name": "NATURAL ORES PRIVATE LIMITED",
+        "cin_no.": "U01320CT2004PTC016845",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1125000",
+        "paid_up_capital": "1115000",
+        "registration_date": "13-08-2004",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIPUR",
+        "address": "DUKAN PARA KHARORATAHSEAL TILDA RAIPUR CT IN 492001",
+        "register": "Registered on 13-08-2004",
+        "director_details": [
+            {
+                "DIN": "01610537",
+                "direct_name": "Prem Chand Agrawal"
+            },
+            {
+                "DIN": "01589410",
+                "direct_name": "Sarita Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "MEGHA AGRICULTURE AND FINANCE PRIVATE LI MITED",
+        "cin_no.": "U01400CT1991PTC006558",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "402000",
+        "registration_date": "11-07-1991",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIPUR",
+        "address": "AGRAWAL COMPLEX, SAMTA COLONY RAIPUR CT IN 492001",
+        "register": "Registered on 11-07-1991",
+        "director_details": []
+    },
+    {
+        "company_name": "DAKSH ISPAT PRIVATE LIMITED",
+        "cin_no.": "U01400CT2004PTC016718",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "4494350",
+        "registration_date": "28-06-2004",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIPUR",
+        "address": "NEAR HALKA TALAB, MATHPURAINA, RING ROAD NO.1 RAIPUR CT IN 492001",
+        "register": "Registered on 28-06-2004",
+        "director_details": [
+            {
+                "DIN": "02641082",
+                "direct_name": "Angita Pandey"
+            },
+            {
+                "DIN": "01345857",
+                "direct_name": "Manish Pandey"
+            },
+            {
+                "DIN": "01130054",
+                "direct_name": "Mukesh Pandey"
+            },
+            {
+                "DIN": "02641083",
+                "direct_name": "Suchitra Pandey"
+            }
+        ]
+    },
+    {
+        "company_name": "SAMRIDDHI AGROLAND BUSINESS LIMITED",
+        "cin_no.": "U01400CT2007PLC020476",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "12-12-2007",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIPUR",
+        "address": "TEACHERS COLONY, BEHIND VIVEKANAND VIDHYA PITH KOTA RAIPUR CT IN 492001",
+        "register": "Registered on 12-12-2007",
+        "director_details": [
+            {
+                "DIN": "01873563",
+                "direct_name": "Gajanand Meshram"
+            },
+            {
+                "DIN": "01872139",
+                "direct_name": "Raj Kumar Sharma"
+            },
+            {
+                "DIN": "03297190",
+                "direct_name": "Vishal Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "KRB INTERNATIONAL LEAVES LIMITED",
+        "cin_no.": "U01400CT2009PLC021316",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "500000",
+        "registration_date": "07-08-2009",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIPUR",
+        "address": "31/668 Street No. 03 New Shanti Nagar RAIPUR Raipur CT IN 492001",
+        "register": "Registered on 07-08-2009",
+        "director_details": [
+            {
+                "DIN": "01736728",
+                "direct_name": "Makhmur Iqbal Khan"
+            },
+            {
+                "DIN": "02275767",
+                "direct_name": "Mohammed Zaheer Khan"
+            },
+            {
+                "DIN": "02284584",
+                "direct_name": "Nasiruddin Sheikh"
+            }
+        ]
+    },
+    {
+        "company_name": "BASTAR CATTLE FARM PRIVATE LIMITED",
+        "cin_no.": "U01400CT2010PTC021625",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-03-2010",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIPUR",
+        "address": "RAIPUR BOILER FARM CHANDNIDIH WARD THANA AMANAKA RAIPUR Raipur CT IN 492001",
+        "register": "Registered on 05-03-2010",
+        "director_details": [
+            {
+                "DIN": "05320123",
+                "direct_name": "George William Tigga"
+            },
+            {
+                "DIN": "02578446",
+                "direct_name": "Nikhilesh Rishi"
+            },
+            {
+                "DIN": "05173737",
+                "direct_name": "Philomina Rishi"
+            },
+            {
+                "DIN": "05226228",
+                "direct_name": "Sylvanus Horo"
+            }
+        ]
+    },
+    {
+        "company_name": "KANHAR AGRO INVEST PRIVATE LIMITED",
+        "cin_no.": "U01400CT2010PTC021873",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "898320",
+        "registration_date": "26-05-2010",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIPUR",
+        "address": "206, BALAJI GARDEN NEW TIMBER MARKET , FAFADIH CHOWK RAIPUR CT IN 492001",
+        "register": "Registered on 26-05-2010",
+        "director_details": [
+            {
+                "DIN": "03341751",
+                "direct_name": "Deepak Kumar Agrawal"
+            },
+            {
+                "DIN": "00786116",
+                "direct_name": "Vikas Kumar Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "SUVIDHA AGRITECH PRIVATE LIMITED",
+        "cin_no.": "U01400CT2011PTC000037",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-12-2011",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIPUR",
+        "address": "\"HARI HAR KUNJ\", BHATAGAON, TIKRAPARA ROAD RADHASWAMI NAGAR, MAHAMAYA MANDIR WARD RAIPUR Raipur CT IN 492001",
+        "register": "Registered on 02-12-2011",
+        "director_details": [
+            {
+                "DIN": "06580304",
+                "direct_name": "Mithlesh Sharma"
+            },
+            {
+                "DIN": "05324292",
+                "direct_name": "Prabhat Kumar Tripathi"
+            },
+            {
+                "DIN": "05122950",
+                "direct_name": "Rammuni Tripathi"
+            }
+        ]
+    },
+    {
+        "company_name": "IRL BIO FARMING PRIVATE LIMITED",
+        "cin_no.": "U01400CT2011PTC022258",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-01-2011",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAIPUR",
+        "address": "FLAT NO -204 BLOCK NO-5 ASHOKA RATAN VIP ESTATE RAIPUR CT IN 492001",
+        "register": "Registered on 18-01-2011",
+        "director_details": [
+            {
+                "DIN": "03339475",
+                "direct_name": "Laxman Tibdewal"
+            },
+            {
+                "DIN": "03386820",
+                "direct_name": "Ratnesh Kumar Poddar"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMALAYA INFRAESTATE PRIVATE LIMITED",
+        "cin_no.": "U70100CT2009PTC021158",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "3100000",
+        "registration_date": "21-04-2009",
+        "business_activity": "Real Estate",
+        "state": "Chattisgarh",
+        "district": "RAJGARH",
+        "address": "NEAR GANGA NURSING HOME JAGATPUR RAIGARH CT IN 465661",
+        "register": "Registered on 21-04-2009",
+        "director_details": [
+            {
+                "DIN": "06433388",
+                "direct_name": "Ashpreet Kaur"
+            },
+            {
+                "DIN": "06433315",
+                "direct_name": "Satwant Kaur Bhatia"
+            }
+        ]
+    },
+    {
+        "company_name": "UZYNE FOOD AND FEED PRIVATE LIMITED",
+        "cin_no.": "U01229CT2016PTC007364",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-06-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAJNANDGAON",
+        "address": "Village",
+        "register": "Registered on 28-06-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "ABIS POULTRY PVT LTD",
+        "cin_no.": "U01300CT1991PTC006277",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "35000000",
+        "paid_up_capital": "31449000",
+        "registration_date": "15-02-1991",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAJNANDGAON",
+        "address": "VILLAGE - INDAMARA, POST - PENDRI RAJNANDGAON CT IN 491441",
+        "register": "Registered on 15-02-1991",
+        "director_details": [
+            {
+                "DIN": "06581812",
+                "direct_name": "Abdul Rajjak"
+            },
+            {
+                "DIN": "03437049",
+                "direct_name": "Anjum Alvi"
+            },
+            {
+                "DIN": "00157642",
+                "direct_name": "Sultan Ali"
+            }
+        ]
+    },
+    {
+        "company_name": "VEE AGRO FARMING & DAIRIES PRIVATE LIMITED",
+        "cin_no.": "U01400CT2011PTC022427",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-04-2011",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAJNANDGAON",
+        "address": "MADHULIKA NEAR AXIS BANK, G.E. ROAD, SAHDEO NAGAR RAJNANDGAON CT IN 491441",
+        "register": "Registered on 18-04-2011",
+        "director_details": [
+            {
+                "DIN": "03193835",
+                "direct_name": "Gayatri Verma"
+            },
+            {
+                "DIN": "03193764",
+                "direct_name": "Kamlesh Verma"
+            }
+        ]
+    },
+    {
+        "company_name": "UJWAAL FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400CT2016PTC007242",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-05-2016",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAJNANDGAON",
+        "address": "Mohara Ward No. 47 Singhdhai Chowk Rajnandgaon Rajnandgaon CT IN 491441",
+        "register": "Registered on 01-05-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "BAMLESHWARI MAHILA PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400CT2017PTC007893",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-04-2017",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAJNANDGAON",
+        "address": "Near Barfani Ashram Ward No 45 Rajnandgaon Rajnandgaon CT IN 491441",
+        "register": "Registered on 11-04-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "ARIHANT PADDY PROCESSING PRIVATE LIMITED",
+        "cin_no.": "U01403CT2007PTC020359",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "27-08-2007",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAJNANDGAON",
+        "address": "BRAMHAN PARA WARD NO. - 33 RAJNANDGAON Rajnandgaon CT IN 491441",
+        "register": "Registered on 27-08-2007",
+        "director_details": [
+            {
+                "DIN": "00903874",
+                "direct_name": "Deepak Shrivastava"
+            },
+            {
+                "DIN": "00903905",
+                "direct_name": "Santosh Shrivastava"
+            },
+            {
+                "DIN": "01103210",
+                "direct_name": "Suraj Shrivastava"
+            }
+        ]
+    },
+    {
+        "company_name": "KARTAR AGRITECH PRIVATE LIMITED",
+        "cin_no.": "U01403CT2011PTC022588",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "25-07-2011",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAJNANDGAON",
+        "address": "C/O SALUJA KRISHI FARM PARRI NALA, NEAR 132 KV SUBSTATION, G.E. ROAD RAJNANDGAON CT IN 491441",
+        "register": "Registered on 25-07-2011",
+        "director_details": [
+            {
+                "DIN": "03552504",
+                "direct_name": "Gurjeet Kaur Saluja"
+            },
+            {
+                "DIN": "03550551",
+                "direct_name": "Manjeet Singh Saluja"
+            }
+        ]
+    },
+    {
+        "company_name": "NIHIL AGRO PRIVATE LIMITED",
+        "cin_no.": "U01403CT2012PTC000113",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "150000",
+        "registration_date": "13-01-2012",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAJNANDGAON",
+        "address": "HOUSE OF SNEHLATA JAIN, W/O SHRI NIRMAL JAIN, IN FRONT OF PANASONIC SHOWROOM, RAMADHIN MARG, RAJNANDGAON Rajnandgaon CT IN 491441",
+        "register": "Registered on 13-01-2012",
+        "director_details": [
+            {
+                "DIN": "05131093",
+                "direct_name": "Kanhaiya Lal Jain"
+            },
+            {
+                "DIN": "02350737",
+                "direct_name": "Sanket Kothari"
+            }
+        ]
+    },
+    {
+        "company_name": "SHREYAS AGRICULTURE PRIVATE LIMITED",
+        "cin_no.": "U01403CT2012PTC000388",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "140000",
+        "registration_date": "13-06-2012",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAJNANDGAON",
+        "address": "HOUSE OF SNEHLATA JAIN, W/O SHRI NIRMAL JAIN, IN FRONT OF PANASONIC SHOWROOM, RAMADHIN MARG, RAJNANDGAON Rajnandgaon CT IN 491441",
+        "register": "Registered on 13-06-2012",
+        "director_details": [
+            {
+                "DIN": "05131093",
+                "direct_name": "Kanhaiya Lal Jain"
+            },
+            {
+                "DIN": "02350737",
+                "direct_name": "Sanket Kothari"
+            }
+        ]
+    },
+    {
+        "company_name": "CRESENT AGRICON PRIVATE LIMITED",
+        "cin_no.": "U01403CT2013PTC000982",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-07-2013",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "RAJNANDGAON",
+        "address": "RAJ FAMILY, WARD NO-02, KHAIRAGARH, RAJNANDGAON Rajnandgaon CT IN 491881",
+        "register": "Registered on 23-07-2013",
+        "director_details": [
+            {
+                "DIN": "06614940",
+                "direct_name": "Khalikun Chandravanshi Nisha"
+            },
+            {
+                "DIN": "06562515",
+                "direct_name": "Talat Shaikh"
+            }
+        ]
+    },
+    {
+        "company_name": "RAMDEO BUS SERVICE PVT LTD",
+        "cin_no.": "U00630CT1990PTC006156",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "925000",
+        "registration_date": "13-12-1990",
+        "business_activity": "Others",
+        "state": "Chattisgarh",
+        "district": "RATLAM",
+        "address": "11, NEW STAND, DURG CT IN 457001",
+        "register": "Registered on 13-12-1990",
+        "director_details": []
+    },
+    {
+        "company_name": "R. R. AUTOMATION PRIVATE LIMITED",
+        "cin_no.": "U29196CT2006PTC020080",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-09-2006",
+        "business_activity": "Machinery and Equipments",
+        "state": "Chattisgarh",
+        "district": "SHAJAPUR",
+        "address": "7/502, INDIRA COLONY NEAR TAR BAHAR CHOWK BILASPUR Bilaspur CT IN 465001",
+        "register": "Registered on 14-09-2006",
+        "director_details": [
+            {
+                "DIN": "00538288",
+                "direct_name": "Jayanthi Nathan"
+            },
+            {
+                "DIN": "00132734",
+                "direct_name": "Karicheti Raghava Rao"
+            },
+            {
+                "DIN": "00285159",
+                "direct_name": "P B Manoj Kumar"
+            },
+            {
+                "DIN": "00538335",
+                "direct_name": "Ravindra Nathan Bhaskaran"
+            },
+            {
+                "DIN": "00285167",
+                "direct_name": "Sunil Kondragunta Choudary"
+            }
+        ]
+    },
+    {
+        "company_name": "SARGUJA KISAN PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400CT2013PTC000719",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "07-03-2013",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "SURGUJA",
+        "address": "Gram Mendrakala Post Bhitthikala Ambikapur Surguja CT IN 497001",
+        "register": "Registered on 07-03-2013",
+        "director_details": [
+            {
+                "DIN": "06474699",
+                "direct_name": "Anil Kumar Vanvasi"
+            },
+            {
+                "DIN": "06474700",
+                "direct_name": "Baleshvar Rajvadhe"
+            },
+            {
+                "DIN": "06474701",
+                "direct_name": "Muneshwar Rajwade"
+            },
+            {
+                "DIN": "06474702",
+                "direct_name": "Pawan Kumar"
+            },
+            {
+                "DIN": "06474704",
+                "direct_name": "Salik Ram Rajwade"
+            }
+        ]
+    },
+    {
+        "company_name": "SURGUJA AGROTECH PRIVATE LIMITED",
+        "cin_no.": "U01400CT2015PTC002007",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-12-2015",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "SURGUJA",
+        "address": "Plaza Building, House No. 8 First Floor, Kundla City, Behind Agrasen Bhawan Ambikapur Surguja CT IN 497001",
+        "register": "Registered on 16-12-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "GRAMIN LAC KRISHI VIKAS PRIVATE LIMITED",
+        "cin_no.": "U01403CT2012PTC000412",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-06-2012",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "SURGUJA",
+        "address": "NEAR MORAL COACHING CENTRE RAJENDRANAGAR (GANDHI NAGAR) AMBIKAPUR Surguja CT IN 497001",
+        "register": "Registered on 26-06-2012",
+        "director_details": [
+            {
+                "DIN": "05257781",
+                "direct_name": "Geeta Netam"
+            },
+            {
+                "DIN": "05257786",
+                "direct_name": "Mersai Singh"
+            },
+            {
+                "DIN": "05257738",
+                "direct_name": "Rashid Ansari Hussain"
+            },
+            {
+                "DIN": "05257795",
+                "direct_name": "Vishwanath Thakur Prasad"
+            }
+        ]
+    },
+    {
+        "company_name": "G.N. ROYALS AGRO ESTATE PRIVATE LIMITED",
+        "cin_no.": "U01403CT2012PTC000567",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "20000000",
+        "paid_up_capital": "19500000",
+        "registration_date": "19-10-2012",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "SURGUJA",
+        "address": "Singh House Bhatti Road Ambikapur CT IN 497001",
+        "register": "Registered on 19-10-2012",
+        "director_details": [
+            {
+                "DIN": "06697544",
+                "direct_name": "Narayanan Balakrishnan"
+            },
+            {
+                "DIN": "06383044",
+                "direct_name": "Rekha Ramachandran"
+            },
+            {
+                "DIN": "02853143",
+                "direct_name": "Sunita Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "SUNSHINE HORTICULTURE PRIVATE LIMITED",
+        "cin_no.": "U01403CT2013PTC000803",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-04-2013",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "SURGUJA",
+        "address": "SIKARI ROAD BOURIPARA AMBIKAPUR Surguja CT IN 497001",
+        "register": "Registered on 12-04-2013",
+        "director_details": [
+            {
+                "DIN": "06509313",
+                "direct_name": "Allauddin Siddiqui"
+            },
+            {
+                "DIN": "06509309",
+                "direct_name": "Kalam Haraki"
+            }
+        ]
+    },
+    {
+        "company_name": "SHRIAMAN AGROVET PRIVATE LIMITED",
+        "cin_no.": "U01403CT2014PTC001254",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "25000000",
+        "paid_up_capital": "24500000",
+        "registration_date": "31-01-2014",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "SURGUJA",
+        "address": "Beside dr. Mukherjee, chandani chowk, mayapur, ambikapur, surguja, CG. chattisgarh Surguja CT IN 497001",
+        "register": "Registered on 31-01-2014",
+        "director_details": [
+            {
+                "DIN": "06780443",
+                "direct_name": "Aman Bansal"
+            },
+            {
+                "DIN": "06780444",
+                "direct_name": "Gopal Agrawal"
+            },
+            {
+                "DIN": "06780438",
+                "direct_name": "Seema Agrawal"
+            }
+        ]
+    },
+    {
+        "company_name": "RALS AGROCARE PRIVATE LIMITED",
+        "cin_no.": "U01403CT2014PTC001341",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-03-2014",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "SURGUJA",
+        "address": "C/O SHRI TRIVENI MISHRA S/O JAGARNATH MISHRA NEAR PANCHDEV MANDIR, HOUSE NO.202D/6, NAMNAKALA AMBIKAPUR Surguja CT IN 497229",
+        "register": "Registered on 24-03-2014",
+        "director_details": [
+            {
+                "DIN": "06808656",
+                "direct_name": "Niraj Kumar Rai"
+            },
+            {
+                "DIN": "06808661",
+                "direct_name": "Sudhakar Mishra"
+            }
+        ]
+    },
+    {
+        "company_name": "SARGUJA AGROHIGH PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403CT2015PTC001743",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-05-2015",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "SURGUJA",
+        "address": "SHOP NO. 5, MAHAMAYA SHOPPING COMPLEX SURAJPUR SURAJPUR Surguja CT IN 497229",
+        "register": "Registered on 13-05-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "SARGUJA MAHILA FARMER PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01407CT2015PTC002041",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "365240",
+        "registration_date": "31-12-2015",
+        "business_activity": "Agriculture",
+        "state": "Chattisgarh",
+        "district": "SURGUJA",
+        "address": "AT-BAZAR PARA, UDAIPUR Surguja CT IN 497116",
+        "register": "Registered on 31-12-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "MG CEMENT AND POWER PRIVATE LIMITED",
+        "cin_no.": "U24110CT2007PTC020177",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "0",
+        "registration_date": "29-01-2007",
+        "business_activity": "Metals and Chemicals",
+        "state": "Chattisgarh",
+        "district": "SURGUJA",
+        "address": "VILLAGE SHIVNANDANPUR TEH. SURAJPUR SURAJPUR Surguja CT IN 497226",
+        "register": "Registered on 29-01-2007",
+        "director_details": []
+    }
+]

@@ -1,0 +1,1097 @@
+[
+    {
+        "company_name": "SEMAL POWER WASH PRIVATE LIMITED",
+        "cin_no.": "U24240DN2010PTC000313",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-03-2010",
+        "business_activity": "Metals and Chemicals",
+        "state": "Dadra and nagar haveli",
+        "district": "AHMEDABAD",
+        "address": "A/99, MANHARNAGAR PART-II, OPP. LILANAGAR, NATIONAL HIGHWAY NO-8, BAPUNAGAR AHMEDABAD Dadar & Nagar Haveli DN IN 380024",
+        "register": "Registered on 22-03-2010",
+        "director_details": [
+            {
+                "DIN": "02933492",
+                "direct_name": "Amrutlal Vasharambhai Rupala"
+            },
+            {
+                "DIN": "02933324",
+                "direct_name": "Dayaben Amitbhai Rupala"
+            }
+        ]
+    },
+    {
+        "company_name": "CHUNILAL HOLDINGS PRIVATE LIMITED",
+        "cin_no.": "U67120DN1997PTC033025",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "17-09-1997",
+        "business_activity": "Finance",
+        "state": "Dadra and nagar haveli",
+        "district": "AHMEDABAD",
+        "address": "17/18, RAJ MUGAT SOCIETY,NARANPURA CHAR RASTA NARANPURA AHMEDABAD-380013. AHMEDABAD-380013. DN IN",
+        "register": "Registered on 17-09-1997",
+        "director_details": []
+    },
+    {
+        "company_name": "BHUSHAN HOTEL RESORT PRIVATE LIMITED",
+        "cin_no.": "U55101DN2010PTC000348",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "12500000",
+        "paid_up_capital": "11000000",
+        "registration_date": "29-12-2010",
+        "business_activity": "Trading",
+        "state": "Dadra and nagar haveli",
+        "district": "DADRA & NAGAR HAVELI",
+        "address": "FLAT NO. 208, FIRST FLOOR, KASTURI SANKUL, D BUILDING SURVEY NO.184/2/1 TO SURVEY NO.184/2/8 SILVASSA DN IN 396230",
+        "register": "Registered on 29-12-2010",
+        "director_details": [
+            {
+                "DIN": "00141875",
+                "direct_name": "Nalini Bhushan"
+            },
+            {
+                "DIN": "00141867",
+                "direct_name": "Prabhat Bhushan"
+            }
+        ]
+    },
+    {
+        "company_name": "KHANVEL RESORT PRIVATE LIMITED",
+        "cin_no.": "U55101DN2011PTC000376",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-08-2011",
+        "business_activity": "Trading",
+        "state": "Dadra and nagar haveli",
+        "district": "DADRA & NAGAR HAVELI",
+        "address": "HOTEL RITZ BUILDING, OFFICE NO. 12, GROUND FLOOR, OPP. BUS DEPOT, SILVASA Dadar & Nagar Haveli DN IN 396230",
+        "register": "Registered on 09-08-2011",
+        "director_details": [
+            {
+                "DIN": "01682640",
+                "direct_name": "Gopalbhai Kalanbhai Tandel"
+            },
+            {
+                "DIN": "03473189",
+                "direct_name": "Jitendrasinh Rupsinh Dodia"
+            }
+        ]
+    },
+    {
+        "company_name": "OCTOGON HOSPITALITIES PRIVATE LIMITED",
+        "cin_no.": "U55101DN2014PTC000464",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-12-2014",
+        "business_activity": "Trading",
+        "state": "Dadra and nagar haveli",
+        "district": "DADRA & NAGAR HAVELI",
+        "address": "SURVEY NO. 107/2/2, RUDANA RUDANA Dadar & Nagar Haveli DN IN 396230",
+        "register": "Registered on 11-12-2014",
+        "director_details": [
+            {
+                "DIN": "07030240",
+                "direct_name": "Anil Mritunjay Shukla"
+            },
+            {
+                "DIN": "07030246",
+                "direct_name": "Ravi Nandan Pandey"
+            },
+            {
+                "DIN": "07030248",
+                "direct_name": "Sanjeev Omkar Singh"
+            },
+            {
+                "DIN": "07030238",
+                "direct_name": "Vipulbhai Umedbhai Patel"
+            }
+        ]
+    },
+    {
+        "company_name": "BLACK WATER FOODS PRIVATE LIMITED",
+        "cin_no.": "U55200DN2015PTC000483",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-10-2015",
+        "business_activity": "Trading",
+        "state": "Dadra and nagar haveli",
+        "district": "DADRA & NAGAR HAVELI",
+        "address": "302, MADHAV COMPLEX, LAXMINARAYAN PUMP CHANGODAR, SANAND AHMEDABAD DADRA & NAGAR HAVELI DN IN 396193",
+        "register": "Registered on 13-10-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "SKYBLUE LOGISTICS INDIA PRIVATE LIMITED",
+        "cin_no.": "U60232DN2012PTC000393",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "8500000",
+        "registration_date": "25-02-2012",
+        "business_activity": "Transport and Storage",
+        "state": "Dadra and nagar haveli",
+        "district": "DADRA & NAGAR HAVELI",
+        "address": "JALARAM DARSHAN SHOP NO. 14, 15 C BUILDING, NEAR JALARAM MANDIR, RAKHOLI, SILVASSA DN IN 396230",
+        "register": "Registered on 25-02-2012",
+        "director_details": [
+            {
+                "DIN": "01535085",
+                "direct_name": "Anand Bhushan Sharma"
+            },
+            {
+                "DIN": "05192957",
+                "direct_name": "Anisha Santhosh Sharma"
+            },
+            {
+                "DIN": "05192962",
+                "direct_name": "Arun Anand Sharma"
+            },
+            {
+                "DIN": "05192996",
+                "direct_name": "Rishibhusan Anandbhushan Sharma"
+            },
+            {
+                "DIN": "01535231",
+                "direct_name": "Shashibhushan Lakshminarayan Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "SUN YARN PVT.LTD.",
+        "cin_no.": "U99999DN1987PLC000015",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "4100000",
+        "registration_date": "09-06-1987",
+        "business_activity": "Others",
+        "state": "Dadra and nagar haveli",
+        "district": "DADRA & NAGAR HAVELI",
+        "address": "50, AMLI INDUSTRIAL ESTATE,AMLI, SILVASSA-396230. DN IN",
+        "register": "Registered on 09-06-1987",
+        "director_details": []
+    },
+    {
+        "company_name": "SOVOTEX TEXTILES PRIVATE LIMITED",
+        "cin_no.": "U99999DN1991PTC000131",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "17-11-1991",
+        "business_activity": "Others",
+        "state": "Dadra and nagar haveli",
+        "district": "DADRA & NAGAR HAVELI",
+        "address": "Gala No. 105, Everest Industrial Estate, Near 66 KVA Power Substation, Amli, Silvassa SILVASSA Dadar & Nagar Haveli DN IN 396230",
+        "register": "Registered on 17-11-1991",
+        "director_details": [
+            {
+                "DIN": "01717979",
+                "direct_name": "Narayan Ramchandra Ghumatkar"
+            },
+            {
+                "DIN": "07309579",
+                "direct_name": "Shankar Satappa Hanimanal"
+            },
+            {
+                "DIN": "01455458",
+                "direct_name": "Shivprasad Shrivastav"
+            }
+        ]
+    },
+    {
+        "company_name": "BAJRANG FARMING PRIVATE LIMITED",
+        "cin_no.": "U01403DN2008PTC000268",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-02-2008",
+        "business_activity": "Agriculture",
+        "state": "Dadra and nagar haveli",
+        "district": "DADRA & NAGAR HAVELI",
+        "address": "Gala No. 106, Everest Industrial Estate, Near 66 KVA Power Substation, Amli, Silvassa SILVASSA Dadar & Nagar Haveli DN IN 396230",
+        "register": "Registered on 06-02-2008",
+        "director_details": [
+            {
+                "DIN": "06894545",
+                "direct_name": "Atul Agrawal"
+            },
+            {
+                "DIN": "06926460",
+                "direct_name": "Pradeep Kumar Mishra"
+            },
+            {
+                "DIN": "07360432",
+                "direct_name": "Ranjit Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "OMKAR CULTIVATORS PRIVATE LIMITED",
+        "cin_no.": "U01403DN2008PTC000269",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-02-2008",
+        "business_activity": "Agriculture",
+        "state": "Dadra and nagar haveli",
+        "district": "DADRA & NAGAR HAVELI",
+        "address": "Gala No. 105, Everest Industrial Estate, Near 66 KVA Power Substation, Amli, Silvassa Silvassa Dadar & Nagar Haveli DN IN 396230",
+        "register": "Registered on 06-02-2008",
+        "director_details": [
+            {
+                "DIN": "06894545",
+                "direct_name": "Atul Agrawal"
+            },
+            {
+                "DIN": "07361091",
+                "direct_name": "Indrajeet Rauta"
+            },
+            {
+                "DIN": "02895996",
+                "direct_name": "Ram Bali Ram Lagan Yadav"
+            },
+            {
+                "DIN": "07360432",
+                "direct_name": "Ranjit Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "SHANKAR COMMODITIES PRIVATE LIMITED",
+        "cin_no.": "U01403DN2008PTC000270",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-02-2008",
+        "business_activity": "Agriculture",
+        "state": "Dadra and nagar haveli",
+        "district": "DADRA & NAGAR HAVELI",
+        "address": "Gala No. 106, Everest Industrial Estate, Near 66 KVA Power Substation, Amli, Silvassa Silvassa Dadar & Nagar Haveli DN IN 396230",
+        "register": "Registered on 06-02-2008",
+        "director_details": [
+            {
+                "DIN": "02912717",
+                "direct_name": "Sukh Lal Thakur"
+            },
+            {
+                "DIN": "07360438",
+                "direct_name": "Sumer Singh"
+            },
+            {
+                "DIN": "02942152",
+                "direct_name": "Surendra Kumar Sharma"
+            },
+            {
+                "DIN": "07360416",
+                "direct_name": "Suresh Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "NEOGENESIS HEALTHCARE PRIVATE LIMITED",
+        "cin_no.": "U24230DN2010PTC000337",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "13-09-2010",
+        "business_activity": "Metals and Chemicals",
+        "state": "Dadra and nagar haveli",
+        "district": "DAMAN",
+        "address": "504, 5th FLOOR, INDRAPRAST APPARTMENT DILIP NAGAR, NANI DAMAN DAMAN Dadar & Nagar Haveli DN IN 396210",
+        "register": "Registered on 13-09-2010",
+        "director_details": [
+            {
+                "DIN": "01762294",
+                "direct_name": "Satyendrakumar Shriramracchasingh Singh"
+            },
+            {
+                "DIN": "03121713",
+                "direct_name": "Usha Satyendrakumar Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "ICI HEALTHCARE PRIVATE LIMITED",
+        "cin_no.": "U24230DN2010PTC000338",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "6500000",
+        "paid_up_capital": "6500000",
+        "registration_date": "19-09-2010",
+        "business_activity": "Metals and Chemicals",
+        "state": "Dadra and nagar haveli",
+        "district": "DAMAN",
+        "address": "504, 5th FLOOR, INDRAPRAST APPARTMENT DILIP NAGAR, NANI DAMAN DAMAN DN IN 396210",
+        "register": "Registered on 19-09-2010",
+        "director_details": [
+            {
+                "DIN": "07251038",
+                "direct_name": "Namita Jain"
+            },
+            {
+                "DIN": "05154306",
+                "direct_name": "Naveen Jain"
+            },
+            {
+                "DIN": "03012822",
+                "direct_name": "Samrat Prakash Brahmbhatt"
+            }
+        ]
+    },
+    {
+        "company_name": "MEPAL INDUSTRIES PRIVATE LIMITED",
+        "cin_no.": "U27102DN2015PTC000476",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-05-2015",
+        "business_activity": "Metals and Chemicals",
+        "state": "Dadra and nagar haveli",
+        "district": "DAMAN",
+        "address": "728/1, VILLAGE RINGANWADA, NANI DAMAN DAMAN DADRA & NAGAR HAVELI DN IN 396210",
+        "register": "Registered on 27-05-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "BHAL INFRA GRANDEUR PRIVATE LIMITED",
+        "cin_no.": "U45201DN2007PTC000262",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "10-09-2007",
+        "business_activity": "Construction",
+        "state": "Dadra and nagar haveli",
+        "district": "DAMAN",
+        "address": "10, GANESH INDUSTRIAL ESTATE KACHIGAM, NANI DAMAN NANI DAMAN Dadar & Nagar Haveli DN IN 396210",
+        "register": "Registered on 10-09-2007",
+        "director_details": [
+            {
+                "DIN": "01663262",
+                "direct_name": "Ketankumar Pravinchandra Dhruv"
+            },
+            {
+                "DIN": "01686257",
+                "direct_name": "Maulik Devendrabhai Thar"
+            }
+        ]
+    },
+    {
+        "company_name": "JAY BAJRANG STONE QUARRY PRIVATE LIMITED",
+        "cin_no.": "U45203DN2013PTC000434",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "24-09-2013",
+        "business_activity": "Construction",
+        "state": "Dadra and nagar haveli",
+        "district": "DAMAN",
+        "address": "5, HOTEL NATRAJ, PLOT NO. 163 NAROLI ROAD SILVASSA Dadar & Nagar Haveli DN IN 396210",
+        "register": "Registered on 24-09-2013",
+        "director_details": [
+            {
+                "DIN": "06577922",
+                "direct_name": "Jignesh Natwarsinh Chauhan"
+            },
+            {
+                "DIN": "06577926",
+                "direct_name": "Kiran Natwarsinh Chauhan"
+            },
+            {
+                "DIN": "06577930",
+                "direct_name": "Natwarsinh Ramsinh Chauhan"
+            }
+        ]
+    },
+    {
+        "company_name": "SHREE SAHAJANAND FOOD PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U15400DN2007PTC000264",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "10-10-2007",
+        "business_activity": "Food Manufacturing",
+        "state": "Dadra and nagar haveli",
+        "district": "KACHCHH",
+        "address": "8, 3rd FLOOR, BHAVIK APARTMENT, BHANUSHALI NAGAR, BHUJ Dadar & Nagar Haveli DN IN 370001",
+        "register": "Registered on 10-10-2007",
+        "director_details": [
+            {
+                "DIN": "01618500",
+                "direct_name": "Bhakti Arvind Thacker"
+            },
+            {
+                "DIN": "01618552",
+                "direct_name": "Devji Velji Bhuva"
+            },
+            {
+                "DIN": "01618362",
+                "direct_name": "Kalyan Manji Seghani"
+            },
+            {
+                "DIN": "01618446",
+                "direct_name": "Vinod Kunvarjee Vekariya"
+            }
+        ]
+    },
+    {
+        "company_name": "MADHUBAN RESIDENCY PRIVATE LIMITED",
+        "cin_no.": "U55101DN2005PTC000184",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-08-2005",
+        "business_activity": "Trading",
+        "state": "Dadra and nagar haveli",
+        "district": "NA",
+        "address": "TYPE 3, GOVT. QUARTER NR.PRAVIN TAILORS KELVANI NAKA SILVASSA 396 230 DN IN",
+        "register": "Registered on 03-08-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "ANANDVAN HOTELS AND RESORT PRIVATE LIMITED",
+        "cin_no.": "U55109DN2004PTC000175",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "5000000",
+        "registration_date": "21-01-2004",
+        "business_activity": "Trading",
+        "state": "Dadra and nagar haveli",
+        "district": "NA",
+        "address": "OPP. COLLECTOR BUNGLOW, PRUTH-MRAJ CHAUHAN MARG SILVASSA , DADRA &NAGAR HAVELI. U.T. DADRA &NAGAR HAVELI. U.T. Dadar & Nagar Haveli DN IN",
+        "register": "Registered on 21-01-2004",
+        "director_details": [
+            {
+                "DIN": "02704115",
+                "direct_name": "Amrutaben Natvarsinh Chauhan"
+            },
+            {
+                "DIN": "02692767",
+                "direct_name": "Brijesh Natwarsinh Chauhan"
+            },
+            {
+                "DIN": "02631424",
+                "direct_name": "Natvarsinh Laxmansinh Chauhan"
+            }
+        ]
+    },
+    {
+        "company_name": "SAI AGRO PESTICIDES COMPANY PVT.LTD.",
+        "cin_no.": "U99999DN1974PTC000002",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "1000",
+        "registration_date": "30-04-1974",
+        "business_activity": "Others",
+        "state": "Dadra and nagar haveli",
+        "district": "NA",
+        "address": "SILVASSA, VIA VAPI,DADRA NAGAR HAVELI. SILVASSA, VAPI DN IN",
+        "register": "Registered on 30-04-1974",
+        "director_details": []
+    },
+    {
+        "company_name": "KAPADIA SONS PRIVATE LIMITED",
+        "cin_no.": "U99999DN1975PTC000004",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "170000",
+        "registration_date": "31-12-1975",
+        "business_activity": "Others",
+        "state": "Dadra and nagar haveli",
+        "district": "NA",
+        "address": "KAPADIA FARM POST MAKAT,VIA SILVASSA VAPI DN IN",
+        "register": "Registered on 31-12-1975",
+        "director_details": []
+    },
+    {
+        "company_name": "SILVASSA SYNDET PVT.LTD.",
+        "cin_no.": "U99999DN1982PTC002344",
+        "status": "Not Available for eFiling",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "01-09-1982",
+        "business_activity": "Others",
+        "state": "Dadra and nagar haveli",
+        "district": "NA",
+        "address": "AMLI INDUSTRIAL ESTATE,SILVASSA,DADRA & NAGAR HAVELI. HAVELI. DN IN",
+        "register": "Registered on 01-09-1982",
+        "director_details": []
+    },
+    {
+        "company_name": "CHANDAN AGRO AND STEEL INDUSTRIES PVT.LTD.",
+        "cin_no.": "U99999DN1984PTC000012",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "5000",
+        "registration_date": "27-08-1984",
+        "business_activity": "Others",
+        "state": "Dadra and nagar haveli",
+        "district": "NA",
+        "address": "KAMRUDIN ALI MOHMED ZALARICOMPOUND VIA VAPI DADRA & NAGAR HAVELI. DN IN",
+        "register": "Registered on 27-08-1984",
+        "director_details": []
+    },
+    {
+        "company_name": "LAKHBIR SYNTHETICS PVT.LTD.",
+        "cin_no.": "U99999DN1987PTC000016",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "09-07-1987",
+        "business_activity": "Others",
+        "state": "Dadra and nagar haveli",
+        "district": "NA",
+        "address": "85, GOVERNMENT INDUSTRIALESTATE, MASAT, SILVASSA, U.T. OF DADRA & NAGAR HAVELI. DN IN",
+        "register": "Registered on 09-07-1987",
+        "director_details": [
+            {
+                "DIN": "01174839",
+                "direct_name": "Amarjitsingh Lakhbirsingh Dang"
+            },
+            {
+                "DIN": "01687826",
+                "direct_name": "Kawaljit Sardar Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "SUKHMANI SYNTHETICS PVT LTD",
+        "cin_no.": "U99999DN1987PTC000234",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "09-07-1987",
+        "business_activity": "Others",
+        "state": "Dadra and nagar haveli",
+        "district": "NA",
+        "address": "UNION TERRITORY OF DADRA ANDNAGAR HAVELI UNION TERRITORY OF DADRA AND DN IN",
+        "register": "Registered on 09-07-1987",
+        "director_details": []
+    },
+    {
+        "company_name": "SILWINES PVT. LTD.",
+        "cin_no.": "U99999DN1990PLC000033",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "06-04-1990",
+        "business_activity": "Others",
+        "state": "Dadra and nagar haveli",
+        "district": "NA",
+        "address": "C/O. SILPHAR LABORATORIES P.B.NO. 33 SILVASSA (DADRA & NAGAR HAVLLI) DN IN",
+        "register": "Registered on 06-04-1990",
+        "director_details": []
+    },
+    {
+        "company_name": "SILVASSA STANDARD TWIST AND TILES PVT. LTD.",
+        "cin_no.": "U99999DN1991PLC000037",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "0",
+        "registration_date": "11-02-1991",
+        "business_activity": "Others",
+        "state": "Dadra and nagar haveli",
+        "district": "NA",
+        "address": "40-INDUS. ESTATE, PIPARIASILVASSA DADAR N. HAVALI. DN IN",
+        "register": "Registered on 11-02-1991",
+        "director_details": []
+    },
+    {
+        "company_name": "RAJ MANUFACTURING AND TRADING PRIVATE LIMITED",
+        "cin_no.": "U29268DN2006PTC000203",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "4000000",
+        "paid_up_capital": "3849170",
+        "registration_date": "10-10-2006",
+        "business_activity": "Machinery and Equipments",
+        "state": "Dadra and nagar haveli",
+        "district": "SURAT",
+        "address": "C1-B-6224, G.I.D.C. SACHIN, SURAT DN IN 394230",
+        "register": "Registered on 10-10-2006",
+        "director_details": [
+            {
+                "DIN": "03482861",
+                "direct_name": "Asha Sinha"
+            },
+            {
+                "DIN": "00585478",
+                "direct_name": "Hari Narayan Modan Singh Sinha"
+            },
+            {
+                "DIN": "03437365",
+                "direct_name": "Rishi Goyal"
+            }
+        ]
+    },
+    {
+        "company_name": "WEB TECHNOEXPERTS PRIVATE LIMITED",
+        "cin_no.": "U72900DN2014PTC000457",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-07-2014",
+        "business_activity": "Business Services",
+        "state": "Dadra and nagar haveli",
+        "district": "VADODARA",
+        "address": "UNIT NO. 406, LOTUS PLAZA, NR. VISHRANTI HERITAGE, OPP. YASH COMPLEX, VADODARA Dadar & Nagar Haveli DN IN 390021",
+        "register": "Registered on 18-07-2014",
+        "director_details": [
+            {
+                "DIN": "06900420",
+                "direct_name": "Amar Jeet Singh"
+            },
+            {
+                "DIN": "06901903",
+                "direct_name": "Minakshi Deepak Singh Manral"
+            }
+        ]
+    },
+    {
+        "company_name": "RELIANCE ENGINEERING ASSOCIATES PRIVATE LIMITED",
+        "cin_no.": "U99999DN1991PTC000149",
+        "status": "Amalgamated",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000000",
+        "paid_up_capital": "73000000",
+        "registration_date": "19-11-1991",
+        "business_activity": "Others",
+        "state": "Dadra and nagar haveli",
+        "district": "VALSAD",
+        "address": "342, KHARADPADA, NAROLI , NEAR SILVASSA DN IN 396235",
+        "register": "Registered on 19-11-1991",
+        "director_details": [
+            {
+                "DIN": "00006181",
+                "direct_name": "Arunkant Girdhardas Dawda"
+            },
+            {
+                "DIN": "00012985",
+                "direct_name": "Mihir Kumar Dalal"
+            },
+            {
+                "DIN": "00007129",
+                "direct_name": "Narayan Balanadu"
+            },
+            {
+                "DIN": "00093734",
+                "direct_name": "Priyen Jayantilal Shah"
+            },
+            {
+                "DIN": "AEGPV7713M",
+                "direct_name": "Yogesh A Vadhwana"
+            }
+        ]
+    },
+    {
+        "company_name": "PAN-ASIA PETROLEUM PRIVATE LIMITED",
+        "cin_no.": "U11100DN2007PTC000341",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000000",
+        "paid_up_capital": "7250000",
+        "registration_date": "15-05-2007",
+        "business_activity": "Mining and Quarrying",
+        "state": "Dadra and nagar haveli",
+        "district": "VALSAD",
+        "address": "SURVEY NO. 215/3/1/2, NEAR DADRA CHECKPOST,VILLAGE",
+        "register": "Registered on 15-05-2007",
+        "director_details": [
+            {
+                "DIN": "06563493",
+                "direct_name": "Chirag Krishnakant Jogi"
+            },
+            {
+                "DIN": "00484399",
+                "direct_name": "Firdoshbhai Ramjanali Punjani"
+            },
+            {
+                "DIN": "07573577",
+                "direct_name": "Matinreza Firdos Punjani"
+            }
+        ]
+    },
+    {
+        "company_name": "MAA GAYATRI DETCHEM AND MINERAL PRIVATE LIMITED",
+        "cin_no.": "U24100DN2013PTC000438",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-10-2013",
+        "business_activity": "Metals and Chemicals",
+        "state": "Dadra and nagar haveli",
+        "district": "VALSAD",
+        "address": "HOUSE NO.2/53 BLOCK(251-1),MAA GAYATRI KRUPA, NARIMAN POINT, MAIN ROAD NAROLI Dadar & Nagar Haveli DN IN 396235",
+        "register": "Registered on 17-10-2013",
+        "director_details": [
+            {
+                "DIN": "06703635",
+                "direct_name": "Deepraj Devendrasinh Desai"
+            },
+            {
+                "DIN": "06703628",
+                "direct_name": "Devendrasinh Kalidas Desai"
+            },
+            {
+                "DIN": "06703621",
+                "direct_name": "Divyajyoti Harisingh Chauhan"
+            }
+        ]
+    },
+    {
+        "company_name": "FORTUNE INDUSTRIES LIMITED",
+        "cin_no.": "U99999DN1994PLC000068",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "120000000",
+        "paid_up_capital": "40397000",
+        "registration_date": "10-06-1994",
+        "business_activity": "Others",
+        "state": "Dadra and nagar haveli",
+        "district": "VALSAD",
+        "address": "AT & PST;DADRA,OPP.POLICESTATION UT OF DADRA & NAGAR HAVELI-396191. HAVELI Dadar & Nagar Haveli DN IN 396191",
+        "register": "Registered on 10-06-1994",
+        "director_details": [
+            {
+                "DIN": "02323339",
+                "direct_name": "Kishor Manilal Joshi"
+            }
+        ]
+    },
+    {
+        "company_name": "FILATEX INDIA LTD(TR.CO.FROM DELHI)",
+        "cin_no.": "L17119DN1990PLC000091",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "450000000",
+        "paid_up_capital": "435000000",
+        "registration_date": "08-08-1990",
+        "business_activity": "Textiles",
+        "state": "Dadra and nagar haveli",
+        "district": "VALSAD",
+        "address": "S. NO. 274, DEMNI ROAD DADRA DN IN 396191",
+        "register": "Registered on 08-08-1990",
+        "director_details": [
+            {
+                "DIN": "00253049",
+                "direct_name": "Ashok Chauhan"
+            },
+            {
+                "DIN": "00740511",
+                "direct_name": "Brij Behari Tandon"
+            },
+            {
+                "DIN": "00021953",
+                "direct_name": "Madhav Bhageria"
+            },
+            {
+                "DIN": "00021934",
+                "direct_name": "Madhu Sudhan Bhageria"
+            },
+            {
+                "DIN": "01526618",
+                "direct_name": "Pallavi Joshi Bakhru"
+            },
+            {
+                "DIN": "00017938",
+                "direct_name": "Purrshottam Bhaggeria"
+            },
+            {
+                "DIN": "AHGPJ3334B",
+                "direct_name": "Raman Kumar Jha"
+            },
+            {
+                "DIN": "00255049",
+                "direct_name": "Suraj Parkash Setia"
+            },
+            {
+                "DIN": "00363608",
+                "direct_name": "Swarup Chandra Parija"
+            }
+        ]
+    },
+    {
+        "company_name": "SHEKHAWATI POLY-YARN LIMITED",
+        "cin_no.": "L17120DN1990PLC000440",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "400000000",
+        "paid_up_capital": "344700000",
+        "registration_date": "05-11-1990",
+        "business_activity": "Textiles",
+        "state": "Dadra and nagar haveli",
+        "district": "VALSAD",
+        "address": "Plot No. 185/1, Naroli Village, Near Kanadi phatak, Naroli Dadar & Nagar Haveli DN IN 396235",
+        "register": "Registered on 05-11-1990",
+        "director_details": [
+            {
+                "DIN": "07197307",
+                "direct_name": "Jyoti Rajendra Thakkar"
+            },
+            {
+                "DIN": "AIYPA4999C",
+                "direct_name": "Meena Ashish Agal"
+            },
+            {
+                "DIN": "00372083",
+                "direct_name": "Mukesh Ramniranjan Ruia"
+            },
+            {
+                "DIN": "06646110",
+                "direct_name": "Ravi Sanjay Jogi"
+            },
+            {
+                "DIN": "02949921",
+                "direct_name": "Sanjay Balvantrai Jogi"
+            },
+            {
+                "DIN": "AHWBG8717F",
+                "direct_name": "Suresh Chandra Gattani"
+            },
+            {
+                "DIN": "03605830",
+                "direct_name": "Sushil Poddar Kumar Shankarlal"
+            },
+            {
+                "DIN": "06801137",
+                "direct_name": "Swati Sahukara"
+            }
+        ]
+    },
+    {
+        "company_name": "AUNDE INDIA LIMITED",
+        "cin_no.": "L17120DN1997PLC000196",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "110000000",
+        "paid_up_capital": "107232070",
+        "registration_date": "03-10-1997",
+        "business_activity": "Textiles",
+        "state": "Dadra and nagar haveli",
+        "district": "VALSAD",
+        "address": "PLOT NO 146, WAGHDHARA VILLAGE DADRA DN IN 396191",
+        "register": "Registered on 03-10-1997",
+        "director_details": [
+            {
+                "DIN": "00373248",
+                "direct_name": "Ajay Anand"
+            },
+            {
+                "DIN": "07371496",
+                "direct_name": "Bheemanna Bindanna Chikkerur"
+            },
+            {
+                "DIN": "01008698",
+                "direct_name": "Gurinder Kaur Kalsi"
+            },
+            {
+                "DIN": "AKWPM2260Q",
+                "direct_name": "Jovita Reema Mathias"
+            },
+            {
+                "DIN": "01375336",
+                "direct_name": "Kapil Sethi"
+            },
+            {
+                "DIN": "06500166",
+                "direct_name": "Rolf Alfons Konigs"
+            },
+            {
+                "DIN": "07589768",
+                "direct_name": "Shweta Jayantilal Jain"
+            },
+            {
+                "DIN": "07589863",
+                "direct_name": "Vinit Arvind Rathod"
+            },
+            {
+                "DIN": "ADBPV7086K",
+                "direct_name": "Viswanathan Sivakumar"
+            }
+        ]
+    },
+    {
+        "company_name": "PARASRAMPURIA INDUSTRIES LIMITED(TR. FROM NEW DELHI)",
+        "cin_no.": "L74999DN1993PLC000053",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "400000000",
+        "paid_up_capital": "265657",
+        "registration_date": "06-10-1993",
+        "business_activity": "Business Services",
+        "state": "Dadra and nagar haveli",
+        "district": "VALSAD",
+        "address": "SURVEY NO.214/3,DADRA-396191 DADRA & NAGAR HAVELI. DN IN",
+        "register": "Registered on 06-10-1993",
+        "director_details": []
+    },
+    {
+        "company_name": "FAZE THREE LIMITED",
+        "cin_no.": "L99999DN1985PLC000197",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "260000000",
+        "paid_up_capital": "243190000",
+        "registration_date": "09-01-1985",
+        "business_activity": "Others",
+        "state": "Dadra and nagar haveli",
+        "district": "VALSAD",
+        "address": "Survey No. 380/1, Khanvel Silvassa Road, Village Dapada Dapada DN IN 396191",
+        "register": "Registered on 09-01-1985",
+        "director_details": [
+            {
+                "DIN": "00373248",
+                "direct_name": "Ajay Anand"
+            },
+            {
+                "DIN": "AOSPP3162Q",
+                "direct_name": "Ankit Dilip Parekh"
+            },
+            {
+                "DIN": "AOQPM4545N",
+                "direct_name": "Ankit Dixit Madhwani"
+            },
+            {
+                "DIN": "07371496",
+                "direct_name": "Bheemanna Bindanna Chikkerur"
+            },
+            {
+                "DIN": "01008698",
+                "direct_name": "Gurinder Kaur Kalsi"
+            },
+            {
+                "DIN": "07589737",
+                "direct_name": "Manan Manoj Shah"
+            },
+            {
+                "DIN": "AADPG0587B",
+                "direct_name": "Martin John Golla"
+            },
+            {
+                "DIN": "00910936",
+                "direct_name": "Rajiv Rai Sachdev"
+            },
+            {
+                "DIN": "01367853",
+                "direct_name": "Sanjay Anand"
+            },
+            {
+                "DIN": "07589768",
+                "direct_name": "Shweta Jayantilal Jain"
+            },
+            {
+                "DIN": "00465479",
+                "direct_name": "Vasudeva Shankarnarayana Rao"
+            },
+            {
+                "DIN": "07589863",
+                "direct_name": "Vinit Arvind Rathod"
+            }
+        ]
+    },
+    {
+        "company_name": "SAAR COMMODITIES PRIVATE LIMITED",
+        "cin_no.": "U51100DN2006PTC000409",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "2500000",
+        "registration_date": "10-02-2006",
+        "business_activity": "Trading",
+        "state": "Dadra and nagar haveli",
+        "district": "VALSAD",
+        "address": "Shop No. 18, Plot No. 47, Haveli Falia, Jalaram Market, Naroli Tin Rasta, Naroli DN IN 396235",
+        "register": "Registered on 10-02-2006",
+        "director_details": [
+            {
+                "DIN": "00315272",
+                "direct_name": "Ajaykumar Ramakant Sharma"
+            },
+            {
+                "DIN": "00314831",
+                "direct_name": "Rupesh Kumar Matoliya"
+            },
+            {
+                "DIN": "00315141",
+                "direct_name": "Shankar Ramawatar Sharma"
+            },
+            {
+                "DIN": "00314929",
+                "direct_name": "Sitaram Nathmal Khandelwal"
+            }
+        ]
+    }
+]

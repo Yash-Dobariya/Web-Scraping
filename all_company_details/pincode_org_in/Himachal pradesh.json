@@ -1,0 +1,2967 @@
+[
+    {
+        "company_name": "VAID AGRI LIFE PRIVATE LIMITED",
+        "cin_no.": "U01300HP2009PTC031051",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-03-2009",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "BILASPUR (HP)",
+        "address": "V + PO - NOA, TEHSIL SADAR BILASPUR Bilaspur HP IN 174001",
+        "register": "Registered on 03-03-2009",
+        "director_details": [
+            {
+                "DIN": "02246617",
+                "direct_name": "Ashok Kumar"
+            },
+            {
+                "DIN": "02246578",
+                "direct_name": "Mayank Vaid"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMALAYAN GOLD FISH COMPANY PRIVATE LIMITED",
+        "cin_no.": "U05004HP2009PTC031168",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-08-2009",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "BILASPUR (HP)",
+        "address": "V.P.O. LAKHANPUR TEHSIL SADAR BILASPUR Bilaspur HP IN 174001",
+        "register": "Registered on 28-08-2009",
+        "director_details": [
+            {
+                "DIN": "02701839",
+                "direct_name": "Babu Ram Bharol"
+            },
+            {
+                "DIN": "02701834",
+                "direct_name": "Kesh Pathania"
+            },
+            {
+                "DIN": "02701713",
+                "direct_name": "Krishan Kumar Kaushal"
+            },
+            {
+                "DIN": "02701743",
+                "direct_name": "Shayam Parsad Gautam"
+            },
+            {
+                "DIN": "02701853",
+                "direct_name": "Vineet Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "ABHI HEALTH CARE PRIVATE LIMITED",
+        "cin_no.": "U24110HP2008PTC030890",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "14-05-2008",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "BILASPUR (HP)",
+        "address": "DIARA SECTOR LUXMI NARAYAN MANDIR BILASPUR Bilaspur HP IN 174001",
+        "register": "Registered on 14-05-2008",
+        "director_details": [
+            {
+                "DIN": "02077965",
+                "direct_name": "Renu Bala Soni"
+            },
+            {
+                "DIN": "02077974",
+                "direct_name": "Surinder Kumar Soni"
+            }
+        ]
+    },
+    {
+        "company_name": "NVG FOODS PRIVATE LIMITED",
+        "cin_no.": "U15412HP2015PTC001039",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-09-2015",
+        "business_activity": "Food Manufacturing",
+        "state": "Himachal pradesh",
+        "district": "BILASPUR (HP)",
+        "address": "SHOP NO. 230-231 NH-21 BILASPUR Bilaspur HP IN 174001",
+        "register": "Registered on 18-09-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "SHIPRASH TECH (OPC) PRIVATE LIMITED",
+        "cin_no.": "U74999HP2018OPC006917",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-03-2018",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "BILASPUR (HP)",
+        "address": "C/O Gulab Ram, Village Jhareri Sunhani, Post Badgaon, Thesil Jhandutta BILASPUR Bilaspur HP IN 174029",
+        "register": "Registered on 16-03-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "S A A PHARMATECH PRIVATE LIMITED",
+        "cin_no.": "U24232HP2009PTC031251",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-12-2009",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "BILASPUR (HP)",
+        "address": "NEW KRISHNA ABHUSHAN BHANDAR GHUMARWIN Bilaspur HP IN 174021",
+        "register": "Registered on 02-12-2009",
+        "director_details": [
+            {
+                "DIN": "02823789",
+                "direct_name": "Amin Chand Soni"
+            },
+            {
+                "DIN": "02817770",
+                "direct_name": "Sanjeev Kumar Soni"
+            },
+            {
+                "DIN": "02817769",
+                "direct_name": "Subhash Chand Soni"
+            }
+        ]
+    },
+    {
+        "company_name": "DEV MEDICOS PRIVATE LIMITED",
+        "cin_no.": "U24232HP2010PTC031285",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "300000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-01-2010",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "BILASPUR (HP)",
+        "address": "VILLAGE ABDHANIGHAT TEHSIL GHUMARWIN BILASPUR HP IN 174021",
+        "register": "Registered on 21-01-2010",
+        "director_details": [
+            {
+                "DIN": "07434753",
+                "direct_name": "Neha Singh"
+            },
+            {
+                "DIN": "02873376",
+                "direct_name": "Vijay Laxmi"
+            },
+            {
+                "DIN": "02874278",
+                "direct_name": "Vikas Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "KEHLOOR STARWIN ENTERPRISES PRIVATE LIMITED",
+        "cin_no.": "U52601HP2017PTC006761",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-10-2017",
+        "business_activity": "Trading",
+        "state": "Himachal pradesh",
+        "district": "BILASPUR (HP)",
+        "address": "Village Oel Post Office Bilaspur, Tehsil Sadar Bilaspur Bilaspur HP IN 174001",
+        "register": "Registered on 17-10-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "NOVELTY BUSINESS WORLD PRIVATE LIMITED",
+        "cin_no.": "U55101HP2015PTC000965",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-06-2015",
+        "business_activity": "Trading",
+        "state": "Himachal pradesh",
+        "district": "BILASPUR (HP)",
+        "address": "C/O SANSAR CHAND SONI R/O VPO GHUMARWIN, TEHSIL GHUMARWIN GHUMARWIN Bilaspur HP IN 174021",
+        "register": "Registered on 01-06-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "K AND A TRANSPORT PRIVATE LIMITED",
+        "cin_no.": "U60200HP2010PTC031455",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-08-2010",
+        "business_activity": "Transport and Storage",
+        "state": "Himachal pradesh",
+        "district": "BILASPUR (HP)",
+        "address": "S.C.O. 59-B/3, ROURA, SECTOR NO. 3 TEHSIL SADAR, DISTT BILASPUR HIMACHAL PRADESH Bilaspur HP IN 174001",
+        "register": "Registered on 26-08-2010",
+        "director_details": [
+            {
+                "DIN": "03179446",
+                "direct_name": "Anju Sharma"
+            },
+            {
+                "DIN": "03179466",
+                "direct_name": "Kushal Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "UVA MANUFACTURER PRIVATE LIMITED",
+        "cin_no.": "U15411HP2012PTC000053",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-02-2012",
+        "business_activity": "Food Manufacturing",
+        "state": "Himachal pradesh",
+        "district": "CHAMBA",
+        "address": "51/2, VILLAGE- MUHAL KEGA, TEHSIL - CHAMBA, CHAMBA Chamba HP IN 176314",
+        "register": "Registered on 01-02-2012",
+        "director_details": [
+            {
+                "DIN": "05185997",
+                "direct_name": "Amar Singh"
+            },
+            {
+                "DIN": "05152318",
+                "direct_name": "Uttam Chand"
+            }
+        ]
+    },
+    {
+        "company_name": "MAA BHALEI ELECTRICALS PRIVATE LIMITED",
+        "cin_no.": "U52601HP2018PTC006848",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-01-2018",
+        "business_activity": "Trading",
+        "state": "Himachal pradesh",
+        "district": "CHAMBA",
+        "address": "VILLAGE CHAMBI TEHSIL CHAMBA JADERA (244) , JADERA CHAMBA Chamba HP IN 176314",
+        "register": "Registered on 16-01-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "SAMOTE RESORTS AND SPA PRIVATE LIMITED",
+        "cin_no.": "U55101HP2007PTC030756",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "14-06-2007",
+        "business_activity": "Trading",
+        "state": "Himachal pradesh",
+        "district": "CHAMBA",
+        "address": "VILLAGE AND POST OFFICE SAMOTE SAMOTE Chamba HP IN 176207",
+        "register": "Registered on 14-06-2007",
+        "director_details": [
+            {
+                "DIN": "01521877",
+                "direct_name": "Kiran Bala"
+            },
+            {
+                "DIN": "01521834",
+                "direct_name": "Neeraj Kapoor"
+            },
+            {
+                "DIN": "01724766",
+                "direct_name": "Rachna Bhalla"
+            }
+        ]
+    },
+    {
+        "company_name": "KHAJJIAR RESORTS PRIVATE LIMITED",
+        "cin_no.": "U55101HP2011PTC031607",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-03-2011",
+        "business_activity": "Trading",
+        "state": "Himachal pradesh",
+        "district": "CHAMBA",
+        "address": "NEAR HOTEL JIMMINN BUS STAND, CHAMBA CHAMBA Chamba HP IN 176310",
+        "register": "Registered on 30-03-2011",
+        "director_details": [
+            {
+                "DIN": "03425129",
+                "direct_name": "Adarsh Gupta"
+            },
+            {
+                "DIN": "01393436",
+                "direct_name": "Arun Kumar"
+            },
+            {
+                "DIN": "01393424",
+                "direct_name": "Ashok Kumar"
+            },
+            {
+                "DIN": "01445001",
+                "direct_name": "Sant Lal Aggarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "GRANTON API PRIVATE LIMITED",
+        "cin_no.": "U55101HP2013PTC000590",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-12-2013",
+        "business_activity": "Trading",
+        "state": "Himachal pradesh",
+        "district": "CHAMBA",
+        "address": "K.D. COTTAGE SUBHASH CHOWK, WARD NO 3 DALHOUSIE Chamba HP IN 176304",
+        "register": "Registered on 02-12-2013",
+        "director_details": [
+            {
+                "DIN": "06732077",
+                "direct_name": "Anjana Rani"
+            },
+            {
+                "DIN": "06715041",
+                "direct_name": "Prachi Karnal"
+            }
+        ]
+    },
+    {
+        "company_name": "TR TRANSPORT SERVICES PRIVATE LIMITED",
+        "cin_no.": "U60231HP2018PTC006880",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-02-2018",
+        "business_activity": "Transport and Storage",
+        "state": "Himachal pradesh",
+        "district": "CHAMBA",
+        "address": "WARD NO. 2, NEAR IBP PETROL PUMP CHOWARI, THE BHATTIYAT CHOWARI Chamba HP IN 176302",
+        "register": "Registered on 27-02-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "DREAMNITE CAREER CONSULTANCY SERVICES PRIVATE LIMITED",
+        "cin_no.": "U93096HP2017PTC006801",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-12-2017",
+        "business_activity": "Personal and Social Services",
+        "state": "Himachal pradesh",
+        "district": "CHAMBA",
+        "address": "C/O BAZIRU RAM VPO BANIKHET,NEAR BUS STAND DALHOUSIE Chamba HP IN 176303",
+        "register": "Registered on 04-12-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "SURI INDUSTRIES PVT LTD",
+        "cin_no.": "U99999HP1961PTC002362",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "67000",
+        "registration_date": "04-02-1961",
+        "business_activity": "Others",
+        "state": "Himachal pradesh",
+        "district": "CHAMBA",
+        "address": "KAKIRA BAZAR BAKLOHCANTT DISTT CHAMBA HIMACHAL PRADESH HP IN 176313",
+        "register": "Registered on 04-02-1961",
+        "director_details": [
+            {
+                "DIN": "01215171",
+                "direct_name": "Kamal Kishore Suri"
+            },
+            {
+                "DIN": "01155911",
+                "direct_name": "Kavita Suri"
+            },
+            {
+                "DIN": "01153875",
+                "direct_name": "Madan Mohan Suri"
+            },
+            {
+                "DIN": "01155701",
+                "direct_name": "Naresh Kumar Suri"
+            }
+        ]
+    },
+    {
+        "company_name": "M SHAIL CONSTRUCTION CO PRIVATE LIMITED",
+        "cin_no.": "U45400HP2009PTC031013",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-01-2009",
+        "business_activity": "Construction",
+        "state": "Himachal pradesh",
+        "district": "CHAMBA",
+        "address": "VILLAGE LECH PO GEHRA DISTT CHAMBA HP IN 176324",
+        "register": "Registered on 06-01-2009",
+        "director_details": [
+            {
+                "DIN": "02359684",
+                "direct_name": "Mukesh Thakur"
+            },
+            {
+                "DIN": "02359726",
+                "direct_name": "Shailender Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "JAWALAJI URBAN CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U45400HP2014PTC000770",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-09-2014",
+        "business_activity": "Construction",
+        "state": "Himachal pradesh",
+        "district": "CHAMBA",
+        "address": "WARD NO 6 MOHALLA BANGOTU POST OFFICE CHAMBA TEHSIL CHAMBA CHAMBA Chamba HP IN 176310",
+        "register": "Registered on 04-09-2014",
+        "director_details": [
+            {
+                "DIN": "06949766",
+                "direct_name": "Chandan Kumar Puri"
+            },
+            {
+                "DIN": "06949756",
+                "direct_name": "Neelam Nayyar"
+            },
+            {
+                "DIN": "06949688",
+                "direct_name": "Pawan Nayyar"
+            },
+            {
+                "DIN": "06949775",
+                "direct_name": "Sunit Kumar Puri"
+            }
+        ]
+    },
+    {
+        "company_name": "GREENSTAR BIOTECH PRIVATE LIMITED",
+        "cin_no.": "U01403HP2014PTC000776",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-09-2014",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "HAMIRPUR(HP)",
+        "address": "VPO KOTLA KALANA UNA Una HP IN 174304",
+        "register": "Registered on 15-09-2014",
+        "director_details": [
+            {
+                "DIN": "06908942",
+                "direct_name": "Pankaj"
+            },
+            {
+                "DIN": "06635941",
+                "direct_name": "Ram Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "ANGRA GASES & POWER LIMITED",
+        "cin_no.": "U11101HP2014PLC000730",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "16-07-2014",
+        "business_activity": "Mining and Quarrying",
+        "state": "Himachal pradesh",
+        "district": "HAMIRPUR(HP)",
+        "address": "VPO PUBOWAL TEHSIL HAROLI UNA Una HP IN 174305",
+        "register": "Registered on 16-07-2014",
+        "director_details": [
+            {
+                "DIN": "06889082",
+                "direct_name": "Munish Angra"
+            },
+            {
+                "DIN": "06889079",
+                "direct_name": "Rajesh Kumar Rana"
+            },
+            {
+                "DIN": "06889074",
+                "direct_name": "Sanjeev Kumar Angra"
+            }
+        ]
+    },
+    {
+        "company_name": "ACCRETION BIOTECH INDIA PRIVATE LIMITED",
+        "cin_no.": "U24110HP2013PTC000407",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-05-2013",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "HAMIRPUR(HP)",
+        "address": "VILLAGE BASSI PO BASSI TEHSIL BHORANJ HAMIRPIUR Hamirpur HP IN 176045",
+        "register": "Registered on 06-05-2013",
+        "director_details": [
+            {
+                "DIN": "06564330",
+                "direct_name": "Ashish Thakur"
+            },
+            {
+                "DIN": "07600139",
+                "direct_name": "Rajinder Singh Thakur"
+            },
+            {
+                "DIN": "06564336",
+                "direct_name": "Ravinder Thakur"
+            }
+        ]
+    },
+    {
+        "company_name": "BBN FOODS HI-TECH PROCESSING PRIVATE LIMITED",
+        "cin_no.": "U15419HP2001PTC024726",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "6500000",
+        "paid_up_capital": "6045000",
+        "registration_date": "22-10-2001",
+        "business_activity": "Food Manufacturing",
+        "state": "Himachal pradesh",
+        "district": "HAMIRPUR(HP)",
+        "address": "PLOT NO 11INDUSTRIAL AREA BILASPUR HIMACHAL PRADESH HP IN 177005",
+        "register": "Registered on 22-10-2001",
+        "director_details": [
+            {
+                "DIN": "01926786",
+                "direct_name": "Abhay Vatsayayan"
+            },
+            {
+                "DIN": "01926851",
+                "direct_name": "Dinesh Kumar Vatsayayan"
+            }
+        ]
+    },
+    {
+        "company_name": "APPRANJAL HOME APPLIANCES (OPC) PRIVATE LIMITED",
+        "cin_no.": "U74999HP2018OPC006902",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-03-2018",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "HAMIRPUR(HP)",
+        "address": "WARD NO-11 LOLHARI DOSARKA HAMIRPUR Hamirpur HP IN 177001",
+        "register": "Registered on 10-03-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "HIM WHEELS PRIVATE LIMITED",
+        "cin_no.": "U74999HP2018PTC006830",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-01-2018",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "HAMIRPUR(HP)",
+        "address": "VILL. BHARMOTI P.O. BHARMOTI NADAUN Hamirpur HP IN 177033",
+        "register": "Registered on 04-01-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "SHREEMA CHEMICAL PVT LTD",
+        "cin_no.": "U24179HP1985PTC006141",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1200000",
+        "paid_up_capital": "1000000",
+        "registration_date": "18-02-1985",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "HAMIRPUR(HP)",
+        "address": "VILLAGE DHAMETA HAMIRPUR HIMACHAL PRADESH Hamirpur HP IN 177041",
+        "register": "Registered on 18-02-1985",
+        "director_details": [
+            {
+                "DIN": "03582370",
+                "direct_name": "Deepika"
+            },
+            {
+                "DIN": "01407717",
+                "direct_name": "Rakesh Chadha"
+            }
+        ]
+    },
+    {
+        "company_name": "CONVALESCE PHARMACEUTICALS PRIVATE LIMITED",
+        "cin_no.": "U24232HP2010PTC031433",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-08-2010",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "HAMIRPUR(HP)",
+        "address": "VILLAGE & POST OFFICE NAGROTA GAZIAN, TEHSIL BHORANJ, DISTT. HAMIRPUR HAMIRPUR Hamirpur HP IN 176045",
+        "register": "Registered on 03-08-2010",
+        "director_details": [
+            {
+                "DIN": "03125420",
+                "direct_name": "Ramesh Chand Soni"
+            },
+            {
+                "DIN": "03125382",
+                "direct_name": "Shiv Santosh Shetkar"
+            }
+        ]
+    },
+    {
+        "company_name": "SHIVA BIOMATRIX PRIVATE LIMITED",
+        "cin_no.": "U24233HP2006PTC030594",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "22-12-2006",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "HAMIRPUR(HP)",
+        "address": "VPO DIDWIN TIKKER TEH . HAMIRPUR HAMIRPUR Hamirpur HP IN 177401",
+        "register": "Registered on 22-12-2006",
+        "director_details": [
+            {
+                "DIN": "00701913",
+                "direct_name": "Om Prakash Sharma"
+            },
+            {
+                "DIN": "00701669",
+                "direct_name": "Vimla Devi"
+            }
+        ]
+    },
+    {
+        "company_name": "TABLOID HEALTHCARE PRIVATE LIMITED",
+        "cin_no.": "U24234HP2015PTC001062",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-10-2015",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "HAMIRPUR(HP)",
+        "address": "VILLAGE & PO -DANDHWANI TEHSIL BARSAR HAMIRPUR Hamirpur HP IN 177001",
+        "register": "Registered on 16-10-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "ECO CLEAN FIELD APPLICATIONS PRIVATE LIMITED",
+        "cin_no.": "U01300HP2015PTC000917",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "10-04-2015",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KANGRA",
+        "address": "1486, Ward No.5, Old Dak Bangla Road, Near Sada Shiv Mandir Kangra Kangra HP IN 176001",
+        "register": "Registered on 10-04-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "PREET AGRICULTURE PRIVATE LIMITED",
+        "cin_no.": "U01400HP2013PTC000411",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-05-2013",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KANGRA",
+        "address": "SHOP NO.1 NEAR SSB CHOWK, VILLAGE DIFFERPAT P.O. BINDRABAN, DHARMSHALA TEHSIL PALAMPUR Kangra HP IN 176215",
+        "register": "Registered on 08-05-2013",
+        "director_details": [
+            {
+                "DIN": "06556863",
+                "direct_name": "Gurpreet Singh"
+            },
+            {
+                "DIN": "06572335",
+                "direct_name": "Kuldeep Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "HIGHLAND TOWN PLANNERS AND DEVELOPERS PRIVATE LIMITED",
+        "cin_no.": "U01403HP2006PTC030576",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-11-2006",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KANGRA",
+        "address": "HOTEL MOUNT BANURI VILL BANURI PALAMPUR Kangra HP IN 176061",
+        "register": "Registered on 03-11-2006",
+        "director_details": [
+            {
+                "DIN": "00482287",
+                "direct_name": "Rahul Rai Malik"
+            },
+            {
+                "DIN": "00482400",
+                "direct_name": "Rajiv Malik"
+            },
+            {
+                "DIN": "02876513",
+                "direct_name": "Raman Malik"
+            }
+        ]
+    },
+    {
+        "company_name": "WESTERN HIMALYAN HERBAL COMPANY PRIVATE LIMITED",
+        "cin_no.": "U01403HP2009PTC031041",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "300000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-02-2009",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KANGRA",
+        "address": "VPO PAPROLA PALAMPUR Kangra HP IN 176115",
+        "register": "Registered on 12-02-2009",
+        "director_details": [
+            {
+                "DIN": "02407893",
+                "direct_name": "Ashish Sadana"
+            },
+            {
+                "DIN": "02407911",
+                "direct_name": "Rubinder Sadana"
+            }
+        ]
+    },
+    {
+        "company_name": "PALAMPUR ORGANIC PLANTATIONS PRIVATE LIMITED",
+        "cin_no.": "U01403HP2010PTC031514",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-12-2010",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KANGRA",
+        "address": "VILLAGE BUNDLA, P.O. NACHHIER DISTRICT KANGRA HIMACHAL PRADESH HP IN 176001",
+        "register": "Registered on 24-12-2010",
+        "director_details": [
+            {
+                "DIN": "03287626",
+                "direct_name": "Kakoli Chakraborty"
+            },
+            {
+                "DIN": "01107114",
+                "direct_name": "Mita Chakraborty"
+            },
+            {
+                "DIN": "03524202",
+                "direct_name": "Rakesh Bedi"
+            },
+            {
+                "DIN": "01091564",
+                "direct_name": "Sunil Kapoor"
+            }
+        ]
+    },
+    {
+        "company_name": "DHAULADHAR AGRI VENTURES PRIVATE LIMITED",
+        "cin_no.": "U01403HP2011PTC031750",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-09-2011",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KANGRA",
+        "address": "SONIA NIWAS, NEAR SILVER OAKS, POST OFFICE BUNDLA TEA ESTATE PALAMPUR Kangra HP IN 176061",
+        "register": "Registered on 12-09-2011",
+        "director_details": [
+            {
+                "DIN": "02366962",
+                "direct_name": "Aniruddha Avinash Rangnekar"
+            },
+            {
+                "DIN": "03415259",
+                "direct_name": "Gaitri Devi"
+            },
+            {
+                "DIN": "03418684",
+                "direct_name": "Gaytri Devi"
+            },
+            {
+                "DIN": "03504578",
+                "direct_name": "Milapchand Bhatt"
+            },
+            {
+                "DIN": "03543633",
+                "direct_name": "Nidhi Sharma"
+            },
+            {
+                "DIN": "03448494",
+                "direct_name": "Suchinder Bhatt"
+            },
+            {
+                "DIN": "03415363",
+                "direct_name": "Sukh Dev"
+            }
+        ]
+    },
+    {
+        "company_name": "KANRIG FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403HP2014PTC000735",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "23-07-2014",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KANGRA",
+        "address": "Village and Post Office Paisa Tehsil Dehra Kangra HP IN 177101",
+        "register": "Registered on 23-07-2014",
+        "director_details": [
+            {
+                "DIN": "06915154",
+                "direct_name": "Ajay Aggarwal"
+            },
+            {
+                "DIN": "06915677",
+                "direct_name": "Anil Kumar Gupta"
+            },
+            {
+                "DIN": "06734085",
+                "direct_name": "Kapil Singh Bhuria"
+            },
+            {
+                "DIN": "03158127",
+                "direct_name": "Karuna Ashok"
+            },
+            {
+                "DIN": "06877565",
+                "direct_name": "Ritima Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "NAUSAN AGRO- FORESTRY AND ECO-TOURISM PRIVATE LIMITED",
+        "cin_no.": "U02001HP2009PTC031134",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "600000",
+        "registration_date": "08-07-2009",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KANGRA",
+        "address": "Village Kathgarh Tehsil Indora HP IN 176403",
+        "register": "Registered on 08-07-2009",
+        "director_details": [
+            {
+                "DIN": "00817914",
+                "direct_name": "Gulbagh Singh"
+            },
+            {
+                "DIN": "03610437",
+                "direct_name": "Varandeep Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "CHANDPUR FLOWERS AND NURSERIES PVT LTD",
+        "cin_no.": "U01122HP1994PTC014972",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "23-08-1994",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KANGRA",
+        "address": "73 HOUSING BOARD COLONYPALAMPUR HIMACHAL PRADESH HP IN 176062",
+        "register": "Registered on 23-08-1994",
+        "director_details": [
+            {
+                "DIN": "01356234",
+                "direct_name": "Parvin Chander Sarin"
+            },
+            {
+                "DIN": "00474596",
+                "direct_name": "Reeta Sarin"
+            }
+        ]
+    },
+    {
+        "company_name": "VIPUL FOOD PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U15411HP2015PTC000898",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "12-03-2015",
+        "business_activity": "Food Manufacturing",
+        "state": "Himachal pradesh",
+        "district": "KANGRA",
+        "address": "Bain Attarian, Village Kandrori Tehsil Indora, Dist Kangra (HP) Indora Kangra HP IN 176401",
+        "register": "Registered on 12-03-2015",
+        "director_details": [
+            {
+                "DIN": "02838917",
+                "direct_name": "Deepak Chandak"
+            },
+            {
+                "DIN": "07113809",
+                "direct_name": "Rajiv Sharma"
+            },
+            {
+                "DIN": "05199896",
+                "direct_name": "Vipul Chandak"
+            }
+        ]
+    },
+    {
+        "company_name": "WEL-COME REMEDIES PRIVATE LIMITED",
+        "cin_no.": "U24132HP2011PTC031801",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "200000",
+        "registration_date": "18-11-2011",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "KINNAUR",
+        "address": "RAJESH MISHRA POST- TAPPRI SHOLTU COLONY HP IN 172104",
+        "register": "Registered on 18-11-2011",
+        "director_details": [
+            {
+                "DIN": "05120014",
+                "direct_name": "Dinesh Krishna"
+            },
+            {
+                "DIN": "05116959",
+                "direct_name": "Neeraj Kumar"
+            },
+            {
+                "DIN": "05108970",
+                "direct_name": "Nitin Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "BISHT TRANSPORT AND SERVICES PRIVATE LIMITED",
+        "cin_no.": "U60221HP2016PTC006287",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-07-2016",
+        "business_activity": "Transport and Storage",
+        "state": "Himachal pradesh",
+        "district": "KINNAUR",
+        "address": "KHATA/KHATAUNI NO 153/215. KHASRA NO 861/206 TEHSIL KALPA, KINNAUR Kinnaur HP IN 172107",
+        "register": "Registered on 27-07-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "MAA KALI CONTRACTORS PRIVATE LIMITED",
+        "cin_no.": "U45400HP2009PTC031075",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "31-03-2009",
+        "business_activity": "Construction",
+        "state": "Himachal pradesh",
+        "district": "KINNAUR",
+        "address": "Village & Post Office Ramni Tehsil Nichar Kinnaur HP IN 172104",
+        "register": "Registered on 31-03-2009",
+        "director_details": [
+            {
+                "DIN": "02581672",
+                "direct_name": "Ambika Shyam"
+            },
+            {
+                "DIN": "02581650",
+                "direct_name": "Dharam Singh Negi"
+            },
+            {
+                "DIN": "02979498",
+                "direct_name": "Sanjeev Malhotra"
+            }
+        ]
+    },
+    {
+        "company_name": "BDS CONTRACTORS PRIVATE LIMITED",
+        "cin_no.": "U45400HP2010PTC031265",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "01-01-2010",
+        "business_activity": "Construction",
+        "state": "Himachal pradesh",
+        "district": "KINNAUR",
+        "address": "Village and Post Office Thangi Tehsil Moorang, District Kinnaur Kinnaur Kinnaur HP IN 172109",
+        "register": "Registered on 01-01-2010",
+        "director_details": [
+            {
+                "DIN": "02892225",
+                "direct_name": "Bhisham Singh"
+            },
+            {
+                "DIN": "02888304",
+                "direct_name": "Desh Rattan"
+            },
+            {
+                "DIN": "02888269",
+                "direct_name": "Shanti Dev"
+            },
+            {
+                "DIN": "02890639",
+                "direct_name": "Sujata Kumari"
+            }
+        ]
+    },
+    {
+        "company_name": "BHAVA VALLEY CONSTRUCTION & DEVELOPERS PRIVATE LIMITED",
+        "cin_no.": "U45400HP2017PTC006821",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-12-2017",
+        "business_activity": "Construction",
+        "state": "Himachal pradesh",
+        "district": "KINNAUR",
+        "address": "House No. 37/1, Vill Chaura Post Office Chaura, Tehsil Nichar Nichar Kinnaur HP IN 172101",
+        "register": "Registered on 21-12-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "DAYA SAGAR HEALTH SERVICES PRIVATE LIMITED",
+        "cin_no.": "U74999HP2013PTC000428",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1500000",
+        "paid_up_capital": "1500000",
+        "registration_date": "27-05-2013",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "KINNAUR",
+        "address": "RECKONG PEO TEHSIL KALPA RECKONG PEO Kinnaur HP IN 172107",
+        "register": "Registered on 27-05-2013",
+        "director_details": [
+            {
+                "DIN": "06945231",
+                "direct_name": "Asha Ruth Negi"
+            },
+            {
+                "DIN": "07003951",
+                "direct_name": "Carolyn Joy Holmes"
+            },
+            {
+                "DIN": "06976844",
+                "direct_name": "Lindsay Anne Spires"
+            },
+            {
+                "DIN": "06586268",
+                "direct_name": "Mark William Fox"
+            }
+        ]
+    },
+    {
+        "company_name": "JSC SUPPLIERS PRIVATE LIMITED",
+        "cin_no.": "U74999HP2015PTC000998",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "10-07-2015",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "KINNAUR",
+        "address": "VILLAGE - BADHAL POST - JEORY SHIMLA Shimla HP IN 172101",
+        "register": "Registered on 10-07-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "BISHT ENGINEERING PRIVATE LIMITED",
+        "cin_no.": "U74999HP2017PTC006468",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "03-02-2017",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "KINNAUR",
+        "address": "KHATA/KHATAUNI NO 153/215 KHASRA NO 861/206, KALPA KINNAUR Kinnaur HP IN 172107",
+        "register": "Registered on 03-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "FTM AGRI PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U74999HP2017PTC006484",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-02-2017",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "KINNAUR",
+        "address": "VPO HURI, HURI (30/3), KATGAON KINNAUR Kinnaur HP IN 172118",
+        "register": "Registered on 08-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "SHRIKHAND HEIGHTS COLD STORAGE PRIVATE LIMITED",
+        "cin_no.": "U74999HP2017PTC006502",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "22-02-2017",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "KINNAUR",
+        "address": "VILLAGE TYAWAL, PO JEORI, TEHSIL RAMPUR, TYAWAL 53, SHIMLA Shimla HP IN 172101",
+        "register": "Registered on 22-02-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "KALIMA HYDRO POWER PRIVATE LIMITED",
+        "cin_no.": "U01403HP2006PTC030586",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "9500000",
+        "paid_up_capital": "1825000",
+        "registration_date": "29-11-2006",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KULLU",
+        "address": "C/o Shri Chaman Lal, Near Nishita Hotel, Village Aleo P.O., Tehsil Manali Manali HP IN 175131",
+        "register": "Registered on 29-11-2006",
+        "director_details": [
+            {
+                "DIN": "00025810",
+                "direct_name": "Samar Pratap Singh"
+            },
+            {
+                "DIN": "00025777",
+                "direct_name": "Sangeeta Chauhan"
+            },
+            {
+                "DIN": "05134249",
+                "direct_name": "Siddharth Sharma"
+            },
+            {
+                "DIN": "02222579",
+                "direct_name": "Vijay Pal Singh Chauhan"
+            }
+        ]
+    },
+    {
+        "company_name": "KULLU ORGANICS PRIVATE LIMITED",
+        "cin_no.": "U01403HP2010PTC031274",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-01-2010",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KULLU",
+        "address": "C/O SH. NEERAJ ACHARYA VPO NAGGAR KULLU Kulu HP IN 175130",
+        "register": "Registered on 11-01-2010",
+        "director_details": [
+            {
+                "DIN": "02729445",
+                "direct_name": "John Christopher Marsh"
+            },
+            {
+                "DIN": "02695323",
+                "direct_name": "Maheshwri Acharya"
+            },
+            {
+                "DIN": "02710257",
+                "direct_name": "Neeraj Acharya"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMALAYAN GRASSROOTS ORGANICS PRIVATE LI MITED",
+        "cin_no.": "U01403HP2010PTC031444",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-08-2010",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KULLU",
+        "address": "VILLAGE BANARA POST OFFICE JAGATSUKH MANALI Kulu HP IN 175143",
+        "register": "Registered on 16-08-2010",
+        "director_details": [
+            {
+                "DIN": "03081792",
+                "direct_name": "Gopal Chand"
+            },
+            {
+                "DIN": "02844653",
+                "direct_name": "Khim Dass"
+            }
+        ]
+    },
+    {
+        "company_name": "BAJAURA ROLLER FLOUR MILLS PRIVATE LIMITED",
+        "cin_no.": "U01531HP2006PTC030572",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-10-2006",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KULLU",
+        "address": "HAPPY ORCHARDS PO BAJAURA DISTT KULLU KULLU Kulu HP IN 175125",
+        "register": "Registered on 17-10-2006",
+        "director_details": [
+            {
+                "DIN": "00723220",
+                "direct_name": "Bharat Vaidya"
+            },
+            {
+                "DIN": "00723313",
+                "direct_name": "Kiran Devi Kiran"
+            },
+            {
+                "DIN": "00723233",
+                "direct_name": "Raina Vaidya"
+            }
+        ]
+    },
+    {
+        "company_name": "GREEN CYCLE ENVIRONMENT PROTECTION (OPC) PRIVATE LIMITED",
+        "cin_no.": "U02000HP2016OPC006430",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-12-2016",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KULLU",
+        "address": "H.No. 23, MANIKARAN VPO MANIKARAN, TEHSIL BHUNTER KULLU Kulu HP IN 175105",
+        "register": "Registered on 23-12-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "BHARAV NATH HYDRO POWER PRIVATE LIMITED",
+        "cin_no.": "U05004HP2001PTC024720",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-10-2001",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KULLU",
+        "address": "H.NO. 110/1A KOLI BEHAR KULLU Kulu HP IN 175126",
+        "register": "Registered on 18-10-2001",
+        "director_details": [
+            {
+                "DIN": "07080112",
+                "direct_name": "Geetanjli Soni"
+            },
+            {
+                "DIN": "05227335",
+                "direct_name": "Hem Raj Negi"
+            },
+            {
+                "DIN": "07344504",
+                "direct_name": "Jetsun Bodh"
+            },
+            {
+                "DIN": "05152166",
+                "direct_name": "Omitej Singh Thakur"
+            },
+            {
+                "DIN": "05227531",
+                "direct_name": "Vinay Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "SOHAM NATURALS PRIVATE LIMITED",
+        "cin_no.": "U10100HP2008PTC031009",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-12-2008",
+        "business_activity": "Mining and Quarrying",
+        "state": "Himachal pradesh",
+        "district": "KULLU",
+        "address": "SOHAM COTTAGE,VILLAGE SHURU POST OFFICE PRINI SHURU HP IN 175143",
+        "register": "Registered on 23-12-2008",
+        "director_details": [
+            {
+                "DIN": "00538239",
+                "direct_name": "Ajay Dabra"
+            },
+            {
+                "DIN": "02337078",
+                "direct_name": "Anila Dabra"
+            }
+        ]
+    },
+    {
+        "company_name": "SDS MINING AND STONE CRUSHING PRIVATE LI MITED",
+        "cin_no.": "U14105HP2013PTC000419",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-05-2013",
+        "business_activity": "Mining and Quarrying",
+        "state": "Himachal pradesh",
+        "district": "KULLU",
+        "address": "123 RAGHUNATHPUR KULLU Kulu HP IN 175101",
+        "register": "Registered on 16-05-2013",
+        "director_details": [
+            {
+                "DIN": "06578377",
+                "direct_name": "Narander Sharma"
+            },
+            {
+                "DIN": "06578370",
+                "direct_name": "Vibha Mahant"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMACHAL AGRO PROCESSORS LIMITED",
+        "cin_no.": "U01122HP1994PLC014082",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3500000",
+        "paid_up_capital": "3332000",
+        "registration_date": "05-01-1994",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "KULLU",
+        "address": "VPO MOHALDISTT KULLU HIMACHAL PRADESH himachal pradesh HP IN 175126",
+        "register": "Registered on 05-01-1994",
+        "director_details": [
+            {
+                "DIN": "00639656",
+                "direct_name": "Irvinder Singh"
+            },
+            {
+                "DIN": "00826182",
+                "direct_name": "Rajnish Kamal"
+            },
+            {
+                "DIN": "03426514",
+                "direct_name": "Sarika Ravinder"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMALAYAN JOB SECURITY & PLACEMENT SERVICES (OPC) PRIVATE LIMITED",
+        "cin_no.": "U74999HP2018OPC006986",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "18-04-2018",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "KULLU",
+        "address": "HOUSE 1 WARD NO 10 DHALPUR KULLU Kulu HP IN 175101",
+        "register": "Registered on 18-04-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "SPITI UNITED PRIVATE LIMITED",
+        "cin_no.": "U74999HP2016PTC006440",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "29-12-2016",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "LAHUL & SPITI",
+        "address": "KAZA KHAS LAHUL AND SPITI Lahaul And Spiti HP IN 172114",
+        "register": "Registered on 29-12-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "LAHUL MARKETING PRIVATE LIMITED",
+        "cin_no.": "U51909HP2017PTC006643",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-06-2017",
+        "business_activity": "Trading",
+        "state": "Himachal pradesh",
+        "district": "LAHUL & SPITI",
+        "address": "JAHALMAN SUB TEHSIL UDAIPUR LAHUL AND SPITI Lahaul And Spiti HP IN 175139",
+        "register": "Registered on 20-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "SAPTDHARA HYRDO POWER PRIVATE LIMITED",
+        "cin_no.": "U40101HP2007PTC030731",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "735000",
+        "registration_date": "25-04-2007",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Himachal pradesh",
+        "district": "LAHUL & SPITI",
+        "address": "VILLAGE AND POST OFFICE TRILOKNATH SUB TEHSIL UDAIPUR LAHAUL AND SPITI HP IN 175142",
+        "register": "Registered on 25-04-2007",
+        "director_details": [
+            {
+                "DIN": "03316468",
+                "direct_name": "Narain Singh Bodh"
+            },
+            {
+                "DIN": "01398523",
+                "direct_name": "Padam Dev"
+            }
+        ]
+    },
+    {
+        "company_name": "MANIRANG POWERS CONSTRUCTION PRIVATE LIMITED",
+        "cin_no.": "U40101HP2008PTC030927",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "25-07-2008",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Himachal pradesh",
+        "district": "LAHUL & SPITI",
+        "address": "56(2), TABO, (H. NO.174/1) TEH- KAZA, DISTT- LAHAUL SPITI TABO Lahaul And Spiti HP IN 172113",
+        "register": "Registered on 25-07-2008",
+        "director_details": [
+            {
+                "DIN": "02085659",
+                "direct_name": "Padma Dorje"
+            },
+            {
+                "DIN": "02085689",
+                "direct_name": "Rajinder Bodh"
+            }
+        ]
+    },
+    {
+        "company_name": "SPITI MANIRANG POWER PROJECTS PRIVATE LIMITED",
+        "cin_no.": "U40101HP2010PTC031327",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-03-2010",
+        "business_activity": "Electricity, Gas and Water",
+        "state": "Himachal pradesh",
+        "district": "LAHUL & SPITI",
+        "address": "VILL. MANE YOGMA P.O. MANEY SPITI Lahaul And Spiti HP IN 172113",
+        "register": "Registered on 15-03-2010",
+        "director_details": [
+            {
+                "DIN": "02813278",
+                "direct_name": "Lobzung Namgial"
+            },
+            {
+                "DIN": "02584251",
+                "direct_name": "Tenzing Negi"
+            }
+        ]
+    },
+    {
+        "company_name": "KUNSUNG NAG ENGINEERS AND CONSTRUCTIONS PRIVATE LIMITED",
+        "cin_no.": "U45203HP2011PTC031636",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "28-04-2011",
+        "business_activity": "Construction",
+        "state": "Himachal pradesh",
+        "district": "LAHUL & SPITI",
+        "address": "47(1), SHAUNTU, TINGRET UDIAPUR Lahaul And Spiti HP IN 175142",
+        "register": "Registered on 28-04-2011",
+        "director_details": [
+            {
+                "DIN": "03509807",
+                "direct_name": "Daleep Singh"
+            },
+            {
+                "DIN": "00849228",
+                "direct_name": "Nihal Singh Thakur"
+            },
+            {
+                "DIN": "03509809",
+                "direct_name": "Ranjeet Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "GREENTECH AGRISECTOR PRIVATE LIMITED",
+        "cin_no.": "U01300HP2009PTC031071",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-03-2009",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "MANDI",
+        "address": "NEAR ESCORT TRACTOR AGENCY NER CHOWK MANDI HP IN 175001",
+        "register": "Registered on 26-03-2009",
+        "director_details": [
+            {
+                "DIN": "02711080",
+                "direct_name": "Meer Bakash"
+            },
+            {
+                "DIN": "01849637",
+                "direct_name": "Rajender Kumar"
+            },
+            {
+                "DIN": "02113312",
+                "direct_name": "Sunil Kumar Keshri"
+            }
+        ]
+    },
+    {
+        "company_name": "SHRI RAM MULTI PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400HP2015PTC000932",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-04-2015",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "MANDI",
+        "address": "C/O SHAILESH KUMAR 162/9 BHOJPUR BAZAR SUNDER NAGAR Mandi HP IN 175002",
+        "register": "Registered on 30-04-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "UNIVERSAL COOPERATION PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403HP2015PTC001052",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "05-10-2015",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "MANDI",
+        "address": "# 9/5, Palace Colony Mandi Town, Teh. Sadar Mandi Mandi HP IN 175001",
+        "register": "Registered on 05-10-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "UNITED POLYMER & CHEMICALS PRIVATE LIMITED",
+        "cin_no.": "U24100HP2011PTC031792",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "3000000",
+        "registration_date": "01-11-2011",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "MANDI",
+        "address": "PLOT NO 16B PHASE III SAULI KHAD MANDI HP IN 175001",
+        "register": "Registered on 01-11-2011",
+        "director_details": [
+            {
+                "DIN": "03635728",
+                "direct_name": "Harindra Kapoor"
+            },
+            {
+                "DIN": "03635725",
+                "direct_name": "Kanav Tandan"
+            },
+            {
+                "DIN": "03635720",
+                "direct_name": "Kushal Kapoor"
+            },
+            {
+                "DIN": "01126928",
+                "direct_name": "Vikas Kapoor"
+            }
+        ]
+    },
+    {
+        "company_name": "HATLI FOODS PRIVATE LIMITED",
+        "cin_no.": "U15410HP2007PTC030797",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "23-10-2007",
+        "business_activity": "Food Manufacturing",
+        "state": "Himachal pradesh",
+        "district": "MANDI",
+        "address": "34/4, TARNDOL, P.O. BALDWARA DISTT. MANDI, TEHSIL SARKAGHAT MANDI Mandi HP IN 175033",
+        "register": "Registered on 23-10-2007",
+        "director_details": [
+            {
+                "DIN": "01451513",
+                "direct_name": "Kalpna Devi"
+            },
+            {
+                "DIN": "01598972",
+                "direct_name": "Suresh Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "WELBEK PRIVATE LIMITED",
+        "cin_no.": "U15412HP1979PTC004109",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "384900",
+        "registration_date": "28-12-1979",
+        "business_activity": "Food Manufacturing",
+        "state": "Himachal pradesh",
+        "district": "MANDI",
+        "address": "Palace Colony MANDI HIMACHAL PRADESH HP IN 175001",
+        "register": "Registered on 28-12-1979",
+        "director_details": [
+            {
+                "DIN": "00970444",
+                "direct_name": "Harbax Singh"
+            },
+            {
+                "DIN": "02485185",
+                "direct_name": "Satnam Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "MEDHASEER CONSULTING (OPC) PRIVATE LIMITED",
+        "cin_no.": "U74999HP2018OPC006919",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-03-2018",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "MANDI",
+        "address": "C/O Gita Ram, VPO Barsu DISIT MANDI Mandi HP IN 175021",
+        "register": "Registered on 16-03-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "ROOTSENSE SOLUTIONS PRIVATE LIMITED",
+        "cin_no.": "U74999HP2018PTC006832",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-01-2018",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "MANDI",
+        "address": "Village and P.O. Brohkari, Tehsil Nihri, Mandi Mandi HP IN 175031",
+        "register": "Registered on 04-01-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "SHRIHARIHAR GLOBAL BIZ PRIVATE LIMITED",
+        "cin_no.": "U74999HP2018PTC006836",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-01-2018",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "MANDI",
+        "address": "H.NO. 01, KHALIYAR, MANDI Mandi HP IN 175001",
+        "register": "Registered on 09-01-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "JAGUVI GLOBAL RECRUITMENT SERVICES PRIVATE LIMITED",
+        "cin_no.": "U74999HP2018PTC006837",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "11-01-2018",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "MANDI",
+        "address": "51/10, THNERA MOHALLA, MANDI Mandi HP IN 175001",
+        "register": "Registered on 11-01-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "YAMUNA CORBONATE PVT LTD",
+        "cin_no.": "U24111HP1988PTC008881",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "0",
+        "registration_date": "01-12-1988",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "NA",
+        "address": "HP SHIMLA. H P HP IN",
+        "register": "Registered on 01-12-1988",
+        "director_details": []
+    },
+    {
+        "company_name": "JAWALAJI GASES PVT LTD",
+        "cin_no.": "U24111HP1990PTC010405",
+        "status": "Under Process of Striking off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "50000",
+        "paid_up_capital": "2000",
+        "registration_date": "24-05-1990",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "NA",
+        "address": "PLOT NO 73INDUSTRIAL AREA BADDI BADDI HP IN",
+        "register": "Registered on 24-05-1990",
+        "director_details": []
+    },
+    {
+        "company_name": "SUPERIOR AIR PRODUCTS LIMITED",
+        "cin_no.": "U24111HP1996PLC019142",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2000000",
+        "paid_up_capital": "500000",
+        "registration_date": "10-12-1996",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "NA",
+        "address": "INDUSTRIAL AREABAROTIWALA DISTT SOLAN H P HP IN",
+        "register": "Registered on 10-12-1996",
+        "director_details": []
+    },
+    {
+        "company_name": "M L GASES PRIVATE LIMITED",
+        "cin_no.": "U24111HP2000PTC023737",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "2000",
+        "registration_date": "29-05-2000",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "NA",
+        "address": "PLOT NO 191 A & BBADDI TEH NALAGARH DISTT SOLAN HIMACHAL PRADESH HP IN",
+        "register": "Registered on 29-05-2000",
+        "director_details": []
+    },
+    {
+        "company_name": "BAJOURA GASES PRIVATE LIMITED",
+        "cin_no.": "U24111HP2002PTC024881",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "09-01-2002",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "NA",
+        "address": "VILL & PO BAJOURADISTT KULLU HIMACHAL PRADESH HP IN",
+        "register": "Registered on 09-01-2002",
+        "director_details": []
+    },
+    {
+        "company_name": "R.D.GASES PRIVATE LIMITED",
+        "cin_no.": "U24111HP2002PTC025662",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-12-2002",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "NA",
+        "address": "PLOT NO 12 INDUSTRIAL ARAPHASE I SAULI KHAD MANDI HIMACHAL PRADESH HP IN",
+        "register": "Registered on 20-12-2002",
+        "director_details": [
+            {
+                "DIN": "01142130",
+                "direct_name": "Dinesh Kapoor"
+            },
+            {
+                "DIN": "02382867",
+                "direct_name": "Rajinder Prashad"
+            },
+            {
+                "DIN": "02479441",
+                "direct_name": "Rashmi Kapoor"
+            },
+            {
+                "DIN": "02511047",
+                "direct_name": "Sudhanshu Kapoor"
+            }
+        ]
+    },
+    {
+        "company_name": "SHIVALIK CHEMOXIDES PVT LTD",
+        "cin_no.": "U24112HP1986PTC006740",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "2000",
+        "registration_date": "13-03-1986",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "NA",
+        "address": "LAMBI GALI NUPURKANGRA HIMCHAL PRADESH HP IN",
+        "register": "Registered on 13-03-1986",
+        "director_details": []
+    },
+    {
+        "company_name": "WINSOME DYEING AND PROCESSING LIMITED",
+        "cin_no.": "U24114HP1986PLC007116",
+        "status": "Amalgamated",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "1500000",
+        "registration_date": "06-11-1986",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "NA",
+        "address": "1 INDUSTRIAL AREABADDI DISTT SOLAN HIMACHAL PRADESH HP IN",
+        "register": "Registered on 06-11-1986",
+        "director_details": []
+    },
+    {
+        "company_name": "HIM LON LIMITED",
+        "cin_no.": "U24114HP1986PLC007175",
+        "status": "Under Process of Striking off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "10000000",
+        "paid_up_capital": "700",
+        "registration_date": "10-12-1986",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "NA",
+        "address": "SHIMLA HIMACHAL PRADESH HP IN",
+        "register": "Registered on 10-12-1986",
+        "director_details": []
+    },
+    {
+        "company_name": "HIMALAYAN NATURE PRODUCTS LIMITED",
+        "cin_no.": "U01223HP2001PLC024661",
+        "status": "Strike Off",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "26-09-2001",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "NA",
+        "address": "VPO VASHISHTMANALI DISTT KULLU HIMACHAL PRADESH HP IN",
+        "register": "Registered on 26-09-2001",
+        "director_details": [
+            {
+                "DIN": "01799747",
+                "direct_name": "Norbert Jorg Kripp"
+            },
+            {
+                "DIN": "01289105",
+                "direct_name": "Prem Chand Thakur"
+            },
+            {
+                "DIN": "01289142",
+                "direct_name": "Tej Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "KANDIS PHARMACEUTICALS PRIVATE LIMITED",
+        "cin_no.": "U24112HP2013PTC000427",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "27-05-2013",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "SHIMLA",
+        "address": "VEDANTA TOWER VILL- MARHAWAG, NH, 22, 16 MILE SHIMLA Shimla HP IN 171011",
+        "register": "Registered on 27-05-2013",
+        "director_details": [
+            {
+                "DIN": "06587260",
+                "direct_name": "Kamal"
+            },
+            {
+                "DIN": "06587276",
+                "direct_name": "Ritu Verma"
+            }
+        ]
+    },
+    {
+        "company_name": "KAROL BROTHERS AGRIFRESH PRIVATE LIMITED",
+        "cin_no.": "U01300HP2013PTC000457",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "02-07-2013",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SHIMLA",
+        "address": "GROUND FLOOR, GURU KRIPA BUILDING BHARARI SHIMLA Shimla HP IN 171001",
+        "register": "Registered on 02-07-2013",
+        "director_details": [
+            {
+                "DIN": "06597280",
+                "direct_name": "Akshay Karol"
+            },
+            {
+                "DIN": "06597286",
+                "direct_name": "Rajesh Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMUDAY PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01400HP2015PTC001099",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "250000",
+        "registration_date": "21-12-2015",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SHIMLA",
+        "address": "KINNAUR HOUSE UPPER KHILINI SHIMLA SHIMLA Shimla HP IN 171009",
+        "register": "Registered on 21-12-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "SHIMLA HILLS OFFERINGS PRIVATE LIMITED",
+        "cin_no.": "U01403HP2007PTC001139",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "525000",
+        "registration_date": "25-05-2007",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SHIMLA",
+        "address": "PLOT NO. 92, INDUSTRIAL AREA,SHOGHI Shimla Shimla HP IN 171219",
+        "register": "Registered on 25-05-2007",
+        "director_details": []
+    },
+    {
+        "company_name": "A B C HOLIDAYS PRIVATE LIMITED",
+        "cin_no.": "U01403HP2008PTC030974",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-10-2008",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SHIMLA",
+        "address": "SHIVAYALA BHAWAN, SANJAULI DHALLI BY-PASS, CHALONTI, TEHSIL- SHIMLA, DISTT.- SHIMLA SHIMLA HP IN 171006",
+        "register": "Registered on 08-10-2008",
+        "director_details": [
+            {
+                "DIN": "02326637",
+                "direct_name": "Ashit Kumar"
+            },
+            {
+                "DIN": "03083168",
+                "direct_name": "Sanjay Kumar"
+            },
+            {
+                "DIN": "02326648",
+                "direct_name": "Vinay Kumar Thakur"
+            }
+        ]
+    },
+    {
+        "company_name": "RUDRA AGRO FRESH PRIVATE LIMITED",
+        "cin_no.": "U01403HP2010PTC031365",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "24-05-2010",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SHIMLA",
+        "address": "VILL-BADSHAL, POST OFFICE-DHARAKA SUB TAHSIL-TIKKAR SHIMLA Shimla HP IN 171203",
+        "register": "Registered on 24-05-2010",
+        "director_details": [
+            {
+                "DIN": "03036005",
+                "direct_name": "Manu Yadav Rathore"
+            },
+            {
+                "DIN": "03035993",
+                "direct_name": "Shamsher Singh Rathore"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMALAYAN ECO FARMS PRIVATE LIMITED",
+        "cin_no.": "U01403HP2014PTC000664",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "27-02-2014",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SHIMLA",
+        "address": "D-37, PHASE-1 SECTOR-1, NEW SHIMLA SHIMLA Shimla HP IN 171009",
+        "register": "Registered on 27-02-2014",
+        "director_details": [
+            {
+                "DIN": "00187730",
+                "direct_name": "Mahesh Kumar Sood"
+            },
+            {
+                "DIN": "06807493",
+                "direct_name": "Vivek Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "MASHOBRA VEGETABLE PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403HP2016PTC001126",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "22-01-2016",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SHIMLA",
+        "address": "D-200 tarapur shimla HP IN 171007",
+        "register": "Registered on 22-01-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "IIRD FOUNDATION FOR SUSTAINABLE DEVELOPMENT (IFSD)",
+        "cin_no.": "U01407HP2016NPL006263",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-07-2016",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SHIMLA",
+        "address": "IIRD COMPLEX BYE PAS ROAD SHANAN SANJAULI SHIMLA Shimla HP IN 171006",
+        "register": "Registered on 04-07-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "IIRD FOUNDATION FOR TECHNOLOGY & INNOVATION (IFTI)",
+        "cin_no.": "U01409HP2016NPL006262",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "04-07-2016",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SHIMLA",
+        "address": "IIRD COMPLEX BYE PAS ROAD SHANAN SANJAULI SHIMLA Shimla HP IN 171006",
+        "register": "Registered on 04-07-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "HIRAL FOODS PRIVATE LIMITED",
+        "cin_no.": "U01403HP2010PTC031463",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "6500000",
+        "paid_up_capital": "6500000",
+        "registration_date": "06-09-2010",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SIRMAUR",
+        "address": "M.C. COMPLEX, SHOP NO. 16, NEAR BUS STAND PONTA SAHIB HP IN 173025",
+        "register": "Registered on 06-09-2010",
+        "director_details": [
+            {
+                "DIN": "03121538",
+                "direct_name": "Gajender Aggarwal"
+            },
+            {
+                "DIN": "03121551",
+                "direct_name": "Hitesh Kumar"
+            },
+            {
+                "DIN": "03121566",
+                "direct_name": "Mahender Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "RAVISON DAIRY & AGRO PRODUCTS PRIVATE LIMITED",
+        "cin_no.": "U01403HP2012PTC000048",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "01-02-2012",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SIRMAUR",
+        "address": "khatta/Khatoni No. 63 min/109 kitas 7, mouza kheri chagan, sub tehsil dadhu Dadhu Sirmaur HP IN 173001",
+        "register": "Registered on 01-02-2012",
+        "director_details": [
+            {
+                "DIN": "05174150",
+                "direct_name": "Kewal Krishan Bansal"
+            },
+            {
+                "DIN": "05174145",
+                "direct_name": "Ravinder Jit Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "MADHAV ADVANCE AGRI-SYSTEMS PRIVATE LIMITED",
+        "cin_no.": "U01407HP2014PTC000837",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "200000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-12-2014",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SIRMAUR",
+        "address": "C/O RAM SINGH NEAR HOTEL BLACK MANGO KALA AMB Sirmaur HP IN 173030",
+        "register": "Registered on 30-12-2014",
+        "director_details": []
+    },
+    {
+        "company_name": "ALLSTONE MINES & MINERALS PRIVATE LIMITED",
+        "cin_no.": "U14100HP2010PTC031421",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "3000000",
+        "paid_up_capital": "3000000",
+        "registration_date": "19-07-2010",
+        "business_activity": "Mining and Quarrying",
+        "state": "Himachal pradesh",
+        "district": "SIRMAUR",
+        "address": "Village Rampur Ghat, Poanta Sahib HP IN 173025",
+        "register": "Registered on 19-07-2010",
+        "director_details": [
+            {
+                "DIN": "03058954",
+                "direct_name": "Ramesh Chand Arora"
+            },
+            {
+                "DIN": "00536107",
+                "direct_name": "Vishal Agarwal"
+            }
+        ]
+    },
+    {
+        "company_name": "SRIRAM HEALTHCARE PRIVATE LIMITED",
+        "cin_no.": "U24100HP2008PTC030841",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2100000",
+        "registration_date": "26-02-2008",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "SIRMAUR",
+        "address": "PLOT NO. 81- C/2, EPIP-1 JHARMAJARI BADDI Solan HP IN 173104",
+        "register": "Registered on 26-02-2008",
+        "director_details": [
+            {
+                "DIN": "00258727",
+                "direct_name": "Banshidhar Kanhaiyalal"
+            },
+            {
+                "DIN": "02227478",
+                "direct_name": "Murlidhar Kanhaiyalal"
+            }
+        ]
+    },
+    {
+        "company_name": "CHEMFILLERS PRIVATE LIMITED",
+        "cin_no.": "U24100HP2013PTC000327",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "5000000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-01-2013",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "SIRMAUR",
+        "address": "OPP. VASHISHT CHEMICALS PRIVATE LIMITED NAHAN ROAD KALA AMB Sirmaur HP IN 173030",
+        "register": "Registered on 17-01-2013",
+        "director_details": [
+            {
+                "DIN": "01476465",
+                "direct_name": "Ashok Vashishat"
+            },
+            {
+                "DIN": "05103184",
+                "direct_name": "Chitra Vasisht"
+            }
+        ]
+    },
+    {
+        "company_name": "NIXI LABORATORIES PRIVATE LIMITED",
+        "cin_no.": "U24100HP2016PTC001167",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "08-03-2016",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "SIRMAUR",
+        "address": "MOUJA OGLI KALA AMB NAHAN Sirmaur HP IN 173030",
+        "register": "Registered on 08-03-2016",
+        "director_details": []
+    },
+    {
+        "company_name": "SABOO CYLINDERS PRIVATE LIMITED",
+        "cin_no.": "U24111HP1983PTC005665",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "75000000",
+        "paid_up_capital": "60000000",
+        "registration_date": "14-12-1983",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "SIRMAUR",
+        "address": "TRILOKPUR ROADKALA AMB DISST SIRMOUR HIMACHAL PRADESH HP IN 173030",
+        "register": "Registered on 14-12-1983",
+        "director_details": [
+            {
+                "DIN": "00400420",
+                "direct_name": "Banwari Lal Saboo"
+            },
+            {
+                "DIN": "02869829",
+                "direct_name": "Manish Saini"
+            },
+            {
+                "DIN": "01171800",
+                "direct_name": "Pawan Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "HIM BIOLOGICS LIFECARE PRIVATE LIMITED",
+        "cin_no.": "U74999HP2018PTC006841",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "500000",
+        "registration_date": "12-01-2018",
+        "business_activity": "Business Services",
+        "state": "Himachal pradesh",
+        "district": "SIRMAUR",
+        "address": "MOUZA OGLI NAGAL, SUKETI ROAD KALA AMB Sirmaur HP IN 173030",
+        "register": "Registered on 12-01-2018",
+        "director_details": []
+    },
+    {
+        "company_name": "HIMACHAL POLYOLEFINS LIMITED",
+        "cin_no.": "U24114HP1994PLC014726",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "60000000",
+        "paid_up_capital": "48562710",
+        "registration_date": "21-06-1994",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "SIRMAUR",
+        "address": "VILLAGE KHARI, NEAR ASGARPUR MAJRA YAMUNA NAGAR ROAD, KALA AMB SIRMAUR Sirmaur HP IN 173030",
+        "register": "Registered on 21-06-1994",
+        "director_details": [
+            {
+                "DIN": "00934276",
+                "direct_name": "Ahmed Hussein Dawoodani"
+            },
+            {
+                "DIN": "01861260",
+                "direct_name": "Akbarali Himani"
+            },
+            {
+                "DIN": "02324234",
+                "direct_name": "Shahnaz Ahmed Dawoodani"
+            }
+        ]
+    },
+    {
+        "company_name": "HIMACHAL BOUNTY PRIVATE LIMITED",
+        "cin_no.": "U01229HP2017PTC006530",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "23-03-2017",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SOLAN",
+        "address": "C/O. SOLAN FOOD PRODUCTS ADJACENT VIJAYA BANK SOLAN Solan HP IN 173211",
+        "register": "Registered on 23-03-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "STARHEIGHT ORCHARDS PRIVATE LIMITED",
+        "cin_no.": "U01400HP2013PTC000385",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "05-04-2013",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SOLAN",
+        "address": "FLAT NO. MIG 37, SECTOR-3 PARWANOO Solan HP IN 173220",
+        "register": "Registered on 05-04-2013",
+        "director_details": [
+            {
+                "DIN": "06479876",
+                "direct_name": "Anupa"
+            },
+            {
+                "DIN": "03208725",
+                "direct_name": "Harmeet Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "BHARGO CIVIL STRUCTURES PRIVATE LIMITED",
+        "cin_no.": "U01403HP2006PTC030567",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "0",
+        "registration_date": "26-09-2006",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SOLAN",
+        "address": "VILL ANJI P.O BAROG RLY STATION SOLAN HP IN 173212",
+        "register": "Registered on 26-09-2006",
+        "director_details": [
+            {
+                "DIN": "02339569",
+                "direct_name": "Bhupinder Thakur"
+            },
+            {
+                "DIN": "02449421",
+                "direct_name": "Suresh Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "K.K. TELECOM PRIVATE LIMITED",
+        "cin_no.": "U01403HP2006PTC030581",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "100000",
+        "registration_date": "14-11-2006",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SOLAN",
+        "address": "PALICAN HOUSE KHASRA NO. 10 SOLAN HP IN 173212",
+        "register": "Registered on 14-11-2006",
+        "director_details": [
+            {
+                "DIN": "02462452",
+                "direct_name": "Abhay Ratanlal Hiran"
+            },
+            {
+                "DIN": "01166680",
+                "direct_name": "Varsha Choudhary"
+            }
+        ]
+    },
+    {
+        "company_name": "RAYA ECOCARE PRIVATE LIMITED",
+        "cin_no.": "U01403HP2009PTC031124",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-06-2009",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SOLAN",
+        "address": "Mohan Building, Near Railway Crossing, Chambaghat, P.O. Chambaghat Solan Solan HP IN 173213",
+        "register": "Registered on 16-06-2009",
+        "director_details": [
+            {
+                "DIN": "02602649",
+                "direct_name": "Mani Saranghi"
+            },
+            {
+                "DIN": "02542513",
+                "direct_name": "Ripudaman Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "PATIALA FLORICULTURAL PRIVATE LIMITED",
+        "cin_no.": "U01403HP2011PTC031644",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "16-05-2011",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SOLAN",
+        "address": "GREEN HOUSE VILLAGE KOLTHI (CHANDOK) POST OFFICE NAINA TIKKER TEHSIL PACHAD Sirmaur Sirmaur HP IN 173229",
+        "register": "Registered on 16-05-2011",
+        "director_details": [
+            {
+                "DIN": "02039897",
+                "direct_name": "Gurinder Bir Singh"
+            },
+            {
+                "DIN": "03451770",
+                "direct_name": "Manbir Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "RBA HORTICULTURE (INDIA) LIMITED",
+        "cin_no.": "U01403HP2013PLC000478",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "500000",
+        "paid_up_capital": "500000",
+        "registration_date": "22-07-2013",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SOLAN",
+        "address": "HIG-10, SECTOR-4 PARWANOO Solan HP IN 173220",
+        "register": "Registered on 22-07-2013",
+        "director_details": [
+            {
+                "DIN": "06795247",
+                "direct_name": "Anil Kumar Sachdeva"
+            },
+            {
+                "DIN": "07458519",
+                "direct_name": "Dev Prakash Sharma"
+            },
+            {
+                "DIN": "02821271",
+                "direct_name": "Inder Pal"
+            },
+            {
+                "DIN": "06952881",
+                "direct_name": "Jagmohan Singh"
+            },
+            {
+                "DIN": "07224293",
+                "direct_name": "Kanwar Pal Singh"
+            },
+            {
+                "DIN": "07460538",
+                "direct_name": "Ram Saran Modi"
+            },
+            {
+                "DIN": "06616852",
+                "direct_name": "Raminder Singh"
+            },
+            {
+                "DIN": "06610144",
+                "direct_name": "Rupinder Singh Saini"
+            }
+        ]
+    },
+    {
+        "company_name": "PLANTS PEOPLE INDIA PRIVATE LIMITED",
+        "cin_no.": "U01403HP2014PTC000636",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "15-01-2014",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SOLAN",
+        "address": "VILLAGE AND POST OFFICE NAINA TIKKAR TEHSIL PACHAD SIRMAUR Sirmaur HP IN 173229",
+        "register": "Registered on 15-01-2014",
+        "director_details": [
+            {
+                "DIN": "06742494",
+                "direct_name": "Manpreet Wadi"
+            },
+            {
+                "DIN": "06910576",
+                "direct_name": "Sarabpreet Singh"
+            },
+            {
+                "DIN": "06775960",
+                "direct_name": "Smit Kashyap"
+            }
+        ]
+    },
+    {
+        "company_name": "TALPADA AGRO PRIVATE LIMITED",
+        "cin_no.": "U01820HP2017PTC006645",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "21-06-2017",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SOLAN",
+        "address": "ROHAN BINNY ARORA, FLAT NO-23 DEV BHOOMISAPROON SOLAN SOLAN Solan HP IN 173212",
+        "register": "Registered on 21-06-2017",
+        "director_details": []
+    },
+    {
+        "company_name": "SHUBH TIMB STEELS PRIVATE LIMITED",
+        "cin_no.": "U02001HP1975PTC003586",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "2500000",
+        "paid_up_capital": "2470000",
+        "registration_date": "11-08-1975",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "SOLAN",
+        "address": "PLOT NO 22 24SECTOR 1 PARWANOO SOLAN H P HP IN 173220",
+        "register": "Registered on 11-08-1975",
+        "director_details": [
+            {
+                "DIN": "00955753",
+                "direct_name": "Anuradha Bansal"
+            },
+            {
+                "DIN": "02534702",
+                "direct_name": "Kamla Bansal"
+            },
+            {
+                "DIN": "00955794",
+                "direct_name": "Shubh Karan Bansal"
+            },
+            {
+                "DIN": "00955886",
+                "direct_name": "Swapan Bansal"
+            }
+        ]
+    },
+    {
+        "company_name": "PREET AGRICULTURE GREEN INDIA LIMITED",
+        "cin_no.": "U01400HP2014PLC000669",
+        "status": "Active",
+        "class": "Public",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "1000000",
+        "registration_date": "03-03-2014",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "UNA",
+        "address": "PLOT NO.6 PANCHWATI COLONEY UNA NANGAL HIGHWAY Una HP IN 174303",
+        "register": "Registered on 03-03-2014",
+        "director_details": [
+            {
+                "DIN": "06778741",
+                "direct_name": "Akashdeep Kaur"
+            },
+            {
+                "DIN": "06556863",
+                "direct_name": "Gurpreet Singh"
+            },
+            {
+                "DIN": "06572335",
+                "direct_name": "Kuldeep Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "TANISHKA AGRO VENTURES PRIVATE LIMITED",
+        "cin_no.": "U01403HP2013PTC000580",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "7500000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-11-2013",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "UNA",
+        "address": "MAIN CHANDIGARH UNA ROAD UNA Una HP IN 174303",
+        "register": "Registered on 20-11-2013",
+        "director_details": [
+            {
+                "DIN": "06690426",
+                "direct_name": "Shaveta"
+            },
+            {
+                "DIN": "03514808",
+                "direct_name": "Tushar Sharma"
+            }
+        ]
+    },
+    {
+        "company_name": "MARK FARMERS PRODUCER COMPANY LIMITED",
+        "cin_no.": "U01403HP2015PTC001009",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "1000000",
+        "paid_up_capital": "516660",
+        "registration_date": "21-07-2015",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "UNA",
+        "address": "Village and Post Office Mehatpur Distt. Una Una Una HP IN 174315",
+        "register": "Registered on 21-07-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "DJ BIOTECH PRIVATE LIMITED",
+        "cin_no.": "U02423HP2005PTC031114",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "7000000",
+        "paid_up_capital": "6960100",
+        "registration_date": "15-04-2005",
+        "business_activity": "Agriculture",
+        "state": "Himachal pradesh",
+        "district": "UNA",
+        "address": "KHASRA NO 59, 60 & 61 VILLAGE BELA BATHRI TEHSIL HAROLI HP IN 174301",
+        "register": "Registered on 15-04-2005",
+        "director_details": [
+            {
+                "DIN": "01097627",
+                "direct_name": "Manish Goyal"
+            },
+            {
+                "DIN": "01882927",
+                "direct_name": "Vivek Goyal"
+            }
+        ]
+    },
+    {
+        "company_name": "SHRI MAHADEV PYROLYSIS PRIVATE LIMITED",
+        "cin_no.": "U11200HP2014PTC000699",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "26-05-2014",
+        "business_activity": "Mining and Quarrying",
+        "state": "Himachal pradesh",
+        "district": "UNA",
+        "address": "MUBARKPUR CHOWK VILLAGE KARLUHI TEH AMB DISTT UNA AMB Una HP IN 177203",
+        "register": "Registered on 26-05-2014",
+        "director_details": [
+            {
+                "DIN": "06877371",
+                "direct_name": "Pooja Rani"
+            },
+            {
+                "DIN": "06877386",
+                "direct_name": "Sandeep Jain"
+            },
+            {
+                "DIN": "02647121",
+                "direct_name": "Satish Kumar"
+            },
+            {
+                "DIN": "06877391",
+                "direct_name": "Surinder Kumar"
+            }
+        ]
+    },
+    {
+        "company_name": "SANGRUR STONE CRASHER PRIVATE LIMITED",
+        "cin_no.": "U14100HP2012PTC000287",
+        "status": "Strike Off",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "30-11-2012",
+        "business_activity": "Mining and Quarrying",
+        "state": "Himachal pradesh",
+        "district": "UNA",
+        "address": "VILLAGE SAMUPURA, POST OFFICE SHETRAN TEHSIL HAROLI HAROLI Una HP IN 177220",
+        "register": "Registered on 30-11-2012",
+        "director_details": [
+            {
+                "DIN": "03207354",
+                "direct_name": "Amit Sehgal"
+            },
+            {
+                "DIN": "03207365",
+                "direct_name": "Mandeep Singh"
+            },
+            {
+                "DIN": "06425262",
+                "direct_name": "Randhir Singh"
+            }
+        ]
+    },
+    {
+        "company_name": "SHRI OM VINYL AND CHEMICALS PRIVATE LIMITED (OPC)",
+        "cin_no.": "U24110HP2005OPC028632",
+        "status": "Active",
+        "class": "Private(One Person Company)",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-07-2005",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "UNA",
+        "address": "VPO BELA BATHRITEH. HAROLI DISTT. UNA HIMACHAL PRADESH HP IN 174301",
+        "register": "Registered on 06-07-2005",
+        "director_details": []
+    },
+    {
+        "company_name": "SHRI OM VINYL AND CHEMICALS PRIVATE LIMITED",
+        "cin_no.": "U24110HP2005PTC028632",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "06-07-2005",
+        "business_activity": "Metals and Chemicals",
+        "state": "Himachal pradesh",
+        "district": "UNA",
+        "address": "VPO BELA BATHRITEH. HAROLI DISTT. UNA HIMACHAL PRADESH HP IN 174301",
+        "register": "Registered on 06-07-2005",
+        "director_details": [
+            {
+                "DIN": "00601562",
+                "direct_name": "Ram Dass Gupta"
+            },
+            {
+                "DIN": "02890955",
+                "direct_name": "Sarita Gupta"
+            }
+        ]
+    },
+    {
+        "company_name": "HAROLI SUGAR MILL PRIVATE LIMITED",
+        "cin_no.": "U15421HP2015PTC000952",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "20-05-2015",
+        "business_activity": "Food Manufacturing",
+        "state": "Himachal pradesh",
+        "district": "UNA",
+        "address": "VILLAGE BATHU TEHSIL HAROLI HAROLI Una HP IN 177220",
+        "register": "Registered on 20-05-2015",
+        "director_details": []
+    },
+    {
+        "company_name": "MURRARI SPICES INDIA PRIVATE LIMITED",
+        "cin_no.": "U15490HP2016PTC006309",
+        "status": "Active",
+        "class": "Private",
+        "category": "Company limited by Shares",
+        "authorize_capital": "100000",
+        "paid_up_capital": "100000",
+        "registration_date": "17-08-2016",
+        "business_activity": "Food Manufacturing",
+        "state": "Himachal pradesh",
+        "district": "UNA",
+        "address": "Double Story Building, 19/2 Sharma Niwas Near Excise Office, Takka Road, UNA, Himanchal Pradesh Una HP IN 174303",
+        "register": "Registered on 17-08-2016",
+        "director_details": []
+    }
+]
